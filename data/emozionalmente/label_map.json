@@ -1,0 +1,9 @@
+{
+    "anger": "Angry",
+    "disgust": "Disgust",
+    "fear": "Fear",
+    "joy": "Happy",
+    "neutrality": "Neutral",
+    "sadness": "Sad",
+    "surprise": "Surprise"
+}

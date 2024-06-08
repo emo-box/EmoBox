@@ -1,0 +1,3026 @@
+{
+    "turevdb-1984_sk_orgu.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1984_sk_orgu.wav",
+        "length": 0.8498639455782313,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_sk_cilek.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/6783_sk_cilek.wav",
+        "length": 1.52,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_sk_yazim.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/6783_sk_yazim.wav",
+        "length": 1.15,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_sk_kibir.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1984_sk_kibir.wav",
+        "length": 0.9298412698412698,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_sk_kusluk.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1234_sk_kusluk.wav",
+        "length": 0.9639909297052154,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_sk_kustah.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1358_sk_kustah.wav",
+        "length": 1.050702947845805,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_sk_gicik.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1234_sk_gicik.wav",
+        "length": 0.8704308390022676,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_sk_koy.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/6783_sk_koy.wav",
+        "length": 0.84,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_sk_deyim.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1984_sk_deyim.wav",
+        "length": 0.7352607709750567,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_sk_cay.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1984_sk_cay.wav",
+        "length": 0.7560544217687075,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_sk_melek.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1358_sk_melek.wav",
+        "length": 1.0086167800453514,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_sk_bugu.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/7895_sk_bugu.wav",
+        "length": 0.9573015873015873,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_sk_sevgi.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/7895_sk_sevgi.wav",
+        "length": 1.186575963718821,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_sk_senlik.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/7895_sk_senlik.wav",
+        "length": 1.0910884353741497,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_sk_hekim.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1358_sk_hekim.wav",
+        "length": 0.8736507936507937,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_sk_beste.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/7895_sk_beste.wav",
+        "length": 1.0621315192743763,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_sk_defne.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/7895_sk_defne.wav",
+        "length": 0.9881859410430839,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_sk_cay.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/6783_sk_cay.wav",
+        "length": 0.85,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_sk_acik.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/6783_sk_acik.wav",
+        "length": 2.47,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_sk_orgu.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1358_sk_orgu.wav",
+        "length": 0.8605895691609977,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_sk_yazim.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/7895_sk_yazim.wav",
+        "length": 0.883718820861678,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_sk_cene.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1984_sk_cene.wav",
+        "length": 1.2846031746031745,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_sk_sucuk.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/7895_sk_sucuk.wav",
+        "length": 0.9795918367346939,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_sk_kedi.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/7895_sk_kedi.wav",
+        "length": 0.8068934240362812,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_sk_gunes.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1234_sk_gunes.wav",
+        "length": 0.8508616780045352,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_sk_tahta.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/6783_sk_tahta.wav",
+        "length": 0.99,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_sk_satir.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1358_sk_satir.wav",
+        "length": 1.0608616780045352,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_sk_defne.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/6783_sk_defne.wav",
+        "length": 1.03,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_sk_odenek.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1234_sk_odenek.wav",
+        "length": 0.9516553287981859,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_sk_olcut.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/7895_sk_olcut.wav",
+        "length": 1.091156462585034,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_sk_firildak.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1234_sk_firildak.wav",
+        "length": 1.1182993197278912,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_sk_melek.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/7895_sk_melek.wav",
+        "length": 1.000453514739229,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_sk_defne.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1984_sk_defne.wav",
+        "length": 0.9181632653061225,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_sk_deyim.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/6783_sk_deyim.wav",
+        "length": 0.87,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_sk_ordek.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1984_sk_ordek.wav",
+        "length": 1.0360997732426305,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_sk_lufer.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/7895_sk_lufer.wav",
+        "length": 0.9990476190476191,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_sk_karton.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/7895_sk_karton.wav",
+        "length": 0.9793197278911565,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_sk_saf.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1984_sk_saf.wav",
+        "length": 0.7999773242630386,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_sk_tahta.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/7895_sk_tahta.wav",
+        "length": 0.9505215419501134,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_sk_zeytin.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1358_sk_zeytin.wav",
+        "length": 0.9839455782312925,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_sk_igde.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1984_sk_igde.wav",
+        "length": 0.9187981859410431,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_sk_kusluk.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1358_sk_kusluk.wav",
+        "length": 1.0463492063492064,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_sk_soba.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/6783_sk_soba.wav",
+        "length": 0.94,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_sk_gezi.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1358_sk_gezi.wav",
+        "length": 0.7880272108843538,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_sk_okul.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/6783_sk_okul.wav",
+        "length": 0.98,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_sk_igde.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/6783_sk_igde.wav",
+        "length": 1.68,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_sk_kagit.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1984_sk_kagit.wav",
+        "length": 1.0221315192743765,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_sk_koku.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/6783_sk_koku.wav",
+        "length": 0.92,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_sk_unlu.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/7895_sk_unlu.wav",
+        "length": 0.9001133786848072,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_sk_goz.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1358_sk_goz.wav",
+        "length": 0.8547845804988662,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_sk_dugun.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/7895_sk_dugun.wav",
+        "length": 0.7868480725623582,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_sk_yigin.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1984_sk_yigin.wav",
+        "length": 0.886734693877551,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_sk_eger.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1984_sk_eger.wav",
+        "length": 1.0034467120181405,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_sk_elmacik.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1234_sk_elmacik.wav",
+        "length": 1.0775056689342404,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_sk_senlik.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1358_sk_senlik.wav",
+        "length": 1.1551927437641722,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_sk_kustah.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/6783_sk_kustah.wav",
+        "length": 1.07,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_sk_cene.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/6783_sk_cene.wav",
+        "length": 1.03,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_sk_kirgin.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/6783_sk_kirgin.wav",
+        "length": 1.04,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_sk_koku.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1984_sk_koku.wav",
+        "length": 0.8000680272108843,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_sk_dizge.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1984_sk_dizge.wav",
+        "length": 0.9648526077097506,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_sk_utanc.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/6783_sk_utanc.wav",
+        "length": 1.06,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_sk_firildak.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1358_sk_firildak.wav",
+        "length": 1.2045351473922903,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_sk_kusluk.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1984_sk_kusluk.wav",
+        "length": 0.9859637188208616,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_sk_ogul.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/7895_sk_ogul.wav",
+        "length": 0.8498412698412698,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_sk_pamuk.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/7895_sk_pamuk.wav",
+        "length": 0.8896371882086168,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_sk_sevgi.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1358_sk_sevgi.wav",
+        "length": 1.0942403628117914,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_sk_cene.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1234_sk_cene.wav",
+        "length": 0.7607482993197279,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_sk_cay.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1234_sk_cay.wav",
+        "length": 0.7637868480725624,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_sk_rihtim.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1358_sk_rihtim.wav",
+        "length": 0.9984580498866213,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_sk_kustah.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1984_sk_kustah.wav",
+        "length": 1.1842403628117915,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_sk_isirgan.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1358_sk_isirgan.wav",
+        "length": 1.1682539682539683,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_sk_nicin.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/6783_sk_nicin.wav",
+        "length": 1.08,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_sk_gicik.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1984_sk_gicik.wav",
+        "length": 0.7249659863945578,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_sk_eski.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1984_sk_eski.wav",
+        "length": 0.9405895691609978,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_sk_cekirge.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/7895_sk_cekirge.wav",
+        "length": 1.0821768707482993,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_sk_orgu.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/6783_sk_orgu.wav",
+        "length": 1.02,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_sk_tembel.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/7895_sk_tembel.wav",
+        "length": 0.9992290249433107,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_sk_gunes.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1984_sk_gunes.wav",
+        "length": 0.9904761904761905,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_sk_melek.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/6783_sk_melek.wav",
+        "length": 1.35,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_sk_turev.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1358_sk_turev.wav",
+        "length": 0.8315646258503402,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_sk_hekim.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1234_sk_hekim.wav",
+        "length": 0.8258956916099773,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_sk_isirgan.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1984_sk_isirgan.wav",
+        "length": 1.1098639455782313,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_sk_kemik.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1984_sk_kemik.wav",
+        "length": 0.9309750566893424,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_sk_unlu.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1234_sk_unlu.wav",
+        "length": 0.8591156462585035,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_sk_dil.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/6783_sk_dil.wav",
+        "length": 0.8,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_sk_bugu.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/6783_sk_bugu.wav",
+        "length": 1.16,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_sk_melek.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1234_sk_melek.wav",
+        "length": 0.8654195011337869,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_sk_ogul.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1984_sk_ogul.wav",
+        "length": 0.8317687074829933,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_sk_simit.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1234_sk_simit.wav",
+        "length": 0.9337868480725624,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_sk_lufer.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1234_sk_lufer.wav",
+        "length": 0.9606349206349206,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_sk_cilek.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1358_sk_cilek.wav",
+        "length": 0.9708843537414966,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_sk_gurbuz.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1358_sk_gurbuz.wav",
+        "length": 1.0492517006802722,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_sk_pihti.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1984_sk_pihti.wav",
+        "length": 0.839297052154195,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_sk_karton.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1234_sk_karton.wav",
+        "length": 1.0202947845804988,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_sk_saf.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/6783_sk_saf.wav",
+        "length": 1.39,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_sk_nasil.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1984_sk_nasil.wav",
+        "length": 0.7576417233560091,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_sk_dugun.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1358_sk_dugun.wav",
+        "length": 0.9404081632653061,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_sk_yigilmak.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1984_sk_yigilmak.wav",
+        "length": 0.8845124716553288,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_sk_cekirge.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1234_sk_cekirge.wav",
+        "length": 1.0533786848072562,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_sk_unlu.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/6783_sk_unlu.wav",
+        "length": 1.03,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_sk_eger.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/7895_sk_eger.wav",
+        "length": 0.9444897959183673,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_sk_olcut.wav": {
+        "wav": "downloads/turevdb/Sound Source/Calm/1984_sk_olcut.wav",
+        "length": 1.0040362811791383,
+        "emo": "Calm",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_mt_kirgin.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1984_mt_kirgin.wav",
+        "length": 1.1853968253968254,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_mt_ogul.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/7895_mt_ogul.wav",
+        "length": 0.8998866213151927,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_mt_kirgin.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1358_mt_kirgin.wav",
+        "length": 1.0753741496598639,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_mt_gunes.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/7895_mt_gunes.wav",
+        "length": 0.9204081632653062,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_mt_defne.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1984_mt_defne.wav",
+        "length": 1.0848526077097507,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_mt_zeytin.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1984_mt_zeytin.wav",
+        "length": 1.1570521541950114,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_mt_gezi.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1984_mt_gezi.wav",
+        "length": 0.9741043083900227,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_mt_ordek.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/6783_mt_ordek.wav",
+        "length": 1.02,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_mt_tembel.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1234_mt_tembel.wav",
+        "length": 0.9107936507936508,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_mt_karton.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1234_mt_karton.wav",
+        "length": 1.0460997732426305,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_mt_deyim.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1358_mt_deyim.wav",
+        "length": 0.7082086167800453,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_mt_vurgu.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/6783_mt_vurgu.wav",
+        "length": 0.9,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_mt_sarj.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1234_mt_sarj.wav",
+        "length": 0.9231746031746032,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_mt_demir.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1984_mt_demir.wav",
+        "length": 0.9324716553287982,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_mt_cene.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1358_mt_cene.wav",
+        "length": 0.8199546485260771,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_mt_gurbuz.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1358_mt_gurbuz.wav",
+        "length": 1.1132426303854874,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_mt_pamuk.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1984_mt_pamuk.wav",
+        "length": 0.979954648526077,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_mt_mujde.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1984_mt_mujde.wav",
+        "length": 1.0511791383219955,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_mt_gicik.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1234_mt_gicik.wav",
+        "length": 0.7464852607709751,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_mt_karton.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1358_mt_karton.wav",
+        "length": 1.0521541950113378,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_mt_rihtim.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1358_mt_rihtim.wav",
+        "length": 0.9505668934240363,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_mt_demir.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/7895_mt_demir.wav",
+        "length": 0.806031746031746,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_mt_kemik.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1984_mt_kemik.wav",
+        "length": 0.979954648526077,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_mt_gicik.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1358_mt_gicik.wav",
+        "length": 1.028934240362812,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_mt_ogul.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1234_mt_ogul.wav",
+        "length": 0.7752380952380953,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_mt_soba.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1234_mt_soba.wav",
+        "length": 0.8666666666666667,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_mt_gunes.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1984_mt_gunes.wav",
+        "length": 1.0749659863945578,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_mt_kulac.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1234_mt_kulac.wav",
+        "length": 0.85718820861678,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_mt_kusluk.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1358_mt_kusluk.wav",
+        "length": 1.0318367346938775,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_mt_koku.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/6783_mt_koku.wav",
+        "length": 0.83,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_mt_kedi.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1358_mt_kedi.wav",
+        "length": 0.9882993197278912,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_mt_ogul.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/6783_mt_ogul.wav",
+        "length": 1.05,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_mt_dizge.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1358_mt_dizge.wav",
+        "length": 0.9317006802721088,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_mt_saf.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/6783_mt_saf.wav",
+        "length": 0.93,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_mt_pas.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1234_mt_pas.wav",
+        "length": 0.7605215419501133,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_mt_eski.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/7895_mt_eski.wav",
+        "length": 0.965578231292517,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_mt_ceren.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1234_mt_ceren.wav",
+        "length": 0.9142403628117913,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_mt_eger.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1358_mt_eger.wav",
+        "length": 0.9505668934240363,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_mt_simit.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1358_mt_simit.wav",
+        "length": 1.1174603174603175,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_mt_kiler.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/6783_mt_kiler.wav",
+        "length": 0.85,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_mt_okul.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1358_mt_okul.wav",
+        "length": 0.8417233560090703,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_mt_odenek.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1358_mt_odenek.wav",
+        "length": 1.09859410430839,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_mt_okul.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/6783_mt_okul.wav",
+        "length": 0.86,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_mt_olcut.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1984_mt_olcut.wav",
+        "length": 1.1253514739229025,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_mt_yazim.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1234_mt_yazim.wav",
+        "length": 0.9700453514739229,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_mt_kirgin.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/6783_mt_kirgin.wav",
+        "length": 0.98,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_mt_orgu.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/6783_mt_orgu.wav",
+        "length": 1.09,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_mt_melek.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/7895_mt_melek.wav",
+        "length": 0.9749886621315192,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_mt_eski.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/6783_mt_eski.wav",
+        "length": 1.04,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_mt_turev.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1234_mt_turev.wav",
+        "length": 0.7964625850340136,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_mt_cene.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1234_mt_cene.wav",
+        "length": 0.8903628117913832,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_mt_sucuk.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/6783_mt_sucuk.wav",
+        "length": 0.94,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_mt_acik.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1358_mt_acik.wav",
+        "length": 0.8968707482993197,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_mt_ogul.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1358_mt_ogul.wav",
+        "length": 0.8756462585034014,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_mt_bugu.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/7895_mt_bugu.wav",
+        "length": 0.7498185941043084,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_mt_ordek.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1984_mt_ordek.wav",
+        "length": 1.1506802721088436,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_mt_saf.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1984_mt_saf.wav",
+        "length": 0.9734920634920635,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_mt_lokma.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1984_mt_lokma.wav",
+        "length": 1.080702947845805,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_mt_koy.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1358_mt_koy.wav",
+        "length": 0.9171882086167801,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_mt_konuk.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/7895_mt_konuk.wav",
+        "length": 0.8067120181405896,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_mt_yigilmak.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1984_mt_yigilmak.wav",
+        "length": 1.1524716553287981,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_mt_pihti.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1984_mt_pihti.wav",
+        "length": 1.129591836734694,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_mt_konuk.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1234_mt_konuk.wav",
+        "length": 0.7591609977324263,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_mt_pas.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1358_mt_pas.wav",
+        "length": 0.8272108843537415,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_mt_pas.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/7895_mt_pas.wav",
+        "length": 0.8499092970521542,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_mt_kulac.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/6783_mt_kulac.wav",
+        "length": 0.97,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_mt_sepet.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/6783_mt_sepet.wav",
+        "length": 0.95,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_mt_lokma.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1234_mt_lokma.wav",
+        "length": 1.0339909297052154,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_mt_nicin.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/6783_mt_nicin.wav",
+        "length": 0.89,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_mt_kusluk.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/6783_mt_kusluk.wav",
+        "length": 0.82,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_mt_dil.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1234_mt_dil.wav",
+        "length": 0.6795691609977325,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_mt_orgu.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1234_mt_orgu.wav",
+        "length": 0.9196598639455782,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_mt_rihtim.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1234_mt_rihtim.wav",
+        "length": 0.9998412698412699,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_mt_melek.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/6783_mt_melek.wav",
+        "length": 0.78,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_mt_yanki.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/6783_mt_yanki.wav",
+        "length": 0.92,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_mt_sarap.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1984_mt_sarap.wav",
+        "length": 1.071360544217687,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_mt_saf.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1234_mt_saf.wav",
+        "length": 0.8198866213151927,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_mt_satir.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/7895_mt_satir.wav",
+        "length": 1.009954648526077,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_mt_sarj.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/6783_mt_sarj.wav",
+        "length": 1.23,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_mt_eger.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/6783_mt_eger.wav",
+        "length": 0.97,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_mt_karton.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/6783_mt_karton.wav",
+        "length": 0.95,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_mt_serin.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/6783_mt_serin.wav",
+        "length": 0.92,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_mt_eski.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1234_mt_eski.wav",
+        "length": 0.9396825396825397,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_mt_yazim.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1984_mt_yazim.wav",
+        "length": 1.002154195011338,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_mt_ogul.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1984_mt_ogul.wav",
+        "length": 1.0525850340136054,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_mt_firildak.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1234_mt_firildak.wav",
+        "length": 0.8702947845804989,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_mt_lokma.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/6783_mt_lokma.wav",
+        "length": 0.92,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_mt_hekim.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/7895_mt_hekim.wav",
+        "length": 0.9028344671201814,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_mt_yanki.wav": {
+        "wav": "downloads/turevdb/Sound Source/Happy/1984_mt_yanki.wav",
+        "length": 1.1259410430839003,
+        "emo": "Happy",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_hl_yanki.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1157_hl_yanki.wav",
+        "length": 0.9156916099773242,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_hl_soba.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/6783_hl_soba.wav",
+        "length": 0.81,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_hl_ogul.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/6783_hl_ogul.wav",
+        "length": 0.71,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_hl_cene.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/6783_hl_cene.wav",
+        "length": 0.76,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_hl_koy.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/6783_hl_koy.wav",
+        "length": 0.63,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_hl_hekim.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1984_hl_hekim.wav",
+        "length": 0.7999773242630386,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_hl_satir.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/7895_hl_satir.wav",
+        "length": 1.1011791383219955,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_hl_unlu.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1358_hl_unlu.wav",
+        "length": 0.8688888888888889,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_hl_koy.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1984_hl_koy.wav",
+        "length": 0.9512471655328798,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_hl_yanki.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1984_hl_yanki.wav",
+        "length": 1.0668480725623584,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_hl_demet.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1358_hl_demet.wav",
+        "length": 0.8892063492063492,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_hl_goz.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1234_hl_goz.wav",
+        "length": 0.800453514739229,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_hl_zeytin.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1984_hl_zeytin.wav",
+        "length": 0.9999319727891156,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_hl_sucuk.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/7895_hl_sucuk.wav",
+        "length": 1.0225396825396826,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_hl_acik.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/7895_hl_acik.wav",
+        "length": 0.9970068027210884,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_hl_isirgan.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1358_hl_isirgan.wav",
+        "length": 0.9965986394557823,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_hl_ogul1.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/7895_hl_ogul1.wav",
+        "length": 0.8888662131519275,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_hl_melek.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/7895_hl_melek.wav",
+        "length": 0.9653061224489796,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_hl_dizge.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/6783_hl_dizge.wav",
+        "length": 0.88,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_hl_sepet.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/7895_hl_sepet.wav",
+        "length": 1.1102721088435374,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_hl_tembel.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1358_hl_tembel.wav",
+        "length": 0.867437641723356,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_hl_satir.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1234_hl_satir.wav",
+        "length": 1.0975056689342404,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_hl_nicin.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1984_hl_nicin.wav",
+        "length": 0.9047619047619048,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_hl_kagit.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/7895_hl_kagit.wav",
+        "length": 1.0002721088435373,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_hl_kirgin.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/6783_hl_kirgin.wav",
+        "length": 0.87,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_hl_soba.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1234_hl_soba.wav",
+        "length": 0.8901814058956916,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_hl_rihtim.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1358_hl_rihtim.wav",
+        "length": 1.0053061224489797,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_hl_pamuk.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1157_hl_pamuk.wav",
+        "length": 1.1065079365079364,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_hl_koy.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1234_hl_koy.wav",
+        "length": 0.7849433106575964,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_hl_karton.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/7895_hl_karton.wav",
+        "length": 1.0402267573696145,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_hl_cene.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/7895_hl_cene.wav",
+        "length": 0.9040816326530612,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_hl_kulac.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1234_hl_kulac.wav",
+        "length": 0.9845351473922902,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_hl_lufer.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1157_hl_lufer.wav",
+        "length": 1.1065079365079364,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_hl_sucuk.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/6783_hl_sucuk.wav",
+        "length": 0.84,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_hl_satir.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1358_hl_satir.wav",
+        "length": 0.9341950113378685,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_hl_tembel.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1234_hl_tembel.wav",
+        "length": 1.0548072562358277,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_hl_kirgin.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/7895_hl_kirgin.wav",
+        "length": 1.0461904761904761,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_hl_pihti.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/6783_hl_pihti.wav",
+        "length": 0.82,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_hl_unlu.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1157_hl_unlu.wav",
+        "length": 1.1,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_hl_cilek.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1234_hl_cilek.wav",
+        "length": 0.7482993197278912,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_hl_tahta.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/6783_hl_tahta.wav",
+        "length": 0.82,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_hl_yigin.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1157_hl_yigin.wav",
+        "length": 1.1,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_hl_sarap.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/7895_hl_sarap.wav",
+        "length": 1.1053968253968254,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_hl_eski.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1984_hl_eski.wav",
+        "length": 0.9948979591836735,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_hl_zeytin.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/6783_hl_zeytin.wav",
+        "length": 0.92,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_hl_gicik.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1234_hl_gicik.wav",
+        "length": 0.8126757369614512,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_hl_nasil.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1234_hl_nasil.wav",
+        "length": 0.9155328798185941,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_hl_firildak.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1157_hl_firildak.wav",
+        "length": 1.1455555555555557,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_hl_olcut.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1234_hl_olcut.wav",
+        "length": 1.0148072562358277,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_hl_gunes.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1157_hl_gunes.wav",
+        "length": 1.1065079365079364,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_hl_elmacik.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/6783_hl_elmacik.wav",
+        "length": 0.96,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_hl_dugun.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1358_hl_dugun.wav",
+        "length": 0.7527891156462585,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_hl_gunes.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/7895_hl_gunes.wav",
+        "length": 0.9527437641723356,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_hl_kemik.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1234_hl_kemik.wav",
+        "length": 0.8902267573696145,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_hl_mujde.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1984_hl_mujde.wav",
+        "length": 0.9208843537414966,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_hl_tembel.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1157_hl_tembel.wav",
+        "length": 1.1065079365079364,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_hl_okul.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1984_hl_okul.wav",
+        "length": 1.261609977324263,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_hl_pamuk.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1234_hl_pamuk.wav",
+        "length": 0.8997278911564626,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_hl_gurbuz.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1984_hl_gurbuz.wav",
+        "length": 1.2319501133786848,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_hl_algi.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1358_hl_algi.wav",
+        "length": 0.8717913832199546,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_hl_ogul.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1358_hl_ogul.wav",
+        "length": 0.7571428571428571,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_hl_yazim.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/7895_hl_yazim.wav",
+        "length": 1.0220408163265307,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_hl_okul.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/6783_hl_okul.wav",
+        "length": 0.81,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_hl_saf.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/7895_hl_saf.wav",
+        "length": 1.0214285714285714,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_hl_turev.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1984_hl_turev.wav",
+        "length": 1.0409297052154196,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_hl_algi.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1234_hl_algi.wav",
+        "length": 0.5266439909297053,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_hl_deve.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/7895_hl_deve.wav",
+        "length": 0.8805442176870748,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_hl_eger.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/6783_hl_eger.wav",
+        "length": 0.91,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_hl_isirgan.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1234_hl_isirgan.wav",
+        "length": 1.1374149659863946,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_hl_kedi.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/7895_hl_kedi.wav",
+        "length": 0.9062358276643991,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_hl_ordek.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1984_hl_ordek.wav",
+        "length": 1.013219954648526,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_hl_gunes.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1358_hl_gunes.wav",
+        "length": 0.8688888888888889,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_hl_firildak.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1234_hl_firildak.wav",
+        "length": 0.9938548752834467,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_hl_lufer.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/7895_hl_lufer.wav",
+        "length": 1.0648526077097507,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_hl_konuk.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1358_hl_konuk.wav",
+        "length": 0.8746938775510205,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_hl_utanc.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1234_hl_utanc.wav",
+        "length": 0.9246485260770975,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_hl_kirgin.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1234_hl_kirgin.wav",
+        "length": 1.08,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_hl_yigin.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1234_hl_yigin.wav",
+        "length": 0.9422222222222222,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_hl_sevgi.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1157_hl_sevgi.wav",
+        "length": 1.1065079365079364,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_hl_simit.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/6783_hl_simit.wav",
+        "length": 1.01,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_hl_defne.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1358_hl_defne.wav",
+        "length": 0.8921088435374149,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_hl_ordek.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1358_hl_ordek.wav",
+        "length": 1.0169160997732427,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_hl_koy.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1358_hl_koy.wav",
+        "length": 0.7693650793650794,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_hl_bugu.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1234_hl_bugu.wav",
+        "length": 0.3542403628117914,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_hl_turev.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1157_hl_turev.wav",
+        "length": 1.1065079365079364,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_hl_dil.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/6783_hl_dil.wav",
+        "length": 0.68,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_hl_vurgu.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/7895_hl_vurgu.wav",
+        "length": 1.0526303854875283,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_hl_tembel.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/7895_hl_tembel.wav",
+        "length": 1.1277551020408163,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_hl_kusluk.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/7895_hl_kusluk.wav",
+        "length": 0.9947392290249433,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_hl_kustah.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/6783_hl_kustah.wav",
+        "length": 0.82,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_hl_eger.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1234_hl_eger.wav",
+        "length": 0.7346031746031746,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_hl_kemik.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1157_hl_kemik.wav",
+        "length": 0.9187755102040817,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_hl_konuk.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/7895_hl_konuk.wav",
+        "length": 0.9257142857142857,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_hl_okul.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1234_hl_okul.wav",
+        "length": 0.8952834467120181,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_hl_acik.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1984_hl_acik.wav",
+        "length": 0.9403174603174603,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_hl_ogul.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1984_hl_ogul.wav",
+        "length": 0.9423809523809524,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_hl_mujde.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/7895_hl_mujde.wav",
+        "length": 1.1306122448979592,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_hl_sarap.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1234_hl_sarap.wav",
+        "length": 0.9863038548752835,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_hl_isirgan.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/6783_hl_isirgan.wav",
+        "length": 0.86,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_hl_kustah.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1358_hl_kustah.wav",
+        "length": 0.9704761904761905,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_hl_dizge.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1984_hl_dizge.wav",
+        "length": 1.0117913832199545,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_hl_defne.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/7895_hl_defne.wav",
+        "length": 0.9881632653061224,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_hl_cene.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1358_hl_cene.wav",
+        "length": 0.7992290249433106,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_hl_koku.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1984_hl_koku.wav",
+        "length": 0.9060090702947846,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_hl_beste.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1984_hl_beste.wav",
+        "length": 0.7662358276643991,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_hl_gunes.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1234_hl_gunes.wav",
+        "length": 0.9251927437641724,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_hl_dugun.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/6783_hl_dugun.wav",
+        "length": 0.77,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_hl_lokma.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/7895_hl_lokma.wav",
+        "length": 1.1170521541950114,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_hl_demet.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1157_hl_demet.wav",
+        "length": 1.1065079365079364,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_hl_rihtim.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1234_hl_rihtim.wav",
+        "length": 1.0540362811791384,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_hl_turev.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1358_hl_turev.wav",
+        "length": 0.8021315192743764,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_hl_konuk.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1157_hl_konuk.wav",
+        "length": 1.1,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_hl_kedi.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/6783_hl_kedi.wav",
+        "length": 0.69,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_hl_mujde.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1157_hl_mujde.wav",
+        "length": 1.1065079365079364,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_hl_unlu.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1234_hl_unlu.wav",
+        "length": 0.9293424036281179,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_hl_pas.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1234_hl_pas.wav",
+        "length": 0.8299319727891157,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_hl_kiler.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/7895_hl_kiler.wav",
+        "length": 0.9725850340136054,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_hl_sevgi.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/7895_hl_sevgi.wav",
+        "length": 1.1834467120181407,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_hl_sucuk.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/1234_hl_sucuk.wav",
+        "length": 1.009954648526077,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_hl_yanki.wav": {
+        "wav": "downloads/turevdb/Sound Source/Sad/6783_hl_yanki.wav",
+        "length": 0.93,
+        "emo": "Sad",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_kz_okul.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/7895_kz_okul.wav",
+        "length": 0.8132426303854875,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_kz_pihti.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1984_kz_pihti.wav",
+        "length": 0.9796145124716553,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_kz_ordek.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/7895_kz_ordek.wav",
+        "length": 0.9818367346938776,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_kz_lufer.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1984_kz_lufer.wav",
+        "length": 1.101904761904762,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_kz_yigin.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/7895_kz_yigin.wav",
+        "length": 0.9549433106575964,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_kz_ordek.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1157_kz_ordek.wav",
+        "length": 0.8,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_kz_senlik.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1234_kz_senlik.wav",
+        "length": 1.0006802721088435,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_kz_gunes.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/7895_kz_gunes.wav",
+        "length": 0.9946031746031746,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_kz_zeytin.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1358_kz_zeytin.wav",
+        "length": 1.1301133786848072,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_kz_dizge.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1157_kz_dizge.wav",
+        "length": 0.7513151927437641,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_kz_satir.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1358_kz_satir.wav",
+        "length": 1.2404081632653061,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_kz_pamuk.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/7895_kz_pamuk.wav",
+        "length": 0.8594557823129252,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_kz_gezi.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/6783_kz_gezi.wav",
+        "length": 0.87,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_kz_dugun.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1234_kz_dugun.wav",
+        "length": 0.7760997732426304,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_kz_turev.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1358_kz_turev.wav",
+        "length": 0.8253514739229025,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_kz_mujde.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/7895_kz_mujde.wav",
+        "length": 1.016689342403628,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_kz_kiler.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1234_kz_kiler.wav",
+        "length": 0.8143083900226757,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_kz_acik.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1157_kz_acik.wav",
+        "length": 0.6,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_kz_kiler.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/6783_kz_kiler.wav",
+        "length": 0.87,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_kz_kulac.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/6783_kz_kulac.wav",
+        "length": 0.89,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_kz_dil.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/6783_kz_dil.wav",
+        "length": 0.77,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_kz_hekim.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/6783_kz_hekim.wav",
+        "length": 0.79,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_kz_nicin.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1234_kz_nicin.wav",
+        "length": 0.8519047619047619,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_kz_vurgu.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1984_kz_vurgu.wav",
+        "length": 1.0254421768707482,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_kz_kusluk.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1157_kz_kusluk.wav",
+        "length": 0.9,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_kz_saf.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1984_kz_saf.wav",
+        "length": 0.9282993197278911,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_kz_sarap.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1358_kz_sarap.wav",
+        "length": 0.8935600907029478,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_kz_dugun.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/7895_kz_dugun.wav",
+        "length": 0.9105895691609978,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_kz_sepet.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1234_kz_sepet.wav",
+        "length": 0.9437414965986395,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_kz_ceren.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/7895_kz_ceren.wav",
+        "length": 0.9505215419501134,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_kz_ceren.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1984_kz_ceren.wav",
+        "length": 1.1014512471655329,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_kz_pamuk.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1358_kz_pamuk.wav",
+        "length": 0.8979138321995465,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_kz_dil.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1984_kz_dil.wav",
+        "length": 0.9017460317460317,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_kz_sevgi.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1234_kz_sevgi.wav",
+        "length": 0.9503628117913833,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_kz_goz.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1984_kz_goz.wav",
+        "length": 0.9011337868480725,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_kz_cay.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1984_kz_cay.wav",
+        "length": 0.8701587301587301,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_kz_eski.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/6783_kz_eski.wav",
+        "length": 0.85,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_kz_beste.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/7895_kz_beste.wav",
+        "length": 0.9831292517006802,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_kz_gurbuz.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1984_kz_gurbuz.wav",
+        "length": 1.0801814058956916,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_kz_unlu.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1358_kz_unlu.wav",
+        "length": 0.951609977324263,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_kz_ogul.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1157_kz_ogul.wav",
+        "length": 0.6726303854875283,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_kz_gezi.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1984_kz_gezi.wav",
+        "length": 0.9398412698412698,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_kz_goz.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1157_kz_goz.wav",
+        "length": 0.7405668934240363,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_kz_eger.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1157_kz_eger.wav",
+        "length": 0.8,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_kz_unlu.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1157_kz_unlu.wav",
+        "length": 0.7509750566893424,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_kz_tembel.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1157_kz_tembel.wav",
+        "length": 0.8,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_kz_eger.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1984_kz_eger.wav",
+        "length": 1.1097278911564625,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_kz_sarj.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/6783_kz_sarj.wav",
+        "length": 0.89,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_kz_yigilmak.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/7895_kz_yigilmak.wav",
+        "length": 1.21437641723356,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_kz_defne.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1234_kz_defne.wav",
+        "length": 0.9755102040816327,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_kz_dizge.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/6783_kz_dizge.wav",
+        "length": 0.88,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_kz_defne.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/6783_kz_defne.wav",
+        "length": 0.95,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_kz_bugu.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1358_kz_bugu.wav",
+        "length": 0.7731065759637188,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_kz_dil.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/7895_kz_dil.wav",
+        "length": 0.6845351473922903,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_kz_cekirge.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/7895_kz_cekirge.wav",
+        "length": 1.147936507936508,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_kz_nicin.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1358_kz_nicin.wav",
+        "length": 1.0807709750566894,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_kz_demet.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1234_kz_demet.wav",
+        "length": 0.8398412698412698,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_kz_firildak.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1234_kz_firildak.wav",
+        "length": 0.9100680272108843,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_kz_nicin.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1157_kz_nicin.wav",
+        "length": 1.2,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_kz_kulac.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1358_kz_kulac.wav",
+        "length": 1.0720634920634922,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_kz_goz.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1234_kz_goz.wav",
+        "length": 0.8713378684807256,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_kz_sucuk.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1234_kz_sucuk.wav",
+        "length": 0.8444671201814059,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_kz_yigin.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1358_kz_yigin.wav",
+        "length": 0.819546485260771,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_kz_yigin.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1157_kz_yigin.wav",
+        "length": 0.7323809523809524,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_kz_saf.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1358_kz_saf.wav",
+        "length": 0.9312925170068027,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_kz_demir.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1984_kz_demir.wav",
+        "length": 0.9513605442176871,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_kz_karton.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/6783_kz_karton.wav",
+        "length": 0.88,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_kz_odenek.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1157_kz_odenek.wav",
+        "length": 0.9,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_kz_sarap.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1157_kz_sarap.wav",
+        "length": 1.0391609977324263,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_kz_sevgi.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1157_kz_sevgi.wav",
+        "length": 0.9636281179138322,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_kz_kusluk.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1234_kz_kusluk.wav",
+        "length": 0.8742630385487529,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_kz_kustah.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/6783_kz_kustah.wav",
+        "length": 0.95,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_kz_gicik.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1157_kz_gicik.wav",
+        "length": 0.7548299319727891,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_kz_orgu.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/6783_kz_orgu.wav",
+        "length": 0.81,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_kz_odenek.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/6783_kz_odenek.wav",
+        "length": 1.03,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_kz_kulac.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1234_kz_kulac.wav",
+        "length": 0.8523356009070295,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_kz_ogul.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/6783_kz_ogul.wav",
+        "length": 0.82,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_kz_odenek.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1984_kz_odenek.wav",
+        "length": 1.1098639455782313,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_kz_yanki.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1157_kz_yanki.wav",
+        "length": 0.9655328798185941,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_kz_yanki.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/7895_kz_yanki.wav",
+        "length": 1.0603628117913833,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_kz_vurgu.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/6783_kz_vurgu.wav",
+        "length": 0.82,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_kz_turev.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/7895_kz_turev.wav",
+        "length": 0.9824716553287982,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_kz_yanki.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/6783_kz_yanki.wav",
+        "length": 0.88,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_kz_demet.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1157_kz_demet.wav",
+        "length": 0.7810204081632653,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_kz_yazim.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1234_kz_yazim.wav",
+        "length": 0.9391836734693878,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_kz_deyim.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/7895_kz_deyim.wav",
+        "length": 0.8604308390022676,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_kz_senlik.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/7895_kz_senlik.wav",
+        "length": 1.0356916099773243,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_kz_yazim.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/6783_kz_yazim.wav",
+        "length": 0.74,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_kz_rihtim.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1358_kz_rihtim.wav",
+        "length": 1.0720634920634922,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_kz_dizge.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1234_kz_dizge.wav",
+        "length": 0.9079138321995465,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_kz_karton.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1984_kz_karton.wav",
+        "length": 1.248185941043084,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_kz_mujde.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1358_kz_mujde.wav",
+        "length": 1.0314285714285714,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_kz_eger.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/7895_kz_eger.wav",
+        "length": 0.937437641723356,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_kz_tirtil.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/7895_kz_tirtil.wav",
+        "length": 0.9659410430839003,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_kz_deyim.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1358_kz_deyim.wav",
+        "length": 0.7847165532879818,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_kz_soba.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1234_kz_soba.wav",
+        "length": 0.9386394557823129,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_kz_saf.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/6783_kz_saf.wav",
+        "length": 0.77,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_kz_sarj.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/7895_kz_sarj.wav",
+        "length": 1.0298412698412698,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1234_kz_yanki.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1234_kz_yanki.wav",
+        "length": 0.9912244897959184,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_kz_acik.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/6783_kz_acik.wav",
+        "length": 0.81,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_kz_elmacik.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1157_kz_elmacik.wav",
+        "length": 0.9469160997732426,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_kz_deyim.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1984_kz_deyim.wav",
+        "length": 1.0306802721088435,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_kz_eski.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1984_kz_eski.wav",
+        "length": 1.001859410430839,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_kz_koy.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1358_kz_koy.wav",
+        "length": 0.7484353741496599,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_kz_elmacik.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1984_kz_elmacik.wav",
+        "length": 1.182018140589569,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_kz_sucuk.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/7895_kz_sucuk.wav",
+        "length": 0.9610884353741497,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-7895_kz_gicik.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/7895_kz_gicik.wav",
+        "length": 0.884671201814059,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_kz_simit.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/6783_kz_simit.wav",
+        "length": 0.9,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_kz_cay.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/6783_kz_cay.wav",
+        "length": 0.78,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_kz_igde.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1984_kz_igde.wav",
+        "length": 1.1096145124716554,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_kz_cekirge.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1358_kz_cekirge.wav",
+        "length": 1.0923809523809525,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_kz_firildak.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1157_kz_firildak.wav",
+        "length": 0.9605668934240362,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-6783_kz_soba.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/6783_kz_soba.wav",
+        "length": 0.79,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_kz_japon.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1157_kz_japon.wav",
+        "length": 0.8757142857142857,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1358_kz_sepet.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1358_kz_sepet.wav",
+        "length": 1.1083446712018141,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_kz_dil.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1157_kz_dil.wav",
+        "length": 0.5005215419501133,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_kz_sarj.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1984_kz_sarj.wav",
+        "length": 1.0307256235827664,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_kz_konuk.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1984_kz_konuk.wav",
+        "length": 0.9739682539682539,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_kz_koy.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1984_kz_koy.wav",
+        "length": 0.8743083900226757,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1984_kz_tembel.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1984_kz_tembel.wav",
+        "length": 1.1149886621315193,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    },
+    "turevdb-1157_kz_beste.wav": {
+        "wav": "downloads/turevdb/Sound Source/Angry/1157_kz_beste.wav",
+        "length": 0.7374603174603175,
+        "emo": "Angry",
+        "dataset": "turevdb",
+        "channel": 1
+    }
+}

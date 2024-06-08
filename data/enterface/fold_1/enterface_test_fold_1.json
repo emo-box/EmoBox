@@ -1,0 +1,2186 @@
+{
+    "enterface-s14_an_3.avi": {
+        "wav": "downloads/enterface/subject 14/anger/sentence 3/s14_an_3.avi",
+        "length": 2.96,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s43_an_5.avi": {
+        "wav": "downloads/enterface/subject 43/anger/sentence 5/s43_an_5.avi",
+        "length": 3.24,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s37_an_1.avi": {
+        "wav": "downloads/enterface/subject 37/anger/sentence 1/s37_an_1.avi",
+        "length": 2.92,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s33_an_4.avi": {
+        "wav": "downloads/enterface/subject 33/anger/sentence 4/s33_an_4.avi",
+        "length": 3.48,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s32_an_4.avi": {
+        "wav": "downloads/enterface/subject 32/anger/sentence 4/s32_an_4.avi",
+        "length": 2.36,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s20_an_2.avi": {
+        "wav": "downloads/enterface/subject 20/anger/sentence 2/s20_an_2.avi",
+        "length": 2.8,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s41_an_5.avi": {
+        "wav": "downloads/enterface/subject 41/anger/sentence 5/s41_an_5.avi",
+        "length": 4.72,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s1_an_3.avi": {
+        "wav": "downloads/enterface/subject 1/anger/sentence 3/s1_an_3.avi",
+        "length": 2.76,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s15_an_2.avi": {
+        "wav": "downloads/enterface/subject 15/anger/sentence 2/s15_an_2.avi",
+        "length": 3.68,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s40_an_1.avi": {
+        "wav": "downloads/enterface/subject 40/anger/sentence 1/s40_an_1.avi",
+        "length": 4.44,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s41_an_1.avi": {
+        "wav": "downloads/enterface/subject 41/anger/sentence 1/s41_an_1.avi",
+        "length": 4.72,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s24_an_4.avi": {
+        "wav": "downloads/enterface/subject 24/anger/sentence 4/s24_an_4.avi",
+        "length": 2.72,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s29_an_5.avi": {
+        "wav": "downloads/enterface/subject 29/anger/sentence 5/s29_an_5.avi",
+        "length": 2.68,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s12_an_2.avi": {
+        "wav": "downloads/enterface/subject 11/anger/sentence 2/s12_an_2.avi",
+        "length": 2.32,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s20_an_5.avi": {
+        "wav": "downloads/enterface/subject 20/anger/sentence 5/s20_an_5.avi",
+        "length": 3.28,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s6_an.avi": {
+        "wav": "downloads/enterface/subject 6/anger/s6_an.avi",
+        "length": 106.92,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s18_an_1.avi": {
+        "wav": "downloads/enterface/subject 18/anger/sentence 1/s18_an_1.avi",
+        "length": 2.72,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s43_an_2.avi": {
+        "wav": "downloads/enterface/subject 43/anger/sentence 2/s43_an_2.avi",
+        "length": 4.08,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s2_an_1.avi": {
+        "wav": "downloads/enterface/subject 2/anger/sentence 2/s2_an_1.avi",
+        "length": 3.52,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s42_an_3.avi": {
+        "wav": "downloads/enterface/subject 42/anger/sentence 3/s42_an_3.avi",
+        "length": 2.56,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s22_an_5.avi": {
+        "wav": "downloads/enterface/subject 22/anger/sentence 5/s22_an_5.avi",
+        "length": 2.64,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s16_an_4.avi": {
+        "wav": "downloads/enterface/subject 16/anger/sentence 4/s16_an_4.avi",
+        "length": 2.8,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s10_an_2.avi": {
+        "wav": "downloads/enterface/subject 10/anger/sentence 2/s10_an_2.avi",
+        "length": 2.44,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s26_an_5.avi": {
+        "wav": "downloads/enterface/subject 26/anger/sentence 5/s26_an_5.avi",
+        "length": 3.6,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s27_an_1.avi": {
+        "wav": "downloads/enterface/subject 27/anger/sentence 1/s27_an_1.avi",
+        "length": 4.44,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s40_an_5.avi": {
+        "wav": "downloads/enterface/subject 40/anger/sentence 5/s40_an_5.avi",
+        "length": 3.6,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s13_an_4.avi": {
+        "wav": "downloads/enterface/subject 13/anger/sentence 4/s13_an_4.avi",
+        "length": 3.44,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s34_an_5.avi": {
+        "wav": "downloads/enterface/subject 34/anger/sentence 5/s34_an_5.avi",
+        "length": 2.88,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s35_an_2.avi": {
+        "wav": "downloads/enterface/subject 35/anger/sentence 2/s35_an_2.avi",
+        "length": 2.72,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s3_an_5.avi": {
+        "wav": "downloads/enterface/subject 3/anger/sentence 5/s3_an_5.avi",
+        "length": 3.84,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s36_an_2.avi": {
+        "wav": "downloads/enterface/subject 36/anger/sentence 2/s36_an_2.avi",
+        "length": 3.52,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s30_an_3.avi": {
+        "wav": "downloads/enterface/subject 30/anger/sentence 3/s30_an_3.avi",
+        "length": 1.76,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s39_an_5.avi": {
+        "wav": "downloads/enterface/subject 39/anger/sentence 5/s39_an_5.avi",
+        "length": 3.2,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s4_an_2.avi": {
+        "wav": "downloads/enterface/subject 4/anger/sentence 2/s4_an_2.avi",
+        "length": 3.68,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s8_an_4.avi": {
+        "wav": "downloads/enterface/subject 8/anger/sentence 4/s8_an_4.avi",
+        "length": 2.96,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s40_an_2.avi": {
+        "wav": "downloads/enterface/subject 40/anger/sentence 2/s40_an_2.avi",
+        "length": 2.96,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s42_an_4.avi": {
+        "wav": "downloads/enterface/subject 42/anger/sentence 4/s42_an_4.avi",
+        "length": 3.44,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s9_an_3.avi": {
+        "wav": "downloads/enterface/subject 9/anger/sentence 3/s9_an_3.avi",
+        "length": 2.96,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s12_an_1.avi": {
+        "wav": "downloads/enterface/subject 11/anger/sentence 1/s12_an_1.avi",
+        "length": 2.4,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s30_an_4.avi": {
+        "wav": "downloads/enterface/subject 30/anger/sentence 4/s30_an_4.avi",
+        "length": 2.6,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s7_an_1.avi": {
+        "wav": "downloads/enterface/subject 7/anger/sentence 1/s7_an_1.avi",
+        "length": 4.12,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s8_an_3.avi": {
+        "wav": "downloads/enterface/subject 8/anger/sentence 3/s8_an_3.avi",
+        "length": 4.16,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s28_an_3.avi": {
+        "wav": "downloads/enterface/subject 28/anger/sentence 3/s28_an_3.avi",
+        "length": 3.08,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s38_an_4.avi": {
+        "wav": "downloads/enterface/subject 38/anger/sentence 4/s38_an_4.avi",
+        "length": 2.44,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s34_an_4.avi": {
+        "wav": "downloads/enterface/subject 34/anger/sentence 4/s34_an_4.avi",
+        "length": 2.4,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s16_an_2.avi": {
+        "wav": "downloads/enterface/subject 16/anger/sentence 2/s16_an_2.avi",
+        "length": 2.4,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s19_an_5.avi": {
+        "wav": "downloads/enterface/subject 19/anger/sentence 5/s19_an_5.avi",
+        "length": 4.2,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s2_an_5.avi": {
+        "wav": "downloads/enterface/subject 2/anger/sentence 5/s2_an_5.avi",
+        "length": 3.36,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s1_an_1.avi": {
+        "wav": "downloads/enterface/subject 1/anger/sentence 1/s1_an_1.avi",
+        "length": 3.4,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s42_an_2.avi": {
+        "wav": "downloads/enterface/subject 42/anger/sentence 2/s42_an_2.avi",
+        "length": 3.2,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s19_an_4.avi": {
+        "wav": "downloads/enterface/subject 19/anger/sentence 4/s19_an_4.avi",
+        "length": 2.36,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s35_an_5.avi": {
+        "wav": "downloads/enterface/subject 35/anger/sentence 5/s35_an_5.avi",
+        "length": 3.24,
+        "emo": "an",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s20_su_4.avi": {
+        "wav": "downloads/enterface/subject 20/surprise/sentence 4/s20_su_4.avi",
+        "length": 1.96,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s_3_su_2.avi": {
+        "wav": "downloads/enterface/subject 3/surprise/sentence 2/s_3_su_2.avi",
+        "length": 1.8,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s22_su_1.avi": {
+        "wav": "downloads/enterface/subject 22/surprise/sentence 1/s22_su_1.avi",
+        "length": 2.32,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s25_su_4.avi": {
+        "wav": "downloads/enterface/subject 25/surprise/sentence 4/s25_su_4.avi",
+        "length": 1.52,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s_3_su_3.avi": {
+        "wav": "downloads/enterface/subject 3/surprise/sentence 3/s_3_su_3.avi",
+        "length": 2.92,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s10_su_2.avi": {
+        "wav": "downloads/enterface/subject 10/surprise/sentence 2/s10_su_2.avi",
+        "length": 1.52,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s34_su_1.avi": {
+        "wav": "downloads/enterface/subject 34/surprise/sentence 1/s34_su_1.avi",
+        "length": 2.56,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s5_su_3.avi": {
+        "wav": "downloads/enterface/subject 5/surprise/sentence 3/s5_su_3.avi",
+        "length": 3.6,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s30_su_2.avi": {
+        "wav": "downloads/enterface/subject 30/surprise/sentence 2/s30_su_2.avi",
+        "length": 1.24,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s44_su_4.avi": {
+        "wav": "downloads/enterface/subject 44/surprise/sentence 4/s44_su_4.avi",
+        "length": 2.36,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s22_su_4.avi": {
+        "wav": "downloads/enterface/subject 22/surprise/sentence 4/s22_su_4.avi",
+        "length": 1.88,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s27_su_4.avi": {
+        "wav": "downloads/enterface/subject 27/surprise/sentence 4/s27_su_4.avi",
+        "length": 3.04,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s16_su_5.avi": {
+        "wav": "downloads/enterface/subject 16/surprise/sentence 5/s16_su_5.avi",
+        "length": 2.4,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s8_su_5.avi": {
+        "wav": "downloads/enterface/subject 8/surprise/sentence 5/s8_su_5.avi",
+        "length": 2.52,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s2_su_5.avi": {
+        "wav": "downloads/enterface/subject 2/surprise/sentence 5/s2_su_5.avi",
+        "length": 4.48,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s2_su_4.avi": {
+        "wav": "downloads/enterface/subject 2/surprise/sentence 4/s2_su_4.avi",
+        "length": 2.24,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s_3_su_4.avi": {
+        "wav": "downloads/enterface/subject 3/surprise/sentence 4/s_3_su_4.avi",
+        "length": 2.44,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s20_su_2.avi": {
+        "wav": "downloads/enterface/subject 20/surprise/sentence 2/s20_su_2.avi",
+        "length": 1.48,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s41_su_2.avi": {
+        "wav": "downloads/enterface/subject 41/surprise/sentence 2/s41_su_2.avi",
+        "length": 3.28,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s13_su_3.avi": {
+        "wav": "downloads/enterface/subject 13/surprise/sentence 3/s13_su_3.avi",
+        "length": 2.52,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s40_su_1.avi": {
+        "wav": "downloads/enterface/subject 40/surprise/sentence 1/s40_su_1.avi",
+        "length": 2.56,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s30_su_4.avi": {
+        "wav": "downloads/enterface/subject 30/surprise/sentence 4/s30_su_4.avi",
+        "length": 1.92,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s18_su_5.avi": {
+        "wav": "downloads/enterface/subject 18/surprise/sentence 5/s18_su_5.avi",
+        "length": 3.52,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s7_su_2.avi": {
+        "wav": "downloads/enterface/subject 7/surprise/sentence 2/s7_su_2.avi",
+        "length": 3.12,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s21_su_1.avi": {
+        "wav": "downloads/enterface/subject 21/surprise/sentence 1/s21_su_1.avi",
+        "length": 1.64,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s16_su_2.avi": {
+        "wav": "downloads/enterface/subject 16/surprise/sentence 2/s16_su_2.avi",
+        "length": 1.88,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s38_su_5.avi": {
+        "wav": "downloads/enterface/subject 38/surprise/sentence 5/s38_su_5.avi",
+        "length": 2.76,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s16_su_3avi.avi": {
+        "wav": "downloads/enterface/subject 16/surprise/sentence 3/s16_su_3avi.avi",
+        "length": 2.76,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s12_su_1.avi": {
+        "wav": "downloads/enterface/subject 11/surprise/sentence 1/s12_su_1.avi",
+        "length": 2.68,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s26_su_5.avi": {
+        "wav": "downloads/enterface/subject 26/surprise/sentence 5/s26_su_5.avi",
+        "length": 3.52,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s39_su_2.avi": {
+        "wav": "downloads/enterface/subject 39/surprise/sentence 2/s39_su_2.avi",
+        "length": 2.52,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s29_su_2.avi": {
+        "wav": "downloads/enterface/subject 29/surprise/sentence 2/s29_su_2.avi",
+        "length": 2.16,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s18_su_3.avi": {
+        "wav": "downloads/enterface/subject 18/surprise/sentence 3/s18_su_3.avi",
+        "length": 3.68,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s8_su_3.avi": {
+        "wav": "downloads/enterface/subject 8/surprise/sentence 3/s8_su_3.avi",
+        "length": 3.12,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s15_su_4.avi": {
+        "wav": "downloads/enterface/subject 15/surprise/sentence 4/s15_su_4.avi",
+        "length": 2.72,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s26_su_1.avi": {
+        "wav": "downloads/enterface/subject 26/surprise/sentence 1/s26_su_1.avi",
+        "length": 2.08,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s14_su_3.avi": {
+        "wav": "downloads/enterface/subject 14/surprise/sentence 3/s14_su_3.avi",
+        "length": 2.52,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s43_su_5.avi": {
+        "wav": "downloads/enterface/subject 43/surprise/sentence 5/s43_su_5.avi",
+        "length": 3.4,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s29_su_1.avi": {
+        "wav": "downloads/enterface/subject 29/surprise/sentence 1/s29_su_1.avi",
+        "length": 2.24,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s15_su_2.avi": {
+        "wav": "downloads/enterface/subject 15/surprise/sentence 2/s15_su_2.avi",
+        "length": 4.16,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s25_su_3.avi": {
+        "wav": "downloads/enterface/subject 25/surprise/sentence 3/s25_su_3.avi",
+        "length": 1.72,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s5_su_1.avi": {
+        "wav": "downloads/enterface/subject 5/surprise/sentence 1/s5_su_1.avi",
+        "length": 2.8,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s7_su_3.avi": {
+        "wav": "downloads/enterface/subject 7/surprise/sentence 3/s7_su_3.avi",
+        "length": 3.56,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s23_su_5.avi": {
+        "wav": "downloads/enterface/subject 23/surprise/sentence 5/s23_su_5.avi",
+        "length": 1.76,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s31_su_5.avi": {
+        "wav": "downloads/enterface/subject 31/surprise/sentence 5/s31_su_5.avi",
+        "length": 3.04,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s42_su_4.avi": {
+        "wav": "downloads/enterface/subject 42/surprise/sentence 4/s42_su_4.avi",
+        "length": 2.32,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s32_su_4.avi": {
+        "wav": "downloads/enterface/subject 32/surprise/sentence 4/s32_su_4.avi",
+        "length": 2.28,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s41_su_4.avi": {
+        "wav": "downloads/enterface/subject 41/surprise/sentence 4/s41_su_4.avi",
+        "length": 3.72,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s34_su_3.avi": {
+        "wav": "downloads/enterface/subject 34/surprise/sentence 3/s34_su_3.avi",
+        "length": 2.72,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s2_su_3.avi": {
+        "wav": "downloads/enterface/subject 2/surprise/sentence 3/s2_su_3.avi",
+        "length": 3.52,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s21_su_5.avi": {
+        "wav": "downloads/enterface/subject 21/surprise/sentence 5/s21_su_5.avi",
+        "length": 3.32,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s27_su_3.avi": {
+        "wav": "downloads/enterface/subject 27/surprise/sentence 3/s27_su_3.avi",
+        "length": 3.92,
+        "emo": "su",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s31_fe_2.avi": {
+        "wav": "downloads/enterface/subject 31/fear/sentence 2/s31_fe_2.avi",
+        "length": 2.96,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s2_fe_4.avi": {
+        "wav": "downloads/enterface/subject 2/fear/sentence 4/s2_fe_4.avi",
+        "length": 2.76,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s10_fe_5.avi": {
+        "wav": "downloads/enterface/subject 10/fear/sentence 5/s10_fe_5.avi",
+        "length": 3.36,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s16_fe_3.avi": {
+        "wav": "downloads/enterface/subject 16/fear/sentence 3/s16_fe_3.avi",
+        "length": 1.56,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s35_fe_5.avi": {
+        "wav": "downloads/enterface/subject 35/fear/sentence 5/s35_fe_5.avi",
+        "length": 2.24,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s14_fe_2.avi": {
+        "wav": "downloads/enterface/subject 14/fear/sentence 2/s14_fe_2.avi",
+        "length": 2.92,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s10_fe_2.avi": {
+        "wav": "downloads/enterface/subject 10/fear/sentence 2/s10_fe_2.avi",
+        "length": 2.88,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s28_fe_5.avi": {
+        "wav": "downloads/enterface/subject 28/fear/sentence 5/s28_fe_5.avi",
+        "length": 3.28,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s32_fe_2.avi": {
+        "wav": "downloads/enterface/subject 32/fear/sentence 2/s32_fe_2.avi",
+        "length": 2.12,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s28_fe_3.avi": {
+        "wav": "downloads/enterface/subject 28/fear/sentence 3/s28_fe_3.avi",
+        "length": 1.4,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s44_fe_2.avi": {
+        "wav": "downloads/enterface/subject 44/fear/sentence 2/s44_fe_2.avi",
+        "length": 2.52,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s12_fe_2.avi": {
+        "wav": "downloads/enterface/subject 11/fear/sentence 2/s12_fe_2.avi",
+        "length": 2.52,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s35_fe_3.avi": {
+        "wav": "downloads/enterface/subject 35/fear/sentence 3/s35_fe_3.avi",
+        "length": 1.96,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s29_fe_2.avi": {
+        "wav": "downloads/enterface/subject 29/fear/sentence 2/s29_fe_2.avi",
+        "length": 2.08,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s37_fe_1.avi": {
+        "wav": "downloads/enterface/subject 37/fear/sentence 1/s37_fe_1.avi",
+        "length": 3.52,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s29_fe_3.avi": {
+        "wav": "downloads/enterface/subject 29/fear/sentence 3/s29_fe_3.avi",
+        "length": 1.72,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s7_fe_1.avi": {
+        "wav": "downloads/enterface/subject 7/fear/sentence 1/s7_fe_1.avi",
+        "length": 2.88,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s8_fe_2.avi": {
+        "wav": "downloads/enterface/subject 8/fear/sentence 2/s8_fe_2.avi",
+        "length": 3.64,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s20_fe_4.avi": {
+        "wav": "downloads/enterface/subject 20/fear/sentence 4/s20_fe_4.avi",
+        "length": 1.92,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s23_fe_5.avi": {
+        "wav": "downloads/enterface/subject 23/fear/sentence 5/s23_fe_5.avi",
+        "length": 2.8,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s9_fe_5.avi": {
+        "wav": "downloads/enterface/subject 9/fear/sentence 5/s9_fe_5.avi",
+        "length": 3.36,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s38_fe_3.avi": {
+        "wav": "downloads/enterface/subject 38/fear/sentence 3/s38_fe_3.avi",
+        "length": 1.88,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s24_fe_4.avi": {
+        "wav": "downloads/enterface/subject 24/fear/sentence 4/s24_fe_4.avi",
+        "length": 2.72,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s2_fe_1.avi": {
+        "wav": "downloads/enterface/subject 2/fear/sentence 1/s2_fe_1.avi",
+        "length": 3.28,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s3_fe_3.avi": {
+        "wav": "downloads/enterface/subject 3/fear/sentence 3/s3_fe_3.avi",
+        "length": 1.8,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s42_fe_4.avi": {
+        "wav": "downloads/enterface/subject 42/fear/sentence 4/s42_fe_4.avi",
+        "length": 1.6,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s13_fe_2.avi": {
+        "wav": "downloads/enterface/subject 13/fear/sentence 2/s13_fe_2.avi",
+        "length": 2.68,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s41_fe_5.avi": {
+        "wav": "downloads/enterface/subject 41/fear/sentence 5/s41_fe_5.avi",
+        "length": 4.68,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s15_fe_1.avi": {
+        "wav": "downloads/enterface/subject 15/fear/sentence 1/s15_fe_1.avi",
+        "length": 4.16,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s9_fe_4.avi": {
+        "wav": "downloads/enterface/subject 9/fear/sentence 4/s9_fe_4.avi",
+        "length": 2.56,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s3_fe_2.avi": {
+        "wav": "downloads/enterface/subject 3/fear/sentence 2/s3_fe_2.avi",
+        "length": 2.44,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s5_fe_3.avi": {
+        "wav": "downloads/enterface/subject 5/fear/sentence 3/s5_fe_3.avi",
+        "length": 1.92,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s22_fe_1.avi": {
+        "wav": "downloads/enterface/subject 22/fear/sentence 1/s22_fe_1.avi",
+        "length": 2.72,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s19_fe_2.avi": {
+        "wav": "downloads/enterface/subject 19/fear/sentence 2/s19_fe_2.avi",
+        "length": 1.92,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s32_fe_5.avi": {
+        "wav": "downloads/enterface/subject 32/fear/sentence 5/s32_fe_5.avi",
+        "length": 3.52,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s39_fe_5.avi": {
+        "wav": "downloads/enterface/subject 39/fear/sentence 5/s39_fe_5.avi",
+        "length": 3.88,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s44_fe_4.avi": {
+        "wav": "downloads/enterface/subject 44/fear/sentence 4/s44_fe_4.avi",
+        "length": 1.96,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s24_fe_2.avi": {
+        "wav": "downloads/enterface/subject 24/fear/sentence 2/s24_fe_2.avi",
+        "length": 3.52,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s17_fe_3.avi": {
+        "wav": "downloads/enterface/subject 17/fear/sentence 3/s17_fe_3.avi",
+        "length": 3.32,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s7_fe_5.avi": {
+        "wav": "downloads/enterface/subject 7/fear/sentence 5/s7_fe_5.avi",
+        "length": 4.84,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s37_fe_5.avi": {
+        "wav": "downloads/enterface/subject 37/fear/sentence 5/s37_fe_5.avi",
+        "length": 3.0,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s34_fe_4.avi": {
+        "wav": "downloads/enterface/subject 34/fear/sentence 4/s34_fe_4.avi",
+        "length": 2.64,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s13_fe_4.avi": {
+        "wav": "downloads/enterface/subject 13/fear/sentence 4/s13_fe_4.avi",
+        "length": 2.32,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s27_fe_1.avi": {
+        "wav": "downloads/enterface/subject 27/fear/sentence 1/s27_fe_1.avi",
+        "length": 3.8,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s38_fe_4.avi": {
+        "wav": "downloads/enterface/subject 38/fear/sentence 4/s38_fe_4.avi",
+        "length": 2.92,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s33_fe_1.avi": {
+        "wav": "downloads/enterface/subject 33/fear/sentence 1/s33_fe_1.avi",
+        "length": 3.36,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s29_fe_4.avi": {
+        "wav": "downloads/enterface/subject 29/fear/sentence 4/s29_fe_4.avi",
+        "length": 2.2,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s9_fe_1.avi": {
+        "wav": "downloads/enterface/subject 9/fear/sentence 1/s9_fe_1.avi",
+        "length": 5.6,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s16_fe_4.avi": {
+        "wav": "downloads/enterface/subject 16/fear/sentence 4/s16_fe_4.avi",
+        "length": 2.08,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s26_fe_5.avi": {
+        "wav": "downloads/enterface/subject 26/fear/sentence 5/s26_fe_5.avi",
+        "length": 3.84,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s34_fe_5.avi": {
+        "wav": "downloads/enterface/subject 34/fear/sentence 5/s34_fe_5.avi",
+        "length": 3.04,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s31_fe_1.avi": {
+        "wav": "downloads/enterface/subject 31/fear/sentence 1/s31_fe_1.avi",
+        "length": 2.8,
+        "emo": "fe",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s21_ha_1.avi": {
+        "wav": "downloads/enterface/subject 21/happiness/sentence 1/s21_ha_1.avi",
+        "length": 2.88,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s9_ha_1.avi": {
+        "wav": "downloads/enterface/subject 9/happiness/sentence 1/s9_ha_1.avi",
+        "length": 3.4,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s5_ha_3.avi": {
+        "wav": "downloads/enterface/subject 5/happiness/sentence 3/s5_ha_3.avi",
+        "length": 2.72,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s26_ha_2.avi": {
+        "wav": "downloads/enterface/subject 26/happiness/sentence 2/s26_ha_2.avi",
+        "length": 2.88,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s29_ha_1.avi": {
+        "wav": "downloads/enterface/subject 29/happiness/sentence 1/s29_ha_1.avi",
+        "length": 2.52,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s21_ha_4.avi": {
+        "wav": "downloads/enterface/subject 21/happiness/sentence 4/s21_ha_4.avi",
+        "length": 1.88,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s14_ha_2.avi": {
+        "wav": "downloads/enterface/subject 14/happiness/sentence 2/s14_ha_2.avi",
+        "length": 2.8,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s2_ha_5.avi": {
+        "wav": "downloads/enterface/subject 2/happiness/sentence 5/s2_ha_5.avi",
+        "length": 3.2,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s24_ha_5.avi": {
+        "wav": "downloads/enterface/subject 24/happiness/sentence 5/s24_ha_5.avi",
+        "length": 2.2,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s13_ha_2.avi": {
+        "wav": "downloads/enterface/subject 13/happiness/sentence 2/s13_ha_2.avi",
+        "length": 3.2,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s31_ha_2.avi": {
+        "wav": "downloads/enterface/subject 31/happiness/sentence 2/s31_ha_2.avi",
+        "length": 4.2,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s38_ha_1.avi": {
+        "wav": "downloads/enterface/subject 38/happiness/sentence 1/s38_ha_1.avi",
+        "length": 2.88,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s31_ha_4.avi": {
+        "wav": "downloads/enterface/subject 31/happiness/sentence 4/s31_ha_4.avi",
+        "length": 2.96,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s5_ha_5.avi": {
+        "wav": "downloads/enterface/subject 5/happiness/sentence 5/s5_ha_5.avi",
+        "length": 2.08,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s5_ha_1.avi": {
+        "wav": "downloads/enterface/subject 5/happiness/sentence 1/s5_ha_1.avi",
+        "length": 2.64,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s25_ha_4.avi": {
+        "wav": "downloads/enterface/subject 25/happiness/sentence 4/s25_ha_4.avi",
+        "length": 1.36,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s38_ha_2.avi": {
+        "wav": "downloads/enterface/subject 38/happiness/sentence 2/s38_ha_2.avi",
+        "length": 2.92,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s41_ha_1.avi": {
+        "wav": "downloads/enterface/subject 41/happiness/sentence 1/s41_ha_1.avi",
+        "length": 3.48,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s12_ha_3.avi": {
+        "wav": "downloads/enterface/subject 11/happiness/sentence 3/s12_ha_3.avi",
+        "length": 2.52,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s25_ha_5.avi": {
+        "wav": "downloads/enterface/subject 25/happiness/sentence 5/s25_ha_5.avi",
+        "length": 1.76,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s34_ha_4.avi": {
+        "wav": "downloads/enterface/subject 34/happiness/sentence 4/s34_ha_4.avi",
+        "length": 2.0,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s10_ha_4.avi": {
+        "wav": "downloads/enterface/subject 10/happiness/sentence 4/s10_ha_4.avi",
+        "length": 1.72,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s15_ha_3.avi": {
+        "wav": "downloads/enterface/subject 15/happiness/sentence 3/s15_ha_3.avi",
+        "length": 2.52,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s16_ha_5.avi": {
+        "wav": "downloads/enterface/subject 16/happiness/sentence 5/s16_ha_5.avi",
+        "length": 1.48,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s37_ha_3.avi": {
+        "wav": "downloads/enterface/subject 37/happiness/sentence 3/s37_ha_3.avi",
+        "length": 2.72,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s42_ha_3.avi": {
+        "wav": "downloads/enterface/subject 42/happiness/sentence 3/s42_ha_3.avi",
+        "length": 2.68,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s13_ha_4.avi": {
+        "wav": "downloads/enterface/subject 13/happiness/sentence 4/s13_ha_4.avi",
+        "length": 2.48,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s32_ha_4.avi": {
+        "wav": "downloads/enterface/subject 32/happiness/sentence 4/s32_ha_4.avi",
+        "length": 2.08,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s34_ha_3.avi": {
+        "wav": "downloads/enterface/subject 34/happiness/sentence 3/s34_ha_3.avi",
+        "length": 1.92,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s44_ha_4.avi": {
+        "wav": "downloads/enterface/subject 44/happiness/sentence 4/s44_ha_4.avi",
+        "length": 1.64,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s34_ha_5.avi": {
+        "wav": "downloads/enterface/subject 34/happiness/sentence 5/s34_ha_5.avi",
+        "length": 1.28,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s9_ha_2.avi": {
+        "wav": "downloads/enterface/subject 9/happiness/sentence 2/s9_ha_2.avi",
+        "length": 3.96,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s40_ha_1.avi": {
+        "wav": "downloads/enterface/subject 40/happiness/sentence 1/s40_ha_1.avi",
+        "length": 2.4,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s4_ha_5.avi": {
+        "wav": "downloads/enterface/subject 4/happiness/sentence 5/s4_ha_5.avi",
+        "length": 3.12,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s8_ha_4.avi": {
+        "wav": "downloads/enterface/subject 8/happiness/sentence 4/s8_ha_4.avi",
+        "length": 2.36,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s5_ha_4.avi": {
+        "wav": "downloads/enterface/subject 5/happiness/sentence 4/s5_ha_4.avi",
+        "length": 2.44,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s25_ha_2.avi": {
+        "wav": "downloads/enterface/subject 25/happiness/sentence 2/s25_ha_2.avi",
+        "length": 2.28,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s20_ha_3.avi": {
+        "wav": "downloads/enterface/subject 20/happiness/sentence 3/s20_ha_3.avi",
+        "length": 2.08,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s36_ha_5.avi": {
+        "wav": "downloads/enterface/subject 36/happiness/sentence 5/s36_ha_5.avi",
+        "length": 1.36,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s33_ha_4.avi": {
+        "wav": "downloads/enterface/subject 33/happiness/sentence 4/s33_ha_4.avi",
+        "length": 2.4,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s26_ha_1.avi": {
+        "wav": "downloads/enterface/subject 26/happiness/sentence 1/s26_ha_1.avi",
+        "length": 2.16,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s39_ha_5.avi": {
+        "wav": "downloads/enterface/subject 39/happiness/sentence 5/s39_ha_5.avi",
+        "length": 1.68,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s7_ha_5.avi": {
+        "wav": "downloads/enterface/subject 7/happiness/sentence 5/s7_ha_5.avi",
+        "length": 2.48,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s12_ha_4.avi": {
+        "wav": "downloads/enterface/subject 11/happiness/sentence 4/s12_ha_4.avi",
+        "length": 2.0,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s39_ha_3.avi": {
+        "wav": "downloads/enterface/subject 39/happiness/sentence 3/s39_ha_3.avi",
+        "length": 2.92,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s24_ha_4.avi": {
+        "wav": "downloads/enterface/subject 24/happiness/sentence 4/s24_ha_4.avi",
+        "length": 2.36,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s36_ha_2.avi": {
+        "wav": "downloads/enterface/subject 36/happiness/sentence 2/s36_ha_2.avi",
+        "length": 3.12,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s30_ha_2.avi": {
+        "wav": "downloads/enterface/subject 30/happiness/sentence 2/s30_ha_2.avi",
+        "length": 2.72,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s17_ha_3.avi": {
+        "wav": "downloads/enterface/subject 17/happiness/sentence 3/s17_ha_3.avi",
+        "length": 4.08,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s12_ha_1.avi": {
+        "wav": "downloads/enterface/subject 11/happiness/sentence 1/s12_ha_1.avi",
+        "length": 2.28,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s33_ha_2.avi": {
+        "wav": "downloads/enterface/subject 33/happiness/sentence 2/s33_ha_2.avi",
+        "length": 2.8,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s27_ha_2.avi": {
+        "wav": "downloads/enterface/subject 27/happiness/sentence 2/s27_ha_2.avi",
+        "length": 5.04,
+        "emo": "ha",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s17_sa_4.avi": {
+        "wav": "downloads/enterface/subject 17/sadness/sentence 4/s17_sa_4.avi",
+        "length": 3.0,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s4_sa_1.avi": {
+        "wav": "downloads/enterface/subject 4/sadness/sentence 1/s4_sa_1.avi",
+        "length": 3.04,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s28_sa_2.avi": {
+        "wav": "downloads/enterface/subject 28/sadness/sentence 2/s28_sa_2.avi",
+        "length": 2.68,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s22_sa_5.avi": {
+        "wav": "downloads/enterface/subject 22/sadness/sentence 5/s22_sa_5.avi",
+        "length": 1.76,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s21_sa_4.avi": {
+        "wav": "downloads/enterface/subject 21/sadness/sentence 4/s21_sa_4.avi",
+        "length": 1.8,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s26_sa_1.avi": {
+        "wav": "downloads/enterface/subject 26/sadness/sentence 1/s26_sa_1.avi",
+        "length": 3.0,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s8_sa_3.avi": {
+        "wav": "downloads/enterface/subject 8/sadness/sentence 3/s8_sa_3.avi",
+        "length": 3.48,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s23_sa_2.avi": {
+        "wav": "downloads/enterface/subject 23/sadness/sentence 2/s23_sa_2.avi",
+        "length": 3.48,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s17_sa_5.avi": {
+        "wav": "downloads/enterface/subject 17/sadness/sentence 5/s17_sa_5.avi",
+        "length": 3.8,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s19_sa_5.avi": {
+        "wav": "downloads/enterface/subject 19/sadness/sentence 5/s19_sa_5.avi",
+        "length": 2.12,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s36_sa_2.avi": {
+        "wav": "downloads/enterface/subject 36/sadness/sentence 2/s36_sa_2.avi",
+        "length": 3.0,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s35_sa_5.avi": {
+        "wav": "downloads/enterface/subject 35/sadness/sentence 5/s35_sa_5.avi",
+        "length": 2.72,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s1_sa_5.avi": {
+        "wav": "downloads/enterface/subject 1/sadness/sentence 5/s1_sa_5.avi",
+        "length": 2.44,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s30_sa_2.avi": {
+        "wav": "downloads/enterface/subject 30/sadness/sentence 2/s30_sa_2.avi",
+        "length": 2.92,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s20_sa_2.avi": {
+        "wav": "downloads/enterface/subject 20/sadness/sentence 2/s20_sa_2.avi",
+        "length": 3.2,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s40_sa_5.avi": {
+        "wav": "downloads/enterface/subject 40/sadness/sentence 5/s40_sa_5.avi",
+        "length": 2.52,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s23_sa_4.avi": {
+        "wav": "downloads/enterface/subject 23/sadness/sentence 4/s23_sa_4.avi",
+        "length": 1.6,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s24_sa_4.avi": {
+        "wav": "downloads/enterface/subject 24/sadness/sentence 4/s24_sa_4.avi",
+        "length": 1.76,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s14_sa_5.avi": {
+        "wav": "downloads/enterface/subject 14/sadness/sentence 5/s14_sa_5.avi",
+        "length": 1.48,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s23_sa_3.avi": {
+        "wav": "downloads/enterface/subject 23/sadness/sentence 3/s23_sa_3.avi",
+        "length": 3.56,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s38_sa_1.avi": {
+        "wav": "downloads/enterface/subject 38/sadness/sentence 1/s38_sa_1.avi",
+        "length": 2.6,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s27_sa_5.avi": {
+        "wav": "downloads/enterface/subject 27/sadness/sentence 5/s27_sa_5.avi",
+        "length": 1.76,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s30_sa_3.avi": {
+        "wav": "downloads/enterface/subject 30/sadness/sentence 3/s30_sa_3.avi",
+        "length": 3.08,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s10_sa_4.avi": {
+        "wav": "downloads/enterface/subject 10/sadness/sentence 4/s10_sa_4.avi",
+        "length": 1.92,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s7_sa_4.avi": {
+        "wav": "downloads/enterface/subject 7/sadness/sentence 4/s7_sa_4.avi",
+        "length": 3.84,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s36_sa_1.avi": {
+        "wav": "downloads/enterface/subject 36/sadness/sentence 1/s36_sa_1.avi",
+        "length": 2.56,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s2_sa_4.avi": {
+        "wav": "downloads/enterface/subject 2/sadness/sentence 4/s2_sa_4.avi",
+        "length": 2.48,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s_3_sa_2.avi": {
+        "wav": "downloads/enterface/subject 3/sadness/sentence 2/s_3_sa_2.avi",
+        "length": 4.84,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s33_sa_1.avi": {
+        "wav": "downloads/enterface/subject 33/sadness/sentence 1/s33_sa_1.avi",
+        "length": 4.92,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s16_sa_5.avi": {
+        "wav": "downloads/enterface/subject 16/sadness/sentence 5/s16_sa_5.avi",
+        "length": 1.92,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s18_sa_4.avi": {
+        "wav": "downloads/enterface/subject 18/sadness/sentence 4/s18_sa_4.avi",
+        "length": 3.88,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s21_sa_2.avi": {
+        "wav": "downloads/enterface/subject 21/sadness/sentence 2/s21_sa_2.avi",
+        "length": 2.68,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s22_sa_4.avi": {
+        "wav": "downloads/enterface/subject 22/sadness/sentence 4/s22_sa_4.avi",
+        "length": 1.32,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s41_sa_3.avi": {
+        "wav": "downloads/enterface/subject 41/sadness/sentence 3/s41_sa_3.avi",
+        "length": 4.24,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s4_sa_2.avi": {
+        "wav": "downloads/enterface/subject 4/sadness/sentence 2/s4_sa_2.avi",
+        "length": 3.72,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s42_sa_4.avi": {
+        "wav": "downloads/enterface/subject 42/sadness/sentence 4/s42_sa_4.avi",
+        "length": 1.8,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s18_sa_3.avi": {
+        "wav": "downloads/enterface/subject 18/sadness/sentence 3/s18_sa_3.avi",
+        "length": 5.76,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s35_sa_1.avi": {
+        "wav": "downloads/enterface/subject 35/sadness/sentence 1/s35_sa_1.avi",
+        "length": 2.44,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s43_sa_3.avi": {
+        "wav": "downloads/enterface/subject 43/sadness/sentence 3/s43_sa_3.avi",
+        "length": 5.0,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s26_sa_4.avi": {
+        "wav": "downloads/enterface/subject 26/sadness/sentence 4/s26_sa_4.avi",
+        "length": 2.32,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s9_sa_1.avi": {
+        "wav": "downloads/enterface/subject 9/sadness/sentence 1/s9_sa_1.avi",
+        "length": 1.68,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s42_sa_3.avi": {
+        "wav": "downloads/enterface/subject 42/sadness/sentence 3/s42_sa_3.avi",
+        "length": 3.0,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s21_sa_5.avi": {
+        "wav": "downloads/enterface/subject 21/sadness/sentence 5/s21_sa_5.avi",
+        "length": 2.2,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s43_sa_2.avi": {
+        "wav": "downloads/enterface/subject 43/sadness/sentence 2/s43_sa_2.avi",
+        "length": 3.76,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s43_sa_1.avi": {
+        "wav": "downloads/enterface/subject 43/sadness/sentence 1/s43_sa_1.avi",
+        "length": 4.16,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s37_sa_4.avi": {
+        "wav": "downloads/enterface/subject 37/sadness/sentence 4/s37_sa_4.avi",
+        "length": 2.52,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s39_sa_5.avi": {
+        "wav": "downloads/enterface/subject 39/sadness/sentence 5/s39_sa_5.avi",
+        "length": 2.48,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s19_sa_4.avi": {
+        "wav": "downloads/enterface/subject 19/sadness/sentence 4/s19_sa_4.avi",
+        "length": 1.56,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s7_sa_2.avi": {
+        "wav": "downloads/enterface/subject 7/sadness/sentence 2/s7_sa_2.avi",
+        "length": 3.24,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s5_sa_5.avi": {
+        "wav": "downloads/enterface/subject 5/sadness/sentence 5/s5_sa_5.avi",
+        "length": 2.52,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s39_sa_3.avi": {
+        "wav": "downloads/enterface/subject 39/sadness/sentence 3/s39_sa_3.avi",
+        "length": 4.24,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s27_sa_2.avi": {
+        "wav": "downloads/enterface/subject 27/sadness/sentence 2/s27_sa_2.avi",
+        "length": 5.24,
+        "emo": "sa",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s22_di_4.avi": {
+        "wav": "downloads/enterface/subject 22/disgust/sentence 4/s22_di_4.avi",
+        "length": 1.92,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s44_di_1.avi": {
+        "wav": "downloads/enterface/subject 44/disgust/sentence 1/s44_di_1.avi",
+        "length": 3.72,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s9_di_3.avi": {
+        "wav": "downloads/enterface/subject 9/disgust/sentence 3/s9_di_3.avi",
+        "length": 2.4,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s8_di_5.avi": {
+        "wav": "downloads/enterface/subject 8/disgust/sentence 5/s8_di_5.avi",
+        "length": 2.84,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s14_di_4.avi": {
+        "wav": "downloads/enterface/subject 14/disgust/sentence 4/s14_di_4.avi",
+        "length": 2.08,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s39_di_4.avi": {
+        "wav": "downloads/enterface/subject 39/disgust/sentence 4/s39_di_4.avi",
+        "length": 3.4,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s35_di_1.avi": {
+        "wav": "downloads/enterface/subject 35/disgust/sentence 1/s35_di_1.avi",
+        "length": 2.68,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s30_di_2.avi": {
+        "wav": "downloads/enterface/subject 30/disgust/sentence 2/s30_di_2.avi",
+        "length": 1.92,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s37_di_4.avi": {
+        "wav": "downloads/enterface/subject 37/disgust/sentence 4/s37_di_4.avi",
+        "length": 2.12,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s31_di_5.avi": {
+        "wav": "downloads/enterface/subject 31/disgust/sentence 5/s31_di_5.avi",
+        "length": 1.64,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s1_di_1.avi": {
+        "wav": "downloads/enterface/subject 1/disgust/sentence 1/s1_di_1.avi",
+        "length": 3.96,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s10_di_5.avi": {
+        "wav": "downloads/enterface/subject 10/disgust/sentence 5/s10_di_5.avi",
+        "length": 1.84,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s7_di_3.avi": {
+        "wav": "downloads/enterface/subject 7/disgust/sentence 3/s7_di_3.avi",
+        "length": 2.16,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s37_di_1.avi": {
+        "wav": "downloads/enterface/subject 37/disgust/sentence 1/s37_di_1.avi",
+        "length": 4.24,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s23_di_5.avi": {
+        "wav": "downloads/enterface/subject 23/disgust/sentence 5/s23_di_5.avi",
+        "length": 1.64,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s7_di_2.avi": {
+        "wav": "downloads/enterface/subject 7/disgust/sentence 2/s7_di_2.avi",
+        "length": 3.32,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s33_di_1.avi": {
+        "wav": "downloads/enterface/subject 33/disgust/sentence 1/s33_di_1.avi",
+        "length": 4.32,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s17_di_1.avi": {
+        "wav": "downloads/enterface/subject 17/disgust/sentence 1/s17_di_1.avi",
+        "length": 3.48,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s38_di_1.avi": {
+        "wav": "downloads/enterface/subject 38/disgust/sentence 1/s38_di_1.avi",
+        "length": 4.72,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s34_di_1.avi": {
+        "wav": "downloads/enterface/subject 34/disgust/sentence 1/s34_di_1.avi",
+        "length": 3.52,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s32_di_4.avi": {
+        "wav": "downloads/enterface/subject 32/disgust/sentence 4/s32_di_4.avi",
+        "length": 2.6,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s15_di_5.avi": {
+        "wav": "downloads/enterface/subject 15/disgust/sentence 5/s15_di_5.avi",
+        "length": 1.96,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s27_di_2.avi": {
+        "wav": "downloads/enterface/subject 27/disgust/sentence 2/s27_di_2.avi",
+        "length": 3.28,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s43_di_1.avi": {
+        "wav": "downloads/enterface/subject 43/disgust/sentence 1/s43_di_1.avi",
+        "length": 3.72,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s28_di_2.avi": {
+        "wav": "downloads/enterface/subject 28/disgust/sentence 2/s28_di_2.avi",
+        "length": 2.8,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s41_di_5.avi": {
+        "wav": "downloads/enterface/subject 41/disgust/sentence 5/s41_di_5.avi",
+        "length": 2.76,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s30_di_3.avi": {
+        "wav": "downloads/enterface/subject 30/disgust/sentence 3/s30_di_3.avi",
+        "length": 1.72,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s26_di_5.avi": {
+        "wav": "downloads/enterface/subject 26/disgust/sentence 5/s26_di_5.avi",
+        "length": 1.72,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s19_di_4.avi": {
+        "wav": "downloads/enterface/subject 19/disgust/sentence 4/s19_di_4.avi",
+        "length": 1.84,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s31_di_2.avi": {
+        "wav": "downloads/enterface/subject 31/disgust/sentence 2/s31_di_2.avi",
+        "length": 3.6,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s20_di_4.avi": {
+        "wav": "downloads/enterface/subject 20/disgust/sentence 4/s20_di_4.avi",
+        "length": 2.0,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s3_di_3.avi": {
+        "wav": "downloads/enterface/subject 3/disgust/sentence 3/s3_di_3.avi",
+        "length": 3.04,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s40_di_5.avi": {
+        "wav": "downloads/enterface/subject 40/disgust/sentence 5/s40_di_5.avi",
+        "length": 1.68,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s36_di_5.avi": {
+        "wav": "downloads/enterface/subject 36/disgust/sentence 5/s36_di_5.avi",
+        "length": 1.4,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s33_di_3.avi": {
+        "wav": "downloads/enterface/subject 33/disgust/sentence 3/s33_di_3.avi",
+        "length": 2.64,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s7_di_1.avi": {
+        "wav": "downloads/enterface/subject 7/disgust/sentence 1/s7_di_1.avi",
+        "length": 6.32,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s5_di_3.avi": {
+        "wav": "downloads/enterface/subject 5/disgust/sentence 3/s5_di_3.avi",
+        "length": 1.92,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s16_di_2.avi": {
+        "wav": "downloads/enterface/subject 16/disgust/sentence 2/s16_di_2.avi",
+        "length": 2.52,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s9_di_1.avi": {
+        "wav": "downloads/enterface/subject 9/disgust/sentence 1/s9_di_1.avi",
+        "length": 3.92,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s2_di_1.avi": {
+        "wav": "downloads/enterface/subject 2/disgust/sentence 1/s2_di_1.avi",
+        "length": 5.04,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s21_di_5.avi": {
+        "wav": "downloads/enterface/subject 21/disgust/sentence 5/s21_di_5.avi",
+        "length": 1.44,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s19_di_5.avi": {
+        "wav": "downloads/enterface/subject 19/disgust/sentence 5/s19_di_5.avi",
+        "length": 1.8,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s15_di_2.avi": {
+        "wav": "downloads/enterface/subject 15/disgust/sentence 2/s15_di_2.avi",
+        "length": 3.04,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s35_di_2.avi": {
+        "wav": "downloads/enterface/subject 35/disgust/sentence 2/s35_di_2.avi",
+        "length": 2.52,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s40_di_2.avi": {
+        "wav": "downloads/enterface/subject 40/disgust/sentence 2/s40_di_2.avi",
+        "length": 2.56,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s39_di_1.avi": {
+        "wav": "downloads/enterface/subject 39/disgust/sentence 1/s39_di_1.avi",
+        "length": 3.12,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s12_di_5.avi": {
+        "wav": "downloads/enterface/subject 11/disgust/sentence 5/s12_di_5.avi",
+        "length": 1.56,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s15_di_4.avi": {
+        "wav": "downloads/enterface/subject 15/disgust/sentence 4/s15_di_4.avi",
+        "length": 2.56,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s9_di_2.avi": {
+        "wav": "downloads/enterface/subject 9/disgust/sentence 2/s9_di_2.avi",
+        "length": 3.36,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s25_di_4.avi": {
+        "wav": "downloads/enterface/subject 25/disgust/sentence 4/s25_di_4.avi",
+        "length": 2.2,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s42_di_4.avi": {
+        "wav": "downloads/enterface/subject 42/disgust/sentence 4/s42_di_4.avi",
+        "length": 1.88,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    },
+    "enterface-s13_di_4.avi": {
+        "wav": "downloads/enterface/subject 13/disgust/sentence 4/s13_di_4.avi",
+        "length": 2.16,
+        "emo": "di",
+        "dataset": "enterface",
+        "channel": 1
+    }
+}

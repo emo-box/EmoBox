@@ -1,0 +1,6554 @@
+{
+    "cafe-12-P-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/12-P-2-5.wav",
+        "length": 5.180270833333333,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-P-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/06-P-2-5.wav",
+        "length": 4.3464375,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-P-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/02-P-2-2.wav",
+        "length": 5.5031875,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-P-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/08-P-2-1.wav",
+        "length": 3.517354166666667,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-P-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/05-P-2-5.wav",
+        "length": 4.048,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-P-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/05-P-2-4.wav",
+        "length": 3.7033125,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-P-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/10-P-2-6.wav",
+        "length": 6.1981875,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-P-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/02-P-2-4.wav",
+        "length": 4.715458333333333,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-P-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/06-P-2-2.wav",
+        "length": 3.9694791666666664,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-P-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/08-P-2-3.wav",
+        "length": 3.588208333333333,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-P-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/05-P-2-2.wav",
+        "length": 4.218208333333333,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-P-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/09-P-2-4.wav",
+        "length": 3.9385625,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-P-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/05-P-2-3.wav",
+        "length": 4.152520833333333,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-P-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/03-P-2-1.wav",
+        "length": 3.463020833333333,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-P-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/04-P-2-1.wav",
+        "length": 3.5071875,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-P-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/07-P-2-2.wav",
+        "length": 3.6749375,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-P-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/03-P-2-5.wav",
+        "length": 2.9071041666666666,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-P-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/06-P-2-3.wav",
+        "length": 4.909625,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-P-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/10-P-2-3.wav",
+        "length": 5.660083333333334,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-P-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/11-P-2-6.wav",
+        "length": 4.978541666666667,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-P-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/11-P-2-1.wav",
+        "length": 3.8343958333333332,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-P-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/09-P-2-3.wav",
+        "length": 4.063416666666667,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-P-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/07-P-2-5.wav",
+        "length": 3.5990625,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-P-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/09-P-2-2.wav",
+        "length": 3.957291666666667,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-P-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/10-P-2-2.wav",
+        "length": 5.0901875,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-P-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/01-P-2-2.wav",
+        "length": 4.0849375,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-P-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/10-P-2-4.wav",
+        "length": 4.701625,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-P-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/02-P-2-6.wav",
+        "length": 5.2897083333333335,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-P-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/08-P-2-5.wav",
+        "length": 3.75875,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-P-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/10-P-2-5.wav",
+        "length": 4.623916666666666,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-P-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/02-P-2-5.wav",
+        "length": 4.538854166666667,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-P-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/05-P-2-6.wav",
+        "length": 4.310854166666667,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-P-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/12-P-2-4.wav",
+        "length": 3.8331666666666666,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-P-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/12-P-2-1.wav",
+        "length": 4.670729166666667,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-P-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/11-P-2-5.wav",
+        "length": 5.091916666666667,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-P-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/04-P-2-2.wav",
+        "length": 4.1260625,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-P-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/01-P-2-4.wav",
+        "length": 4.362979166666666,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-P-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/01-P-2-6.wav",
+        "length": 4.380895833333334,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-P-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/12-P-2-2.wav",
+        "length": 4.28575,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-P-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/07-P-2-4.wav",
+        "length": 3.3717083333333333,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-P-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/12-P-2-6.wav",
+        "length": 4.798125,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-P-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/05-P-2-1.wav",
+        "length": 3.991604166666667,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-P-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/03-P-2-4.wav",
+        "length": 3.2984166666666668,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-P-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/07-P-2-1.wav",
+        "length": 3.577375,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-P-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/04-P-2-3.wav",
+        "length": 4.2625625,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-P-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/11-P-2-4.wav",
+        "length": 5.1846875,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-P-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/02-P-2-1.wav",
+        "length": 4.8775208333333335,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-P-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/08-P-2-6.wav",
+        "length": 3.661375,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-P-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/12-P-2-3.wav",
+        "length": 4.500895833333334,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-P-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/04-P-2-4.wav",
+        "length": 4.671020833333333,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-P-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/11-P-2-2.wav",
+        "length": 4.729104166666667,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-P-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/07-P-2-6.wav",
+        "length": 3.4039375,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-P-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/09-P-2-6.wav",
+        "length": 3.9885,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-P-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/03-P-2-2.wav",
+        "length": 3.6814583333333335,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-P-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/03-P-2-6.wav",
+        "length": 3.6104166666666666,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-P-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/09-P-2-5.wav",
+        "length": 3.7201041666666668,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-P-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/01-P-2-5.wav",
+        "length": 4.019979166666666,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-P-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/08-P-2-4.wav",
+        "length": 3.5756875,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-P-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/10-P-2-1.wav",
+        "length": 4.168291666666667,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-P-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/07-P-2-3.wav",
+        "length": 3.588208333333333,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-P-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/08-P-2-2.wav",
+        "length": 3.7519375,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-P-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/04-P-2-6.wav",
+        "length": 4.833,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-P-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/01-P-2-3.wav",
+        "length": 4.04525,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-P-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/11-P-2-3.wav",
+        "length": 4.834229166666667,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-P-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/03-P-2-3.wav",
+        "length": 3.2245,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-P-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/04-P-2-5.wav",
+        "length": 4.359625,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-P-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/09-P-2-1.wav",
+        "length": 3.8075,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-P-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/06-P-2-4.wav",
+        "length": 4.52925,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-P-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/06-P-2-6.wav",
+        "length": 4.825395833333333,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-P-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/06-P-2-1.wav",
+        "length": 4.230645833333333,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-P-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/02-P-2-3.wav",
+        "length": 5.536708333333333,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-P-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Fort/01-P-2-1.wav",
+        "length": 3.4432708333333335,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-P-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/03-P-1-2.wav",
+        "length": 3.9416041666666666,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-P-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/09-P-1-6.wav",
+        "length": 3.9429166666666666,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-P-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/07-P-1-2.wav",
+        "length": 3.9567916666666667,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-P-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/10-P-1-2.wav",
+        "length": 5.880270833333333,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-P-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/10-P-1-6.wav",
+        "length": 5.543520833333333,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-P-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/08-P-1-3.wav",
+        "length": 3.5338541666666665,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-P-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/09-P-1-3.wav",
+        "length": 3.614,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-P-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/11-P-1-1.wav",
+        "length": 3.7931875,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-P-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/11-P-1-5.wav",
+        "length": 4.6899375,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-P-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/12-P-1-3.wav",
+        "length": 4.656583333333334,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-P-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/02-P-1-5.wav",
+        "length": 4.9881875,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-P-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/09-P-1-2.wav",
+        "length": 3.7700416666666667,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-P-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/10-P-1-1.wav",
+        "length": 5.388083333333333,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-P-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/03-P-1-6.wav",
+        "length": 3.6433958333333334,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-P-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/04-P-1-4.wav",
+        "length": 4.2999375,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-P-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/08-P-1-2.wav",
+        "length": 3.641125,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-P-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/06-P-1-4.wav",
+        "length": 4.3351041666666665,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-P-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/06-P-1-1.wav",
+        "length": 3.5625833333333334,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-P-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/12-P-1-6.wav",
+        "length": 6.171020833333333,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-P-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/05-P-1-3.wav",
+        "length": 4.642270833333333,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-P-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/03-P-1-5.wav",
+        "length": 3.073729166666667,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-P-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/07-P-1-5.wav",
+        "length": 3.6424166666666666,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-P-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/04-P-1-6.wav",
+        "length": 4.378604166666666,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-P-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/01-P-1-6.wav",
+        "length": 3.9919375,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-P-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/04-P-1-5.wav",
+        "length": 5.0532916666666665,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-P-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/01-P-1-3.wav",
+        "length": 4.7127083333333335,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-P-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/02-P-1-4.wav",
+        "length": 4.190541666666666,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-P-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/08-P-1-6.wav",
+        "length": 3.4255625,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-P-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/09-P-1-1.wav",
+        "length": 3.6576875,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-P-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/09-P-1-4.wav",
+        "length": 4.209479166666667,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-P-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/11-P-1-2.wav",
+        "length": 5.236229166666667,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-P-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/12-P-1-4.wav",
+        "length": 5.6818125,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-P-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/05-P-1-6.wav",
+        "length": 4.754375,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-P-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/06-P-1-2.wav",
+        "length": 4.387333333333333,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-P-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/04-P-1-3.wav",
+        "length": 4.0319375,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-P-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/05-P-1-1.wav",
+        "length": 3.5943958333333335,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-P-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/02-P-1-6.wav",
+        "length": 5.322770833333333,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-P-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/12-P-1-2.wav",
+        "length": 4.736916666666667,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-P-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/02-P-1-2.wav",
+        "length": 4.768770833333333,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-P-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/01-P-1-4.wav",
+        "length": 4.2104791666666666,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-P-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/05-P-1-2.wav",
+        "length": 4.832979166666667,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-P-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/04-P-1-2.wav",
+        "length": 4.386020833333333,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-P-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/12-P-1-1.wav",
+        "length": 6.057791666666667,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-P-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/06-P-1-3.wav",
+        "length": 4.073958333333334,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-P-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/06-P-1-5.wav",
+        "length": 4.171625,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-P-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/02-P-1-1.wav",
+        "length": 4.8775208333333335,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-P-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/04-P-1-1.wav",
+        "length": 3.249041666666667,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-P-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/02-P-1-3.wav",
+        "length": 4.9461875,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-P-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/11-P-1-4.wav",
+        "length": 4.865145833333333,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-P-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/10-P-1-5.wav",
+        "length": 5.401041666666667,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-P-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/01-P-1-2.wav",
+        "length": 4.064229166666666,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-P-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/07-P-1-1.wav",
+        "length": 3.2566041666666665,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-P-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/08-P-1-4.wav",
+        "length": 3.4805208333333333,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-P-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/03-P-1-1.wav",
+        "length": 3.5852916666666665,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-P-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/08-P-1-5.wav",
+        "length": 3.9303333333333335,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-P-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/06-P-1-6.wav",
+        "length": 4.632395833333334,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-P-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/07-P-1-4.wav",
+        "length": 3.65325,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-P-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/03-P-1-4.wav",
+        "length": 2.8297916666666665,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-P-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/03-P-1-3.wav",
+        "length": 3.4682916666666666,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-P-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/12-P-1-5.wav",
+        "length": 6.182270833333333,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-P-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/05-P-1-4.wav",
+        "length": 4.587666666666666,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-P-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/01-P-1-1.wav",
+        "length": 3.3276666666666666,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-P-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/01-P-1-5.wav",
+        "length": 4.194645833333333,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-P-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/09-P-1-5.wav",
+        "length": 3.957291666666667,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-P-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/08-P-1-1.wav",
+        "length": 3.2853958333333333,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-P-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/07-P-1-6.wav",
+        "length": 3.3117916666666667,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-P-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/10-P-1-4.wav",
+        "length": 4.9218125,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-P-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/07-P-1-3.wav",
+        "length": 3.441875,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-P-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/11-P-1-3.wav",
+        "length": 4.947604166666666,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-P-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/10-P-1-3.wav",
+        "length": 6.437208333333333,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-P-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/05-P-1-5.wav",
+        "length": 4.7603333333333335,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-P-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Peur/Faible/11-P-1-6.wav",
+        "length": 3.9890208333333335,
+        "emo": "p",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-D-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/10-D-2-1.wav",
+        "length": 6.20325,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-D-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/04-D-2-6.wav",
+        "length": 5.529041666666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-D-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/05-D-2-1.wav",
+        "length": 4.749875,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-D-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/12-D-2-2.wav",
+        "length": 6.024916666666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-D-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/11-D-2-4.wav",
+        "length": 4.85225,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-D-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/04-D-2-3.wav",
+        "length": 5.4005833333333335,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-D-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/01-D-2-3.wav",
+        "length": 5.2388125,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-D-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/04-D-2-2.wav",
+        "length": 4.614354166666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-D-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/09-D-2-5.wav",
+        "length": 4.843708333333334,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-D-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/02-D-2-1.wav",
+        "length": 4.923145833333334,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-D-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/04-D-2-5.wav",
+        "length": 5.219854166666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-D-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/03-D-2-5.wav",
+        "length": 3.8621041666666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-D-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/04-D-2-4.wav",
+        "length": 5.241833333333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-D-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/12-D-2-5.wav",
+        "length": 7.531125,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-D-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/05-D-2-5.wav",
+        "length": 5.72675,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-D-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/01-D-2-4.wav",
+        "length": 5.228833333333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-D-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/01-D-2-5.wav",
+        "length": 4.7700625,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-D-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/12-D-2-6.wav",
+        "length": 7.2345,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-D-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/06-D-2-1.wav",
+        "length": 4.501833333333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-D-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/06-D-2-5.wav",
+        "length": 4.957958333333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-D-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/11-D-2-3.wav",
+        "length": 5.75375,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-D-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/08-D-2-5.wav",
+        "length": 4.061229166666666,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-D-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/10-D-2-6.wav",
+        "length": 6.463520833333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-D-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/10-D-2-2.wav",
+        "length": 6.658729166666666,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-D-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/11-D-2-1.wav",
+        "length": 5.395791666666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-D-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/08-D-2-6.wav",
+        "length": 4.496875,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-D-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/03-D-2-1.wav",
+        "length": 3.3101041666666666,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-D-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/12-D-2-1.wav",
+        "length": 4.912020833333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-D-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/04-D-2-1.wav",
+        "length": 4.253395833333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-D-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/07-D-2-6.wav",
+        "length": 3.5969583333333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-D-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/10-D-2-4.wav",
+        "length": 6.387604166666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-D-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/02-D-2-4.wav",
+        "length": 4.894395833333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-D-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/08-D-2-1.wav",
+        "length": 5.534458333333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-D-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/05-D-2-2.wav",
+        "length": 5.408916666666666,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-D-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/07-D-2-1.wav",
+        "length": 3.4678333333333335,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-D-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/03-D-2-2.wav",
+        "length": 3.6429583333333335,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-D-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/01-D-2-2.wav",
+        "length": 4.994166666666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-D-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/01-D-2-1.wav",
+        "length": 4.61,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-D-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/03-D-2-6.wav",
+        "length": 2.8640208333333335,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-D-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/06-D-2-3.wav",
+        "length": 3.9251875,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-D-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/02-D-2-2.wav",
+        "length": 5.479,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-D-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/09-D-2-1.wav",
+        "length": 4.478666666666666,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-D-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/11-D-2-2.wav",
+        "length": 5.992375,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-D-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/03-D-2-4.wav",
+        "length": 2.7615833333333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-D-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/02-D-2-3.wav",
+        "length": 5.2388125,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-D-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/08-D-2-2.wav",
+        "length": 4.341291666666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-D-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/07-D-2-5.wav",
+        "length": 3.806020833333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-D-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/07-D-2-4.wav",
+        "length": 3.8859375,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-D-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/08-D-2-4.wav",
+        "length": 4.534229166666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-D-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/10-D-2-3.wav",
+        "length": 6.008041666666666,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-D-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/01-D-2-6.wav",
+        "length": 6.114645833333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-D-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/02-D-2-6.wav",
+        "length": 5.087979166666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-D-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/05-D-2-4.wav",
+        "length": 5.897708333333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-D-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/02-D-2-5.wav",
+        "length": 6.51125,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-D-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/11-D-2-6.wav",
+        "length": 5.263229166666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-D-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/12-D-2-3.wav",
+        "length": 6.504604166666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-D-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/03-D-2-3.wav",
+        "length": 3.1336666666666666,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-D-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/05-D-2-3.wav",
+        "length": 5.697854166666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-D-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/12-D-2-4.wav",
+        "length": 5.717895833333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-D-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/07-D-2-3.wav",
+        "length": 3.9289791666666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-D-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/06-D-2-6.wav",
+        "length": 4.428520833333334,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-D-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/05-D-2-6.wav",
+        "length": 5.5646875,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-D-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/06-D-2-4.wav",
+        "length": 4.468208333333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-D-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/10-D-2-5.wav",
+        "length": 6.561125,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-D-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/09-D-2-3.wav",
+        "length": 5.131520833333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-D-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/11-D-2-5.wav",
+        "length": 5.228354166666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-D-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/09-D-2-4.wav",
+        "length": 4.731395833333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-D-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/08-D-2-3.wav",
+        "length": 4.019479166666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-D-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/07-D-2-2.wav",
+        "length": 4.193375,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-D-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/06-D-2-2.wav",
+        "length": 4.741104166666666,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-D-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/09-D-2-6.wav",
+        "length": 4.380395833333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-D-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Fort/09-D-2-2.wav",
+        "length": 5.228833333333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-D-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/12-D-1-5.wav",
+        "length": 7.744875,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-D-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/05-D-1-5.wav",
+        "length": 5.292020833333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-D-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/05-D-1-4.wav",
+        "length": 5.473229166666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-D-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/08-D-1-3.wav",
+        "length": 3.7295833333333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-D-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/06-D-1-3.wav",
+        "length": 4.522583333333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-D-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/05-D-1-6.wav",
+        "length": 4.980354166666666,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-D-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/05-D-1-1.wav",
+        "length": 4.533875,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-D-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/06-D-1-5.wav",
+        "length": 4.763166666666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-D-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/02-D-1-5.wav",
+        "length": 4.588916666666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-D-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/12-D-1-2.wav",
+        "length": 6.907541666666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-D-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/07-D-1-4.wav",
+        "length": 4.359395833333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-D-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/08-D-1-1.wav",
+        "length": 4.28475,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-D-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/10-D-1-1.wav",
+        "length": 4.815104166666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-D-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/01-D-1-5.wav",
+        "length": 5.160020833333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-D-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/04-D-1-2.wav",
+        "length": 5.3595,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-D-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/04-D-1-6.wav",
+        "length": 5.465645833333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-D-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/05-D-1-2.wav",
+        "length": 4.988479166666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-D-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/07-D-1-5.wav",
+        "length": 4.377833333333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-D-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/04-D-1-3.wav",
+        "length": 5.2405,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-D-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/08-D-1-6.wav",
+        "length": 3.8581041666666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-D-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/03-D-1-3.wav",
+        "length": 3.5964375,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-D-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/11-D-1-2.wav",
+        "length": 5.0378541666666665,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-D-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/09-D-1-5.wav",
+        "length": 5.032395833333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-D-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/07-D-1-1.wav",
+        "length": 3.4678333333333335,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-D-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/09-D-1-3.wav",
+        "length": 5.280916666666666,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-D-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/11-D-1-1.wav",
+        "length": 4.640125,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-D-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/11-D-1-4.wav",
+        "length": 5.581395833333334,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-D-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/03-D-1-4.wav",
+        "length": 3.9746875,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-D-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/12-D-1-3.wav",
+        "length": 6.044083333333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-D-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/06-D-1-2.wav",
+        "length": 4.287645833333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-D-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/11-D-1-6.wav",
+        "length": 5.289729166666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-D-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/01-D-1-4.wav",
+        "length": 5.402166666666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-D-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/12-D-1-4.wav",
+        "length": 5.5179375,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-D-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/03-D-1-5.wav",
+        "length": 3.6780833333333334,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-D-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/01-D-1-3.wav",
+        "length": 4.884791666666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-D-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/07-D-1-3.wav",
+        "length": 4.039666666666666,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-D-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/04-D-1-4.wav",
+        "length": 5.3253125,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-D-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/04-D-1-1.wav",
+        "length": 4.831270833333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-D-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/02-D-1-1.wav",
+        "length": 5.1847916666666665,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-D-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/07-D-1-6.wav",
+        "length": 3.922833333333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-D-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/02-D-1-2.wav",
+        "length": 5.6378125,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-D-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/10-D-1-4.wav",
+        "length": 4.934395833333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-D-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/04-D-1-5.wav",
+        "length": 5.317916666666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-D-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/11-D-1-5.wav",
+        "length": 5.594666666666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-D-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/06-D-1-4.wav",
+        "length": 4.5813125,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-D-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/09-D-1-2.wav",
+        "length": 4.564208333333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-D-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/08-D-1-4.wav",
+        "length": 3.7367291666666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-D-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/02-D-1-6.wav",
+        "length": 5.0025625,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-D-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/10-D-1-3.wav",
+        "length": 4.988625,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-D-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/10-D-1-2.wav",
+        "length": 5.248895833333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-D-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/07-D-1-2.wav",
+        "length": 3.922833333333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-D-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/03-D-1-2.wav",
+        "length": 3.1883125,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-D-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/10-D-1-6.wav",
+        "length": 5.476645833333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-D-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/08-D-1-5.wav",
+        "length": 3.5763333333333334,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-D-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/03-D-1-1.wav",
+        "length": 3.7601458333333335,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-D-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/05-D-1-3.wav",
+        "length": 5.55175,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-D-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/09-D-1-4.wav",
+        "length": 4.3944375,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-D-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/03-D-1-6.wav",
+        "length": 4.0097708333333335,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-D-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/12-D-1-6.wav",
+        "length": 6.869166666666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-D-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/09-D-1-6.wav",
+        "length": 4.2189375,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-D-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/11-D-1-3.wav",
+        "length": 5.1969375,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-D-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/01-D-1-6.wav",
+        "length": 5.0955208333333335,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-D-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/01-D-1-1.wav",
+        "length": 4.497458333333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-D-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/10-D-1-5.wav",
+        "length": 6.344229166666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-D-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/12-D-1-1.wav",
+        "length": 6.389479166666667,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-D-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/01-D-1-2.wav",
+        "length": 5.146270833333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-D-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/02-D-1-4.wav",
+        "length": 5.687770833333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-D-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/06-D-1-6.wav",
+        "length": 4.92575,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-D-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/09-D-1-1.wav",
+        "length": 4.029395833333333,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-D-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/02-D-1-3.wav",
+        "length": 5.8760208333333335,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-D-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/06-D-1-1.wav",
+        "length": 4.421645833333334,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-D-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/D\u201ago\u2013t/Faible/08-D-1-2.wav",
+        "length": 3.4231666666666665,
+        "emo": "d",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-J-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/07-J-2-3.wav",
+        "length": 3.4558125,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-J-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/06-J-2-5.wav",
+        "length": 4.1015625,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-J-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/02-J-2-5.wav",
+        "length": 4.8680208333333335,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-J-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/07-J-2-4.wav",
+        "length": 3.681625,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-J-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/03-J-2-3.wav",
+        "length": 3.347020833333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-J-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/12-J-2-2.wav",
+        "length": 5.7275,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-J-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/02-J-2-4.wav",
+        "length": 4.678375,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-J-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/09-J-2-1.wav",
+        "length": 3.798791666666667,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-J-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/10-J-2-1.wav",
+        "length": 4.238791666666667,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-J-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/12-J-2-5.wav",
+        "length": 5.181854166666667,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-J-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/06-J-2-4.wav",
+        "length": 5.017229166666667,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-J-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/05-J-2-4.wav",
+        "length": 4.5550625,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-J-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/04-J-2-5.wav",
+        "length": 4.9910625,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-J-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/09-J-2-2.wav",
+        "length": 4.4361041666666665,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-J-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/12-J-2-6.wav",
+        "length": 6.1304375,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-J-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/07-J-2-1.wav",
+        "length": 3.1122083333333332,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-J-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/01-J-2-3.wav",
+        "length": 4.312604166666667,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-J-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/09-J-2-3.wav",
+        "length": 4.373625,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-J-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/07-J-2-6.wav",
+        "length": 3.5147291666666667,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-J-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/11-J-2-1.wav",
+        "length": 4.785958333333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-J-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/07-J-2-2.wav",
+        "length": 3.1122083333333332,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-J-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/10-J-2-6.wav",
+        "length": 4.786208333333334,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-J-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/05-J-2-2.wav",
+        "length": 5.164541666666667,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-J-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/12-J-2-3.wav",
+        "length": 4.528270833333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-J-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/06-J-2-3.wav",
+        "length": 4.163083333333334,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-J-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/04-J-2-6.wav",
+        "length": 4.8506875,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-J-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/07-J-2-5.wav",
+        "length": 3.681625,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-J-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/03-J-2-5.wav",
+        "length": 3.894083333333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-J-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/01-J-2-1.wav",
+        "length": 3.878375,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-J-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/09-J-2-5.wav",
+        "length": 4.2236666666666665,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-J-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/02-J-2-3.wav",
+        "length": 5.120916666666667,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-J-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/12-J-2-4.wav",
+        "length": 5.027145833333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-J-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/08-J-2-6.wav",
+        "length": 3.2548333333333335,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-J-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/11-J-2-3.wav",
+        "length": 5.515104166666666,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-J-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/05-J-2-3.wav",
+        "length": 4.951666666666667,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-J-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/06-J-2-1.wav",
+        "length": 4.949458333333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-J-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/10-J-2-4.wav",
+        "length": 4.608666666666666,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-J-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/01-J-2-6.wav",
+        "length": 5.1857291666666665,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-J-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/02-J-2-2.wav",
+        "length": 4.8680208333333335,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-J-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/11-J-2-4.wav",
+        "length": 4.998083333333334,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-J-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/06-J-2-2.wav",
+        "length": 4.8680208333333335,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-J-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/08-J-2-4.wav",
+        "length": 4.545875,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-J-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/01-J-2-2.wav",
+        "length": 5.134375,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-J-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/08-J-2-2.wav",
+        "length": 4.1822083333333335,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-J-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/09-J-2-6.wav",
+        "length": 4.600291666666666,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-J-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/01-J-2-5.wav",
+        "length": 5.0830416666666665,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-J-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/10-J-2-3.wav",
+        "length": 4.638270833333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-J-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/05-J-2-1.wav",
+        "length": 4.507458333333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-J-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/11-J-2-6.wav",
+        "length": 4.163875,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-J-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/08-J-2-5.wav",
+        "length": 3.524958333333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-J-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/02-J-2-6.wav",
+        "length": 5.247354166666667,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-J-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/04-J-2-3.wav",
+        "length": 5.027083333333334,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-J-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/05-J-2-6.wav",
+        "length": 4.3576875,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-J-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/08-J-2-1.wav",
+        "length": 3.8912708333333335,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-J-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/09-J-2-4.wav",
+        "length": 4.4361041666666665,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-J-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/02-J-2-1.wav",
+        "length": 5.247354166666667,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-J-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/04-J-2-2.wav",
+        "length": 4.433229166666667,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-J-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/06-J-2-6.wav",
+        "length": 4.193333333333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-J-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/11-J-2-5.wav",
+        "length": 5.130645833333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-J-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/04-J-2-1.wav",
+        "length": 3.6207708333333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-J-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/10-J-2-2.wav",
+        "length": 4.556895833333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-J-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/12-J-2-1.wav",
+        "length": 3.6264583333333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-J-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/05-J-2-5.wav",
+        "length": 4.9026875,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-J-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/04-J-2-4.wav",
+        "length": 5.461208333333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-J-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/08-J-2-3.wav",
+        "length": 4.5095,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-J-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/03-J-2-1.wav",
+        "length": 3.275,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-J-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/10-J-2-5.wav",
+        "length": 4.586479166666667,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-J-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/01-J-2-4.wav",
+        "length": 4.393979166666667,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-J-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/03-J-2-2.wav",
+        "length": 3.3769791666666666,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-J-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/03-J-2-6.wav",
+        "length": 3.9145833333333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-J-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/03-J-2-4.wav",
+        "length": 3.331166666666667,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-J-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Fort/11-J-2-2.wav",
+        "length": 5.276479166666666,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-J-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/05-J-1-2.wav",
+        "length": 4.924625,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-J-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/11-J-1-2.wav",
+        "length": 4.030291666666667,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-J-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/01-J-1-1.wav",
+        "length": 3.8071458333333332,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-J-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/05-J-1-1.wav",
+        "length": 3.956,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-J-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/03-J-1-6.wav",
+        "length": 2.951125,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-J-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/08-J-1-3.wav",
+        "length": 3.5289166666666665,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-J-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/12-J-1-1.wav",
+        "length": 3.2715,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-J-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/06-J-1-4.wav",
+        "length": 4.0605625,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-J-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/04-J-1-1.wav",
+        "length": 4.111979166666667,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-J-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/02-J-1-1.wav",
+        "length": 4.8348125,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-J-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/05-J-1-6.wav",
+        "length": 4.409291666666666,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-J-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/05-J-1-5.wav",
+        "length": 4.479291666666667,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-J-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/12-J-1-6.wav",
+        "length": 5.267,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-J-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/02-J-1-4.wav",
+        "length": 4.2358125,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-J-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/03-J-1-4.wav",
+        "length": 3.5413958333333335,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-J-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/06-J-1-1.wav",
+        "length": 3.7529375,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-J-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/01-J-1-3.wav",
+        "length": 4.4688125,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-J-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/10-J-1-5.wav",
+        "length": 4.394145833333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-J-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/09-J-1-6.wav",
+        "length": 3.7488125,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-J-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/08-J-1-1.wav",
+        "length": 3.4691875,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-J-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/07-J-1-1.wav",
+        "length": 3.5147291666666667,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-J-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/04-J-1-6.wav",
+        "length": 5.846708333333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-J-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/09-J-1-3.wav",
+        "length": 3.8487916666666666,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-J-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/04-J-1-4.wav",
+        "length": 4.625979166666666,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-J-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/06-J-1-3.wav",
+        "length": 4.278520833333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-J-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/10-J-1-1.wav",
+        "length": 3.4546666666666668,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-J-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/11-J-1-4.wav",
+        "length": 4.907895833333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-J-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/06-J-1-2.wav",
+        "length": 3.568375,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-J-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/09-J-1-2.wav",
+        "length": 4.0434375,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-J-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/11-J-1-3.wav",
+        "length": 4.2556666666666665,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-J-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/09-J-1-1.wav",
+        "length": 3.548875,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-J-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/04-J-1-3.wav",
+        "length": 4.584125,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-J-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/08-J-1-2.wav",
+        "length": 3.9374583333333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-J-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/07-J-1-2.wav",
+        "length": 3.828875,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-J-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/06-J-1-5.wav",
+        "length": 3.596604166666667,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-J-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/05-J-1-4.wav",
+        "length": 4.663625,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-J-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/05-J-1-3.wav",
+        "length": 4.866666666666666,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-J-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/12-J-1-5.wav",
+        "length": 5.34375,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-J-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/08-J-1-5.wav",
+        "length": 3.525333333333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-J-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/10-J-1-3.wav",
+        "length": 4.231395833333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-J-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/11-J-1-5.wav",
+        "length": 4.616270833333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-J-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/09-J-1-4.wav",
+        "length": 3.573166666666667,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-J-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/12-J-1-2.wav",
+        "length": 5.0175625,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-J-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/07-J-1-3.wav",
+        "length": 3.828895833333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-J-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/02-J-1-6.wav",
+        "length": 4.741583333333334,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-J-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/10-J-1-6.wav",
+        "length": 4.38675,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-J-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/03-J-1-3.wav",
+        "length": 3.730729166666667,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-J-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/04-J-1-5.wav",
+        "length": 4.818520833333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-J-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/10-J-1-2.wav",
+        "length": 4.423729166666667,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-J-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/09-J-1-5.wav",
+        "length": 3.8737708333333334,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-J-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/02-J-1-5.wav",
+        "length": 4.678375,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-J-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/07-J-1-5.wav",
+        "length": 3.9663333333333335,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-J-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/08-J-1-6.wav",
+        "length": 4.3276666666666666,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-J-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/06-J-1-6.wav",
+        "length": 3.4248125,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-J-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/08-J-1-4.wav",
+        "length": 3.5890416666666667,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-J-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/10-J-1-4.wav",
+        "length": 4.601270833333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-J-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/01-J-1-2.wav",
+        "length": 4.439416666666666,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-J-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/01-J-1-5.wav",
+        "length": 4.539604166666667,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-J-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/03-J-1-2.wav",
+        "length": 4.2600625,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-J-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/07-J-1-6.wav",
+        "length": 3.7405208333333335,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-J-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/07-J-1-4.wav",
+        "length": 3.7405208333333335,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-J-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/11-J-1-6.wav",
+        "length": 5.143916666666667,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-J-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/03-J-1-1.wav",
+        "length": 3.1255208333333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-J-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/01-J-1-6.wav",
+        "length": 4.2895,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-J-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/02-J-1-3.wav",
+        "length": 4.615145833333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-J-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/04-J-1-2.wav",
+        "length": 4.337083333333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-J-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/11-J-1-1.wav",
+        "length": 4.2954375,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-J-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/02-J-1-2.wav",
+        "length": 4.740583333333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-J-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/12-J-1-3.wav",
+        "length": 5.219020833333333,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-J-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/12-J-1-4.wav",
+        "length": 5.487645833333334,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-J-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/01-J-1-4.wav",
+        "length": 4.420125,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-J-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Joie/Faible/03-J-1-5.wav",
+        "length": 3.2522083333333334,
+        "emo": "j",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-N-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/08-N-1-1.wav",
+        "length": 3.4435625,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-N-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/02-N-1-1.wav",
+        "length": 4.0429375,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-N-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/04-N-1-5.wav",
+        "length": 4.1133125,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-N-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/07-N-1-6.wav",
+        "length": 3.304479166666667,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-N-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/05-N-1-6.wav",
+        "length": 4.5655,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-N-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/10-N-1-2.wav",
+        "length": 4.580979166666666,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-N-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/07-N-1-2.wav",
+        "length": 3.3739583333333334,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-N-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/04-N-1-1.wav",
+        "length": 3.1420625,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-N-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/07-N-1-5.wav",
+        "length": 3.7510416666666666,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-N-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/01-N-1-2.wav",
+        "length": 4.879104166666667,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-N-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/10-N-1-5.wav",
+        "length": 5.440895833333333,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-N-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/12-N-1-5.wav",
+        "length": 3.7224166666666667,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-N-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/01-N-1-4.wav",
+        "length": 4.599541666666667,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-N-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/08-N-1-3.wav",
+        "length": 4.215375,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-N-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/08-N-1-5.wav",
+        "length": 3.868916666666667,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-N-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/11-N-1-6.wav",
+        "length": 4.184854166666667,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-N-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/06-N-1-3.wav",
+        "length": 4.003791666666666,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-N-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/02-N-1-5.wav",
+        "length": 3.9158125,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-N-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/12-N-1-6.wav",
+        "length": 3.643666666666667,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-N-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/06-N-1-5.wav",
+        "length": 3.7566458333333332,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-N-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/03-N-1-1.wav",
+        "length": 2.775625,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-N-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/04-N-1-6.wav",
+        "length": 4.141666666666667,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-N-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/05-N-1-5.wav",
+        "length": 4.366958333333334,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-N-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/11-N-1-3.wav",
+        "length": 5.55575,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-N-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/01-N-1-5.wav",
+        "length": 5.101875,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-N-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/03-N-1-2.wav",
+        "length": 2.8336875,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-N-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/03-N-1-4.wav",
+        "length": 3.3177291666666666,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-N-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/12-N-1-1.wav",
+        "length": 3.4780625,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-N-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/10-N-1-6.wav",
+        "length": 5.274125,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-N-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/10-N-1-1.wav",
+        "length": 4.162416666666667,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-N-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/01-N-1-3.wav",
+        "length": 4.596729166666667,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-N-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/09-N-1-2.wav",
+        "length": 4.824916666666667,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-N-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/09-N-1-6.wav",
+        "length": 4.1394166666666665,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-N-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/08-N-1-4.wav",
+        "length": 4.099895833333333,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-N-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/09-N-1-5.wav",
+        "length": 4.0339583333333335,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-N-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/03-N-1-6.wav",
+        "length": 3.2580416666666667,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-N-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/07-N-1-1.wav",
+        "length": 3.2647916666666665,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-N-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/05-N-1-4.wav",
+        "length": 3.97875,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-N-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/04-N-1-4.wav",
+        "length": 4.033875,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-N-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/11-N-1-1.wav",
+        "length": 4.050479166666666,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-N-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/03-N-1-3.wav",
+        "length": 3.5031666666666665,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-N-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/11-N-1-4.wav",
+        "length": 5.091916666666667,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-N-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/09-N-1-4.wav",
+        "length": 3.9812291666666666,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-N-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/02-N-1-3.wav",
+        "length": 3.8141041666666666,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-N-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/07-N-1-4.wav",
+        "length": 3.6915,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-N-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/06-N-1-6.wav",
+        "length": 3.81625,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-N-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/06-N-1-2.wav",
+        "length": 4.481208333333333,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-N-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/06-N-1-1.wav",
+        "length": 3.953375,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-N-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/01-N-1-1.wav",
+        "length": 3.944375,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-N-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/09-N-1-1.wav",
+        "length": 4.218520833333334,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-N-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/04-N-1-2.wav",
+        "length": 3.7955833333333335,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-N-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/04-N-1-3.wav",
+        "length": 4.094895833333333,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-N-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/11-N-1-2.wav",
+        "length": 5.133145833333334,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-N-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/07-N-1-3.wav",
+        "length": 3.4335,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-N-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/11-N-1-5.wav",
+        "length": 4.947625,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-N-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/05-N-1-2.wav",
+        "length": 3.5599375,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-N-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/09-N-1-3.wav",
+        "length": 4.060333333333333,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-N-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/08-N-1-6.wav",
+        "length": 3.4935833333333335,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-N-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/12-N-1-2.wav",
+        "length": 4.4018125,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-N-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/06-N-1-4.wav",
+        "length": 4.366375,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-N-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/10-N-1-4.wav",
+        "length": 5.023958333333334,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-N-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/05-N-1-1.wav",
+        "length": 3.6211041666666666,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-N-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/02-N-1-2.wav",
+        "length": 4.8311875,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-N-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/01-N-1-6.wav",
+        "length": 4.505375,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-N-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/10-N-1-3.wav",
+        "length": 5.003125,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-N-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/03-N-1-5.wav",
+        "length": 3.7259583333333333,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-N-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/12-N-1-3.wav",
+        "length": 3.676041666666667,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-N-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/02-N-1-6.wav",
+        "length": 3.5623958333333334,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-N-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/12-N-1-4.wav",
+        "length": 4.2178125,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-N-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/05-N-1-3.wav",
+        "length": 4.293395833333333,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-N-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/08-N-1-2.wav",
+        "length": 3.9266666666666667,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-N-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Neutre/02-N-1-4.wav",
+        "length": 4.3735,
+        "emo": "n",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-T-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/08-T-2-3.wav",
+        "length": 4.241395833333334,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-T-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/03-T-2-6.wav",
+        "length": 3.8980208333333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-T-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/02-T-2-5.wav",
+        "length": 4.743791666666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-T-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/06-T-2-2.wav",
+        "length": 4.530770833333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-T-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/08-T-2-5.wav",
+        "length": 3.90725,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-T-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/10-T-2-3.wav",
+        "length": 5.153833333333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-T-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/05-T-2-5.wav",
+        "length": 5.290979166666666,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-T-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/01-T-2-5.wav",
+        "length": 4.935416666666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-T-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/07-T-2-2.wav",
+        "length": 3.3871458333333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-T-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/03-T-2-2.wav",
+        "length": 4.095,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-T-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/08-T-2-6.wav",
+        "length": 3.5858125,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-T-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/07-T-2-6.wav",
+        "length": 3.349645833333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-T-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/06-T-2-5.wav",
+        "length": 4.641770833333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-T-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/10-T-2-1.wav",
+        "length": 4.9659375,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-T-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/02-T-2-3.wav",
+        "length": 6.102,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-T-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/02-T-2-1.wav",
+        "length": 4.682625,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-T-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/03-T-2-5.wav",
+        "length": 3.4217291666666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-T-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/02-T-2-6.wav",
+        "length": 5.3328125,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-T-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/01-T-2-4.wav",
+        "length": 4.355291666666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-T-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/10-T-2-5.wav",
+        "length": 5.301458333333334,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-T-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/09-T-2-2.wav",
+        "length": 3.7743541666666665,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-T-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/11-T-2-3.wav",
+        "length": 4.7844375,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-T-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/04-T-2-4.wav",
+        "length": 4.768833333333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-T-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/03-T-2-4.wav",
+        "length": 3.496125,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-T-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/04-T-2-2.wav",
+        "length": 5.816604166666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-T-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/04-T-2-6.wav",
+        "length": 5.642166666666666,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-T-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/01-T-2-2.wav",
+        "length": 4.3966875,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-T-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/03-T-2-3.wav",
+        "length": 3.8964166666666666,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-T-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/12-T-2-4.wav",
+        "length": 5.808729166666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-T-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/11-T-2-6.wav",
+        "length": 5.133145833333334,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-T-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/09-T-2-3.wav",
+        "length": 3.8129583333333334,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-T-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/11-T-2-4.wav",
+        "length": 4.597166666666666,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-T-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/10-T-2-6.wav",
+        "length": 5.033041666666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-T-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/05-T-2-4.wav",
+        "length": 4.419416666666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-T-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/10-T-2-2.wav",
+        "length": 4.9659375,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-T-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/03-T-2-1.wav",
+        "length": 4.422479166666666,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-T-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/09-T-2-6.wav",
+        "length": 3.959604166666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-T-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/04-T-2-3.wav",
+        "length": 6.100333333333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-T-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/05-T-2-1.wav",
+        "length": 4.499958333333334,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-T-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/07-T-2-4.wav",
+        "length": 3.4920416666666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-T-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/05-T-2-6.wav",
+        "length": 4.5886458333333335,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-T-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/12-T-2-6.wav",
+        "length": 6.456375,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-T-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/08-T-2-1.wav",
+        "length": 4.280666666666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-T-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/11-T-2-1.wav",
+        "length": 4.0165,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-T-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/09-T-2-4.wav",
+        "length": 3.8194791666666665,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-T-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/07-T-2-1.wav",
+        "length": 3.4672708333333335,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-T-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/04-T-2-5.wav",
+        "length": 5.391,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-T-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/12-T-2-2.wav",
+        "length": 6.493354166666666,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-T-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/12-T-2-5.wav",
+        "length": 5.9765625,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-T-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/01-T-2-3.wav",
+        "length": 4.5142291666666665,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-T-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/06-T-2-3.wav",
+        "length": 4.066166666666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-T-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/06-T-2-6.wav",
+        "length": 5.080291666666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-T-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/04-T-2-1.wav",
+        "length": 4.607666666666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-T-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/02-T-2-4.wav",
+        "length": 5.108791666666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-T-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/07-T-2-3.wav",
+        "length": 3.5386041666666666,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-T-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/10-T-2-4.wav",
+        "length": 5.556479166666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-T-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/11-T-2-5.wav",
+        "length": 5.576375,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-T-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/07-T-2-5.wav",
+        "length": 3.653020833333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-T-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/06-T-2-4.wav",
+        "length": 4.568770833333334,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-T-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/12-T-2-3.wav",
+        "length": 4.7238125,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-T-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/02-T-2-2.wav",
+        "length": 5.748645833333334,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-T-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/08-T-2-2.wav",
+        "length": 4.4770208333333334,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-T-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/09-T-2-1.wav",
+        "length": 3.7820833333333335,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-T-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/09-T-2-5.wav",
+        "length": 3.8273958333333336,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-T-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/05-T-2-2.wav",
+        "length": 5.3655,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-T-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/01-T-2-1.wav",
+        "length": 4.261958333333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-T-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/12-T-2-1.wav",
+        "length": 4.872541666666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-T-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/06-T-2-1.wav",
+        "length": 4.0360625,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-T-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/05-T-2-3.wav",
+        "length": 5.1645208333333334,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-T-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/08-T-2-4.wav",
+        "length": 4.187291666666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-T-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/11-T-2-2.wav",
+        "length": 5.421770833333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-T-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Fort/01-T-2-6.wav",
+        "length": 4.753583333333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-T-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/11-T-1-6.wav",
+        "length": 5.019770833333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-T-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/07-T-1-5.wav",
+        "length": 3.510625,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-T-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/04-T-1-2.wav",
+        "length": 4.965770833333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-T-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/01-T-1-5.wav",
+        "length": 4.25625,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-T-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/09-T-1-5.wav",
+        "length": 3.7666458333333335,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-T-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/05-T-1-3.wav",
+        "length": 4.682333333333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-T-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/04-T-1-4.wav",
+        "length": 4.6299375,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-T-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/05-T-1-4.wav",
+        "length": 4.4938125,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-T-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/12-T-1-3.wav",
+        "length": 7.597520833333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-T-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/04-T-1-3.wav",
+        "length": 5.209833333333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-T-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/12-T-1-1.wav",
+        "length": 5.047645833333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-T-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/10-T-1-5.wav",
+        "length": 5.8383125,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-T-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/08-T-1-1.wav",
+        "length": 3.8094166666666665,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-T-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/01-T-1-4.wav",
+        "length": 4.4325,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-T-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/02-T-1-5.wav",
+        "length": 4.682416666666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-T-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/06-T-1-1.wav",
+        "length": 3.8268333333333335,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-T-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/07-T-1-3.wav",
+        "length": 3.5168125,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-T-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/02-T-1-4.wav",
+        "length": 4.999979166666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-T-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/08-T-1-2.wav",
+        "length": 3.3478541666666666,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-T-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/02-T-1-1.wav",
+        "length": 4.877354166666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-T-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/08-T-1-6.wav",
+        "length": 4.43775,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-T-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/09-T-1-3.wav",
+        "length": 3.8901458333333334,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-T-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/03-T-1-1.wav",
+        "length": 4.764166666666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-T-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/10-T-1-3.wav",
+        "length": 4.979354166666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-T-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/03-T-1-3.wav",
+        "length": 3.563458333333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-T-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/01-T-1-2.wav",
+        "length": 4.081229166666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-T-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/11-T-1-1.wav",
+        "length": 4.411625,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-T-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/02-T-1-6.wav",
+        "length": 5.053708333333334,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-T-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/02-T-1-3.wav",
+        "length": 5.3265625,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-T-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/07-T-1-1.wav",
+        "length": 3.0648333333333335,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-T-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/01-T-1-1.wav",
+        "length": 4.032395833333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-T-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/10-T-1-2.wav",
+        "length": 5.9054166666666665,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-T-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/05-T-1-2.wav",
+        "length": 4.4955,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-T-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/02-T-1-2.wav",
+        "length": 5.213479166666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-T-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/06-T-1-6.wav",
+        "length": 4.04175,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-T-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/11-T-1-5.wav",
+        "length": 5.133145833333334,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-T-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/01-T-1-3.wav",
+        "length": 4.416666666666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-T-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/04-T-1-5.wav",
+        "length": 4.859541666666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-T-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/09-T-1-6.wav",
+        "length": 3.805229166666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-T-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/06-T-1-3.wav",
+        "length": 3.9318333333333335,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-T-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/04-T-1-6.wav",
+        "length": 5.1027708333333335,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-T-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/09-T-1-1.wav",
+        "length": 4.607958333333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-T-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/08-T-1-3.wav",
+        "length": 3.887958333333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-T-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/10-T-1-4.wav",
+        "length": 5.8114791666666665,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-T-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/10-T-1-6.wav",
+        "length": 5.4759375,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-T-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/04-T-1-1.wav",
+        "length": 4.325770833333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-T-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/11-T-1-2.wav",
+        "length": 4.8754583333333334,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-T-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/07-T-1-6.wav",
+        "length": 3.240125,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-T-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/06-T-1-4.wav",
+        "length": 4.647083333333334,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-T-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/03-T-1-4.wav",
+        "length": 3.960375,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-T-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/05-T-1-5.wav",
+        "length": 4.4388958333333335,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-T-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/12-T-1-4.wav",
+        "length": 6.007104166666666,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-T-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/11-T-1-4.wav",
+        "length": 5.0713125,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-T-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/06-T-1-5.wav",
+        "length": 4.112333333333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-T-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/12-T-1-6.wav",
+        "length": 7.009979166666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-T-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/06-T-1-2.wav",
+        "length": 4.4955,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-T-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/03-T-1-2.wav",
+        "length": 3.325458333333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-T-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/07-T-1-4.wav",
+        "length": 3.5725416666666665,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-T-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/11-T-1-3.wav",
+        "length": 4.679625,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-T-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/08-T-1-4.wav",
+        "length": 4.005770833333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-T-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/12-T-1-5.wav",
+        "length": 7.222708333333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-T-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/07-T-1-2.wav",
+        "length": 3.5787291666666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-T-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/05-T-1-6.wav",
+        "length": 4.3668125,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-T-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/12-T-1-2.wav",
+        "length": 4.9231875,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-T-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/03-T-1-6.wav",
+        "length": 3.358833333333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-T-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/05-T-1-1.wav",
+        "length": 4.431395833333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-T-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/09-T-1-2.wav",
+        "length": 4.237479166666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-T-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/03-T-1-5.wav",
+        "length": 3.9050416666666665,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-T-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/08-T-1-5.wav",
+        "length": 4.437770833333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-T-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/09-T-1-4.wav",
+        "length": 4.005916666666667,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-T-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/10-T-1-1.wav",
+        "length": 5.529625,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-T-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Tristesse/Faible/01-T-1-6.wav",
+        "length": 4.716395833333333,
+        "emo": "t",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-C-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/10-C-2-3.wav",
+        "length": 5.508,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-C-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/01-C-2-1.wav",
+        "length": 3.4233333333333333,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-C-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/07-C-2-3.wav",
+        "length": 3.6386875,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-C-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/12-C-2-5.wav",
+        "length": 5.161479166666667,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-C-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/01-C-2-5.wav",
+        "length": 5.192854166666667,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-C-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/09-C-2-3.wav",
+        "length": 4.303958333333333,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-C-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/03-C-2-5.wav",
+        "length": 3.7161041666666668,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-C-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/02-C-2-3.wav",
+        "length": 4.748083333333334,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-C-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/06-C-2-5.wav",
+        "length": 3.9910208333333332,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-C-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/05-C-2-2.wav",
+        "length": 5.024583333333333,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-C-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/04-C-2-6.wav",
+        "length": 4.1274375,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-C-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/04-C-2-3.wav",
+        "length": 5.231333333333334,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-C-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/10-C-2-6.wav",
+        "length": 5.418854166666667,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-C-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/09-C-2-4.wav",
+        "length": 4.1465,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-C-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/02-C-2-4.wav",
+        "length": 4.825916666666667,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-C-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/06-C-2-3.wav",
+        "length": 3.8072083333333335,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-C-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/01-C-2-6.wav",
+        "length": 4.3992708333333335,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-C-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/01-C-2-2.wav",
+        "length": 3.7624583333333335,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-C-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/11-C-2-1.wav",
+        "length": 4.428,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-C-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/04-C-2-4.wav",
+        "length": 5.1704791666666665,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-C-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/07-C-2-4.wav",
+        "length": 3.4253125,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-C-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/05-C-2-4.wav",
+        "length": 4.825916666666667,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-C-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/11-C-2-5.wav",
+        "length": 4.9848125,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-C-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/08-C-2-5.wav",
+        "length": 4.121145833333333,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-C-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/06-C-2-6.wav",
+        "length": 4.857479166666667,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-C-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/12-C-2-6.wav",
+        "length": 4.950395833333333,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-C-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/07-C-2-2.wav",
+        "length": 3.678,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-C-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/04-C-2-5.wav",
+        "length": 4.9136041666666666,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-C-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/09-C-2-2.wav",
+        "length": 4.513895833333334,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-C-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/12-C-2-1.wav",
+        "length": 4.144520833333333,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-C-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/03-C-2-1.wav",
+        "length": 3.3728541666666665,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-C-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/08-C-2-6.wav",
+        "length": 3.7890208333333333,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-C-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/02-C-2-6.wav",
+        "length": 5.064979166666666,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-C-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/02-C-2-1.wav",
+        "length": 4.1033125,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-C-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/07-C-2-6.wav",
+        "length": 3.4814583333333333,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-C-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/08-C-2-2.wav",
+        "length": 3.7624583333333335,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-C-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/06-C-2-4.wav",
+        "length": 4.397958333333333,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-C-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/07-C-2-5.wav",
+        "length": 3.5370833333333334,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-C-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/03-C-2-3.wav",
+        "length": 3.470854166666667,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-C-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/06-C-2-2.wav",
+        "length": 4.069770833333333,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-C-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/10-C-2-5.wav",
+        "length": 5.581083333333333,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-C-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/03-C-2-4.wav",
+        "length": 3.5066458333333332,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-C-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/09-C-2-1.wav",
+        "length": 4.408916666666666,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-C-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/11-C-2-6.wav",
+        "length": 4.903145833333333,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-C-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/08-C-2-4.wav",
+        "length": 3.693208333333333,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-C-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/08-C-2-3.wav",
+        "length": 4.278770833333334,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-C-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/02-C-2-2.wav",
+        "length": 5.8801875,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-C-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/03-C-2-2.wav",
+        "length": 3.600375,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-C-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/05-C-2-6.wav",
+        "length": 4.510208333333333,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-C-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/12-C-2-4.wav",
+        "length": 5.1038958333333335,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-C-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/11-C-2-2.wav",
+        "length": 5.475333333333333,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-C-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/08-C-2-1.wav",
+        "length": 3.6537916666666668,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-C-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/11-C-2-4.wav",
+        "length": 5.488604166666667,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-C-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/10-C-2-4.wav",
+        "length": 5.2108125,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-C-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/07-C-2-1.wav",
+        "length": 3.509541666666667,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-C-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/01-C-2-4.wav",
+        "length": 5.068833333333333,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-C-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/05-C-2-5.wav",
+        "length": 4.510854166666666,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-C-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/05-C-2-3.wav",
+        "length": 4.5985625,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-C-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/09-C-2-6.wav",
+        "length": 3.8511875,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-C-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/11-C-2-3.wav",
+        "length": 5.130645833333333,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-C-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/12-C-2-2.wav",
+        "length": 4.643395833333333,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-C-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/03-C-2-6.wav",
+        "length": 3.1344166666666666,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-C-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/10-C-2-2.wav",
+        "length": 5.161291666666667,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-C-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/12-C-2-3.wav",
+        "length": 3.5305208333333336,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-C-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/02-C-2-5.wav",
+        "length": 4.723708333333334,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-C-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/01-C-2-3.wav",
+        "length": 4.156208333333334,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-C-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/04-C-2-2.wav",
+        "length": 4.927708333333333,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-C-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/04-C-2-1.wav",
+        "length": 4.277166666666667,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-C-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/10-C-2-1.wav",
+        "length": 4.0559375,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-C-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/09-C-2-5.wav",
+        "length": 4.303958333333333,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-C-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/06-C-2-1.wav",
+        "length": 3.991,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-C-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Fort/05-C-2-1.wav",
+        "length": 3.8348958333333334,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-C-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/08-C-1-6.wav",
+        "length": 3.5105625,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-C-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/01-C-1-5.wav",
+        "length": 4.067833333333334,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-C-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/07-C-1-1.wav",
+        "length": 2.74025,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-C-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/01-C-1-3.wav",
+        "length": 4.474625,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-C-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/09-C-1-6.wav",
+        "length": 3.936541666666667,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-C-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/01-C-1-6.wav",
+        "length": 4.494875,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-C-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/03-C-1-2.wav",
+        "length": 3.6721041666666667,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-C-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/04-C-1-6.wav",
+        "length": 4.096604166666666,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-C-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/05-C-1-1.wav",
+        "length": 4.748083333333334,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-C-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/04-C-1-3.wav",
+        "length": 6.4209375,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-C-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/10-C-1-3.wav",
+        "length": 6.290625,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-C-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/07-C-1-3.wav",
+        "length": 3.532,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-C-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/12-C-1-6.wav",
+        "length": 5.3533333333333335,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-C-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/10-C-1-1.wav",
+        "length": 5.389125,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-C-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/05-C-1-2.wav",
+        "length": 4.629770833333334,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-C-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/04-C-1-2.wav",
+        "length": 5.525,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-C-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/02-C-1-5.wav",
+        "length": 4.748083333333334,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-C-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/09-C-1-4.wav",
+        "length": 4.933791666666667,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-C-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/04-C-1-5.wav",
+        "length": 5.099270833333334,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-C-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/11-C-1-5.wav",
+        "length": 5.395791666666667,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-C-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/08-C-1-5.wav",
+        "length": 3.8994375,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-C-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/03-C-1-3.wav",
+        "length": 3.353458333333333,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-C-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/05-C-1-6.wav",
+        "length": 4.95575,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-C-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/12-C-1-4.wav",
+        "length": 5.663833333333334,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-C-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/03-C-1-5.wav",
+        "length": 3.7994583333333334,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-C-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/04-C-1-1.wav",
+        "length": 5.049458333333333,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-C-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/10-C-1-2.wav",
+        "length": 5.5674375,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-C-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/10-C-1-4.wav",
+        "length": 5.993416666666667,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-C-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/09-C-1-5.wav",
+        "length": 4.408916666666666,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-C-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/11-C-1-4.wav",
+        "length": 5.223458333333333,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-C-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/02-C-1-6.wav",
+        "length": 5.4070625,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-C-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/03-C-1-4.wav",
+        "length": 3.7137291666666665,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-C-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/08-C-1-2.wav",
+        "length": 5.735604166666667,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-C-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/06-C-1-3.wav",
+        "length": 3.2574791666666667,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-C-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/06-C-1-6.wav",
+        "length": 4.6999375,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-C-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/02-C-1-1.wav",
+        "length": 4.748083333333334,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-C-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/11-C-1-3.wav",
+        "length": 5.6476875,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-C-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/01-C-1-1.wav",
+        "length": 3.22775,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-C-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/12-C-1-1.wav",
+        "length": 5.142270833333333,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-C-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/09-C-1-1.wav",
+        "length": 3.6741041666666665,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-C-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/08-C-1-3.wav",
+        "length": 4.3760625,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-C-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/12-C-1-3.wav",
+        "length": 4.0869583333333335,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-C-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/11-C-1-1.wav",
+        "length": 4.189375,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-C-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/10-C-1-5.wav",
+        "length": 5.537729166666667,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-C-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/07-C-1-4.wav",
+        "length": 3.054708333333333,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-C-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/09-C-1-2.wav",
+        "length": 4.7763333333333335,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-C-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/01-C-1-2.wav",
+        "length": 4.827166666666667,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-C-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/03-C-1-1.wav",
+        "length": 3.7014583333333335,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-C-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/04-C-1-4.wav",
+        "length": 5.034875,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-C-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/08-C-1-4.wav",
+        "length": 3.441375,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-C-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/06-C-1-1.wav",
+        "length": 3.6499375,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-C-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/11-C-1-2.wav",
+        "length": 4.905270833333334,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-C-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/06-C-1-5.wav",
+        "length": 3.9497916666666666,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-C-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/07-C-1-6.wav",
+        "length": 3.0659375,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-C-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/12-C-1-5.wav",
+        "length": 6.1461041666666665,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-C-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/02-C-1-4.wav",
+        "length": 5.1705,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-C-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/07-C-1-2.wav",
+        "length": 3.5600625,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-C-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/01-C-1-4.wav",
+        "length": 4.484145833333334,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-C-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/11-C-1-6.wav",
+        "length": 4.653375,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-C-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/12-C-1-2.wav",
+        "length": 4.988770833333334,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-C-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/05-C-1-5.wav",
+        "length": 4.9169375,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-C-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/02-C-1-2.wav",
+        "length": 6.150520833333333,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-C-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/03-C-1-6.wav",
+        "length": 3.3910833333333334,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-C-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/10-C-1-6.wav",
+        "length": 5.933979166666667,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-C-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/07-C-1-5.wav",
+        "length": 3.436541666666667,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-C-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/08-C-1-1.wav",
+        "length": 4.546,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-C-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/05-C-1-3.wav",
+        "length": 4.76575,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-C-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/09-C-1-3.wav",
+        "length": 4.3564375,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-C-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/06-C-1-4.wav",
+        "length": 4.556125,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-C-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/06-C-1-2.wav",
+        "length": 4.332354166666667,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-C-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/05-C-1-4.wav",
+        "length": 4.767729166666666,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-C-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Col\u0160re/Faible/02-C-1-3.wav",
+        "length": 5.187395833333333,
+        "emo": "c",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-S-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/02-S-2-3.wav",
+        "length": 4.123479166666667,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-S-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/06-S-2-6.wav",
+        "length": 4.545895833333334,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-S-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/04-S-2-3.wav",
+        "length": 4.505270833333333,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-S-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/06-S-2-1.wav",
+        "length": 3.7645,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-S-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/11-S-2-5.wav",
+        "length": 5.1846875,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-S-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/05-S-2-5.wav",
+        "length": 4.5205416666666665,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-S-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/09-S-2-4.wav",
+        "length": 3.6133333333333333,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-S-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/08-S-2-6.wav",
+        "length": 3.3933125,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-S-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/09-S-2-5.wav",
+        "length": 4.24725,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-S-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/03-S-2-5.wav",
+        "length": 3.23125,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-S-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/04-S-2-5.wav",
+        "length": 4.939708333333333,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-S-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/11-S-2-6.wav",
+        "length": 5.256833333333334,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-S-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/02-S-2-6.wav",
+        "length": 4.967791666666667,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-S-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/08-S-2-4.wav",
+        "length": 3.3035833333333335,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-S-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/11-S-2-4.wav",
+        "length": 4.4175,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-S-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/04-S-2-6.wav",
+        "length": 5.032708333333333,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-S-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/07-S-2-6.wav",
+        "length": 3.449375,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-S-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/02-S-2-4.wav",
+        "length": 4.521145833333334,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-S-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/10-S-2-5.wav",
+        "length": 4.610833333333333,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-S-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/10-S-2-4.wav",
+        "length": 5.312833333333334,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-S-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/01-S-2-3.wav",
+        "length": 3.726395833333333,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-S-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/10-S-2-3.wav",
+        "length": 5.3208125,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-S-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/01-S-2-1.wav",
+        "length": 3.8024791666666666,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-S-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/06-S-2-2.wav",
+        "length": 4.5238125,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-S-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/02-S-2-2.wav",
+        "length": 4.848958333333333,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-S-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/05-S-2-1.wav",
+        "length": 3.6946666666666665,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-S-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/03-S-2-4.wav",
+        "length": 3.7523125,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-S-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/09-S-2-1.wav",
+        "length": 3.6495625,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-S-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/12-S-2-1.wav",
+        "length": 3.531229166666667,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-S-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/07-S-2-5.wav",
+        "length": 3.682958333333333,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-S-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/08-S-2-3.wav",
+        "length": 3.7627083333333333,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-S-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/07-S-2-1.wav",
+        "length": 3.6014791666666666,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-S-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/05-S-2-2.wav",
+        "length": 4.101666666666667,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-S-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/09-S-2-2.wav",
+        "length": 3.9302916666666667,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-S-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/12-S-2-4.wav",
+        "length": 4.4375,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-S-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/02-S-2-5.wav",
+        "length": 4.6531875,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-S-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/06-S-2-4.wav",
+        "length": 4.28375,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-S-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/12-S-2-3.wav",
+        "length": 4.092583333333334,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-S-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/01-S-2-5.wav",
+        "length": 4.4621875,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-S-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/07-S-2-4.wav",
+        "length": 3.8241875,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-S-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/06-S-2-3.wav",
+        "length": 3.823125,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-S-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/06-S-2-5.wav",
+        "length": 4.685020833333334,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-S-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/11-S-2-3.wav",
+        "length": 4.329166666666667,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-S-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/10-S-2-6.wav",
+        "length": 5.033625,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-S-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/11-S-2-1.wav",
+        "length": 4.215791666666667,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-S-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/03-S-2-1.wav",
+        "length": 2.5568541666666667,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-S-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/08-S-2-1.wav",
+        "length": 3.2302291666666667,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-S-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/08-S-2-5.wav",
+        "length": 3.4859166666666668,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-S-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/03-S-2-3.wav",
+        "length": 3.840291666666667,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-S-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/10-S-2-1.wav",
+        "length": 4.084333333333333,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-S-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/04-S-2-2.wav",
+        "length": 4.4610625,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-S-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/05-S-2-6.wav",
+        "length": 4.726395833333333,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-S-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/12-S-2-2.wav",
+        "length": 4.7647916666666665,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-S-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/09-S-2-3.wav",
+        "length": 3.703895833333333,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-S-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/01-S-2-4.wav",
+        "length": 4.308520833333334,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-S-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/01-S-2-2.wav",
+        "length": 4.6493125,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-S-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/04-S-2-1.wav",
+        "length": 3.4209791666666667,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-S-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/10-S-2-2.wav",
+        "length": 4.802291666666667,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-S-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/07-S-2-3.wav",
+        "length": 3.4928333333333335,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-S-2-3": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/05-S-2-3.wav",
+        "length": 4.474729166666667,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-S-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/03-S-2-2.wav",
+        "length": 3.408,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-S-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/08-S-2-2.wav",
+        "length": 3.944770833333333,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-S-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/11-S-2-2.wav",
+        "length": 5.473291666666666,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-S-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/01-S-2-6.wav",
+        "length": 4.2094375,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-S-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/05-S-2-4.wav",
+        "length": 4.482666666666667,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-S-2-4": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/04-S-2-4.wav",
+        "length": 5.241083333333333,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-S-2-1": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/02-S-2-1.wav",
+        "length": 4.18625,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-S-2-2": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/07-S-2-2.wav",
+        "length": 3.710125,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-S-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/12-S-2-6.wav",
+        "length": 5.1378125,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-S-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/03-S-2-6.wav",
+        "length": 3.0433125,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-S-2-6": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/09-S-2-6.wav",
+        "length": 4.473645833333333,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-S-2-5": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Fort/12-S-2-5.wav",
+        "length": 5.011770833333333,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-S-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/05-S-1-6.wav",
+        "length": 4.480958333333334,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-S-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/02-S-1-3.wav",
+        "length": 4.124770833333334,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-S-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/09-S-1-4.wav",
+        "length": 3.703895833333333,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-S-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/02-S-1-6.wav",
+        "length": 4.661645833333333,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-S-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/04-S-1-4.wav",
+        "length": 4.531145833333333,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-S-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/03-S-1-5.wav",
+        "length": 3.4178125,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-S-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/10-S-1-1.wav",
+        "length": 4.0285,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-S-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/04-S-1-5.wav",
+        "length": 4.698895833333333,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-S-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/01-S-1-2.wav",
+        "length": 4.209666666666666,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-S-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/09-S-1-3.wav",
+        "length": 3.6767291666666666,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-S-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/10-S-1-5.wav",
+        "length": 3.948729166666667,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-S-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/09-S-1-1.wav",
+        "length": 3.377875,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-S-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/03-S-1-6.wav",
+        "length": 2.8512708333333334,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-S-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/11-S-1-4.wav",
+        "length": 4.179125,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-S-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/06-S-1-6.wav",
+        "length": 4.28375,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-S-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/08-S-1-1.wav",
+        "length": 3.5199583333333333,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-S-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/05-S-1-1.wav",
+        "length": 4.451854166666666,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-S-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/12-S-1-4.wav",
+        "length": 4.3133333333333335,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-S-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/04-S-1-6.wav",
+        "length": 4.723604166666667,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-S-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/12-S-1-3.wav",
+        "length": 4.515041666666667,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-S-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/07-S-1-4.wav",
+        "length": 3.6721041666666667,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-S-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/07-S-1-5.wav",
+        "length": 3.7861666666666665,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-S-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/05-S-1-2.wav",
+        "length": 5.015125,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-S-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/09-S-1-5.wav",
+        "length": 3.7853958333333333,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-S-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/04-S-1-3.wav",
+        "length": 4.5274375,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-S-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/12-S-1-1.wav",
+        "length": 2.9888125,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-S-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/07-S-1-3.wav",
+        "length": 3.031125,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-S-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/12-S-1-2.wav",
+        "length": 4.925875,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-S-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/09-S-1-6.wav",
+        "length": 4.509854166666667,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-S-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/01-S-1-5.wav",
+        "length": 4.698895833333333,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-S-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/11-S-1-6.wav",
+        "length": 4.5559375,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-S-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/06-S-1-3.wav",
+        "length": 4.191875,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-S-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/02-S-1-2.wav",
+        "length": 4.939770833333333,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-S-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/05-S-1-3.wav",
+        "length": 4.7184375,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-S-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/05-S-1-5.wav",
+        "length": 4.521145833333334,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-S-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/10-S-1-4.wav",
+        "length": 5.137333333333333,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-S-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/06-S-1-2.wav",
+        "length": 4.802979166666667,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-S-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/07-S-1-2.wav",
+        "length": 3.7264166666666667,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-09-S-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/09-S-1-2.wav",
+        "length": 4.002729166666667,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-S-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/08-S-1-6.wav",
+        "length": 3.3091041666666667,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-S-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/04-S-1-2.wav",
+        "length": 5.972020833333334,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-S-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/12-S-1-6.wav",
+        "length": 5.2303125,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-S-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/11-S-1-3.wav",
+        "length": 4.3497916666666665,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-S-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/07-S-1-6.wav",
+        "length": 3.541729166666667,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-S-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/02-S-1-4.wav",
+        "length": 4.564020833333333,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-S-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/06-S-1-5.wav",
+        "length": 4.28375,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-S-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/01-S-1-4.wav",
+        "length": 4.3663541666666665,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-S-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/03-S-1-3.wav",
+        "length": 4.058854166666666,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-S-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/02-S-1-1.wav",
+        "length": 3.5164583333333335,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-S-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/08-S-1-2.wav",
+        "length": 3.5100208333333334,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-07-S-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/07-S-1-1.wav",
+        "length": 3.4439583333333332,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-S-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/06-S-1-1.wav",
+        "length": 4.1539375,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-S-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/10-S-1-3.wav",
+        "length": 4.3795,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-05-S-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/05-S-1-4.wav",
+        "length": 4.5260625,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-S-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/11-S-1-1.wav",
+        "length": 3.8137916666666665,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-S-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/08-S-1-3.wav",
+        "length": 3.2110208333333334,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-S-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/01-S-1-6.wav",
+        "length": 4.042166666666667,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-12-S-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/12-S-1-5.wav",
+        "length": 3.7591666666666668,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-06-S-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/06-S-1-4.wav",
+        "length": 4.1539375,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-S-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/01-S-1-1.wav",
+        "length": 3.4581041666666668,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-02-S-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/02-S-1-5.wav",
+        "length": 4.521145833333334,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-S-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/11-S-1-5.wav",
+        "length": 4.544645833333333,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-S-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/03-S-1-1.wav",
+        "length": 3.5164583333333335,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-04-S-1-1": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/04-S-1-1.wav",
+        "length": 3.9700416666666665,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-01-S-1-3": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/01-S-1-3.wav",
+        "length": 4.493458333333334,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-S-1-5": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/08-S-1-5.wav",
+        "length": 3.5465,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-S-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/03-S-1-4.wav",
+        "length": 3.532125,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-S-1-6": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/10-S-1-6.wav",
+        "length": 4.507125,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-08-S-1-4": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/08-S-1-4.wav",
+        "length": 3.241645833333333,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-03-S-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/03-S-1-2.wav",
+        "length": 3.5059583333333335,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-10-S-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/10-S-1-2.wav",
+        "length": 4.913979166666667,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    },
+    "cafe-11-S-1-2": {
+        "wav": "downloads/cafe/CaFE_48k/Surprise/Faible/11-S-1-2.wav",
+        "length": 4.5559375,
+        "emo": "s",
+        "dataset": "cafe",
+        "channel": 1
+    }
+}

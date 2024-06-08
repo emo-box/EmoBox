@@ -1,0 +1,1682 @@
+{
+    "ravdess-03-01-08-02-01-02-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-08-02-01-02-14.wav",
+        "length": 3.703708333333333,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-02-01-02-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-03-02-01-02-14.wav",
+        "length": 3.7370625,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-02-02-02-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-03-02-02-02-14.wav",
+        "length": 3.7370625,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-01-02-01-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-04-01-02-01-14.wav",
+        "length": 3.6036041666666665,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-01-01-02-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-02-01-01-02-14.wav",
+        "length": 3.5702291666666666,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-02-01-02-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-06-02-01-02-14.wav",
+        "length": 3.403395833333333,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-01-02-02-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-07-01-02-02-14.wav",
+        "length": 3.7704375,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-01-01-01-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-02-01-01-01-14.wav",
+        "length": 3.7370625,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-01-01-02-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-03-01-01-02-14.wav",
+        "length": 3.6703333333333332,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-02-02-02-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-08-02-02-02-14.wav",
+        "length": 3.7370625,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-01-01-01-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-06-01-01-01-14.wav",
+        "length": 3.3700208333333332,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-02-01-01-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-03-02-01-01-14.wav",
+        "length": 3.7704166666666667,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-02-01-01-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-02-02-01-01-14.wav",
+        "length": 3.8705208333333334,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-01-02-02-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-04-01-02-02-14.wav",
+        "length": 3.536875,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-01-02-01-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-08-01-02-01-14.wav",
+        "length": 3.2032083333333334,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-01-02-02-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-08-01-02-02-14.wav",
+        "length": 3.3032916666666665,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-01-02-02-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-03-01-02-02-14.wav",
+        "length": 3.470125,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-01-01-02-01-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-01-01-02-01-14.wav",
+        "length": 3.4701458333333335,
+        "emo": "Neutral",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-01-02-01-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-05-01-02-01-14.wav",
+        "length": 3.7370625,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-02-01-02-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-05-02-01-02-14.wav",
+        "length": 4.371020833333334,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-01-01-01-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-04-01-01-01-14.wav",
+        "length": 3.7370625,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-01-01-01-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-08-01-01-01-14.wav",
+        "length": 3.636979166666667,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-02-01-02-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-07-02-01-02-14.wav",
+        "length": 3.7370625,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-02-01-01-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-08-02-01-01-14.wav",
+        "length": 3.970625,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-02-01-01-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-06-02-01-01-14.wav",
+        "length": 3.3700208333333332,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-01-01-01-02-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-01-01-01-02-14.wav",
+        "length": 3.3366666666666664,
+        "emo": "Neutral",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-01-01-02-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-08-01-01-02-14.wav",
+        "length": 3.57025,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-02-01-02-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-02-02-01-02-14.wav",
+        "length": 3.9038958333333333,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-02-02-01-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-02-02-02-01-14.wav",
+        "length": 3.7370625,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-02-02-02-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-05-02-02-02-14.wav",
+        "length": 4.404416666666667,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-02-02-01-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-07-02-02-01-14.wav",
+        "length": 3.6703333333333332,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-02-02-01-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-08-02-02-01-14.wav",
+        "length": 3.703708333333333,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-02-02-02-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-06-02-02-02-14.wav",
+        "length": 3.470125,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-02-02-01-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-06-02-02-01-14.wav",
+        "length": 3.5035,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-01-01-02-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-04-01-01-02-14.wav",
+        "length": 3.6036041666666665,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-01-02-01-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-03-01-02-01-14.wav",
+        "length": 3.403395833333333,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-01-02-02-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-02-01-02-02-14.wav",
+        "length": 3.5035,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-01-02-02-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-05-01-02-02-14.wav",
+        "length": 3.9039166666666665,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-02-02-02-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-02-02-02-02-14.wav",
+        "length": 3.7704375,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-01-01-01-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-07-01-01-01-14.wav",
+        "length": 3.7704166666666667,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-02-02-02-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-04-02-02-02-14.wav",
+        "length": 3.9039166666666665,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-01-01-02-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-06-01-01-02-14.wav",
+        "length": 3.5702291666666666,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-02-01-02-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-04-02-01-02-14.wav",
+        "length": 3.6703333333333332,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-01-01-01-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-03-01-01-01-14.wav",
+        "length": 3.703708333333333,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-01-01-01-01-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-01-01-01-01-14.wav",
+        "length": 3.470125,
+        "emo": "Neutral",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-01-01-02-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-05-01-01-02-14.wav",
+        "length": 3.703708333333333,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-01-02-01-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-07-01-02-01-14.wav",
+        "length": 3.7370625,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-01-01-02-02-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-01-01-02-02-14.wav",
+        "length": 3.5702291666666666,
+        "emo": "Neutral",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-02-02-01-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-03-02-02-01-14.wav",
+        "length": 3.8371666666666666,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-02-01-01-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-05-02-01-01-14.wav",
+        "length": 4.2709375,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-02-01-01-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-07-02-01-01-14.wav",
+        "length": 3.93725,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-01-02-01-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-06-01-02-01-14.wav",
+        "length": 3.370041666666667,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-02-02-01-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-05-02-02-01-14.wav",
+        "length": 4.170833333333333,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-02-01-01-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-04-02-01-01-14.wav",
+        "length": 3.8705208333333334,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-01-01-01-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-05-01-01-01-14.wav",
+        "length": 3.6035833333333334,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-01-02-02-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-06-01-02-02-14.wav",
+        "length": 3.3700208333333332,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-02-02-02-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-07-02-02-02-14.wav",
+        "length": 3.8037916666666667,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-01-01-02-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-07-01-01-02-14.wav",
+        "length": 3.6369583333333333,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-02-02-01-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-04-02-02-01-14.wav",
+        "length": 3.6703333333333332,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-01-02-01-14": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_14/03-01-02-01-02-01-14.wav",
+        "length": 3.4034166666666668,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-01-02-01-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-05-01-02-01-04.wav",
+        "length": 3.470125,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-02-01-02-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-03-02-01-02-04.wav",
+        "length": 3.5702291666666666,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-02-02-02-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-03-02-02-02-04.wav",
+        "length": 3.7704166666666667,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-01-02-01-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-02-01-02-01-04.wav",
+        "length": 3.636979166666667,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-02-02-02-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-02-02-02-02-04.wav",
+        "length": 4.037375,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-01-01-01-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-04-01-01-01-04.wav",
+        "length": 3.370041666666667,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-02-02-01-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-07-02-02-01-04.wav",
+        "length": 3.8705416666666665,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-02-01-02-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-05-02-01-02-04.wav",
+        "length": 3.8705208333333334,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-02-01-01-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-04-02-01-01-04.wav",
+        "length": 3.6703333333333332,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-01-02-01-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-07-01-02-01-04.wav",
+        "length": 3.7704375,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-02-02-01-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-06-02-02-01-04.wav",
+        "length": 3.6036041666666665,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-02-01-01-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-08-02-01-01-04.wav",
+        "length": 3.6703333333333332,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-01-02-02-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-08-01-02-02-04.wav",
+        "length": 3.43675,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-02-01-02-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-06-02-01-02-04.wav",
+        "length": 3.403395833333333,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-01-01-01-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-07-01-01-01-04.wav",
+        "length": 3.9039166666666665,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-01-01-02-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-03-01-01-02-04.wav",
+        "length": 3.5368541666666666,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-01-01-02-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-06-01-01-02-04.wav",
+        "length": 3.2365833333333334,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-02-01-02-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-04-02-01-02-04.wav",
+        "length": 3.7704375,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-01-01-02-02-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-01-01-02-02-04.wav",
+        "length": 3.2365625,
+        "emo": "Neutral",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-02-01-02-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-08-02-01-02-04.wav",
+        "length": 3.5702291666666666,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-01-02-01-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-03-01-02-01-04.wav",
+        "length": 3.5035,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-02-01-01-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-07-02-01-01-04.wav",
+        "length": 4.004,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-01-02-02-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-07-01-02-02-04.wav",
+        "length": 3.8038125,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-01-02-02-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-05-01-02-02-04.wav",
+        "length": 3.7370625,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-02-02-02-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-05-02-02-02-04.wav",
+        "length": 3.8371666666666666,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-02-02-01-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-04-02-02-01-04.wav",
+        "length": 3.7704375,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-02-01-02-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-07-02-01-02-04.wav",
+        "length": 4.037375,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-02-02-01-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-08-02-02-01-04.wav",
+        "length": 3.470125,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-01-01-01-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-06-01-01-01-04.wav",
+        "length": 3.3032916666666665,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-02-02-02-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-04-02-02-02-04.wav",
+        "length": 3.7704375,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-01-02-01-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-08-01-02-01-04.wav",
+        "length": 3.6369583333333333,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-02-02-02-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-06-02-02-02-04.wav",
+        "length": 3.5702291666666666,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-01-01-02-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-02-01-01-02-04.wav",
+        "length": 3.7370625,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-02-01-01-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-03-02-01-01-04.wav",
+        "length": 3.8705416666666665,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-01-02-01-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-06-01-02-01-04.wav",
+        "length": 3.470125,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-02-02-01-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-03-02-02-01-04.wav",
+        "length": 3.6036041666666665,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-01-01-01-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-08-01-01-01-04.wav",
+        "length": 3.2365833333333334,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-02-01-02-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-02-02-01-02-04.wav",
+        "length": 3.8038125,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-01-01-02-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-04-01-01-02-04.wav",
+        "length": 3.403395833333333,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-02-01-01-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-02-02-01-01-04.wav",
+        "length": 3.970625,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-02-02-02-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-07-02-02-02-04.wav",
+        "length": 3.9372708333333333,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-02-02-02-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-08-02-02-02-04.wav",
+        "length": 3.5368541666666666,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-01-01-01-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-05-01-01-01-04.wav",
+        "length": 3.703708333333333,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-02-02-01-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-02-02-02-01-04.wav",
+        "length": 3.8037916666666667,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-01-02-01-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-04-01-02-01-04.wav",
+        "length": 3.4367708333333336,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-02-01-01-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-06-02-01-01-04.wav",
+        "length": 3.9372708333333333,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-01-01-02-01-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-01-01-02-01-04.wav",
+        "length": 3.2699375,
+        "emo": "Neutral",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-01-02-02-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-03-01-02-02-04.wav",
+        "length": 3.4367708333333336,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-01-02-02-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-02-01-02-02-04.wav",
+        "length": 3.57025,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-01-01-02-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-05-01-01-02-04.wav",
+        "length": 3.6036041666666665,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-01-01-01-02-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-01-01-01-02-04.wav",
+        "length": 3.370041666666667,
+        "emo": "Neutral",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-01-01-01-01-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-01-01-01-01-04.wav",
+        "length": 3.3032916666666665,
+        "emo": "Neutral",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-01-02-02-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-04-01-02-02-04.wav",
+        "length": 3.470125,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-01-01-02-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-08-01-01-02-04.wav",
+        "length": 3.3366666666666664,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-01-01-01-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-02-01-01-01-04.wav",
+        "length": 3.8037916666666667,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-01-02-02-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-06-01-02-02-04.wav",
+        "length": 3.470125,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-02-01-01-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-05-02-01-01-04.wav",
+        "length": 3.7704375,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-01-01-02-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-07-01-01-02-04.wav",
+        "length": 3.9038958333333333,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-02-02-01-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-05-02-02-01-04.wav",
+        "length": 3.7036875,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-01-01-01-04": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_04/03-01-03-01-01-01-04.wav",
+        "length": 3.5035,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-02-02-01-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-08-02-02-01-12.wav",
+        "length": 3.7370625,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-02-01-02-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-02-02-01-02-12.wav",
+        "length": 3.7704375,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-02-02-01-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-04-02-02-01-12.wav",
+        "length": 3.8037916666666667,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-02-02-02-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-02-02-02-02-12.wav",
+        "length": 3.8038125,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-01-01-01-01-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-01-01-01-01-12.wav",
+        "length": 3.6369583333333333,
+        "emo": "Neutral",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-02-02-01-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-05-02-02-01-12.wav",
+        "length": 3.8038125,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-01-02-01-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-07-01-02-01-12.wav",
+        "length": 3.6036041666666665,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-01-02-02-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-02-01-02-02-12.wav",
+        "length": 3.6703333333333332,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-01-01-02-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-03-01-01-02-12.wav",
+        "length": 3.7370625,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-01-02-01-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-03-01-02-01-12.wav",
+        "length": 3.5035,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-02-02-01-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-06-02-02-01-12.wav",
+        "length": 3.4701458333333335,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-02-01-01-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-02-02-01-01-12.wav",
+        "length": 3.970625,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-02-01-02-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-06-02-01-02-12.wav",
+        "length": 3.703708333333333,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-01-02-02-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-08-01-02-02-12.wav",
+        "length": 3.6036041666666665,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-02-01-02-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-04-02-01-02-12.wav",
+        "length": 3.7704375,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-02-02-01-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-07-02-02-01-12.wav",
+        "length": 4.204208333333334,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-02-02-02-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-04-02-02-02-12.wav",
+        "length": 3.8705416666666665,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-02-01-01-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-04-02-01-01-12.wav",
+        "length": 3.8705208333333334,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-01-01-01-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-03-01-01-01-12.wav",
+        "length": 3.703708333333333,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-02-01-01-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-05-02-01-01-12.wav",
+        "length": 3.6369583333333333,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-01-02-02-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-03-01-02-02-12.wav",
+        "length": 3.7370833333333335,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-01-02-02-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-07-01-02-02-12.wav",
+        "length": 3.703708333333333,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-01-02-01-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-06-01-02-01-12.wav",
+        "length": 3.3700208333333332,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-01-01-01-02-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-01-01-01-02-12.wav",
+        "length": 3.536875,
+        "emo": "Neutral",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-02-01-02-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-05-02-01-02-12.wav",
+        "length": 3.6703333333333332,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-01-01-02-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-06-01-01-02-12.wav",
+        "length": 3.5035,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-01-02-01-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-04-01-02-01-12.wav",
+        "length": 3.6703333333333332,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-02-01-01-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-07-02-01-01-12.wav",
+        "length": 3.970645833333333,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-01-02-01-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-05-01-02-01-12.wav",
+        "length": 3.7370833333333335,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-02-02-02-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-07-02-02-02-12.wav",
+        "length": 3.970645833333333,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-01-02-02-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-05-01-02-02-12.wav",
+        "length": 4.137458333333333,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-01-01-02-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-07-01-01-02-12.wav",
+        "length": 3.703708333333333,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-02-02-02-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-06-02-02-02-12.wav",
+        "length": 3.6703333333333332,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-02-01-02-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-07-02-01-02-12.wav",
+        "length": 4.5378541666666665,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-01-02-02-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-06-01-02-02-12.wav",
+        "length": 3.2032083333333334,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-01-01-02-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-04-01-01-02-12.wav",
+        "length": 3.6035833333333334,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-02-02-02-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-03-02-02-02-12.wav",
+        "length": 3.970625,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-02-01-02-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-08-02-01-02-12.wav",
+        "length": 3.7370625,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-02-02-02-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-08-02-02-02-12.wav",
+        "length": 3.6703333333333332,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-01-01-01-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-06-01-01-01-12.wav",
+        "length": 3.4034166666666668,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-01-01-02-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-02-01-01-02-12.wav",
+        "length": 3.7704166666666667,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-01-01-01-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-05-01-01-01-12.wav",
+        "length": 4.2709375,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-02-01-02-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-03-02-01-02-12.wav",
+        "length": 4.137458333333333,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-02-01-01-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-08-02-01-01-12.wav",
+        "length": 3.7036875,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-01-01-02-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-08-01-01-02-12.wav",
+        "length": 3.6369583333333333,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-01-01-01-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-04-01-01-01-12.wav",
+        "length": 3.6703333333333332,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-01-01-01-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-07-01-01-01-12.wav",
+        "length": 3.7370625,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-02-02-02-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-05-02-02-02-12.wav",
+        "length": 3.8371666666666666,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-02-02-01-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-02-02-02-01-12.wav",
+        "length": 3.7370833333333335,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-01-02-01-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-08-01-02-01-12.wav",
+        "length": 3.5035,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-02-01-01-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-06-02-01-01-12.wav",
+        "length": 3.7370833333333335,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-01-01-02-01-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-01-01-02-01-12.wav",
+        "length": 3.6036041666666665,
+        "emo": "Neutral",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-01-01-02-02-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-01-01-02-02-12.wav",
+        "length": 3.636979166666667,
+        "emo": "Neutral",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-01-02-01-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-02-01-02-01-12.wav",
+        "length": 3.7704375,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-02-02-01-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-03-02-02-01-12.wav",
+        "length": 3.9039166666666665,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-01-01-01-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-08-01-01-01-12.wav",
+        "length": 3.536875,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-01-02-02-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-04-01-02-02-12.wav",
+        "length": 3.5702291666666666,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-01-01-01-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-02-01-01-01-12.wav",
+        "length": 3.8705208333333334,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-02-01-01-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-03-02-01-01-12.wav",
+        "length": 4.204208333333334,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-01-01-02-12": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_12/03-01-05-01-01-02-12.wav",
+        "length": 3.970625,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-01-01-02-01-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-01-01-02-01-10.wav",
+        "length": 3.7370625,
+        "emo": "Neutral",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-01-01-01-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-03-01-01-01-10.wav",
+        "length": 3.5035,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-01-01-02-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-03-01-01-02-10.wav",
+        "length": 3.470125,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-02-01-01-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-08-02-01-01-10.wav",
+        "length": 3.5035,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-01-02-01-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-05-01-02-01-10.wav",
+        "length": 4.104104166666667,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-02-02-02-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-04-02-02-02-10.wav",
+        "length": 3.5702291666666666,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-02-01-02-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-07-02-01-02-10.wav",
+        "length": 4.537875,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-02-02-02-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-05-02-02-02-10.wav",
+        "length": 4.137458333333333,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-02-02-02-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-06-02-02-02-10.wav",
+        "length": 3.8705416666666665,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-02-01-01-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-02-02-01-01-10.wav",
+        "length": 3.7370625,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-02-01-02-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-06-02-01-02-10.wav",
+        "length": 3.703708333333333,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-01-01-01-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-06-01-01-01-10.wav",
+        "length": 3.4034166666666668,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-02-01-01-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-04-02-01-01-10.wav",
+        "length": 3.5035,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-02-02-01-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-06-02-02-01-10.wav",
+        "length": 3.8037916666666667,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-02-01-02-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-08-02-01-02-10.wav",
+        "length": 3.403395833333333,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-01-02-01-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-08-01-02-01-10.wav",
+        "length": 3.5035,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-01-02-02-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-07-01-02-02-10.wav",
+        "length": 4.2709375,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-01-01-02-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-02-01-01-02-10.wav",
+        "length": 3.6035833333333334,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-02-01-01-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-03-02-01-01-10.wav",
+        "length": 3.8371666666666666,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-02-01-01-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-06-02-01-01-10.wav",
+        "length": 3.5035,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-02-02-01-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-03-02-02-01-10.wav",
+        "length": 3.7370625,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-02-02-02-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-02-02-02-02-10.wav",
+        "length": 3.8371666666666666,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-02-02-02-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-07-02-02-02-10.wav",
+        "length": 4.871541666666666,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-02-01-02-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-04-02-01-02-10.wav",
+        "length": 3.5702291666666666,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-01-01-01-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-08-01-01-01-10.wav",
+        "length": 3.2365625,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-01-01-02-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-07-01-01-02-10.wav",
+        "length": 4.2041875,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-01-01-01-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-04-01-01-01-10.wav",
+        "length": 3.3032916666666665,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-01-02-02-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-03-01-02-02-10.wav",
+        "length": 3.3366666666666664,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-01-02-02-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-02-01-02-02-10.wav",
+        "length": 3.703708333333333,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-02-01-02-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-02-02-01-02-10.wav",
+        "length": 3.7370625,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-01-02-01-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-04-01-02-01-10.wav",
+        "length": 3.536875,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-01-02-01-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-02-01-02-01-10.wav",
+        "length": 3.6369583333333333,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-02-01-01-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-07-02-01-01-10.wav",
+        "length": 4.671333333333333,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-02-02-01-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-05-02-02-01-10.wav",
+        "length": 3.8705208333333334,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-01-01-01-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-05-01-01-01-10.wav",
+        "length": 3.9038958333333333,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-02-02-02-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-03-02-02-02-10.wav",
+        "length": 3.970645833333333,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-01-01-01-02-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-01-01-01-02-10.wav",
+        "length": 3.8371666666666666,
+        "emo": "Neutral",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-01-01-02-02-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-01-01-02-02-10.wav",
+        "length": 3.6703333333333332,
+        "emo": "Neutral",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-02-01-02-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-03-02-01-02-10.wav",
+        "length": 3.5035,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-02-02-01-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-08-02-02-01-10.wav",
+        "length": 3.6369583333333333,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-01-01-01-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-02-01-01-01-10.wav",
+        "length": 3.5702291666666666,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-01-01-02-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-06-01-01-02-10.wav",
+        "length": 3.3033125,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-02-02-01-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-04-02-02-01-10.wav",
+        "length": 3.6703333333333332,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-01-01-02-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-08-01-01-02-10.wav",
+        "length": 3.4034166666666668,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-01-02-02-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-08-01-02-02-10.wav",
+        "length": 3.470125,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-01-02-02-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-05-01-02-02-10.wav",
+        "length": 4.137479166666667,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-01-01-02-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-04-01-01-02-10.wav",
+        "length": 3.470125,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-01-02-01-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-07-01-02-01-10.wav",
+        "length": 3.8705416666666665,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-01-01-02-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-05-01-01-02-10.wav",
+        "length": 4.004,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-01-01-01-01-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-01-01-01-01-10.wav",
+        "length": 3.536875,
+        "emo": "Neutral",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-02-01-01-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-05-02-01-01-10.wav",
+        "length": 4.170833333333333,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-01-01-01-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-07-01-01-01-10.wav",
+        "length": 3.703708333333333,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-04-01-02-02-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-04-01-02-02-10.wav",
+        "length": 3.8037916666666667,
+        "emo": "Sad",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-03-01-02-01-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-03-01-02-01-10.wav",
+        "length": 3.3032916666666665,
+        "emo": "Happy",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-01-02-01-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-06-01-02-01-10.wav",
+        "length": 3.5368541666666666,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-05-02-01-02-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-05-02-01-02-10.wav",
+        "length": 4.471125,
+        "emo": "Angry",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-06-01-02-02-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-06-01-02-02-10.wav",
+        "length": 3.4367708333333336,
+        "emo": "Fearful",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-07-02-02-01-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-07-02-02-01-10.wav",
+        "length": 4.2041875,
+        "emo": "Disgust",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-08-02-02-02-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-08-02-02-02-10.wav",
+        "length": 3.5035,
+        "emo": "Surprised",
+        "dataset": "ravdess",
+        "channel": 1
+    },
+    "ravdess-03-01-02-02-02-01-10": {
+        "wav": "downloads/ravdess/audio/Audio_Speech_Actors_01-24/Actor_10/03-01-02-02-02-01-10.wav",
+        "length": 3.8037916666666667,
+        "emo": "Calm",
+        "dataset": "ravdess",
+        "channel": 1
+    }
+}

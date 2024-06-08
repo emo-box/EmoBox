@@ -1,0 +1,3187 @@
+{
+    "aesdd-a03-3": {
+        "wav": "downloads/aesdd/anger/a03 (3).wav",
+        "length": 4.2,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a09-2": {
+        "wav": "downloads/aesdd/anger/a09 (2).wav",
+        "length": 2.8335147392290247,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a13-6": {
+        "wav": "downloads/aesdd/anger/a13 (6).wav",
+        "length": 5.453990929705215,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a03-2": {
+        "wav": "downloads/aesdd/anger/a03 (2).wav",
+        "length": 4.297891156462585,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a06-4": {
+        "wav": "downloads/aesdd/anger/a06 (4).wav",
+        "length": 4.022199546485261,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a01-4": {
+        "wav": "downloads/aesdd/anger/a01 (4).wav",
+        "length": 3.4303854875283446,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a19-1": {
+        "wav": "downloads/aesdd/anger/a19 (1).wav",
+        "length": 3.8,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a10-5": {
+        "wav": "downloads/aesdd/anger/a10 (5).wav",
+        "length": 2.169342403628118,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a02-6": {
+        "wav": "downloads/aesdd/anger/a02 (6).wav",
+        "length": 7.096009070294785,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a03-1": {
+        "wav": "downloads/aesdd/anger/a03 (1).wav",
+        "length": 4.32,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a04-6": {
+        "wav": "downloads/aesdd/anger/a04 (6).wav",
+        "length": 5.653764172335601,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a17-1": {
+        "wav": "downloads/aesdd/anger/a17 (1).wav",
+        "length": 4.515238095238095,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a09-4": {
+        "wav": "downloads/aesdd/anger/a09 (4).wav",
+        "length": 2.9,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a11-2": {
+        "wav": "downloads/aesdd/anger/a11 (2).wav",
+        "length": 3.032108843537415,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a18-1": {
+        "wav": "downloads/aesdd/anger/a18 (1).wav",
+        "length": 2.6,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a16-6": {
+        "wav": "downloads/aesdd/anger/a16 (6).wav",
+        "length": 5.920408163265306,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a18-5": {
+        "wav": "downloads/aesdd/anger/a18 (5).wav",
+        "length": 2.4,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a06-5": {
+        "wav": "downloads/aesdd/anger/a06 (5).wav",
+        "length": 3.774829931972789,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a08-4": {
+        "wav": "downloads/aesdd/anger/a08 (4).wav",
+        "length": 2.8476643990929706,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a14-5": {
+        "wav": "downloads/aesdd/anger/a14 (5).wav",
+        "length": 2.1830385487528345,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a16-5": {
+        "wav": "downloads/aesdd/anger/a16 (5).wav",
+        "length": 3.3766213151927436,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a18-4": {
+        "wav": "downloads/aesdd/anger/a18 (4).wav",
+        "length": 2.476598639455782,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a08-5": {
+        "wav": "downloads/aesdd/anger/a08 (5).wav",
+        "length": 3.440090702947846,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a08-3": {
+        "wav": "downloads/aesdd/anger/a08 (3).wav",
+        "length": 3.10156462585034,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a11-3": {
+        "wav": "downloads/aesdd/anger/a11 (3).wav",
+        "length": 3.451678004535147,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a07-2": {
+        "wav": "downloads/aesdd/anger/a07 (2).wav",
+        "length": 1.9185714285714286,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a18-3": {
+        "wav": "downloads/aesdd/anger/a18 (3).wav",
+        "length": 2.2,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a20-3": {
+        "wav": "downloads/aesdd/anger/a20 (3).wav",
+        "length": 5.401496598639456,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a10-1": {
+        "wav": "downloads/aesdd/anger/a10 (1).wav",
+        "length": 2.1860090702947845,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a19-5": {
+        "wav": "downloads/aesdd/anger/a19 (5).wav",
+        "length": 4.856439909297052,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a03-4": {
+        "wav": "downloads/aesdd/anger/a03 (4).wav",
+        "length": 3.759342403628118,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a06-3": {
+        "wav": "downloads/aesdd/anger/a06 (3).wav",
+        "length": 3.3,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a02-4": {
+        "wav": "downloads/aesdd/anger/a02 (4).wav",
+        "length": 4.242993197278912,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a13-1": {
+        "wav": "downloads/aesdd/anger/a13 (1).wav",
+        "length": 2.9,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a20-5": {
+        "wav": "downloads/aesdd/anger/a20 (5).wav",
+        "length": 4.4,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a20-6": {
+        "wav": "downloads/aesdd/anger/a20 (6).wav",
+        "length": 5.2772335600907025,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a15-5": {
+        "wav": "downloads/aesdd/anger/a15 (5).wav",
+        "length": 4.259909297052154,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a12-6": {
+        "wav": "downloads/aesdd/anger/a12 (6).wav",
+        "length": 4.723582766439909,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a05-4": {
+        "wav": "downloads/aesdd/anger/a05 (4).wav",
+        "length": 2.6,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a16-1": {
+        "wav": "downloads/aesdd/anger/a16 (1).wav",
+        "length": 3.865487528344671,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a12-3": {
+        "wav": "downloads/aesdd/anger/a12 (3).wav",
+        "length": 2.025238095238095,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a04-2": {
+        "wav": "downloads/aesdd/anger/a04 (2).wav",
+        "length": 2.7853514739229026,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a17-2": {
+        "wav": "downloads/aesdd/anger/a17 (2).wav",
+        "length": 3.3773922902494333,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a06-2": {
+        "wav": "downloads/aesdd/anger/a06 (2).wav",
+        "length": 3.2,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a18-2": {
+        "wav": "downloads/aesdd/anger/a18 (2).wav",
+        "length": 2.418684807256236,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a07-5": {
+        "wav": "downloads/aesdd/anger/a07 (5).wav",
+        "length": 2.2657142857142856,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a19-6": {
+        "wav": "downloads/aesdd/anger/a19 (6).wav",
+        "length": 6.043492063492064,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a19-2": {
+        "wav": "downloads/aesdd/anger/a19 (2).wav",
+        "length": 3.3265079365079364,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a18-6": {
+        "wav": "downloads/aesdd/anger/a18 (6).wav",
+        "length": 4.8546712018140585,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a09-1": {
+        "wav": "downloads/aesdd/anger/a09 (1).wav",
+        "length": 3.2,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a09-3": {
+        "wav": "downloads/aesdd/anger/a09 (3).wav",
+        "length": 3.5,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a05-3": {
+        "wav": "downloads/aesdd/anger/a05 (3).wav",
+        "length": 2.3,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a20-2": {
+        "wav": "downloads/aesdd/anger/a20 (2).wav",
+        "length": 2.8771655328798187,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a06-6": {
+        "wav": "downloads/aesdd/anger/a06 (6).wav",
+        "length": 5.983832199546486,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a15-1": {
+        "wav": "downloads/aesdd/anger/a15 (1).wav",
+        "length": 3.9,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a07-3": {
+        "wav": "downloads/aesdd/anger/a07 (3).wav",
+        "length": 2.7,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a09-6": {
+        "wav": "downloads/aesdd/anger/a09 (6).wav",
+        "length": 6.215034013605442,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a15-6": {
+        "wav": "downloads/aesdd/anger/a15 (6).wav",
+        "length": 6.124149659863946,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a07-4": {
+        "wav": "downloads/aesdd/anger/a07 (4).wav",
+        "length": 2.2,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a20-1": {
+        "wav": "downloads/aesdd/anger/a20 (1).wav",
+        "length": 1.5318820861678004,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a09-5": {
+        "wav": "downloads/aesdd/anger/a09 (5).wav",
+        "length": 3.4,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a04-4": {
+        "wav": "downloads/aesdd/anger/a04 (4).wav",
+        "length": 2.6,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a04-5": {
+        "wav": "downloads/aesdd/anger/a04 (5).wav",
+        "length": 2.749387755102041,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a13-5": {
+        "wav": "downloads/aesdd/anger/a13 (5).wav",
+        "length": 2.84,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a15-3": {
+        "wav": "downloads/aesdd/anger/a15 (3).wav",
+        "length": 3.633015873015873,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a07-6": {
+        "wav": "downloads/aesdd/anger/a07 (6).wav",
+        "length": 5.250022675736961,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a05-5": {
+        "wav": "downloads/aesdd/anger/a05 (5).wav",
+        "length": 2.3,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a08-6": {
+        "wav": "downloads/aesdd/anger/a08 (6).wav",
+        "length": 5.625532879818594,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a12-4": {
+        "wav": "downloads/aesdd/anger/a12 (4).wav",
+        "length": 2.1,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a19-3": {
+        "wav": "downloads/aesdd/anger/a19 (3).wav",
+        "length": 3.4792743764172336,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a17-4": {
+        "wav": "downloads/aesdd/anger/a17 (4).wav",
+        "length": 3.4794557823129253,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a16-4": {
+        "wav": "downloads/aesdd/anger/a16 (4).wav",
+        "length": 3.47843537414966,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a07-1": {
+        "wav": "downloads/aesdd/anger/a07 (1).wav",
+        "length": 2.9829931972789114,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a04-1": {
+        "wav": "downloads/aesdd/anger/a04 (1).wav",
+        "length": 2.0680498866213153,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a02-3": {
+        "wav": "downloads/aesdd/anger/a02 (3).wav",
+        "length": 3.9770068027210885,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a01-2": {
+        "wav": "downloads/aesdd/anger/a01 (2).wav",
+        "length": 3.4778684807256237,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a01-6": {
+        "wav": "downloads/aesdd/anger/a01 (6).wav",
+        "length": 6.865192743764172,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a04-3": {
+        "wav": "downloads/aesdd/anger/a04 (3).wav",
+        "length": 2.9,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a20-4": {
+        "wav": "downloads/aesdd/anger/a20 (4).wav",
+        "length": 2.7,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a03-6": {
+        "wav": "downloads/aesdd/anger/a03 (6).wav",
+        "length": 7.41047619047619,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a12-5": {
+        "wav": "downloads/aesdd/anger/a12 (5).wav",
+        "length": 2.2379138321995464,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a19-4": {
+        "wav": "downloads/aesdd/anger/a19 (4).wav",
+        "length": 3.3,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a10-4": {
+        "wav": "downloads/aesdd/anger/a10 (4).wav",
+        "length": 2.1799092970521543,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a14-2": {
+        "wav": "downloads/aesdd/anger/a14 (2).wav",
+        "length": 2.252403628117914,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a10-6": {
+        "wav": "downloads/aesdd/anger/a10 (6).wav",
+        "length": 4.503356009070295,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a16-2": {
+        "wav": "downloads/aesdd/anger/a16 (2).wav",
+        "length": 2.6357596371882086,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a11-6": {
+        "wav": "downloads/aesdd/anger/a11 (6).wav",
+        "length": 5.464013605442177,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a17-5": {
+        "wav": "downloads/aesdd/anger/a17 (5).wav",
+        "length": 3.9684126984126986,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a02-1": {
+        "wav": "downloads/aesdd/anger/a02 (1).wav",
+        "length": 5.140907029478458,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a17-6": {
+        "wav": "downloads/aesdd/anger/a17 (6).wav",
+        "length": 6.081315192743764,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-a12-2": {
+        "wav": "downloads/aesdd/anger/a12 (2).wav",
+        "length": 1.9,
+        "emo": "a",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f08-5": {
+        "wav": "downloads/aesdd/fear/f08 (5).wav",
+        "length": 4.538185941043084,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f01-5": {
+        "wav": "downloads/aesdd/fear/f01 (5).wav",
+        "length": 4.531746031746032,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f17-2": {
+        "wav": "downloads/aesdd/fear/f17 (2).wav",
+        "length": 3.1284353741496598,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f06-6": {
+        "wav": "downloads/aesdd/fear/f06 (6).wav",
+        "length": 6.3513605442176875,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f06-5": {
+        "wav": "downloads/aesdd/fear/f06 (5).wav",
+        "length": 4.927074829931973,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f13-3": {
+        "wav": "downloads/aesdd/fear/f13 (3).wav",
+        "length": 3.0,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f20-5": {
+        "wav": "downloads/aesdd/fear/f20 (5).wav",
+        "length": 9.0,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f13-4": {
+        "wav": "downloads/aesdd/fear/f13 (4).wav",
+        "length": 2.9300680272108846,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f09-1": {
+        "wav": "downloads/aesdd/fear/f09 (1).wav",
+        "length": 2.3308163265306123,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f04-2": {
+        "wav": "downloads/aesdd/fear/f04 (2).wav",
+        "length": 2.3,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f17-3": {
+        "wav": "downloads/aesdd/fear/f17 (3).wav",
+        "length": 4.6,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f06-3": {
+        "wav": "downloads/aesdd/fear/f06 (3).wav",
+        "length": 4.434126984126984,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f14-6": {
+        "wav": "downloads/aesdd/fear/f14 (6).wav",
+        "length": 4.873877551020408,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f16-1": {
+        "wav": "downloads/aesdd/fear/f16 (1).wav",
+        "length": 3.2,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f03-3": {
+        "wav": "downloads/aesdd/fear/f03 (3).wav",
+        "length": 3.9408390022675737,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f03-6": {
+        "wav": "downloads/aesdd/fear/f03 (6).wav",
+        "length": 6.770929705215419,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f09-3": {
+        "wav": "downloads/aesdd/fear/f09 (3).wav",
+        "length": 3.3741723356009072,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f20-6": {
+        "wav": "downloads/aesdd/fear/f20 (6).wav",
+        "length": 8.107959183673469,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f01-3": {
+        "wav": "downloads/aesdd/fear/f01 (3).wav",
+        "length": 4.6,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f19-1": {
+        "wav": "downloads/aesdd/fear/f19 (1).wav",
+        "length": 3.7637414965986395,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f04-4": {
+        "wav": "downloads/aesdd/fear/f04 (4).wav",
+        "length": 2.880589569160998,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f03-5": {
+        "wav": "downloads/aesdd/fear/f03 (5).wav",
+        "length": 5.2378458049886625,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f18-4": {
+        "wav": "downloads/aesdd/fear/f18 (4).wav",
+        "length": 2.4,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f05-6": {
+        "wav": "downloads/aesdd/fear/f05 (6).wav",
+        "length": 5.3665079365079364,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f12-01": {
+        "wav": "downloads/aesdd/fear/f12 (01).wav",
+        "length": 1.9842857142857142,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f07-6": {
+        "wav": "downloads/aesdd/fear/f07 (6).wav",
+        "length": 5.254013605442177,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f19-4": {
+        "wav": "downloads/aesdd/fear/f19 (4).wav",
+        "length": 3.6,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f05-5": {
+        "wav": "downloads/aesdd/fear/f05 (5).wav",
+        "length": 2.358798185941043,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f03-2": {
+        "wav": "downloads/aesdd/fear/f03 (2).wav",
+        "length": 3.6,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f04-1": {
+        "wav": "downloads/aesdd/fear/f04 (1).wav",
+        "length": 2.6310884353741497,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f11-3": {
+        "wav": "downloads/aesdd/fear/f11 (3).wav",
+        "length": 4.258072562358277,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f09-2": {
+        "wav": "downloads/aesdd/fear/f09 (2).wav",
+        "length": 2.8385714285714285,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f01-1": {
+        "wav": "downloads/aesdd/fear/f01 (1).wav",
+        "length": 3.8,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f10-6": {
+        "wav": "downloads/aesdd/fear/f10 (6).wav",
+        "length": 5.6178231292517005,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f06-2": {
+        "wav": "downloads/aesdd/fear/f06 (2).wav",
+        "length": 2.8,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f15-4": {
+        "wav": "downloads/aesdd/fear/f15 (4).wav",
+        "length": 3.3795691609977325,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f18-1": {
+        "wav": "downloads/aesdd/fear/f18 (1).wav",
+        "length": 2.8742176870748297,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f08-3": {
+        "wav": "downloads/aesdd/fear/f08 (3).wav",
+        "length": 3.2,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f06-4": {
+        "wav": "downloads/aesdd/fear/f06 (4).wav",
+        "length": 3.9,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f03-4": {
+        "wav": "downloads/aesdd/fear/f03 (4).wav",
+        "length": 3.670952380952381,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f02-3": {
+        "wav": "downloads/aesdd/fear/f02 (3).wav",
+        "length": 4.51562358276644,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f17-5": {
+        "wav": "downloads/aesdd/fear/f17 (5).wav",
+        "length": 3.7486621315192745,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f15-2": {
+        "wav": "downloads/aesdd/fear/f15 (2).wav",
+        "length": 2.7850566893424036,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f16-4": {
+        "wav": "downloads/aesdd/fear/f16 (4).wav",
+        "length": 3.3348072562358277,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f13-2": {
+        "wav": "downloads/aesdd/fear/f13 (2).wav",
+        "length": 2.5465079365079366,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f15-5": {
+        "wav": "downloads/aesdd/fear/f15 (5).wav",
+        "length": 3.8,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f09-4": {
+        "wav": "downloads/aesdd/fear/f09 (4).wav",
+        "length": 3.267936507936508,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f14-1": {
+        "wav": "downloads/aesdd/fear/f14 (1).wav",
+        "length": 2.825328798185941,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f13-6": {
+        "wav": "downloads/aesdd/fear/f13 (6).wav",
+        "length": 5.294829931972789,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f02-6": {
+        "wav": "downloads/aesdd/fear/f02 (6).wav",
+        "length": 7.641065759637188,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f11-6": {
+        "wav": "downloads/aesdd/fear/f11 (6).wav",
+        "length": 6.420022675736962,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f15-6": {
+        "wav": "downloads/aesdd/fear/f15 (6).wav",
+        "length": 6.9832879818594105,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f10-3": {
+        "wav": "downloads/aesdd/fear/f10 (3).wav",
+        "length": 2.1724036281179138,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f12-2": {
+        "wav": "downloads/aesdd/fear/f12 (2).wav",
+        "length": 1.7341723356009071,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f03-1": {
+        "wav": "downloads/aesdd/fear/f03 (1).wav",
+        "length": 3.900249433106576,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f01-6": {
+        "wav": "downloads/aesdd/fear/f01 (6).wav",
+        "length": 6.1171655328798185,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f17-4": {
+        "wav": "downloads/aesdd/fear/f17 (4).wav",
+        "length": 3.6404761904761904,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f11-4": {
+        "wav": "downloads/aesdd/fear/f11 (4).wav",
+        "length": 2.9633786848072563,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f05-2": {
+        "wav": "downloads/aesdd/fear/f05 (2).wav",
+        "length": 1.9726530612244897,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f16-5": {
+        "wav": "downloads/aesdd/fear/f16 (5).wav",
+        "length": 3.488049886621315,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f10-2": {
+        "wav": "downloads/aesdd/fear/f10 (2).wav",
+        "length": 1.7,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f12-4": {
+        "wav": "downloads/aesdd/fear/f12 (4).wav",
+        "length": 2.8,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f11-2": {
+        "wav": "downloads/aesdd/fear/f11 (2).wav",
+        "length": 2.3141496598639457,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f20-1": {
+        "wav": "downloads/aesdd/fear/f20 (1).wav",
+        "length": 0.9811791383219954,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f17-1": {
+        "wav": "downloads/aesdd/fear/f17 (1).wav",
+        "length": 4.0922448979591834,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f07-4": {
+        "wav": "downloads/aesdd/fear/f07 (4).wav",
+        "length": 2.468231292517007,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f17-6": {
+        "wav": "downloads/aesdd/fear/f17 (6).wav",
+        "length": 6.728480725623583,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f16-3": {
+        "wav": "downloads/aesdd/fear/f16 (3).wav",
+        "length": 3.0,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f08-6": {
+        "wav": "downloads/aesdd/fear/f08 (6).wav",
+        "length": 5.782358276643991,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f14-2": {
+        "wav": "downloads/aesdd/fear/f14 (2).wav",
+        "length": 2.4306349206349207,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f04-6": {
+        "wav": "downloads/aesdd/fear/f04 (6).wav",
+        "length": 5.161519274376417,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f11-01": {
+        "wav": "downloads/aesdd/fear/f11 (01).wav",
+        "length": 4.29390022675737,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f08-2": {
+        "wav": "downloads/aesdd/fear/f08 (2).wav",
+        "length": 3.1,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f02-2": {
+        "wav": "downloads/aesdd/fear/f02 (2).wav",
+        "length": 3.8241043083900226,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f14-5": {
+        "wav": "downloads/aesdd/fear/f14 (5).wav",
+        "length": 2.6,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f01-4": {
+        "wav": "downloads/aesdd/fear/f01 (4).wav",
+        "length": 3.7670068027210886,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f10-5": {
+        "wav": "downloads/aesdd/fear/f10 (5).wav",
+        "length": 3.04156462585034,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f12-5": {
+        "wav": "downloads/aesdd/fear/f12 (5).wav",
+        "length": 2.55687074829932,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f07-2": {
+        "wav": "downloads/aesdd/fear/f07 (2).wav",
+        "length": 1.8,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f14-3": {
+        "wav": "downloads/aesdd/fear/f14 (3).wav",
+        "length": 2.340453514739229,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f08-4": {
+        "wav": "downloads/aesdd/fear/f08 (4).wav",
+        "length": 2.8,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f18-5": {
+        "wav": "downloads/aesdd/fear/f18 (5).wav",
+        "length": 2.1,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f18-5b": {
+        "wav": "downloads/aesdd/fear/f18 (5)b.wav",
+        "length": 2.6425170068027213,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f06-1": {
+        "wav": "downloads/aesdd/fear/f06 (1).wav",
+        "length": 3.926485260770975,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f05-1": {
+        "wav": "downloads/aesdd/fear/f05 (1).wav",
+        "length": 2.3351700680272107,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f05-4": {
+        "wav": "downloads/aesdd/fear/f05 (4).wav",
+        "length": 2.7,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f18-6": {
+        "wav": "downloads/aesdd/fear/f18 (6).wav",
+        "length": 5.677573696145124,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f07-3": {
+        "wav": "downloads/aesdd/fear/f07 (3).wav",
+        "length": 2.881473922902494,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f18-2": {
+        "wav": "downloads/aesdd/fear/f18 (2).wav",
+        "length": 2.1,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-f08-1": {
+        "wav": "downloads/aesdd/fear/f08 (1).wav",
+        "length": 3.1592743764172337,
+        "emo": "f",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h14-4": {
+        "wav": "downloads/aesdd/happiness/h14 (4).wav",
+        "length": 2.9,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h02-4": {
+        "wav": "downloads/aesdd/happiness/h02 (4).wav",
+        "length": 5.131451247165533,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h06-2": {
+        "wav": "downloads/aesdd/happiness/h06 (2).wav",
+        "length": 3.327301587301587,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h09-2": {
+        "wav": "downloads/aesdd/happiness/h09 (2).wav",
+        "length": 3.2189795918367348,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h17-3": {
+        "wav": "downloads/aesdd/happiness/h17 (3).wav",
+        "length": 4.1,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h12-5": {
+        "wav": "downloads/aesdd/happiness/h12 (5).wav",
+        "length": 2.5724036281179137,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h20-3": {
+        "wav": "downloads/aesdd/happiness/h20 (3).wav",
+        "length": 2.8292743764172337,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h19-4": {
+        "wav": "downloads/aesdd/happiness/h19 (4).wav",
+        "length": 4.105827664399093,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h15-4": {
+        "wav": "downloads/aesdd/happiness/h15 (4).wav",
+        "length": 4.111927437641723,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h11-2": {
+        "wav": "downloads/aesdd/happiness/h11 (2).wav",
+        "length": 3.482108843537415,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h12-6": {
+        "wav": "downloads/aesdd/happiness/h12 (6).wav",
+        "length": 5.1000907029478455,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h03-3": {
+        "wav": "downloads/aesdd/happiness/h03 (3).wav",
+        "length": 4.56,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h20-4": {
+        "wav": "downloads/aesdd/happiness/h20 (4).wav",
+        "length": 2.6,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h15-6": {
+        "wav": "downloads/aesdd/happiness/h15 (6).wav",
+        "length": 7.100997732426304,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h09-4": {
+        "wav": "downloads/aesdd/happiness/h09 (4).wav",
+        "length": 3.550408163265306,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h07-2": {
+        "wav": "downloads/aesdd/happiness/h07 (2).wav",
+        "length": 1.9365079365079365,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h04-2": {
+        "wav": "downloads/aesdd/happiness/h04 (2).wav",
+        "length": 3.2574149659863947,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h15-3": {
+        "wav": "downloads/aesdd/happiness/h15 (3).wav",
+        "length": 4.561201814058957,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h11-1": {
+        "wav": "downloads/aesdd/happiness/h11 (1).wav",
+        "length": 5.8,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h02-2": {
+        "wav": "downloads/aesdd/happiness/h02 (2).wav",
+        "length": 4.456598639455782,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h10-3": {
+        "wav": "downloads/aesdd/happiness/h10 (3).wav",
+        "length": 2.9,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h05-5": {
+        "wav": "downloads/aesdd/happiness/h05 (5).wav",
+        "length": 2.8851020408163266,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h06-5": {
+        "wav": "downloads/aesdd/happiness/h06 (5).wav",
+        "length": 5.483786848072563,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h07-6": {
+        "wav": "downloads/aesdd/happiness/h07 (6).wav",
+        "length": 5.57108843537415,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h14-1": {
+        "wav": "downloads/aesdd/happiness/h14 (1).wav",
+        "length": 2.998140589569161,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h08-1": {
+        "wav": "downloads/aesdd/happiness/h08 (1).wav",
+        "length": 3.7439229024943312,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h01-6": {
+        "wav": "downloads/aesdd/happiness/h01 (6).wav",
+        "length": 8.978820861678004,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h04-6": {
+        "wav": "downloads/aesdd/happiness/h04 (6).wav",
+        "length": 5.243401360544218,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h15-5": {
+        "wav": "downloads/aesdd/happiness/h15 (5).wav",
+        "length": 3.8650566893424037,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h04-5": {
+        "wav": "downloads/aesdd/happiness/h04 (5).wav",
+        "length": 2.5697732426303856,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h18-1": {
+        "wav": "downloads/aesdd/happiness/h18 (1).wav",
+        "length": 3.4351927437641723,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h10-2": {
+        "wav": "downloads/aesdd/happiness/h10 (2).wav",
+        "length": 2.3214739229024945,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h16-6": {
+        "wav": "downloads/aesdd/happiness/h16 (6).wav",
+        "length": 7.198888888888889,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h13-1": {
+        "wav": "downloads/aesdd/happiness/h13 (1).wav",
+        "length": 3.3,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h05-3": {
+        "wav": "downloads/aesdd/happiness/h05 (3).wav",
+        "length": 2.962267573696145,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h08-3": {
+        "wav": "downloads/aesdd/happiness/h08 (3).wav",
+        "length": 2.7,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h01-4": {
+        "wav": "downloads/aesdd/happiness/h01 (4).wav",
+        "length": 4.6,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h03-2": {
+        "wav": "downloads/aesdd/happiness/h03 (2).wav",
+        "length": 3.9614739229024942,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h13-5": {
+        "wav": "downloads/aesdd/happiness/h13 (5).wav",
+        "length": 2.8,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h02-3": {
+        "wav": "downloads/aesdd/happiness/h02 (3).wav",
+        "length": 4.227528344671202,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h04-1": {
+        "wav": "downloads/aesdd/happiness/h04 (1).wav",
+        "length": 3.3715192743764173,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h03-1": {
+        "wav": "downloads/aesdd/happiness/h03 (1).wav",
+        "length": 4.669863945578231,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h18-2": {
+        "wav": "downloads/aesdd/happiness/h18 (2).wav",
+        "length": 2.5657823129251702,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h18-4": {
+        "wav": "downloads/aesdd/happiness/h18 (4).wav",
+        "length": 2.9243310657596373,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h07-3": {
+        "wav": "downloads/aesdd/happiness/h07 (3).wav",
+        "length": 1.9634240362811792,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h16-5": {
+        "wav": "downloads/aesdd/happiness/h16 (5).wav",
+        "length": 3.02421768707483,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h12-1": {
+        "wav": "downloads/aesdd/happiness/h12 (1).wav",
+        "length": 2.814580498866213,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h06-1": {
+        "wav": "downloads/aesdd/happiness/h06 (1).wav",
+        "length": 5.782698412698413,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h20-2": {
+        "wav": "downloads/aesdd/happiness/h20 (2).wav",
+        "length": 2.9,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h09-1": {
+        "wav": "downloads/aesdd/happiness/h09 (1).wav",
+        "length": 6.0,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h20-6": {
+        "wav": "downloads/aesdd/happiness/h20 (6).wav",
+        "length": 6.373560090702948,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h09-5": {
+        "wav": "downloads/aesdd/happiness/h09 (5).wav",
+        "length": 3.8216780045351473,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h11-4": {
+        "wav": "downloads/aesdd/happiness/h11 (4).wav",
+        "length": 3.8417233560090702,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h19-1": {
+        "wav": "downloads/aesdd/happiness/h19 (1).wav",
+        "length": 4.098548752834467,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h16-3": {
+        "wav": "downloads/aesdd/happiness/h16 (3).wav",
+        "length": 3.5711337868480726,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h06-6": {
+        "wav": "downloads/aesdd/happiness/h06 (6).wav",
+        "length": 6.930839002267573,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h19-3": {
+        "wav": "downloads/aesdd/happiness/h19 (3).wav",
+        "length": 3.4,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h07-1": {
+        "wav": "downloads/aesdd/happiness/h07 (1).wav",
+        "length": 3.1269160997732426,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h14-2": {
+        "wav": "downloads/aesdd/happiness/h14 (2).wav",
+        "length": 2.4629478458049885,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h09-3": {
+        "wav": "downloads/aesdd/happiness/h09 (3).wav",
+        "length": 4.4,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h19-2": {
+        "wav": "downloads/aesdd/happiness/h19 (2).wav",
+        "length": 3.2419274376417233,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h02-6": {
+        "wav": "downloads/aesdd/happiness/h02 (6).wav",
+        "length": 9.240272108843538,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h07-5": {
+        "wav": "downloads/aesdd/happiness/h07 (5).wav",
+        "length": 2.6225396825396827,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h20-1": {
+        "wav": "downloads/aesdd/happiness/h20 (1).wav",
+        "length": 2.1853968253968254,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h02-1": {
+        "wav": "downloads/aesdd/happiness/h02 (1).wav",
+        "length": 5.566961451247166,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h06-4": {
+        "wav": "downloads/aesdd/happiness/h06 (4).wav",
+        "length": 4.513106575963719,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h04-4": {
+        "wav": "downloads/aesdd/happiness/h04 (4).wav",
+        "length": 3.2,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h08-6": {
+        "wav": "downloads/aesdd/happiness/h08 (6).wav",
+        "length": 6.040498866213152,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h13-4": {
+        "wav": "downloads/aesdd/happiness/h13 (4).wav",
+        "length": 3.8,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h11-5": {
+        "wav": "downloads/aesdd/happiness/h11 (5).wav",
+        "length": 3.262721088435374,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h10-1": {
+        "wav": "downloads/aesdd/happiness/h10 (1).wav",
+        "length": 2.6,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h04-3": {
+        "wav": "downloads/aesdd/happiness/h04 (3).wav",
+        "length": 2.5560544217687076,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h12-3": {
+        "wav": "downloads/aesdd/happiness/h12 (3).wav",
+        "length": 3.032902494331066,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h01-3": {
+        "wav": "downloads/aesdd/happiness/h01 (3).wav",
+        "length": 3.76,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h19-6": {
+        "wav": "downloads/aesdd/happiness/h19 (6).wav",
+        "length": 7.170657596371882,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h18-5": {
+        "wav": "downloads/aesdd/happiness/h18 (5).wav",
+        "length": 2.709863945578231,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h15-1": {
+        "wav": "downloads/aesdd/happiness/h15 (1).wav",
+        "length": 4.560453514739229,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h17-4": {
+        "wav": "downloads/aesdd/happiness/h17 (4).wav",
+        "length": 4.2,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h20-5": {
+        "wav": "downloads/aesdd/happiness/h20 (5).wav",
+        "length": 3.2519274376417235,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h06-3": {
+        "wav": "downloads/aesdd/happiness/h06 (3).wav",
+        "length": 3.858390022675737,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h07-4": {
+        "wav": "downloads/aesdd/happiness/h07 (4).wav",
+        "length": 3.0,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h08-4": {
+        "wav": "downloads/aesdd/happiness/h08 (4).wav",
+        "length": 3.3726077097505667,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h02-5": {
+        "wav": "downloads/aesdd/happiness/h02 (5).wav",
+        "length": 4.8,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h10-4": {
+        "wav": "downloads/aesdd/happiness/h10 (4).wav",
+        "length": 2.5680045351473924,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h16-2": {
+        "wav": "downloads/aesdd/happiness/h16 (2).wav",
+        "length": 2.721111111111111,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h03-5": {
+        "wav": "downloads/aesdd/happiness/h03 (5).wav",
+        "length": 4.724353741496599,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h01-2": {
+        "wav": "downloads/aesdd/happiness/h01 (2).wav",
+        "length": 3.6,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h13-3": {
+        "wav": "downloads/aesdd/happiness/h13 (3).wav",
+        "length": 3.3,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h12-2": {
+        "wav": "downloads/aesdd/happiness/h12 (2).wav",
+        "length": 2.1,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-h10-5": {
+        "wav": "downloads/aesdd/happiness/h10 (5).wav",
+        "length": 2.7327664399092972,
+        "emo": "h",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s01-1": {
+        "wav": "downloads/aesdd/sadness/s01 (1).wav",
+        "length": 4.152222222222222,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s18-4": {
+        "wav": "downloads/aesdd/sadness/s18 (4).wav",
+        "length": 2.8815419501133785,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s15-6": {
+        "wav": "downloads/aesdd/sadness/s15 (6).wav",
+        "length": 9.63297052154195,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s11-4": {
+        "wav": "downloads/aesdd/sadness/s11 (4).wav",
+        "length": 3.8,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s16-1": {
+        "wav": "downloads/aesdd/sadness/s16 (1).wav",
+        "length": 4.171337868480726,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s20-3": {
+        "wav": "downloads/aesdd/sadness/s20 (3).wav",
+        "length": 2.9619727891156464,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s09-5": {
+        "wav": "downloads/aesdd/sadness/s09 (5).wav",
+        "length": 3.540861678004535,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s02-4": {
+        "wav": "downloads/aesdd/sadness/s02 (4).wav",
+        "length": 5.559501133786848,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s20-6": {
+        "wav": "downloads/aesdd/sadness/s20 (6).wav",
+        "length": 10.00249433106576,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s11-2": {
+        "wav": "downloads/aesdd/sadness/s11 (2).wav",
+        "length": 3.4837641723356008,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s04-1": {
+        "wav": "downloads/aesdd/sadness/s04 (1).wav",
+        "length": 3.7,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s06-6": {
+        "wav": "downloads/aesdd/sadness/s06 (6).wav",
+        "length": 8.792063492063493,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s06-5": {
+        "wav": "downloads/aesdd/sadness/s06 (5).wav",
+        "length": 5.351269841269842,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s04-4": {
+        "wav": "downloads/aesdd/sadness/s04 (4).wav",
+        "length": 3.9465532879818594,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s03-5": {
+        "wav": "downloads/aesdd/sadness/s03 (5).wav",
+        "length": 5.668798185941043,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s12-3": {
+        "wav": "downloads/aesdd/sadness/s12 (3).wav",
+        "length": 3.0,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s03-3": {
+        "wav": "downloads/aesdd/sadness/s03 (3).wav",
+        "length": 4.4,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s02-5": {
+        "wav": "downloads/aesdd/sadness/s02 (5).wav",
+        "length": 5.6610884353741495,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s09-3": {
+        "wav": "downloads/aesdd/sadness/s09 (3).wav",
+        "length": 4.5745124716553285,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s04-2": {
+        "wav": "downloads/aesdd/sadness/s04 (2).wav",
+        "length": 3.142448979591837,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s20-5": {
+        "wav": "downloads/aesdd/sadness/s20 (5).wav",
+        "length": 7.449659863945579,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s19-5": {
+        "wav": "downloads/aesdd/sadness/s19 (5).wav",
+        "length": 5.6618820861678,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s10-4": {
+        "wav": "downloads/aesdd/sadness/s10 (4).wav",
+        "length": 2.5,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s20-2": {
+        "wav": "downloads/aesdd/sadness/s20 (2).wav",
+        "length": 3.3505442176870748,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s11-6": {
+        "wav": "downloads/aesdd/sadness/s11 (6).wav",
+        "length": 8.398321995464853,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s09-2": {
+        "wav": "downloads/aesdd/sadness/s09 (2).wav",
+        "length": 3.6534467120181406,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s20-1": {
+        "wav": "downloads/aesdd/sadness/s20 (1).wav",
+        "length": 2.4,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s19-3": {
+        "wav": "downloads/aesdd/sadness/s19 (3).wav",
+        "length": 4.069070294784581,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s09-6": {
+        "wav": "downloads/aesdd/sadness/s09 (6).wav",
+        "length": 8.849501133786848,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s03-2": {
+        "wav": "downloads/aesdd/sadness/s03 (2).wav",
+        "length": 4.681655328798186,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s15-1": {
+        "wav": "downloads/aesdd/sadness/s15 (1).wav",
+        "length": 3.5,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s07-6": {
+        "wav": "downloads/aesdd/sadness/s07 (6).wav",
+        "length": 7.455192743764172,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s19-4": {
+        "wav": "downloads/aesdd/sadness/s19 (4).wav",
+        "length": 4.56108843537415,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s10-2": {
+        "wav": "downloads/aesdd/sadness/s10 (2).wav",
+        "length": 2.0369614512471657,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s16-5": {
+        "wav": "downloads/aesdd/sadness/s16 (5).wav",
+        "length": 4.565215419501134,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s16-4": {
+        "wav": "downloads/aesdd/sadness/s16 (4).wav",
+        "length": 4.2,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s13-5": {
+        "wav": "downloads/aesdd/sadness/s13 (5).wav",
+        "length": 4.521836734693878,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s07-3": {
+        "wav": "downloads/aesdd/sadness/s07 (3).wav",
+        "length": 3.6,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s12-1": {
+        "wav": "downloads/aesdd/sadness/s12 (1).wav",
+        "length": 2.1329705215419503,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s18-2": {
+        "wav": "downloads/aesdd/sadness/s18 (2).wav",
+        "length": 2.6516326530612244,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s10-5": {
+        "wav": "downloads/aesdd/sadness/s10 (5).wav",
+        "length": 2.6344444444444446,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s01-4": {
+        "wav": "downloads/aesdd/sadness/s01 (4).wav",
+        "length": 4.8,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s15-2": {
+        "wav": "downloads/aesdd/sadness/s15 (2).wav",
+        "length": 3.15,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s08-2": {
+        "wav": "downloads/aesdd/sadness/s08 (2).wav",
+        "length": 3.5889569160997734,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s05-6": {
+        "wav": "downloads/aesdd/sadness/s05 (6).wav",
+        "length": 6.610770975056689,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s06-2": {
+        "wav": "downloads/aesdd/sadness/s06 (2).wav",
+        "length": 4.0935600907029475,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s12-4": {
+        "wav": "downloads/aesdd/sadness/s12 (4).wav",
+        "length": 2.8559410430839,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s15-3": {
+        "wav": "downloads/aesdd/sadness/s15 (3).wav",
+        "length": 4.3,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s08-6": {
+        "wav": "downloads/aesdd/sadness/s08 (6).wav",
+        "length": 8.315351473922902,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s13-2": {
+        "wav": "downloads/aesdd/sadness/s13 (2).wav",
+        "length": 2.919092970521542,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s01-5b": {
+        "wav": "downloads/aesdd/sadness/s01 (5)b.wav",
+        "length": 4.9978231292517,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s07-2": {
+        "wav": "downloads/aesdd/sadness/s07 (2).wav",
+        "length": 2.035827664399093,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s17-4": {
+        "wav": "downloads/aesdd/sadness/s17 (4).wav",
+        "length": 4.463424036281179,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s04-6": {
+        "wav": "downloads/aesdd/sadness/s04 (6).wav",
+        "length": 7.335215419501134,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s01-6": {
+        "wav": "downloads/aesdd/sadness/s01 (6).wav",
+        "length": 9.191791383219954,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s04-3": {
+        "wav": "downloads/aesdd/sadness/s04 (3).wav",
+        "length": 3.8789115646258505,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s16-3": {
+        "wav": "downloads/aesdd/sadness/s16 (3).wav",
+        "length": 4.470362811791383,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s05-4": {
+        "wav": "downloads/aesdd/sadness/s05 (4).wav",
+        "length": 3.2791156462585036,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s11-1": {
+        "wav": "downloads/aesdd/sadness/s11 (1).wav",
+        "length": 2.7338095238095237,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s11-3": {
+        "wav": "downloads/aesdd/sadness/s11 (3).wav",
+        "length": 3.9,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s08-1": {
+        "wav": "downloads/aesdd/sadness/s08 (1).wav",
+        "length": 3.5348526077097504,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s13-1": {
+        "wav": "downloads/aesdd/sadness/s13 (1).wav",
+        "length": 2.9,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s17-1": {
+        "wav": "downloads/aesdd/sadness/s17 (1).wav",
+        "length": 4.691428571428571,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s17-6": {
+        "wav": "downloads/aesdd/sadness/s17 (6).wav",
+        "length": 9.713242630385487,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s15-4": {
+        "wav": "downloads/aesdd/sadness/s15 (4).wav",
+        "length": 4.119637188208617,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s13-3": {
+        "wav": "downloads/aesdd/sadness/s13 (3).wav",
+        "length": 4.0,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s12-5": {
+        "wav": "downloads/aesdd/sadness/s12 (5).wav",
+        "length": 2.7268027210884354,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s02-3": {
+        "wav": "downloads/aesdd/sadness/s02 (3).wav",
+        "length": 4.951315192743764,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s03-1": {
+        "wav": "downloads/aesdd/sadness/s03 (1).wav",
+        "length": 4.704716553287982,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s18-1": {
+        "wav": "downloads/aesdd/sadness/s18 (1).wav",
+        "length": 2.6,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s17-3": {
+        "wav": "downloads/aesdd/sadness/s17 (3).wav",
+        "length": 4.689501133786848,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s03-4": {
+        "wav": "downloads/aesdd/sadness/s03 (4).wav",
+        "length": 4.6,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s02-1": {
+        "wav": "downloads/aesdd/sadness/s02 (1).wav",
+        "length": 4.744353741496599,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s14-3": {
+        "wav": "downloads/aesdd/sadness/s14 (3).wav",
+        "length": 3.3968707482993197,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s10-1": {
+        "wav": "downloads/aesdd/sadness/s10 (1).wav",
+        "length": 2.072721088435374,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s11-5": {
+        "wav": "downloads/aesdd/sadness/s11 (5).wav",
+        "length": 5.0,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s12-6": {
+        "wav": "downloads/aesdd/sadness/s12 (6).wav",
+        "length": 6.87469387755102,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s18-3": {
+        "wav": "downloads/aesdd/sadness/s18 (3).wav",
+        "length": 4.333786848072562,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s19-6": {
+        "wav": "downloads/aesdd/sadness/s19 (6).wav",
+        "length": 12.734852607709751,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s02-2": {
+        "wav": "downloads/aesdd/sadness/s02 (2).wav",
+        "length": 5.029569160997732,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s06-1": {
+        "wav": "downloads/aesdd/sadness/s06 (1).wav",
+        "length": 5.13453514739229,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s17-2": {
+        "wav": "downloads/aesdd/sadness/s17 (2).wav",
+        "length": 3.6314512471655327,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s14-4": {
+        "wav": "downloads/aesdd/sadness/s14 (4).wav",
+        "length": 2.912766439909297,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s14-1": {
+        "wav": "downloads/aesdd/sadness/s14 (1).wav",
+        "length": 2.6025170068027212,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s14-2": {
+        "wav": "downloads/aesdd/sadness/s14 (2).wav",
+        "length": 2.788390022675737,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s03-6": {
+        "wav": "downloads/aesdd/sadness/s03 (6).wav",
+        "length": 8.21655328798186,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s05-5": {
+        "wav": "downloads/aesdd/sadness/s05 (5).wav",
+        "length": 3.1,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s07-4": {
+        "wav": "downloads/aesdd/sadness/s07 (4).wav",
+        "length": 2.6248979591836736,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s18-5": {
+        "wav": "downloads/aesdd/sadness/s18 (5).wav",
+        "length": 3.1,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s08-3": {
+        "wav": "downloads/aesdd/sadness/s08 (3).wav",
+        "length": 4.4,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s19-1": {
+        "wav": "downloads/aesdd/sadness/s19 (1).wav",
+        "length": 3.2491836734693877,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-s08-4": {
+        "wav": "downloads/aesdd/sadness/s08 (4).wav",
+        "length": 3.4,
+        "emo": "s",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d04-4": {
+        "wav": "downloads/aesdd/disgust/d04 (4).wav",
+        "length": 4.7660770975056685,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d05-6": {
+        "wav": "downloads/aesdd/disgust/d05 (6).wav",
+        "length": 5.236802721088435,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d02-5": {
+        "wav": "downloads/aesdd/disgust/d02 (5).wav",
+        "length": 7.8,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d06-3": {
+        "wav": "downloads/aesdd/disgust/d06 (3).wav",
+        "length": 5.270589569160998,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d19-5": {
+        "wav": "downloads/aesdd/disgust/d19 (5).wav",
+        "length": 7.0,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d16-4": {
+        "wav": "downloads/aesdd/disgust/d16 (4).wav",
+        "length": 5.161972789115646,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d20-2": {
+        "wav": "downloads/aesdd/disgust/d20 (2).wav",
+        "length": 1.9,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d19-1": {
+        "wav": "downloads/aesdd/disgust/d19 (1).wav",
+        "length": 4.6,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d06-6": {
+        "wav": "downloads/aesdd/disgust/d06 (6).wav",
+        "length": 6.778934240362812,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d09-4": {
+        "wav": "downloads/aesdd/disgust/d09 (4).wav",
+        "length": 4.2,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d07-6": {
+        "wav": "downloads/aesdd/disgust/d07 (6).wav",
+        "length": 4.542199546485261,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d12-1": {
+        "wav": "downloads/aesdd/disgust/d12 (1).wav",
+        "length": 2.6187755102040815,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d01-3": {
+        "wav": "downloads/aesdd/disgust/d01 (3).wav",
+        "length": 5.859455782312925,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d03-2": {
+        "wav": "downloads/aesdd/disgust/d03 (2).wav",
+        "length": 3.7343764172335603,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d20-6": {
+        "wav": "downloads/aesdd/disgust/d20 (6).wav",
+        "length": 5.556870748299319,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d08-1": {
+        "wav": "downloads/aesdd/disgust/d08 (1).wav",
+        "length": 4.36374149659864,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d04-2": {
+        "wav": "downloads/aesdd/disgust/d04 (2).wav",
+        "length": 2.8140589569161,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d09-1": {
+        "wav": "downloads/aesdd/disgust/d09 (1).wav",
+        "length": 4.935691609977324,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d10-1": {
+        "wav": "downloads/aesdd/disgust/d10 (1).wav",
+        "length": 3.4,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d08-2": {
+        "wav": "downloads/aesdd/disgust/d08 (2).wav",
+        "length": 3.356780045351474,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d13-6": {
+        "wav": "downloads/aesdd/disgust/d13 (6).wav",
+        "length": 5.246303854875284,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d05-2": {
+        "wav": "downloads/aesdd/disgust/d05 (2).wav",
+        "length": 2.3754875283446713,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d02-6": {
+        "wav": "downloads/aesdd/disgust/d02 (6).wav",
+        "length": 7.345827664399093,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d02-2": {
+        "wav": "downloads/aesdd/disgust/d02 (2).wav",
+        "length": 4.472517006802721,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d04-3": {
+        "wav": "downloads/aesdd/disgust/d04 (3).wav",
+        "length": 3.5,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d13-5": {
+        "wav": "downloads/aesdd/disgust/d13 (5).wav",
+        "length": 3.6560997732426306,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d12-5": {
+        "wav": "downloads/aesdd/disgust/d12 (5).wav",
+        "length": 2.952108843537415,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d15-5": {
+        "wav": "downloads/aesdd/disgust/d15 (5).wav",
+        "length": 4.517120181405896,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d07-2": {
+        "wav": "downloads/aesdd/disgust/d07 (2).wav",
+        "length": 2.6907256235827663,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d18-2": {
+        "wav": "downloads/aesdd/disgust/d18 (2).wav",
+        "length": 3.0,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d11-1": {
+        "wav": "downloads/aesdd/disgust/d11 (1).wav",
+        "length": 3.5568480725623584,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d10-4": {
+        "wav": "downloads/aesdd/disgust/d10 (4).wav",
+        "length": 2.928707482993197,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d18-1": {
+        "wav": "downloads/aesdd/disgust/d18 (1).wav",
+        "length": 2.8287755102040815,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d15-6": {
+        "wav": "downloads/aesdd/disgust/d15 (6).wav",
+        "length": 6.424603174603175,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d06-1": {
+        "wav": "downloads/aesdd/disgust/d06 (1).wav",
+        "length": 5.2,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d14-2": {
+        "wav": "downloads/aesdd/disgust/d14 (2).wav",
+        "length": 2.7553968253968253,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d08-6": {
+        "wav": "downloads/aesdd/disgust/d08 (6).wav",
+        "length": 5.700204081632653,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d01-2": {
+        "wav": "downloads/aesdd/disgust/d01 (2).wav",
+        "length": 3.6360090702947847,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d02-4": {
+        "wav": "downloads/aesdd/disgust/d02 (4).wav",
+        "length": 5.861201814058957,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d15-1": {
+        "wav": "downloads/aesdd/disgust/d15 (1).wav",
+        "length": 5.530362811791383,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d18-3": {
+        "wav": "downloads/aesdd/disgust/d18 (3).wav",
+        "length": 3.4,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d15-3": {
+        "wav": "downloads/aesdd/disgust/d15 (3).wav",
+        "length": 4.660136054421769,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d06-5": {
+        "wav": "downloads/aesdd/disgust/d06 (5).wav",
+        "length": 5.7090249433106575,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d03-01": {
+        "wav": "downloads/aesdd/disgust/d03 (01).wav",
+        "length": 4.13140589569161,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d15-2": {
+        "wav": "downloads/aesdd/disgust/d15 (2).wav",
+        "length": 3.5,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d01-4": {
+        "wav": "downloads/aesdd/disgust/d01 (4).wav",
+        "length": 5.2582086167800455,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d19-6": {
+        "wav": "downloads/aesdd/disgust/d19 (6).wav",
+        "length": 6.375192743764172,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d18-4": {
+        "wav": "downloads/aesdd/disgust/d18 (4).wav",
+        "length": 4.124807256235828,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d04-6": {
+        "wav": "downloads/aesdd/disgust/d04 (6).wav",
+        "length": 5.033424036281179,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d13-3": {
+        "wav": "downloads/aesdd/disgust/d13 (3).wav",
+        "length": 4.074240362811792,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d11-2": {
+        "wav": "downloads/aesdd/disgust/d11 (2).wav",
+        "length": 2.8,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d19-4": {
+        "wav": "downloads/aesdd/disgust/d19 (4).wav",
+        "length": 5.0,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d11-5": {
+        "wav": "downloads/aesdd/disgust/d11 (5).wav",
+        "length": 3.3669387755102043,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d04-5b": {
+        "wav": "downloads/aesdd/disgust/d04 (5)b.wav",
+        "length": 3.354625850340136,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d02-1": {
+        "wav": "downloads/aesdd/disgust/d02 (1).wav",
+        "length": 5.371632653061225,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d09-6": {
+        "wav": "downloads/aesdd/disgust/d09 (6).wav",
+        "length": 6.491655328798186,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d02-3": {
+        "wav": "downloads/aesdd/disgust/d02 (3).wav",
+        "length": 6.303673469387755,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d13-4": {
+        "wav": "downloads/aesdd/disgust/d13 (4).wav",
+        "length": 4.063786848072563,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d20-5": {
+        "wav": "downloads/aesdd/disgust/d20 (5).wav",
+        "length": 9.72827664399093,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d09-5": {
+        "wav": "downloads/aesdd/disgust/d09 (5).wav",
+        "length": 4.685578231292517,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d10-6": {
+        "wav": "downloads/aesdd/disgust/d10 (6).wav",
+        "length": 4.927936507936508,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d01-5": {
+        "wav": "downloads/aesdd/disgust/d01 (5).wav",
+        "length": 5.498004535147392,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d03-6": {
+        "wav": "downloads/aesdd/disgust/d03 (6).wav",
+        "length": 6.446848072562358,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d19-3": {
+        "wav": "downloads/aesdd/disgust/d19 (3).wav",
+        "length": 4.063061224489796,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d01-5b": {
+        "wav": "downloads/aesdd/disgust/d01 (5)b.wav",
+        "length": 5.387097505668934,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d16-1": {
+        "wav": "downloads/aesdd/disgust/d16 (1).wav",
+        "length": 3.977596371882086,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d08-3": {
+        "wav": "downloads/aesdd/disgust/d08 (3).wav",
+        "length": 5.0,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d20-3": {
+        "wav": "downloads/aesdd/disgust/d20 (3).wav",
+        "length": 7.6775056689342405,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d05-5": {
+        "wav": "downloads/aesdd/disgust/d05 (5).wav",
+        "length": 4.148208616780045,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d17-2": {
+        "wav": "downloads/aesdd/disgust/d17 (2).wav",
+        "length": 4.045215419501134,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d06-2": {
+        "wav": "downloads/aesdd/disgust/d06 (2).wav",
+        "length": 4.568253968253968,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d04-5": {
+        "wav": "downloads/aesdd/disgust/d04 (5).wav",
+        "length": 4.648843537414966,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d03-5b": {
+        "wav": "downloads/aesdd/disgust/d03 (5)b.wav",
+        "length": 7.1158730158730155,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d14-1": {
+        "wav": "downloads/aesdd/disgust/d14 (1).wav",
+        "length": 2.943650793650794,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d16-6": {
+        "wav": "downloads/aesdd/disgust/d16 (6).wav",
+        "length": 6.227233560090703,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d11-4": {
+        "wav": "downloads/aesdd/disgust/d11 (4).wav",
+        "length": 4.252471655328798,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d05-1": {
+        "wav": "downloads/aesdd/disgust/d05 (1).wav",
+        "length": 3.4127437641723355,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d09-2": {
+        "wav": "downloads/aesdd/disgust/d09 (2).wav",
+        "length": 4.2529251700680275,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d08-4": {
+        "wav": "downloads/aesdd/disgust/d08 (4).wav",
+        "length": 4.6,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d12-4": {
+        "wav": "downloads/aesdd/disgust/d12 (4).wav",
+        "length": 3.1213378684807256,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d01-6": {
+        "wav": "downloads/aesdd/disgust/d01 (6).wav",
+        "length": 7.570022675736961,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d17-4": {
+        "wav": "downloads/aesdd/disgust/d17 (4).wav",
+        "length": 5.524716553287982,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d14-4": {
+        "wav": "downloads/aesdd/disgust/d14 (4).wav",
+        "length": 4.256757369614513,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d03-4": {
+        "wav": "downloads/aesdd/disgust/d03 (4).wav",
+        "length": 5.949546485260771,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d16-2": {
+        "wav": "downloads/aesdd/disgust/d16 (2).wav",
+        "length": 4.02437641723356,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d06-4": {
+        "wav": "downloads/aesdd/disgust/d06 (4).wav",
+        "length": 6.0,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d16-3": {
+        "wav": "downloads/aesdd/disgust/d16 (3).wav",
+        "length": 3.69562358276644,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d14-6": {
+        "wav": "downloads/aesdd/disgust/d14 (6).wav",
+        "length": 4.942539682539683,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d20-4": {
+        "wav": "downloads/aesdd/disgust/d20 (4).wav",
+        "length": 4.708911564625851,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d17-5": {
+        "wav": "downloads/aesdd/disgust/d17 (5).wav",
+        "length": 5.90328798185941,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d10-5": {
+        "wav": "downloads/aesdd/disgust/d10 (5).wav",
+        "length": 3.9,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    },
+    "aesdd-d16-5": {
+        "wav": "downloads/aesdd/disgust/d16 (5).wav",
+        "length": 4.4,
+        "emo": "d",
+        "dataset": "aesdd",
+        "channel": 1
+    }
+}

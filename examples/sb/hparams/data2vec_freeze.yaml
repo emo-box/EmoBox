@@ -1,0 +1,97 @@
+# ########################################
+# Based on https://github.com/speechbrain/speechbrain/blob/develop/recipes/IEMOCAP/emotion_recognition/hparams/train_with_wav2vec2.yaml
+# ########################################
+
+# Seed needs to be set at top of yaml, before objects with parameters are made
+seed: 1993
+__set_seed: !apply:torch.manual_seed [!ref <seed>]
+
+output_folder: !ref results/train_with_wav2vec2/<seed>
+save_folder: !ref <output_folder>/save
+train_log: !ref <output_folder>/train_log.txt
+test_scores_dir: !ref <output_folder>/test_scores
+valid_scores_dir: !ref <output_folder>/valid_scores
+
+# URL for the wav2vec2 model, you can change to benchmark diffrenet models
+# Important: we use wav2vec2 base and not the fine-tuned one with ASR task
+# This allow you to have ~4% improvment
+
+feat_dir: 
+# Path where data manifest files will be stored
+train_annotation: !ref /share/mini1/res/t/emo/bm/msp-podcast/ssl-ser/train.json
+valid_annotation: !ref /share/mini1/res/t/emo/bm/msp-podcast/ssl-ser/valid.json
+test_annotation: !ref /share/mini1/res/t/emo/bm/msp-podcast/ssl-ser/test.json
+
+save_json_train: !ref <save_folder>/train.json
+save_json_valid: !ref <save_folder>/valid.json
+save_json_test: !ref <save_folder>/test.json
+label_map: 
+skip_prep: False
+split_ratio: [0.8, 0.2]
+
+# The train logger writes training statistics to a file, as well as stdout.
+train_logger: !new:speechbrain.utils.train_logger.FileTrainLogger
+    save_file: !ref <train_log>
+
+ckpt_interval_minutes: 15 # save checkpoint every N min
+
+# Training parameters
+number_of_epochs: 20
+batch_size: 32
+lr: 0.0001
+
+
+# Model parameters
+encoder_dim: 768
+
+# Number of emotions
+out_n_neurons: 4 # (anger, happiness, sadness, neutral)
+
+dataloader_options:
+    batch_size: !ref <batch_size>
+    shuffle: True
+    num_workers: 4  # 2 on linux but 0 works on windows
+    drop_last: False
+
+
+avg_pool: !new:speechbrain.nnet.pooling.StatisticsPooling
+    return_std: False
+
+output_mlp: !new:src.classifier_head.SuperbBaseModel
+    input_size: !ref <encoder_dim>
+    output_size: !ref <out_n_neurons>
+
+epoch_counter: !new:speechbrain.utils.epoch_loop.EpochCounter
+    limit: !ref <number_of_epochs>
+
+modules:
+    output_mlp: !ref <output_mlp>
+
+model: !new:torch.nn.ModuleList
+    - [!ref <output_mlp>]
+
+log_softmax: !new:speechbrain.nnet.activations.Softmax
+    apply_log: True
+
+compute_cost: !name:speechbrain.nnet.losses.nll_loss
+
+error_stats: !name:speechbrain.utils.metric_stats.MetricStats
+    metric: !name:speechbrain.nnet.losses.classification_error
+        reduction: batch
+
+opt_class: !name:torch.optim.Adam
+    lr: !ref <lr>
+
+
+lr_annealing: !new:speechbrain.nnet.schedulers.LinearWarmupScheduler
+    initial_value: !ref <lr>
+    num_warmup_steps: 10
+    num_training_steps: !ref <number_of_epochs>
+
+
+checkpointer: !new:speechbrain.utils.checkpoints.Checkpointer
+    checkpoints_dir: !ref <save_folder>
+    recoverables:
+        model: !ref <model>
+        lr_annealing_output: !ref <lr_annealing>
+        counter: !ref <epoch_counter>

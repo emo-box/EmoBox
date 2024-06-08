@@ -1,0 +1,730 @@
+{
+    "oreau-29a13Ja": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessj/29a13Ja.wav",
+        "length": 2.414875283446712,
+        "emo": "J",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-29a03Ja": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessj/29a03Ja.wav",
+        "length": 2.043356009070295,
+        "emo": "J",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-28a12Ja": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessj/28a12Ja.wav",
+        "length": 2.043356009070295,
+        "emo": "J",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-32a12Ja": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessj/32a12Ja.wav",
+        "length": 1.5905668934240362,
+        "emo": "J",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-39a06Ja": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessj/39a06Ja.wav",
+        "length": 2.693514739229025,
+        "emo": "J",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-24a10Ja": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/f/sessj/24a10Ja.wav",
+        "length": 2.136235827664399,
+        "emo": "J",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-37a04Ja": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/f/sessj/37a04Ja.wav",
+        "length": 2.159455782312925,
+        "emo": "J",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-22a02Ja": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessj/22a02Ja.wav",
+        "length": 1.7647165532879818,
+        "emo": "J",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-27a10Ja": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessj/27a10Ja.wav",
+        "length": 2.786394557823129,
+        "emo": "J",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-33a03Ja": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessj/33a03Ja.wav",
+        "length": 2.6586848072562357,
+        "emo": "J",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-18a07Ja": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessj/18a07Ja.wav",
+        "length": 2.5193650793650795,
+        "emo": "J",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-38a03Ja": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessj/38a03Ja.wav",
+        "length": 3.250793650793651,
+        "emo": "J",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-19a09Ja": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessj/19a09Ja.wav",
+        "length": 4.1099319727891155,
+        "emo": "J",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-41a08Ja": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessj/41a08Ja.wav",
+        "length": 1.8575963718820863,
+        "emo": "J",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-22a01Ja": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessj/22a01Ja.wav",
+        "length": 2.3219954648526078,
+        "emo": "J",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-38a02Sa": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sesss/38a02Sa.wav",
+        "length": 3.7151927437641725,
+        "emo": "S",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-28a03Sa": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sesss/28a03Sa.wav",
+        "length": 2.786394557823129,
+        "emo": "S",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-13a06Sa": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/f/sesss/13a06Sa.wav",
+        "length": 2.414875283446712,
+        "emo": "S",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-19a09Sa": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sesss/19a09Sa.wav",
+        "length": 3.0650340136054424,
+        "emo": "S",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-11a04Sa": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/f/sesss/11a04Sa.wav",
+        "length": 3.2653061224489797,
+        "emo": "S",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-26a04Sa": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sesss/26a04Sa.wav",
+        "length": 2.136235827664399,
+        "emo": "S",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-39a04Sa": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sesss/39a04Sa.wav",
+        "length": 2.507755102040816,
+        "emo": "S",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-20a07Sa": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sesss/20a07Sa.wav",
+        "length": 1.8575963718820863,
+        "emo": "S",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-11a06Sa": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/f/sesss/11a06Sa.wav",
+        "length": 2.786394557823129,
+        "emo": "S",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-25a03Sa": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sesss/25a03Sa.wav",
+        "length": 3.1579138321995464,
+        "emo": "S",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-39a03Sa": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sesss/39a03Sa.wav",
+        "length": 3.0650340136054424,
+        "emo": "S",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-13a05Sa": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/f/sesss/13a05Sa.wav",
+        "length": 2.786394557823129,
+        "emo": "S",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-07a10Sa": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sesss/07a10Sa.wav",
+        "length": 3.6310204081632653,
+        "emo": "S",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-41a09Sa": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sesss/41a09Sa.wav",
+        "length": 2.414875283446712,
+        "emo": "S",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-41a07Sa": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sesss/41a07Sa.wav",
+        "length": 2.043356009070295,
+        "emo": "S",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-33a01Na": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessn/33a01Na.wav",
+        "length": 1.7531065759637188,
+        "emo": "N",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-39a09Na": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessn/39a09Na.wav",
+        "length": 2.693514739229025,
+        "emo": "N",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-13a05Na": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/f/sessn/13a05Na.wav",
+        "length": 2.043356009070295,
+        "emo": "N",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-11a03Na": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/f/sessn/11a03Na.wav",
+        "length": 2.115918367346939,
+        "emo": "N",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-12a07Na": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessn/12a07Na.wav",
+        "length": 3.7151927437641725,
+        "emo": "N",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-14a04Na": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessn/14a04Na.wav",
+        "length": 2.136235827664399,
+        "emo": "N",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-12a08Na": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessn/12a08Na.wav",
+        "length": 3.043265306122449,
+        "emo": "N",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-33a02Na": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessn/33a02Na.wav",
+        "length": 2.136235827664399,
+        "emo": "N",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-08a01Na": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessn/08a01Na.wav",
+        "length": 2.124625850340136,
+        "emo": "N",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-16a10Na": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessn/16a10Na.wav",
+        "length": 1.8575963718820863,
+        "emo": "N",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-39a08Na": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessn/39a08Na.wav",
+        "length": 2.507755102040816,
+        "emo": "N",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-26a01Na": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessn/26a01Na.wav",
+        "length": 1.509297052154195,
+        "emo": "N",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-13a06Na": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/f/sessn/13a06Na.wav",
+        "length": 2.3219954648526078,
+        "emo": "N",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-32a10Na": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessn/32a10Na.wav",
+        "length": 1.8575963718820863,
+        "emo": "N",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-16a09Na": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessn/16a09Na.wav",
+        "length": 2.3219954648526078,
+        "emo": "N",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-31a11Na": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessn/31a11Na.wav",
+        "length": 2.3219954648526078,
+        "emo": "N",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-18a07Na": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessn/18a07Na.wav",
+        "length": 3.1579138321995464,
+        "emo": "N",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-25a06Pa": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessp/25a06Pa.wav",
+        "length": 2.786394557823129,
+        "emo": "P",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-11a02Pa": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/f/sessp/11a02Pa.wav",
+        "length": 3.436553287981859,
+        "emo": "P",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-26a02Pa": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessp/26a02Pa.wav",
+        "length": 2.6006349206349206,
+        "emo": "P",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-24a02Pa": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/f/sessp/24a02Pa.wav",
+        "length": 2.136235827664399,
+        "emo": "P",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-42a03Pa": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/f/sessp/42a03Pa.wav",
+        "length": 3.1579138321995464,
+        "emo": "P",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-14a03Pa": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessp/14a03Pa.wav",
+        "length": 3.0650340136054424,
+        "emo": "P",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-38a10Pa": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessp/38a10Pa.wav",
+        "length": 3.1579138321995464,
+        "emo": "P",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-22a10Pa": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessp/22a10Pa.wav",
+        "length": 2.786394557823129,
+        "emo": "P",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-40a05Pa": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessp/40a05Pa.wav",
+        "length": 2.786394557823129,
+        "emo": "P",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-32a08Pa": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessp/32a08Pa.wav",
+        "length": 2.043356009070295,
+        "emo": "P",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-07a01Pa": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessp/07a01Pa.wav",
+        "length": 2.414875283446712,
+        "emo": "P",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-07a02Pa": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessp/07a02Pa.wav",
+        "length": 2.3219954648526078,
+        "emo": "P",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-36a05Ta": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sesst/36a05Ta.wav",
+        "length": 2.380045351473923,
+        "emo": "T",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-08a05Ta": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sesst/08a05Ta.wav",
+        "length": 2.136235827664399,
+        "emo": "T",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-39a05Ta": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sesst/39a05Ta.wav",
+        "length": 2.507755102040816,
+        "emo": "T",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-07a09Ta": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sesst/07a09Ta.wav",
+        "length": 3.1608163265306124,
+        "emo": "T",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-11a03Ta": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/f/sesst/11a03Ta.wav",
+        "length": 3.513469387755102,
+        "emo": "T",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-42a10Ta": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/f/sesst/42a10Ta.wav",
+        "length": 2.8792743764172335,
+        "emo": "T",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-28a04Ta": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sesst/28a04Ta.wav",
+        "length": 3.250793650793651,
+        "emo": "T",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-27a02Ta": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sesst/27a02Ta.wav",
+        "length": 3.250793650793651,
+        "emo": "T",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-08a01Ta": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sesst/08a01Ta.wav",
+        "length": 2.786394557823129,
+        "emo": "T",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-11a01Ta": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/f/sesst/11a01Ta.wav",
+        "length": 3.5294331065759637,
+        "emo": "T",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-14a04Ta": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sesst/14a04Ta.wav",
+        "length": 2.8792743764172335,
+        "emo": "T",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-07a04Ta": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sesst/07a04Ta.wav",
+        "length": 3.250793650793651,
+        "emo": "T",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-37a01Ta": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/f/sesst/37a01Ta.wav",
+        "length": 2.972154195011338,
+        "emo": "T",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-24a06Da": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/f/sessd/24a06Da.wav",
+        "length": 3.8080725623582765,
+        "emo": "D",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-27a02Da": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessd/27a02Da.wav",
+        "length": 2.6006349206349206,
+        "emo": "D",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-29a07Da": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessd/29a07Da.wav",
+        "length": 3.250793650793651,
+        "emo": "D",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-37a07Da": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/f/sessd/37a07Da.wav",
+        "length": 6.408707482993197,
+        "emo": "D",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-31a01Da": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessd/31a01Da.wav",
+        "length": 2.414875283446712,
+        "emo": "D",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-33a03Da": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessd/33a03Da.wav",
+        "length": 2.786394557823129,
+        "emo": "D",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-14a04Da": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessd/14a04Da.wav",
+        "length": 3.7151927437641725,
+        "emo": "D",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-08a03Da": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessd/08a03Da.wav",
+        "length": 3.0650340136054424,
+        "emo": "D",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-13a06Da": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/f/sessd/13a06Da.wav",
+        "length": 2.786394557823129,
+        "emo": "D",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-31a02Da": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessd/31a02Da.wav",
+        "length": 2.2291156462585033,
+        "emo": "D",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-09a06Da": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessd/09a06Da.wav",
+        "length": 3.8791836734693876,
+        "emo": "D",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-22a03Da": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessd/22a03Da.wav",
+        "length": 2.6006349206349206,
+        "emo": "D",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-20a09Da": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessd/20a09Da.wav",
+        "length": 2.6006349206349206,
+        "emo": "D",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-09a05Da": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessd/09a05Da.wav",
+        "length": 3.422040816326531,
+        "emo": "D",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-28a05Da": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessd/28a05Da.wav",
+        "length": 3.7151927437641725,
+        "emo": "D",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-36a05Da": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessd/36a05Da.wav",
+        "length": 4.284081632653061,
+        "emo": "D",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-18a08Ca": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessc/18a08Ca.wav",
+        "length": 3.250793650793651,
+        "emo": "C",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-32a08Ca": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessc/32a08Ca.wav",
+        "length": 2.972154195011338,
+        "emo": "C",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-11a06Ca": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/f/sessc/11a06Ca.wav",
+        "length": 5.015510204081632,
+        "emo": "C",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-27a05Ca": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessc/27a05Ca.wav",
+        "length": 3.645532879818594,
+        "emo": "C",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-22a09Ca": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessc/22a09Ca.wav",
+        "length": 2.8792743764172335,
+        "emo": "C",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-36a08Ca": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessc/36a08Ca.wav",
+        "length": 3.1695238095238096,
+        "emo": "C",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-10a02Ca": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/f/sessc/10a02Ca.wav",
+        "length": 2.1942857142857144,
+        "emo": "C",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-28a01Ca": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessc/28a01Ca.wav",
+        "length": 2.786394557823129,
+        "emo": "C",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-16a20Ca": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessc/16a20Ca.wav",
+        "length": 1.8459863945578232,
+        "emo": "C",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-11a04Ca": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/f/sessc/11a04Ca.wav",
+        "length": 2.416326530612245,
+        "emo": "C",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-36a09Ca": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessc/36a09Ca.wav",
+        "length": 4.551111111111111,
+        "emo": "C",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-07a03Ca": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessc/07a03Ca.wav",
+        "length": 1.5789569160997732,
+        "emo": "C",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-11a01Ca": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/f/sessc/11a01Ca.wav",
+        "length": 3.436553287981859,
+        "emo": "C",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-38a01Ca": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessc/38a01Ca.wav",
+        "length": 3.0650340136054424,
+        "emo": "C",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-09a05Ca": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/m/sessc/09a05Ca.wav",
+        "length": 4.362448979591837,
+        "emo": "C",
+        "dataset": "oreau",
+        "channel": 1
+    },
+    "oreau-42a03Ca": {
+        "wav": "downloads/oreau/Ore\u0301auFR_02/f/sessc/42a03Ca.wav",
+        "length": 2.3219954648526078,
+        "emo": "C",
+        "dataset": "oreau",
+        "channel": 1
+    }
+}

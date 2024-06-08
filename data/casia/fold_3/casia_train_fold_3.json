@@ -1,0 +1,6302 @@
+{
+    "casia-239-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/239.wav",
+        "length": 1.5786875,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-230-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/230.wav",
+        "length": 1.7290625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-217-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/217.wav",
+        "length": 1.80425,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-205-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/205.wav",
+        "length": 1.3531875,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-222-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/222.wav",
+        "length": 1.5035625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-244-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/244.wav",
+        "length": 1.6163125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-237-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/237.wav",
+        "length": 1.5786875,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-228-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/228.wav",
+        "length": 1.6163125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-223-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/223.wav",
+        "length": 1.541125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-238-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/238.wav",
+        "length": 1.5786875,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-204-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/204.wav",
+        "length": 1.428375,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-220-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/220.wav",
+        "length": 1.5786875,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-247-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/247.wav",
+        "length": 1.4659375,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-203-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/203.wav",
+        "length": 1.3531875,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-221-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/221.wav",
+        "length": 1.4659375,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-248-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/248.wav",
+        "length": 1.541125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-240-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/240.wav",
+        "length": 1.4659375,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-229-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/229.wav",
+        "length": 1.5035,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-235-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/235.wav",
+        "length": 1.653875,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-214-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/214.wav",
+        "length": 1.6163125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-206-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/206.wav",
+        "length": 1.428375,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-212-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/212.wav",
+        "length": 1.5786875,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-215-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/215.wav",
+        "length": 1.3531875,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-225-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/225.wav",
+        "length": 1.766625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-209-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/209.wav",
+        "length": 1.4659375,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-224-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/224.wav",
+        "length": 1.315625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-211-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/211.wav",
+        "length": 1.5786875,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-231-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/231.wav",
+        "length": 1.541125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-201-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/201.wav",
+        "length": 1.4659375,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-249-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/249.wav",
+        "length": 1.9921875,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-243-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/243.wav",
+        "length": 1.5786875,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-218-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/218.wav",
+        "length": 1.80425,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-250-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/250.wav",
+        "length": 1.80425,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-234-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/234.wav",
+        "length": 1.6163125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-219-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/219.wav",
+        "length": 1.278,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-207-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/207.wav",
+        "length": 1.2404375,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-236-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/236.wav",
+        "length": 1.39075,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-208-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/208.wav",
+        "length": 1.2404375,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-202-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/202.wav",
+        "length": 1.2404375,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-245-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/245.wav",
+        "length": 1.5786875,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-210-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/210.wav",
+        "length": 1.3531875,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-216-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/216.wav",
+        "length": 1.3155625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-227-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/227.wav",
+        "length": 1.653875,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-226-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/226.wav",
+        "length": 1.5035625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-233-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/233.wav",
+        "length": 1.841875,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-242-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/242.wav",
+        "length": 1.39075,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-241-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/241.wav",
+        "length": 1.5786875,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-232-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/232.wav",
+        "length": 1.6914375,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-246-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/246.wav",
+        "length": 1.6163125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-213-wangzhe-neutral": {
+        "wav": "downloads/casia/wangzhe/neutral/213.wav",
+        "length": 1.39075,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-239-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/239.wav",
+        "length": 2.0855625,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-230-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/230.wav",
+        "length": 1.639,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-217-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/217.wav",
+        "length": 1.398,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-205-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/205.wav",
+        "length": 1.3015625,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-222-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/222.wav",
+        "length": 1.6390625,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-244-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/244.wav",
+        "length": 1.68725,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-237-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/237.wav",
+        "length": 1.5908125,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-228-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/228.wav",
+        "length": 1.4944375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-223-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/223.wav",
+        "length": 1.4461875,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-238-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/238.wav",
+        "length": 1.639,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-204-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/204.wav",
+        "length": 1.3015625,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-220-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/220.wav",
+        "length": 1.5908125,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-247-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/247.wav",
+        "length": 1.3498125,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-203-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/203.wav",
+        "length": 1.301625,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-221-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/221.wav",
+        "length": 1.3015625,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-248-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/248.wav",
+        "length": 1.4944375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-240-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/240.wav",
+        "length": 1.4944375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-229-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/229.wav",
+        "length": 1.5425625,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-235-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/235.wav",
+        "length": 1.542625,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-214-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/214.wav",
+        "length": 1.4461875,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-206-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/206.wav",
+        "length": 1.3498125,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-212-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/212.wav",
+        "length": 1.5908125,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-215-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/215.wav",
+        "length": 1.4461875,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-225-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/225.wav",
+        "length": 1.4461875,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-209-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/209.wav",
+        "length": 1.5908125,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-224-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/224.wav",
+        "length": 1.3498125,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-211-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/211.wav",
+        "length": 1.4944375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-231-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/231.wav",
+        "length": 1.4461875,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-201-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/201.wav",
+        "length": 1.398,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-249-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/249.wav",
+        "length": 1.68725,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-243-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/243.wav",
+        "length": 1.4461875,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-218-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/218.wav",
+        "length": 1.10875,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-250-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/250.wav",
+        "length": 1.639,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-234-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/234.wav",
+        "length": 1.5908125,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-219-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/219.wav",
+        "length": 1.1569375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-207-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/207.wav",
+        "length": 1.301625,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-236-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/236.wav",
+        "length": 1.4944375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-208-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/208.wav",
+        "length": 1.639,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-202-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/202.wav",
+        "length": 1.253375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-245-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/245.wav",
+        "length": 1.253375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-210-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/210.wav",
+        "length": 1.398,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-216-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/216.wav",
+        "length": 1.253375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-227-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/227.wav",
+        "length": 1.4944375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-226-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/226.wav",
+        "length": 1.5908125,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-233-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/233.wav",
+        "length": 1.4944375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-242-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/242.wav",
+        "length": 1.3498125,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-241-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/241.wav",
+        "length": 1.542625,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-232-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/232.wav",
+        "length": 1.3498125,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-246-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/246.wav",
+        "length": 1.398,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-213-wangzhe-angry": {
+        "wav": "downloads/casia/wangzhe/angry/213.wav",
+        "length": 1.6390625,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-239-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/239.wav",
+        "length": 1.602375,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-230-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/230.wav",
+        "length": 1.5675,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-217-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/217.wav",
+        "length": 1.6371875,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-205-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/205.wav",
+        "length": 1.3585,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-222-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/222.wav",
+        "length": 1.5675,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-244-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/244.wav",
+        "length": 1.4978125,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-237-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/237.wav",
+        "length": 1.672,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-228-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/228.wav",
+        "length": 1.463,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-223-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/223.wav",
+        "length": 1.5675,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-238-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/238.wav",
+        "length": 1.463,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-204-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/204.wav",
+        "length": 1.254,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-220-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/220.wav",
+        "length": 1.672,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-247-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/247.wav",
+        "length": 1.3784375,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-203-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/203.wav",
+        "length": 1.079875,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-221-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/221.wav",
+        "length": 1.3585,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-248-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/248.wav",
+        "length": 1.3784375,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-240-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/240.wav",
+        "length": 1.463,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-229-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/229.wav",
+        "length": 1.3933125,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-235-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/235.wav",
+        "length": 1.3585,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-214-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/214.wav",
+        "length": 1.5675,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-206-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/206.wav",
+        "length": 1.3236875,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-212-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/212.wav",
+        "length": 1.4978125,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-215-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/215.wav",
+        "length": 1.463,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-225-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/225.wav",
+        "length": 1.672,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-209-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/209.wav",
+        "length": 1.6023125,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-224-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/224.wav",
+        "length": 1.3585,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-211-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/211.wav",
+        "length": 1.3933125,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-231-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/231.wav",
+        "length": 1.463,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-201-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/201.wav",
+        "length": 1.463,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-249-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/249.wav",
+        "length": 1.6935,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-243-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/243.wav",
+        "length": 1.6371875,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-218-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/218.wav",
+        "length": 1.3585,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-250-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/250.wav",
+        "length": 1.6344375,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-234-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/234.wav",
+        "length": 1.5326875,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-219-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/219.wav",
+        "length": 1.2191875,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-207-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/207.wav",
+        "length": 1.254,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-236-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/236.wav",
+        "length": 1.3933125,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-208-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/208.wav",
+        "length": 1.2888125,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-202-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/202.wav",
+        "length": 1.1146875,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-245-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/245.wav",
+        "length": 1.3784375,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-210-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/210.wav",
+        "length": 1.288875,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-216-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/216.wav",
+        "length": 1.393375,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-227-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/227.wav",
+        "length": 1.497875,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-226-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/226.wav",
+        "length": 1.463,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-233-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/233.wav",
+        "length": 1.7416875,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-242-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/242.wav",
+        "length": 1.2191875,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-241-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/241.wav",
+        "length": 1.602375,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-232-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/232.wav",
+        "length": 1.5326875,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-246-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/246.wav",
+        "length": 1.417875,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-213-wangzhe-happy": {
+        "wav": "downloads/casia/wangzhe/happy/213.wav",
+        "length": 1.5675,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-239-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/239.wav",
+        "length": 1.5016875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-230-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/230.wav",
+        "length": 1.4631875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-217-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/217.wav",
+        "length": 1.347625,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-205-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/205.wav",
+        "length": 1.1679375,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-222-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/222.wav",
+        "length": 1.5016875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-244-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/244.wav",
+        "length": 1.5786875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-237-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/237.wav",
+        "length": 1.4246875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-228-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/228.wav",
+        "length": 1.4631875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-223-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/223.wav",
+        "length": 1.6171875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-238-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/238.wav",
+        "length": 1.4246875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-204-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/204.wav",
+        "length": 1.116625,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-220-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/220.wav",
+        "length": 1.3861875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-247-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/247.wav",
+        "length": 1.3476875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-203-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/203.wav",
+        "length": 1.078125,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-221-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/221.wav",
+        "length": 1.2706875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-248-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/248.wav",
+        "length": 1.4246875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-240-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/240.wav",
+        "length": 1.4631875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-229-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/229.wav",
+        "length": 1.386125,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-235-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/235.wav",
+        "length": 1.7326875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-214-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/214.wav",
+        "length": 1.309125,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-206-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/206.wav",
+        "length": 1.155125,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-212-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/212.wav",
+        "length": 1.4246875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-215-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/215.wav",
+        "length": 1.1936875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-225-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/225.wav",
+        "length": 1.5401875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-209-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/209.wav",
+        "length": 1.245,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-224-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/224.wav",
+        "length": 1.3091875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-211-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/211.wav",
+        "length": 1.2578125,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-231-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/231.wav",
+        "length": 1.4631875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-201-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/201.wav",
+        "length": 1.3091875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-249-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/249.wav",
+        "length": 1.7711875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-243-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/243.wav",
+        "length": 1.4246875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-218-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/218.wav",
+        "length": 1.1038125,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-250-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/250.wav",
+        "length": 1.8481875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-234-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/234.wav",
+        "length": 1.5786875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-219-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/219.wav",
+        "length": 1.116625,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-207-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/207.wav",
+        "length": 0.9883125,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-236-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/236.wav",
+        "length": 1.4631875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-208-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/208.wav",
+        "length": 1.1294375,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-202-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/202.wav",
+        "length": 0.9754375,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-245-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/245.wav",
+        "length": 1.3861875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-210-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/210.wav",
+        "length": 1.2193125,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-216-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/216.wav",
+        "length": 1.1294375,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-227-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/227.wav",
+        "length": 1.347625,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-226-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/226.wav",
+        "length": 1.4246875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-233-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/233.wav",
+        "length": 1.6556875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-242-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/242.wav",
+        "length": 1.4631875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-241-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/241.wav",
+        "length": 1.6171875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-232-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/232.wav",
+        "length": 1.5401875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-246-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/246.wav",
+        "length": 1.6171875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-213-wangzhe-surprise": {
+        "wav": "downloads/casia/wangzhe/surprise/213.wav",
+        "length": 1.2835,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-239-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/239.wav",
+        "length": 1.602375,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-230-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/230.wav",
+        "length": 1.52725,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-217-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/217.wav",
+        "length": 1.9779375,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-205-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/205.wav",
+        "length": 1.50225,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-222-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/222.wav",
+        "length": 1.50225,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-244-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/244.wav",
+        "length": 1.790125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-237-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/237.wav",
+        "length": 1.5648125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-228-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/228.wav",
+        "length": 1.4646875,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-223-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/223.wav",
+        "length": 1.627375,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-238-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/238.wav",
+        "length": 1.6524375,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-204-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/204.wav",
+        "length": 1.4771875,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-220-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/220.wav",
+        "length": 1.6775,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-247-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/247.wav",
+        "length": 1.4521875,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-203-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/203.wav",
+        "length": 1.327,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-221-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/221.wav",
+        "length": 1.3144375,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-248-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/248.wav",
+        "length": 1.8026875,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-240-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/240.wav",
+        "length": 1.7150625,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-229-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/229.wav",
+        "length": 1.51475,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-235-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/235.wav",
+        "length": 1.427125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-214-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/214.wav",
+        "length": 1.5773125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-206-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/206.wav",
+        "length": 1.4771875,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-212-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/212.wav",
+        "length": 1.3895625,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-215-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/215.wav",
+        "length": 1.3770625,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-225-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/225.wav",
+        "length": 1.50225,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-209-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/209.wav",
+        "length": 1.276875,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-224-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/224.wav",
+        "length": 1.4896875,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-211-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/211.wav",
+        "length": 1.4145625,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-231-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/231.wav",
+        "length": 1.5523125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-201-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/201.wav",
+        "length": 1.740125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-249-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/249.wav",
+        "length": 1.85275,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-243-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/243.wav",
+        "length": 1.439625,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-218-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/218.wav",
+        "length": 1.251875,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-250-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/250.wav",
+        "length": 2.1406875,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-234-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/234.wav",
+        "length": 1.5523125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-219-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/219.wav",
+        "length": 1.20175,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-207-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/207.wav",
+        "length": 1.17675,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-236-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/236.wav",
+        "length": 1.52725,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-208-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/208.wav",
+        "length": 1.4771875,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-202-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/202.wav",
+        "length": 1.17675,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-245-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/245.wav",
+        "length": 1.427125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-210-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/210.wav",
+        "length": 1.276875,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-216-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/216.wav",
+        "length": 1.3395,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-227-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/227.wav",
+        "length": 1.51475,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-226-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/226.wav",
+        "length": 1.3145,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-233-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/233.wav",
+        "length": 1.5648125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-242-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/242.wav",
+        "length": 1.5398125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-241-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/241.wav",
+        "length": 1.5648125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-232-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/232.wav",
+        "length": 1.752625,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-246-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/246.wav",
+        "length": 1.589875,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-213-wangzhe-fear": {
+        "wav": "downloads/casia/wangzhe/fear/213.wav",
+        "length": 1.5523125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-239-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/239.wav",
+        "length": 1.8264375,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-230-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/230.wav",
+        "length": 1.6400625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-217-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/217.wav",
+        "length": 2.2860625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-205-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/205.wav",
+        "length": 1.4536875,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-222-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/222.wav",
+        "length": 1.714625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-244-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/244.wav",
+        "length": 1.751875,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-237-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/237.wav",
+        "length": 1.789125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-228-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/228.wav",
+        "length": 1.789125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-223-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/223.wav",
+        "length": 1.8264375,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-238-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/238.wav",
+        "length": 1.6400625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-204-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/204.wav",
+        "length": 2.16575,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-220-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/220.wav",
+        "length": 1.93825,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-247-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/247.wav",
+        "length": 1.6773125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-203-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/203.wav",
+        "length": 1.5655,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-221-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/221.wav",
+        "length": 1.4536875,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-248-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/248.wav",
+        "length": 1.6400625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-240-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/240.wav",
+        "length": 1.789125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-229-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/229.wav",
+        "length": 1.6773125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-235-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/235.wav",
+        "length": 1.751875,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-214-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/214.wav",
+        "length": 1.5655,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-206-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/206.wav",
+        "length": 1.341875,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-212-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/212.wav",
+        "length": 1.4909375,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-215-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/215.wav",
+        "length": 1.714625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-225-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/225.wav",
+        "length": 1.8636875,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-209-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/209.wav",
+        "length": 1.379125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-224-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/224.wav",
+        "length": 1.4909375,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-211-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/211.wav",
+        "length": 1.4164375,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-231-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/231.wav",
+        "length": 1.8264375,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-201-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/201.wav",
+        "length": 1.8264375,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-249-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/249.wav",
+        "length": 1.9009375,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-243-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/243.wav",
+        "length": 1.714625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-218-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/218.wav",
+        "length": 1.4536875,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-250-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/250.wav",
+        "length": 1.9755,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-234-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/234.wav",
+        "length": 1.789125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-219-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/219.wav",
+        "length": 1.6400625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-207-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/207.wav",
+        "length": 1.2673125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-236-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/236.wav",
+        "length": 1.6400625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-208-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/208.wav",
+        "length": 1.304625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-202-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/202.wav",
+        "length": 1.304625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-245-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/245.wav",
+        "length": 1.93825,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-210-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/210.wav",
+        "length": 1.4164375,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-216-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/216.wav",
+        "length": 1.52825,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-227-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/227.wav",
+        "length": 1.6400625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-226-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/226.wav",
+        "length": 1.52825,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-233-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/233.wav",
+        "length": 1.714625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-242-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/242.wav",
+        "length": 1.6773125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-241-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/241.wav",
+        "length": 1.93825,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-232-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/232.wav",
+        "length": 1.52825,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-246-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/246.wav",
+        "length": 1.8636875,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-213-wangzhe-sad": {
+        "wav": "downloads/casia/wangzhe/sad/213.wav",
+        "length": 1.714625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-239-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/239.wav",
+        "length": 1.9358125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-230-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/230.wav",
+        "length": 1.8311875,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-217-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/217.wav",
+        "length": 1.988125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-205-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/205.wav",
+        "length": 2.4589375,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-222-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/222.wav",
+        "length": 2.0404375,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-244-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/244.wav",
+        "length": 2.1450625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-237-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/237.wav",
+        "length": 1.8835,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-228-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/228.wav",
+        "length": 1.988125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-223-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/223.wav",
+        "length": 2.0404375,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-238-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/238.wav",
+        "length": 1.831125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-204-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/204.wav",
+        "length": 1.5695625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-220-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/220.wav",
+        "length": 1.621875,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-247-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/247.wav",
+        "length": 1.8835,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-203-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/203.wav",
+        "length": 1.5695625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-221-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/221.wav",
+        "length": 1.3079375,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-248-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/248.wav",
+        "length": 2.1450625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-240-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/240.wav",
+        "length": 1.621875,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-229-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/229.wav",
+        "length": 1.9358125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-235-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/235.wav",
+        "length": 2.0404375,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-214-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/214.wav",
+        "length": 1.8311875,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-206-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/206.wav",
+        "length": 3.0345,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-212-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/212.wav",
+        "length": 1.9358125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-215-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/215.wav",
+        "length": 1.9358125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-225-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/225.wav",
+        "length": 1.621875,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-209-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/209.wav",
+        "length": 1.5695625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-224-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/224.wav",
+        "length": 1.3603125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-211-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/211.wav",
+        "length": 1.7265,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-231-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/231.wav",
+        "length": 1.8835,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-201-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/201.wav",
+        "length": 2.09275,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-249-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/249.wav",
+        "length": 2.406625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-243-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/243.wav",
+        "length": 2.0404375,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-218-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/218.wav",
+        "length": 1.308,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-250-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/250.wav",
+        "length": 2.0404375,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-234-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/234.wav",
+        "length": 2.0404375,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-219-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/219.wav",
+        "length": 1.151,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-207-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/207.wav",
+        "length": 1.6741875,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-236-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/236.wav",
+        "length": 1.7265,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-208-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/208.wav",
+        "length": 1.5695625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-202-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/202.wav",
+        "length": 1.255625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-245-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/245.wav",
+        "length": 1.93575,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-210-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/210.wav",
+        "length": 1.6741875,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-216-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/216.wav",
+        "length": 1.4649375,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-227-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/227.wav",
+        "length": 1.6741875,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-226-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/226.wav",
+        "length": 1.6741875,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-233-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/233.wav",
+        "length": 2.09275,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-242-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/242.wav",
+        "length": 1.51725,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-241-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/241.wav",
+        "length": 2.1450625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-232-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/232.wav",
+        "length": 1.9358125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-246-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/246.wav",
+        "length": 1.8834375,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-213-zhaozuoxiang-neutral": {
+        "wav": "downloads/casia/zhaozuoxiang/neutral/213.wav",
+        "length": 2.1450625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-239-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/239.wav",
+        "length": 2.8285,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-230-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/230.wav",
+        "length": 2.3570625,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-217-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/217.wav",
+        "length": 2.274375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-205-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/205.wav",
+        "length": 1.9494375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-222-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/222.wav",
+        "length": 2.59275,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-244-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/244.wav",
+        "length": 2.8284375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-237-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/237.wav",
+        "length": 3.0641875,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-228-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/228.wav",
+        "length": 2.8285,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-223-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/223.wav",
+        "length": 2.8285,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-238-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/238.wav",
+        "length": 2.121375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-204-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/204.wav",
+        "length": 1.9494375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-220-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/220.wav",
+        "length": 2.68725,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-247-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/247.wav",
+        "length": 2.121375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-203-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/203.wav",
+        "length": 2.1119375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-221-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/221.wav",
+        "length": 1.7100625,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-248-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/248.wav",
+        "length": 2.59275,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-240-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/240.wav",
+        "length": 2.8284375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-229-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/229.wav",
+        "length": 2.8284375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-235-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/235.wav",
+        "length": 2.121375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-214-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/214.wav",
+        "length": 2.4368125,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-206-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/206.wav",
+        "length": 1.787,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-212-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/212.wav",
+        "length": 2.4368125,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-215-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/215.wav",
+        "length": 2.7616875,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-225-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/225.wav",
+        "length": 3.0641875,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-209-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/209.wav",
+        "length": 1.462125,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-224-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/224.wav",
+        "length": 1.6499375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-211-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/211.wav",
+        "length": 1.787,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-231-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/231.wav",
+        "length": 2.59275,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-201-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/201.wav",
+        "length": 2.4368125,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-249-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/249.wav",
+        "length": 3.299875,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-243-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/243.wav",
+        "length": 2.3570625,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-218-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/218.wav",
+        "length": 1.46575,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-250-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/250.wav",
+        "length": 3.77125,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-234-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/234.wav",
+        "length": 1.885625,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-219-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/219.wav",
+        "length": 1.5879375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-207-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/207.wav",
+        "length": 1.787,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-236-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/236.wav",
+        "length": 3.299875,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-208-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/208.wav",
+        "length": 2.4368125,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-202-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/202.wav",
+        "length": 1.9494375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-245-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/245.wav",
+        "length": 2.59275,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-210-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/210.wav",
+        "length": 2.5993125,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-216-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/216.wav",
+        "length": 2.1119375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-227-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/227.wav",
+        "length": 2.3570625,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-226-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/226.wav",
+        "length": 2.121375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-233-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/233.wav",
+        "length": 3.7713125,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-242-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/242.wav",
+        "length": 2.3570625,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-241-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/241.wav",
+        "length": 2.8284375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-232-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/232.wav",
+        "length": 3.0641875,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-246-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/246.wav",
+        "length": 2.3570625,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-213-zhaozuoxiang-angry": {
+        "wav": "downloads/casia/zhaozuoxiang/angry/213.wav",
+        "length": 2.1119375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-239-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/239.wav",
+        "length": 4.13525,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-230-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/230.wav",
+        "length": 3.16225,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-217-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/217.wav",
+        "length": 3.64875,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-205-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/205.wav",
+        "length": 1.946,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-222-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/222.wav",
+        "length": 2.4325,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-244-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/244.wav",
+        "length": 4.13525,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-237-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/237.wav",
+        "length": 2.919,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-228-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/228.wav",
+        "length": 2.67575,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-223-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/223.wav",
+        "length": 2.67575,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-238-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/238.wav",
+        "length": 2.919,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-204-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/204.wav",
+        "length": 2.67575,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-220-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/220.wav",
+        "length": 3.4055,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-247-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/247.wav",
+        "length": 3.64875,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-203-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/203.wav",
+        "length": 2.919,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-221-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/221.wav",
+        "length": 1.946,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-248-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/248.wav",
+        "length": 3.892,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-240-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/240.wav",
+        "length": 2.67575,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-229-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/229.wav",
+        "length": 2.919,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-235-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/235.wav",
+        "length": 3.4055,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-214-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/214.wav",
+        "length": 3.892,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-206-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/206.wav",
+        "length": 2.4325,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-212-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/212.wav",
+        "length": 2.919,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-215-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/215.wav",
+        "length": 2.919,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-225-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/225.wav",
+        "length": 2.919,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-209-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/209.wav",
+        "length": 1.5499375,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-224-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/224.wav",
+        "length": 2.67575,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-211-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/211.wav",
+        "length": 2.67575,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-231-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/231.wav",
+        "length": 3.4055,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-201-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/201.wav",
+        "length": 3.892,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-249-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/249.wav",
+        "length": 3.4055,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-243-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/243.wav",
+        "length": 3.4055,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-218-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/218.wav",
+        "length": 1.401375,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-250-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/250.wav",
+        "length": 3.64875,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-234-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/234.wav",
+        "length": 3.4055,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-219-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/219.wav",
+        "length": 2.4325,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-207-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/207.wav",
+        "length": 1.946,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-236-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/236.wav",
+        "length": 3.4055,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-208-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/208.wav",
+        "length": 2.4325,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-202-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/202.wav",
+        "length": 2.919,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-245-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/245.wav",
+        "length": 2.919,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-210-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/210.wav",
+        "length": 2.4325,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-216-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/216.wav",
+        "length": 1.946,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-227-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/227.wav",
+        "length": 3.16225,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-226-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/226.wav",
+        "length": 3.16225,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-233-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/233.wav",
+        "length": 3.16225,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-242-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/242.wav",
+        "length": 2.919,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-241-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/241.wav",
+        "length": 2.919,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-232-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/232.wav",
+        "length": 3.4055,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-246-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/246.wav",
+        "length": 3.16225,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-213-zhaozuoxiang-happy": {
+        "wav": "downloads/casia/zhaozuoxiang/happy/213.wav",
+        "length": 3.16225,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-239-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/239.wav",
+        "length": 2.557,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-230-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/230.wav",
+        "length": 2.1916875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-217-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/217.wav",
+        "length": 2.3743125,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-205-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/205.wav",
+        "length": 2.0090625,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-222-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/222.wav",
+        "length": 2.1916875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-244-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/244.wav",
+        "length": 2.3743125,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-237-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/237.wav",
+        "length": 2.3743125,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-228-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/228.wav",
+        "length": 2.3743125,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-223-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/223.wav",
+        "length": 2.557,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-238-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/238.wav",
+        "length": 2.1916875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-204-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/204.wav",
+        "length": 2.0090625,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-220-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/220.wav",
+        "length": 2.0090625,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-247-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/247.wav",
+        "length": 2.557,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-203-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/203.wav",
+        "length": 1.8264375,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-221-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/221.wav",
+        "length": 2.0090625,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-248-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/248.wav",
+        "length": 2.0090625,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-240-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/240.wav",
+        "length": 2.1916875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-229-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/229.wav",
+        "length": 2.1916875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-235-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/235.wav",
+        "length": 2.1916875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-214-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/214.wav",
+        "length": 3.104875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-206-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/206.wav",
+        "length": 2.0090625,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-212-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/212.wav",
+        "length": 2.92225,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-215-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/215.wav",
+        "length": 3.104875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-225-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/225.wav",
+        "length": 2.739625,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-209-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/209.wav",
+        "length": 2.0090625,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-224-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/224.wav",
+        "length": 1.6438125,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-211-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/211.wav",
+        "length": 2.1916875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-231-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/231.wav",
+        "length": 3.104875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-201-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/201.wav",
+        "length": 2.3743125,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-249-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/249.wav",
+        "length": 3.104875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-243-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/243.wav",
+        "length": 2.1916875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-218-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/218.wav",
+        "length": 1.8264375,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-250-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/250.wav",
+        "length": 3.2875625,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-234-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/234.wav",
+        "length": 2.557,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-219-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/219.wav",
+        "length": 1.826375,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-207-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/207.wav",
+        "length": 2.739625,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-236-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/236.wav",
+        "length": 2.3743125,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-208-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/208.wav",
+        "length": 2.92225,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-202-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/202.wav",
+        "length": 1.64375,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-245-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/245.wav",
+        "length": 2.0090625,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-210-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/210.wav",
+        "length": 2.739625,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-216-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/216.wav",
+        "length": 1.8264375,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-227-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/227.wav",
+        "length": 2.0090625,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-226-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/226.wav",
+        "length": 2.0090625,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-233-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/233.wav",
+        "length": 2.557,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-242-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/242.wav",
+        "length": 2.739625,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-241-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/241.wav",
+        "length": 2.92225,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-232-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/232.wav",
+        "length": 2.739625,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-246-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/246.wav",
+        "length": 2.1916875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-213-zhaozuoxiang-surprise": {
+        "wav": "downloads/casia/zhaozuoxiang/surprise/213.wav",
+        "length": 2.1916875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-239-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/239.wav",
+        "length": 3.220125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-230-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/230.wav",
+        "length": 3.411875,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-217-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/217.wav",
+        "length": 3.93675,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-205-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/205.wav",
+        "length": 2.3620625,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-222-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/222.wav",
+        "length": 3.93675,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-244-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/244.wav",
+        "length": 3.2200625,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-237-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/237.wav",
+        "length": 2.5045,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-228-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/228.wav",
+        "length": 1.8533125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-223-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/223.wav",
+        "length": 3.6743125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-238-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/238.wav",
+        "length": 1.9081875,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-204-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/204.wav",
+        "length": 2.6245,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-220-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/220.wav",
+        "length": 3.1494375,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-247-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/247.wav",
+        "length": 3.339375,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-203-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/203.wav",
+        "length": 2.6245,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-221-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/221.wav",
+        "length": 2.887,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-248-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/248.wav",
+        "length": 2.5045,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-240-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/240.wav",
+        "length": 2.38525,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-229-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/229.wav",
+        "length": 3.411875,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-235-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/235.wav",
+        "length": 2.14675,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-214-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/214.wav",
+        "length": 3.6743125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-206-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/206.wav",
+        "length": 2.887,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-212-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/212.wav",
+        "length": 3.6743125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-215-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/215.wav",
+        "length": 2.6245,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-225-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/225.wav",
+        "length": 2.6245,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-209-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/209.wav",
+        "length": 2.6245,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-224-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/224.wav",
+        "length": 2.6245,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-211-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/211.wav",
+        "length": 3.149375,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-231-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/231.wav",
+        "length": 4.1991875,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-201-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/201.wav",
+        "length": 3.6743125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-249-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/249.wav",
+        "length": 4.1741875,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-243-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/243.wav",
+        "length": 2.266,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-218-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/218.wav",
+        "length": 2.887,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-250-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/250.wav",
+        "length": 3.697125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-234-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/234.wav",
+        "length": 2.887,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-219-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/219.wav",
+        "length": 3.149375,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-207-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/207.wav",
+        "length": 3.149375,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-236-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/236.wav",
+        "length": 2.5045,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-208-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/208.wav",
+        "length": 2.6245,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-202-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/202.wav",
+        "length": 2.099625,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-245-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/245.wav",
+        "length": 3.577875,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-210-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/210.wav",
+        "length": 3.411875,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-216-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/216.wav",
+        "length": 2.3620625,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-227-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/227.wav",
+        "length": 2.887,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-226-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/226.wav",
+        "length": 3.149375,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-233-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/233.wav",
+        "length": 4.7240625,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-242-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/242.wav",
+        "length": 2.0275,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-241-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/241.wav",
+        "length": 3.339375,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-232-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/232.wav",
+        "length": 3.411875,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-246-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/246.wav",
+        "length": 2.14675,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-213-zhaozuoxiang-fear": {
+        "wav": "downloads/casia/zhaozuoxiang/fear/213.wav",
+        "length": 3.6743125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-239-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/239.wav",
+        "length": 4.080375,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-230-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/230.wav",
+        "length": 3.4535,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-217-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/217.wav",
+        "length": 3.2068125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-205-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/205.wav",
+        "length": 2.46675,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-222-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/222.wav",
+        "length": 3.4534375,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-244-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/244.wav",
+        "length": 3.023,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-237-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/237.wav",
+        "length": 3.153,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-228-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/228.wav",
+        "length": 4.1935,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-223-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/223.wav",
+        "length": 3.2068125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-238-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/238.wav",
+        "length": 3.153,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-204-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/204.wav",
+        "length": 3.4534375,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-220-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/220.wav",
+        "length": 3.700125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-247-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/247.wav",
+        "length": 2.5488125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-203-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/203.wav",
+        "length": 3.2068125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-221-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/221.wav",
+        "length": 2.220125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-248-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/248.wav",
+        "length": 1.99825,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-240-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/240.wav",
+        "length": 2.9675625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-229-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/229.wav",
+        "length": 3.700125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-235-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/235.wav",
+        "length": 2.9675625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-214-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/214.wav",
+        "length": 4.4401875,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-206-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/206.wav",
+        "length": 4.4401875,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-212-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/212.wav",
+        "length": 3.700125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-215-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/215.wav",
+        "length": 3.9468125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-225-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/225.wav",
+        "length": 3.4535,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-209-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/209.wav",
+        "length": 3.4535,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-224-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/224.wav",
+        "length": 2.960125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-211-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/211.wav",
+        "length": 4.686875,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-231-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/231.wav",
+        "length": 2.960125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-201-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/201.wav",
+        "length": 4.1935,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-249-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/249.wav",
+        "length": 3.48075,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-243-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/243.wav",
+        "length": 2.8451875,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-218-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/218.wav",
+        "length": 1.9734375,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-250-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/250.wav",
+        "length": 3.0295625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-234-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/234.wav",
+        "length": 2.411125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-219-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/219.wav",
+        "length": 2.220125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-207-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/207.wav",
+        "length": 3.9468125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-236-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/236.wav",
+        "length": 2.225625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-208-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/208.wav",
+        "length": 4.9335,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-202-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/202.wav",
+        "length": 1.9734375,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-245-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/245.wav",
+        "length": 2.7859375,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-210-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/210.wav",
+        "length": 3.2068125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-216-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/216.wav",
+        "length": 3.2068125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-227-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/227.wav",
+        "length": 4.1935,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-226-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/226.wav",
+        "length": 2.960125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-233-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/233.wav",
+        "length": 2.7820625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-242-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/242.wav",
+        "length": 3.260125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-241-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/241.wav",
+        "length": 3.894875,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-232-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/232.wav",
+        "length": 2.596625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-246-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/246.wav",
+        "length": 3.3786875,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-213-zhaozuoxiang-sad": {
+        "wav": "downloads/casia/zhaozuoxiang/sad/213.wav",
+        "length": 3.9468125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-239-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/239.wav",
+        "length": 1.771125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-230-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/230.wav",
+        "length": 1.795,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-217-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/217.wav",
+        "length": 1.771125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-205-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/205.wav",
+        "length": 2.079125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-222-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/222.wav",
+        "length": 1.9635625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-244-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/244.wav",
+        "length": 1.694125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-237-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/237.wav",
+        "length": 1.771125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-228-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/228.wav",
+        "length": 1.886625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-223-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/223.wav",
+        "length": 1.7325625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-238-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/238.wav",
+        "length": 1.6940625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-204-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/204.wav",
+        "length": 2.079125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-220-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/220.wav",
+        "length": 1.809625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-247-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/247.wav",
+        "length": 1.7325625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-203-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/203.wav",
+        "length": 1.6170625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-221-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/221.wav",
+        "length": 1.6940625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-248-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/248.wav",
+        "length": 1.540125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-240-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/240.wav",
+        "length": 1.917375,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-229-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/229.wav",
+        "length": 1.771125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-235-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/235.wav",
+        "length": 1.7325625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-214-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/214.wav",
+        "length": 1.7325625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-206-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/206.wav",
+        "length": 2.079125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-212-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/212.wav",
+        "length": 1.8358125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-215-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/215.wav",
+        "length": 1.6940625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-225-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/225.wav",
+        "length": 1.5785625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-209-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/209.wav",
+        "length": 1.6170625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-224-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/224.wav",
+        "length": 1.4245625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-211-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/211.wav",
+        "length": 1.5785625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-231-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/231.wav",
+        "length": 1.771125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-201-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/201.wav",
+        "length": 1.963625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-249-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/249.wav",
+        "length": 1.963625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-243-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/243.wav",
+        "length": 1.6555625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-218-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/218.wav",
+        "length": 1.4245625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-250-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/250.wav",
+        "length": 2.117625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-234-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/234.wav",
+        "length": 1.6940625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-219-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/219.wav",
+        "length": 1.2705625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-207-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/207.wav",
+        "length": 1.848125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-236-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/236.wav",
+        "length": 1.6940625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-208-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/208.wav",
+        "length": 1.501625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-202-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/202.wav",
+        "length": 1.732625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-245-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/245.wav",
+        "length": 1.655625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-210-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/210.wav",
+        "length": 1.963625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-216-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/216.wav",
+        "length": 1.501625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-227-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/227.wav",
+        "length": 1.4630625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-226-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/226.wav",
+        "length": 1.771125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-233-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/233.wav",
+        "length": 1.6940625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-242-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/242.wav",
+        "length": 1.617125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-241-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/241.wav",
+        "length": 1.7325625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-232-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/232.wav",
+        "length": 1.6170625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-246-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/246.wav",
+        "length": 1.655625,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-213-zhaoquanyin-neutral": {
+        "wav": "downloads/casia/zhaoquanyin/neutral/213.wav",
+        "length": 1.848125,
+        "emo": "neutral",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-239-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/239.wav",
+        "length": 1.376125,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-230-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/230.wav",
+        "length": 1.414375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-217-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/217.wav",
+        "length": 1.4525625,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-205-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/205.wav",
+        "length": 1.490875,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-222-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/222.wav",
+        "length": 1.3379375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-244-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/244.wav",
+        "length": 1.5290625,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-237-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/237.wav",
+        "length": 1.3379375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-228-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/228.wav",
+        "length": 1.490875,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-223-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/223.wav",
+        "length": 1.452625,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-238-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/238.wav",
+        "length": 1.6055,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-204-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/204.wav",
+        "length": 1.1468125,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-220-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/220.wav",
+        "length": 1.414375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-247-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/247.wav",
+        "length": 1.3379375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-203-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/203.wav",
+        "length": 1.1468125,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-221-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/221.wav",
+        "length": 1.2996875,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-248-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/248.wav",
+        "length": 1.4525625,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-240-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/240.wav",
+        "length": 1.95475,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-229-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/229.wav",
+        "length": 1.4525625,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-235-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/235.wav",
+        "length": 1.4908125,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-214-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/214.wav",
+        "length": 1.414375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-206-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/206.wav",
+        "length": 1.22325,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-212-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/212.wav",
+        "length": 2.044625,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-215-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/215.wav",
+        "length": 1.2614375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-225-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/225.wav",
+        "length": 1.3379375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-209-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/209.wav",
+        "length": 1.22325,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-224-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/224.wav",
+        "length": 1.22325,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-211-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/211.wav",
+        "length": 1.414375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-231-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/231.wav",
+        "length": 1.22325,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-201-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/201.wav",
+        "length": 1.2615,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-249-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/249.wav",
+        "length": 1.64375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-243-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/243.wav",
+        "length": 1.2615,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-218-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/218.wav",
+        "length": 1.2614375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-250-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/250.wav",
+        "length": 1.64375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-234-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/234.wav",
+        "length": 1.414375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-219-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/219.wav",
+        "length": 1.2996875,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-207-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/207.wav",
+        "length": 1.070375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-236-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/236.wav",
+        "length": 1.3379375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-208-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/208.wav",
+        "length": 1.22325,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-202-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/202.wav",
+        "length": 0.9556875,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-245-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/245.wav",
+        "length": 1.2996875,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-210-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/210.wav",
+        "length": 1.3379375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-216-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/216.wav",
+        "length": 1.3379375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-227-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/227.wav",
+        "length": 1.414375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-226-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/226.wav",
+        "length": 1.376125,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-233-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/233.wav",
+        "length": 1.5290625,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-242-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/242.wav",
+        "length": 1.22325,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-241-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/241.wav",
+        "length": 1.4908125,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-232-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/232.wav",
+        "length": 1.2996875,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-246-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/246.wav",
+        "length": 1.3379375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-213-zhaoquanyin-angry": {
+        "wav": "downloads/casia/zhaoquanyin/angry/213.wav",
+        "length": 1.414375,
+        "emo": "angry",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-239-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/239.wav",
+        "length": 1.5796875,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-230-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/230.wav",
+        "length": 1.689875,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-217-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/217.wav",
+        "length": 1.726625,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-205-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/205.wav",
+        "length": 1.3225,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-222-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/222.wav",
+        "length": 1.653125,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-244-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/244.wav",
+        "length": 1.616375,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-237-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/237.wav",
+        "length": 1.4694375,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-228-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/228.wav",
+        "length": 1.43275,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-223-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/223.wav",
+        "length": 1.6164375,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-238-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/238.wav",
+        "length": 1.5061875,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-204-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/204.wav",
+        "length": 1.2123125,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-220-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/220.wav",
+        "length": 1.653125,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-247-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/247.wav",
+        "length": 1.5429375,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-203-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/203.wav",
+        "length": 1.3225,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-221-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/221.wav",
+        "length": 1.43275,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-248-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/248.wav",
+        "length": 1.5061875,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-240-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/240.wav",
+        "length": 1.5429375,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-229-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/229.wav",
+        "length": 1.5429375,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-235-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/235.wav",
+        "length": 1.4326875,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-214-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/214.wav",
+        "length": 1.43275,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-206-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/206.wav",
+        "length": 1.396,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-212-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/212.wav",
+        "length": 1.653125,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-215-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/215.wav",
+        "length": 1.5061875,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-225-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/225.wav",
+        "length": 1.4694375,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-209-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/209.wav",
+        "length": 1.4694375,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-224-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/224.wav",
+        "length": 1.28575,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-211-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/211.wav",
+        "length": 1.4694375,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-231-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/231.wav",
+        "length": 1.5429375,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-201-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/201.wav",
+        "length": 1.4694375,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-249-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/249.wav",
+        "length": 1.689875,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-243-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/243.wav",
+        "length": 1.43275,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-218-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/218.wav",
+        "length": 1.3225,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-250-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/250.wav",
+        "length": 1.8000625,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-234-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/234.wav",
+        "length": 1.4326875,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-219-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/219.wav",
+        "length": 1.2490625,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-207-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/207.wav",
+        "length": 1.2490625,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-236-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/236.wav",
+        "length": 1.6136875,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-208-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/208.wav",
+        "length": 1.2123125,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-202-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/202.wav",
+        "length": 1.2490625,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-245-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/245.wav",
+        "length": 1.396,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-210-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/210.wav",
+        "length": 1.5061875,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-216-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/216.wav",
+        "length": 1.5061875,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-227-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/227.wav",
+        "length": 1.396,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-226-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/226.wav",
+        "length": 1.5429375,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-233-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/233.wav",
+        "length": 1.91025,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-242-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/242.wav",
+        "length": 1.5061875,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-241-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/241.wav",
+        "length": 1.4694375,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-232-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/232.wav",
+        "length": 1.7633125,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-246-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/246.wav",
+        "length": 1.4694375,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-213-zhaoquanyin-happy": {
+        "wav": "downloads/casia/zhaoquanyin/happy/213.wav",
+        "length": 1.5061875,
+        "emo": "happy",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-239-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/239.wav",
+        "length": 1.4859375,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-230-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/230.wav",
+        "length": 1.4859375,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-217-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/217.wav",
+        "length": 1.5271875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-205-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/205.wav",
+        "length": 1.403375,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-222-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/222.wav",
+        "length": 1.60975,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-244-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/244.wav",
+        "length": 1.7335625,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-237-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/237.wav",
+        "length": 1.362125,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-228-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/228.wav",
+        "length": 1.362125,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-223-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/223.wav",
+        "length": 1.403375,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-238-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/238.wav",
+        "length": 1.4859375,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-204-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/204.wav",
+        "length": 1.857375,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-220-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/220.wav",
+        "length": 1.3208125,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-247-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/247.wav",
+        "length": 1.4859375,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-203-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/203.wav",
+        "length": 1.60975,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-221-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/221.wav",
+        "length": 1.3208125,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-248-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/248.wav",
+        "length": 1.403375,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-240-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/240.wav",
+        "length": 1.5271875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-229-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/229.wav",
+        "length": 1.403375,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-235-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/235.wav",
+        "length": 1.403375,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-214-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/214.wav",
+        "length": 1.5684375,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-206-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/206.wav",
+        "length": 1.444625,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-212-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/212.wav",
+        "length": 1.362125,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-215-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/215.wav",
+        "length": 1.4446875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-225-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/225.wav",
+        "length": 1.3208125,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-209-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/209.wav",
+        "length": 1.3208125,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-224-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/224.wav",
+        "length": 1.1144375,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-211-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/211.wav",
+        "length": 1.651,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-231-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/231.wav",
+        "length": 1.4859375,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-201-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/201.wav",
+        "length": 1.857375,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-249-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/249.wav",
+        "length": 1.5685,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-243-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/243.wav",
+        "length": 1.3208125,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-218-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/218.wav",
+        "length": 1.5271875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-250-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/250.wav",
+        "length": 1.816125,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-234-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/234.wav",
+        "length": 1.362125,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-219-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/219.wav",
+        "length": 1.403375,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-207-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/207.wav",
+        "length": 1.0731875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-236-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/236.wav",
+        "length": 1.403375,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-208-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/208.wav",
+        "length": 1.4446875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-202-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/202.wav",
+        "length": 1.362125,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-245-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/245.wav",
+        "length": 1.444625,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-210-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/210.wav",
+        "length": 1.6923125,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-216-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/216.wav",
+        "length": 1.4446875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-227-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/227.wav",
+        "length": 1.403375,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-226-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/226.wav",
+        "length": 1.60975,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-233-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/233.wav",
+        "length": 1.765125,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-242-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/242.wav",
+        "length": 1.5271875,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-241-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/241.wav",
+        "length": 1.60975,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-232-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/232.wav",
+        "length": 1.4859375,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-246-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/246.wav",
+        "length": 1.4859375,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-213-zhaoquanyin-surprise": {
+        "wav": "downloads/casia/zhaoquanyin/surprise/213.wav",
+        "length": 1.4859375,
+        "emo": "surprise",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-239-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/239.wav",
+        "length": 1.867875,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-230-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/230.wav",
+        "length": 1.822375,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-217-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/217.wav",
+        "length": 2.4489375,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-205-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/205.wav",
+        "length": 1.9406875,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-222-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/222.wav",
+        "length": 1.986875,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-244-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/244.wav",
+        "length": 2.1868125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-237-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/237.wav",
+        "length": 1.822375,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-228-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/228.wav",
+        "length": 2.050125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-223-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/223.wav",
+        "length": 1.640125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-238-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/238.wav",
+        "length": 1.73125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-204-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/204.wav",
+        "length": 1.571,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-220-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/220.wav",
+        "length": 1.8020625,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-247-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/247.wav",
+        "length": 1.640125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-203-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/203.wav",
+        "length": 1.5248125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-221-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/221.wav",
+        "length": 1.5248125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-248-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/248.wav",
+        "length": 1.959,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-240-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/240.wav",
+        "length": 1.822375,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-229-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/229.wav",
+        "length": 1.9134375,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-235-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/235.wav",
+        "length": 1.822375,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-214-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/214.wav",
+        "length": 2.0793125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-206-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/206.wav",
+        "length": 1.755875,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-212-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/212.wav",
+        "length": 1.709625,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-215-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/215.wav",
+        "length": 2.0793125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-225-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/225.wav",
+        "length": 1.549,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-209-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/209.wav",
+        "length": 2.0793125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-224-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/224.wav",
+        "length": 2.2779375,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-211-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/211.wav",
+        "length": 1.8020625,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-231-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/231.wav",
+        "length": 2.0956875,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-201-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/201.wav",
+        "length": 1.9406875,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-249-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/249.wav",
+        "length": 2.7790625,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-243-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/243.wav",
+        "length": 1.9590625,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-218-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/218.wav",
+        "length": 1.34,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-250-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/250.wav",
+        "length": 2.232375,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-234-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/234.wav",
+        "length": 1.73125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-219-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/219.wav",
+        "length": 1.5248125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-207-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/207.wav",
+        "length": 1.4324375,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-236-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/236.wav",
+        "length": 1.73125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-208-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/208.wav",
+        "length": 2.3565625,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-202-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/202.wav",
+        "length": 1.5248125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-245-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/245.wav",
+        "length": 2.232375,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-210-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/210.wav",
+        "length": 1.709625,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-216-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/216.wav",
+        "length": 1.61725,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-227-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/227.wav",
+        "length": 1.73125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-226-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/226.wav",
+        "length": 1.685625,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-233-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/233.wav",
+        "length": 1.959,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-242-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/242.wav",
+        "length": 1.7311875,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-241-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/241.wav",
+        "length": 1.867875,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-232-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/232.wav",
+        "length": 1.73125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-246-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/246.wav",
+        "length": 1.73125,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-213-zhaoquanyin-fear": {
+        "wav": "downloads/casia/zhaoquanyin/fear/213.wav",
+        "length": 1.84825,
+        "emo": "fear",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-239-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/239.wav",
+        "length": 2.108,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-230-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/230.wav",
+        "length": 2.0121875,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-217-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/217.wav",
+        "length": 2.299625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-205-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/205.wav",
+        "length": 1.8205,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-222-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/222.wav",
+        "length": 2.2038125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-244-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/244.wav",
+        "length": 2.4433125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-237-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/237.wav",
+        "length": 1.8205625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-228-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/228.wav",
+        "length": 2.0600625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-223-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/223.wav",
+        "length": 1.916375,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-238-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/238.wav",
+        "length": 1.772625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-204-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/204.wav",
+        "length": 2.2516875,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-220-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/220.wav",
+        "length": 2.299625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-247-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/247.wav",
+        "length": 1.96425,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-203-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/203.wav",
+        "length": 1.772625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-221-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/221.wav",
+        "length": 1.916375,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-248-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/248.wav",
+        "length": 1.96425,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-240-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/240.wav",
+        "length": 2.5376875,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-229-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/229.wav",
+        "length": 1.772625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-235-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/235.wav",
+        "length": 1.72475,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-214-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/214.wav",
+        "length": 2.060125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-206-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/206.wav",
+        "length": 1.96425,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-212-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/212.wav",
+        "length": 2.7883125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-215-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/215.wav",
+        "length": 1.772625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-225-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/225.wav",
+        "length": 2.060125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-209-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/209.wav",
+        "length": 1.916375,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-224-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/224.wav",
+        "length": 2.299625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-211-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/211.wav",
+        "length": 1.8684375,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-231-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/231.wav",
+        "length": 2.0121875,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-201-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/201.wav",
+        "length": 3.01825,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-249-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/249.wav",
+        "length": 3.162,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-243-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/243.wav",
+        "length": 2.155875,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-218-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/218.wav",
+        "length": 1.6289375,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-250-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/250.wav",
+        "length": 2.6003125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-234-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/234.wav",
+        "length": 1.6289375,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-219-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/219.wav",
+        "length": 1.72475,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-207-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/207.wav",
+        "length": 1.772625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-236-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/236.wav",
+        "length": 1.8205625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-208-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/208.wav",
+        "length": 2.3475625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-202-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/202.wav",
+        "length": 1.389375,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-245-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/245.wav",
+        "length": 1.772625,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-210-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/210.wav",
+        "length": 1.8684375,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-216-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/216.wav",
+        "length": 1.581,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-227-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/227.wav",
+        "length": 2.060125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-226-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/226.wav",
+        "length": 2.0121875,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-233-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/233.wav",
+        "length": 2.108,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-242-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/242.wav",
+        "length": 2.108,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-241-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/241.wav",
+        "length": 2.25175,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-232-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/232.wav",
+        "length": 1.8684375,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-246-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/246.wav",
+        "length": 2.2038125,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    },
+    "casia-213-zhaoquanyin-sad": {
+        "wav": "downloads/casia/zhaoquanyin/sad/213.wav",
+        "length": 1.96425,
+        "emo": "sad",
+        "dataset": "casia",
+        "channel": 1
+    }
+}

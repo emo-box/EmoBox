@@ -1,0 +1,2879 @@
+{
+    "mer2023-sample_00001998": {
+        "wav": "downloads/mer2023/test1/sample_00001998.avi",
+        "length": 1.8285714285714285,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003564": {
+        "wav": "downloads/mer2023/test1/sample_00003564.avi",
+        "length": 5.825306122448979,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003845": {
+        "wav": "downloads/mer2023/test1/sample_00003845.avi",
+        "length": 5.1722448979591835,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000733": {
+        "wav": "downloads/mer2023/test1/sample_00000733.avi",
+        "length": 4.466938775510204,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000282": {
+        "wav": "downloads/mer2023/test1/sample_00000282.avi",
+        "length": 6.922448979591837,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005891": {
+        "wav": "downloads/mer2023/test1/sample_00005891.avi",
+        "length": 4.44,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001444": {
+        "wav": "downloads/mer2023/test1/sample_00001444.avi",
+        "length": 5.851428571428571,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000820": {
+        "wav": "downloads/mer2023/test1/sample_00000820.avi",
+        "length": 1.3061224489795917,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000905": {
+        "wav": "downloads/mer2023/test1/sample_00000905.avi",
+        "length": 3.5526530612244898,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000017": {
+        "wav": "downloads/mer2023/test1/sample_00000017.avi",
+        "length": 1.619591836734694,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00007005": {
+        "wav": "downloads/mer2023/test1/sample_00007005.avi",
+        "length": 2.716734693877551,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005103": {
+        "wav": "downloads/mer2023/test1/sample_00005103.avi",
+        "length": 4.571428571428571,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005186": {
+        "wav": "downloads/mer2023/test1/sample_00005186.avi",
+        "length": 4.310204081632653,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005947": {
+        "wav": "downloads/mer2023/test1/sample_00005947.avi",
+        "length": 3.1085714285714285,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003194": {
+        "wav": "downloads/mer2023/test1/sample_00003194.avi",
+        "length": 3.5526530612244898,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006841": {
+        "wav": "downloads/mer2023/test1/sample_00006841.avi",
+        "length": 2.063673469387755,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006169": {
+        "wav": "downloads/mer2023/test1/sample_00006169.avi",
+        "length": 12.303673469387755,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000750": {
+        "wav": "downloads/mer2023/test1/sample_00000750.avi",
+        "length": 3.709387755102041,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004817": {
+        "wav": "downloads/mer2023/test1/sample_00004817.avi",
+        "length": 1.906938775510204,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004702": {
+        "wav": "downloads/mer2023/test1/sample_00004702.avi",
+        "length": 3.864,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006690": {
+        "wav": "downloads/mer2023/test1/sample_00006690.avi",
+        "length": 3.657142857142857,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003039": {
+        "wav": "downloads/mer2023/test1/sample_00003039.avi",
+        "length": 1.8024489795918368,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003364": {
+        "wav": "downloads/mer2023/test1/sample_00003364.avi",
+        "length": 1.619591836734694,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005754": {
+        "wav": "downloads/mer2023/test1/sample_00005754.avi",
+        "length": 6.922448979591837,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006658": {
+        "wav": "downloads/mer2023/test1/sample_00006658.avi",
+        "length": 5.69469387755102,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004889": {
+        "wav": "downloads/mer2023/test1/sample_00004889.avi",
+        "length": 5.136,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006444": {
+        "wav": "downloads/mer2023/test1/sample_00006444.avi",
+        "length": 2.899591836734694,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000360": {
+        "wav": "downloads/mer2023/test1/sample_00000360.avi",
+        "length": 0.5224489795918368,
+        "emo": "surprise",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002135": {
+        "wav": "downloads/mer2023/test1/sample_00002135.avi",
+        "length": 4.466938775510204,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005633": {
+        "wav": "downloads/mer2023/test1/sample_00005633.avi",
+        "length": 2.7951020408163267,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004917": {
+        "wav": "downloads/mer2023/test1/sample_00004917.avi",
+        "length": 5.955918367346939,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003319": {
+        "wav": "downloads/mer2023/test1/sample_00003319.avi",
+        "length": 2.0375510204081633,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006248": {
+        "wav": "downloads/mer2023/test1/sample_00006248.avi",
+        "length": 3.5787755102040815,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005400": {
+        "wav": "downloads/mer2023/test1/sample_00005400.avi",
+        "length": 2.5338775510204083,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005065": {
+        "wav": "downloads/mer2023/test1/sample_00005065.avi",
+        "length": 5.5902040816326535,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001519": {
+        "wav": "downloads/mer2023/test1/sample_00001519.avi",
+        "length": 4.519183673469388,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003805": {
+        "wav": "downloads/mer2023/test1/sample_00003805.avi",
+        "length": 1.296,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004886": {
+        "wav": "downloads/mer2023/test1/sample_00004886.avi",
+        "length": 5.642448979591837,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004305": {
+        "wav": "downloads/mer2023/test1/sample_00004305.avi",
+        "length": 4.362448979591837,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002400": {
+        "wav": "downloads/mer2023/test1/sample_00002400.avi",
+        "length": 2.1681632653061222,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003764": {
+        "wav": "downloads/mer2023/test1/sample_00003764.avi",
+        "length": 6.060408163265306,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006456": {
+        "wav": "downloads/mer2023/test1/sample_00006456.avi",
+        "length": 1.750204081632653,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001259": {
+        "wav": "downloads/mer2023/test1/sample_00001259.avi",
+        "length": 5.146122448979592,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003204": {
+        "wav": "downloads/mer2023/test1/sample_00003204.avi",
+        "length": 2.4816326530612245,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006667": {
+        "wav": "downloads/mer2023/test1/sample_00006667.avi",
+        "length": 5.015510204081632,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003174": {
+        "wav": "downloads/mer2023/test1/sample_00003174.avi",
+        "length": 5.3028571428571425,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004469": {
+        "wav": "downloads/mer2023/test1/sample_00004469.avi",
+        "length": 19.565714285714286,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001637": {
+        "wav": "downloads/mer2023/test1/sample_00001637.avi",
+        "length": 38.243265306122446,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006932": {
+        "wav": "downloads/mer2023/test1/sample_00006932.avi",
+        "length": 12.695510204081632,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001493": {
+        "wav": "downloads/mer2023/test1/sample_00001493.avi",
+        "length": 1.5412244897959184,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004210": {
+        "wav": "downloads/mer2023/test1/sample_00004210.avi",
+        "length": 1.6718367346938776,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000714": {
+        "wav": "downloads/mer2023/test1/sample_00000714.avi",
+        "length": 7.079183673469387,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000848": {
+        "wav": "downloads/mer2023/test1/sample_00000848.avi",
+        "length": 3.84,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004845": {
+        "wav": "downloads/mer2023/test1/sample_00004845.avi",
+        "length": 1.619591836734694,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002044": {
+        "wav": "downloads/mer2023/test1/sample_00002044.avi",
+        "length": 5.067755102040817,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002047": {
+        "wav": "downloads/mer2023/test1/sample_00002047.avi",
+        "length": 10.788571428571428,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006215": {
+        "wav": "downloads/mer2023/test1/sample_00006215.avi",
+        "length": 5.668571428571428,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000436": {
+        "wav": "downloads/mer2023/test1/sample_00000436.avi",
+        "length": 4.493061224489796,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003168": {
+        "wav": "downloads/mer2023/test1/sample_00003168.avi",
+        "length": 1.1755102040816328,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000963": {
+        "wav": "downloads/mer2023/test1/sample_00000963.avi",
+        "length": 2.9257142857142857,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000696": {
+        "wav": "downloads/mer2023/test1/sample_00000696.avi",
+        "length": 2.28,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003126": {
+        "wav": "downloads/mer2023/test1/sample_00003126.avi",
+        "length": 1.224,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002738": {
+        "wav": "downloads/mer2023/test1/sample_00002738.avi",
+        "length": 9.195102040816327,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003738": {
+        "wav": "downloads/mer2023/test1/sample_00003738.avi",
+        "length": 5.40734693877551,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005791": {
+        "wav": "downloads/mer2023/test1/sample_00005791.avi",
+        "length": 2.1942857142857144,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005235": {
+        "wav": "downloads/mer2023/test1/sample_00005235.avi",
+        "length": 0.72,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000691": {
+        "wav": "downloads/mer2023/test1/sample_00000691.avi",
+        "length": 2.6383673469387756,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001501": {
+        "wav": "downloads/mer2023/test1/sample_00001501.avi",
+        "length": 4.310204081632653,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001613": {
+        "wav": "downloads/mer2023/test1/sample_00001613.avi",
+        "length": 2.84734693877551,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000489": {
+        "wav": "downloads/mer2023/test1/sample_00000489.avi",
+        "length": 1.7240816326530612,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005886": {
+        "wav": "downloads/mer2023/test1/sample_00005886.avi",
+        "length": 0.9142857142857143,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004988": {
+        "wav": "downloads/mer2023/test1/sample_00004988.avi",
+        "length": 6.478367346938776,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001044": {
+        "wav": "downloads/mer2023/test1/sample_00001044.avi",
+        "length": 2.3510204081632655,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002440": {
+        "wav": "downloads/mer2023/test1/sample_00002440.avi",
+        "length": 5.198367346938776,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000463": {
+        "wav": "downloads/mer2023/test1/sample_00000463.avi",
+        "length": 1.593469387755102,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004705": {
+        "wav": "downloads/mer2023/test1/sample_00004705.avi",
+        "length": 8.448,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006600": {
+        "wav": "downloads/mer2023/test1/sample_00006600.avi",
+        "length": 4.0751020408163265,
+        "emo": "surprise",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000193": {
+        "wav": "downloads/mer2023/test1/sample_00000193.avi",
+        "length": 4.12734693877551,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001764": {
+        "wav": "downloads/mer2023/test1/sample_00001764.avi",
+        "length": 2.9257142857142857,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001910": {
+        "wav": "downloads/mer2023/test1/sample_00001910.avi",
+        "length": 2.0375510204081633,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004866": {
+        "wav": "downloads/mer2023/test1/sample_00004866.avi",
+        "length": 2.6383673469387756,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006996": {
+        "wav": "downloads/mer2023/test1/sample_00006996.avi",
+        "length": 4.284081632653061,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001726": {
+        "wav": "downloads/mer2023/test1/sample_00001726.avi",
+        "length": 0.966530612244898,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000372": {
+        "wav": "downloads/mer2023/test1/sample_00000372.avi",
+        "length": 3.500408163265306,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005047": {
+        "wav": "downloads/mer2023/test1/sample_00005047.avi",
+        "length": 4.231836734693878,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002068": {
+        "wav": "downloads/mer2023/test1/sample_00002068.avi",
+        "length": 4.519183673469388,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005556": {
+        "wav": "downloads/mer2023/test1/sample_00005556.avi",
+        "length": 6.321632653061225,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003875": {
+        "wav": "downloads/mer2023/test1/sample_00003875.avi",
+        "length": 6.844081632653062,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001758": {
+        "wav": "downloads/mer2023/test1/sample_00001758.avi",
+        "length": 4.048979591836734,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005522": {
+        "wav": "downloads/mer2023/test1/sample_00005522.avi",
+        "length": 1.436734693877551,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004234": {
+        "wav": "downloads/mer2023/test1/sample_00004234.avi",
+        "length": 1.4889795918367348,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003720": {
+        "wav": "downloads/mer2023/test1/sample_00003720.avi",
+        "length": 5.929795918367347,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002646": {
+        "wav": "downloads/mer2023/test1/sample_00002646.avi",
+        "length": 5.537959183673469,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006057": {
+        "wav": "downloads/mer2023/test1/sample_00006057.avi",
+        "length": 3.1085714285714285,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006763": {
+        "wav": "downloads/mer2023/test1/sample_00006763.avi",
+        "length": 1.933061224489796,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005903": {
+        "wav": "downloads/mer2023/test1/sample_00005903.avi",
+        "length": 1.28,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003275": {
+        "wav": "downloads/mer2023/test1/sample_00003275.avi",
+        "length": 6.295510204081633,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001787": {
+        "wav": "downloads/mer2023/test1/sample_00001787.avi",
+        "length": 3.186938775510204,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003488": {
+        "wav": "downloads/mer2023/test1/sample_00003488.avi",
+        "length": 1.6457142857142857,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005895": {
+        "wav": "downloads/mer2023/test1/sample_00005895.avi",
+        "length": 3.996734693877551,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000151": {
+        "wav": "downloads/mer2023/test1/sample_00000151.avi",
+        "length": 3.6048979591836736,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000014": {
+        "wav": "downloads/mer2023/test1/sample_00000014.avi",
+        "length": 4.54530612244898,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005273": {
+        "wav": "downloads/mer2023/test1/sample_00005273.avi",
+        "length": 3.264,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002034": {
+        "wav": "downloads/mer2023/test1/sample_00002034.avi",
+        "length": 2.690612244897959,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003390": {
+        "wav": "downloads/mer2023/test1/sample_00003390.avi",
+        "length": 3.7877551020408164,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005260": {
+        "wav": "downloads/mer2023/test1/sample_00005260.avi",
+        "length": 2.742857142857143,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005262": {
+        "wav": "downloads/mer2023/test1/sample_00005262.avi",
+        "length": 2.7951020408163267,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001002": {
+        "wav": "downloads/mer2023/test1/sample_00001002.avi",
+        "length": 2.3510204081632655,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002516": {
+        "wav": "downloads/mer2023/test1/sample_00002516.avi",
+        "length": 4.048979591836734,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004285": {
+        "wav": "downloads/mer2023/test1/sample_00004285.avi",
+        "length": 2.2987755102040817,
+        "emo": "surprise",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001534": {
+        "wav": "downloads/mer2023/test1/sample_00001534.avi",
+        "length": 2.115918367346939,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001673": {
+        "wav": "downloads/mer2023/test1/sample_00001673.avi",
+        "length": 4.728163265306122,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004807": {
+        "wav": "downloads/mer2023/test1/sample_00004807.avi",
+        "length": 1.4889795918367348,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005086": {
+        "wav": "downloads/mer2023/test1/sample_00005086.avi",
+        "length": 2.6383673469387756,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004280": {
+        "wav": "downloads/mer2023/test1/sample_00004280.avi",
+        "length": 1.32,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001221": {
+        "wav": "downloads/mer2023/test1/sample_00001221.avi",
+        "length": 11.781224489795918,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000288": {
+        "wav": "downloads/mer2023/test1/sample_00000288.avi",
+        "length": 11.206530612244897,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000998": {
+        "wav": "downloads/mer2023/test1/sample_00000998.avi",
+        "length": 1.8546938775510204,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004764": {
+        "wav": "downloads/mer2023/test1/sample_00004764.avi",
+        "length": 0.5485714285714286,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003088": {
+        "wav": "downloads/mer2023/test1/sample_00003088.avi",
+        "length": 1.750204081632653,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002061": {
+        "wav": "downloads/mer2023/test1/sample_00002061.avi",
+        "length": 4.362448979591837,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001131": {
+        "wav": "downloads/mer2023/test1/sample_00001131.avi",
+        "length": 0.626938775510204,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001584": {
+        "wav": "downloads/mer2023/test1/sample_00001584.avi",
+        "length": 3.1085714285714285,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006219": {
+        "wav": "downloads/mer2023/test1/sample_00006219.avi",
+        "length": 2.9779591836734696,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002037": {
+        "wav": "downloads/mer2023/test1/sample_00002037.avi",
+        "length": 3.1608163265306124,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001778": {
+        "wav": "downloads/mer2023/test1/sample_00001778.avi",
+        "length": 2.246530612244898,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00007015": {
+        "wav": "downloads/mer2023/test1/sample_00007015.avi",
+        "length": 5.825306122448979,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004560": {
+        "wav": "downloads/mer2023/test1/sample_00004560.avi",
+        "length": 4.702040816326531,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006167": {
+        "wav": "downloads/mer2023/test1/sample_00006167.avi",
+        "length": 7.183673469387755,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002373": {
+        "wav": "downloads/mer2023/test1/sample_00002373.avi",
+        "length": 2.455510204081633,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001649": {
+        "wav": "downloads/mer2023/test1/sample_00001649.avi",
+        "length": 5.496,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003737": {
+        "wav": "downloads/mer2023/test1/sample_00003737.avi",
+        "length": 1.253877551020408,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003483": {
+        "wav": "downloads/mer2023/test1/sample_00003483.avi",
+        "length": 5.067755102040817,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005784": {
+        "wav": "downloads/mer2023/test1/sample_00005784.avi",
+        "length": 4.675918367346939,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005460": {
+        "wav": "downloads/mer2023/test1/sample_00005460.avi",
+        "length": 1.0448979591836736,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003956": {
+        "wav": "downloads/mer2023/test1/sample_00003956.avi",
+        "length": 4.179591836734694,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001136": {
+        "wav": "downloads/mer2023/test1/sample_00001136.avi",
+        "length": 5.955918367346939,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006730": {
+        "wav": "downloads/mer2023/test1/sample_00006730.avi",
+        "length": 6.452244897959184,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000708": {
+        "wav": "downloads/mer2023/test1/sample_00000708.avi",
+        "length": 4.466938775510204,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006805": {
+        "wav": "downloads/mer2023/test1/sample_00006805.avi",
+        "length": 3.8922448979591837,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003574": {
+        "wav": "downloads/mer2023/test1/sample_00003574.avi",
+        "length": 3.7616326530612243,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000780": {
+        "wav": "downloads/mer2023/test1/sample_00000780.avi",
+        "length": 2.52,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003453": {
+        "wav": "downloads/mer2023/test1/sample_00003453.avi",
+        "length": 3.8922448979591837,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005475": {
+        "wav": "downloads/mer2023/test1/sample_00005475.avi",
+        "length": 2.56,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001902": {
+        "wav": "downloads/mer2023/test1/sample_00001902.avi",
+        "length": 4.12734693877551,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003944": {
+        "wav": "downloads/mer2023/test1/sample_00003944.avi",
+        "length": 1.750204081632653,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002226": {
+        "wav": "downloads/mer2023/test1/sample_00002226.avi",
+        "length": 2.899591836734694,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004851": {
+        "wav": "downloads/mer2023/test1/sample_00004851.avi",
+        "length": 5.40734693877551,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005210": {
+        "wav": "downloads/mer2023/test1/sample_00005210.avi",
+        "length": 3.683265306122449,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006685": {
+        "wav": "downloads/mer2023/test1/sample_00006685.avi",
+        "length": 1.0710204081632653,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003450": {
+        "wav": "downloads/mer2023/test1/sample_00003450.avi",
+        "length": 11.624489795918368,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006369": {
+        "wav": "downloads/mer2023/test1/sample_00006369.avi",
+        "length": 2.220408163265306,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000866": {
+        "wav": "downloads/mer2023/test1/sample_00000866.avi",
+        "length": 14.628571428571428,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001895": {
+        "wav": "downloads/mer2023/test1/sample_00001895.avi",
+        "length": 0.9404081632653061,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001916": {
+        "wav": "downloads/mer2023/test1/sample_00001916.avi",
+        "length": 7.262040816326531,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002203": {
+        "wav": "downloads/mer2023/test1/sample_00002203.avi",
+        "length": 1.2277551020408164,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005461": {
+        "wav": "downloads/mer2023/test1/sample_00005461.avi",
+        "length": 3.84,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004083": {
+        "wav": "downloads/mer2023/test1/sample_00004083.avi",
+        "length": 1.0971428571428572,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000734": {
+        "wav": "downloads/mer2023/test1/sample_00000734.avi",
+        "length": 1.0710204081632653,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006090": {
+        "wav": "downloads/mer2023/test1/sample_00006090.avi",
+        "length": 4.7542857142857144,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004338": {
+        "wav": "downloads/mer2023/test1/sample_00004338.avi",
+        "length": 5.093877551020408,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005763": {
+        "wav": "downloads/mer2023/test1/sample_00005763.avi",
+        "length": 2.742857142857143,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004392": {
+        "wav": "downloads/mer2023/test1/sample_00004392.avi",
+        "length": 2.9257142857142857,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003929": {
+        "wav": "downloads/mer2023/test1/sample_00003929.avi",
+        "length": 10.605714285714285,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004909": {
+        "wav": "downloads/mer2023/test1/sample_00004909.avi",
+        "length": 6.922448979591837,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001907": {
+        "wav": "downloads/mer2023/test1/sample_00001907.avi",
+        "length": 1.8546938775510204,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002746": {
+        "wav": "downloads/mer2023/test1/sample_00002746.avi",
+        "length": 3.1085714285714285,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002472": {
+        "wav": "downloads/mer2023/test1/sample_00002472.avi",
+        "length": 6.9746938775510205,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001937": {
+        "wav": "downloads/mer2023/test1/sample_00001937.avi",
+        "length": 5.224489795918367,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004789": {
+        "wav": "downloads/mer2023/test1/sample_00004789.avi",
+        "length": 5.616326530612245,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001399": {
+        "wav": "downloads/mer2023/test1/sample_00001399.avi",
+        "length": 3.2653061224489797,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004978": {
+        "wav": "downloads/mer2023/test1/sample_00004978.avi",
+        "length": 1.1755102040816328,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002193": {
+        "wav": "downloads/mer2023/test1/sample_00002193.avi",
+        "length": 2.220408163265306,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000748": {
+        "wav": "downloads/mer2023/test1/sample_00000748.avi",
+        "length": 11.885714285714286,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004897": {
+        "wav": "downloads/mer2023/test1/sample_00004897.avi",
+        "length": 8.698775510204081,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000277": {
+        "wav": "downloads/mer2023/test1/sample_00000277.avi",
+        "length": 2.690612244897959,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002897": {
+        "wav": "downloads/mer2023/test1/sample_00002897.avi",
+        "length": 2.220408163265306,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004046": {
+        "wav": "downloads/mer2023/test1/sample_00004046.avi",
+        "length": 4.519183673469388,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001019": {
+        "wav": "downloads/mer2023/test1/sample_00001019.avi",
+        "length": 2.0114285714285716,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003089": {
+        "wav": "downloads/mer2023/test1/sample_00003089.avi",
+        "length": 3.7355102040816326,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005276": {
+        "wav": "downloads/mer2023/test1/sample_00005276.avi",
+        "length": 4.101224489795919,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006632": {
+        "wav": "downloads/mer2023/test1/sample_00006632.avi",
+        "length": 7.176,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002898": {
+        "wav": "downloads/mer2023/test1/sample_00002898.avi",
+        "length": 9.822040816326531,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002959": {
+        "wav": "downloads/mer2023/test1/sample_00002959.avi",
+        "length": 11.10204081632653,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000491": {
+        "wav": "downloads/mer2023/test1/sample_00000491.avi",
+        "length": 0.7836734693877551,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001071": {
+        "wav": "downloads/mer2023/test1/sample_00001071.avi",
+        "length": 3.7616326530612243,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002531": {
+        "wav": "downloads/mer2023/test1/sample_00002531.avi",
+        "length": 4.440816326530612,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001459": {
+        "wav": "downloads/mer2023/test1/sample_00001459.avi",
+        "length": 0.966530612244898,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005822": {
+        "wav": "downloads/mer2023/test1/sample_00005822.avi",
+        "length": 0.9926530612244898,
+        "emo": "surprise",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002090": {
+        "wav": "downloads/mer2023/test1/sample_00002090.avi",
+        "length": 5.146122448979592,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005343": {
+        "wav": "downloads/mer2023/test1/sample_00005343.avi",
+        "length": 6.321632653061225,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002305": {
+        "wav": "downloads/mer2023/test1/sample_00002305.avi",
+        "length": 7.575510204081633,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003467": {
+        "wav": "downloads/mer2023/test1/sample_00003467.avi",
+        "length": 2.4293877551020406,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000941": {
+        "wav": "downloads/mer2023/test1/sample_00000941.avi",
+        "length": 4.54530612244898,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004761": {
+        "wav": "downloads/mer2023/test1/sample_00004761.avi",
+        "length": 10.292244897959185,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000583": {
+        "wav": "downloads/mer2023/test1/sample_00000583.avi",
+        "length": 3.317551020408163,
+        "emo": "surprise",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003781": {
+        "wav": "downloads/mer2023/test1/sample_00003781.avi",
+        "length": 2.84734693877551,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006252": {
+        "wav": "downloads/mer2023/test1/sample_00006252.avi",
+        "length": 3.369795918367347,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001179": {
+        "wav": "downloads/mer2023/test1/sample_00001179.avi",
+        "length": 2.6383673469387756,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005686": {
+        "wav": "downloads/mer2023/test1/sample_00005686.avi",
+        "length": 3.422040816326531,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003613": {
+        "wav": "downloads/mer2023/test1/sample_00003613.avi",
+        "length": 2.873469387755102,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000449": {
+        "wav": "downloads/mer2023/test1/sample_00000449.avi",
+        "length": 2.716734693877551,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004059": {
+        "wav": "downloads/mer2023/test1/sample_00004059.avi",
+        "length": 0.6791836734693878,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005124": {
+        "wav": "downloads/mer2023/test1/sample_00005124.avi",
+        "length": 2.27265306122449,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004237": {
+        "wav": "downloads/mer2023/test1/sample_00004237.avi",
+        "length": 5.877551020408164,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005141": {
+        "wav": "downloads/mer2023/test1/sample_00005141.avi",
+        "length": 3.317551020408163,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006466": {
+        "wav": "downloads/mer2023/test1/sample_00006466.avi",
+        "length": 6.0,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004340": {
+        "wav": "downloads/mer2023/test1/sample_00004340.avi",
+        "length": 1.6979591836734693,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001721": {
+        "wav": "downloads/mer2023/test1/sample_00001721.avi",
+        "length": 3.186938775510204,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000060": {
+        "wav": "downloads/mer2023/test1/sample_00000060.avi",
+        "length": 2.6383673469387756,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005399": {
+        "wav": "downloads/mer2023/test1/sample_00005399.avi",
+        "length": 0.8620408163265306,
+        "emo": "surprise",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004188": {
+        "wav": "downloads/mer2023/test1/sample_00004188.avi",
+        "length": 4.08,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002512": {
+        "wav": "downloads/mer2023/test1/sample_00002512.avi",
+        "length": 3.1346938775510202,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005304": {
+        "wav": "downloads/mer2023/test1/sample_00005304.avi",
+        "length": 2.6383673469387756,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006338": {
+        "wav": "downloads/mer2023/test1/sample_00006338.avi",
+        "length": 1.6979591836734693,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004202": {
+        "wav": "downloads/mer2023/test1/sample_00004202.avi",
+        "length": 5.642448979591837,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006324": {
+        "wav": "downloads/mer2023/test1/sample_00006324.avi",
+        "length": 6.478367346938776,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006643": {
+        "wav": "downloads/mer2023/test1/sample_00006643.avi",
+        "length": 2.2987755102040817,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004928": {
+        "wav": "downloads/mer2023/test1/sample_00004928.avi",
+        "length": 4.12734693877551,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005961": {
+        "wav": "downloads/mer2023/test1/sample_00005961.avi",
+        "length": 7.340408163265306,
+        "emo": "surprise",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004758": {
+        "wav": "downloads/mer2023/test1/sample_00004758.avi",
+        "length": 2.873469387755102,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004905": {
+        "wav": "downloads/mer2023/test1/sample_00004905.avi",
+        "length": 3.213061224489796,
+        "emo": "surprise",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002981": {
+        "wav": "downloads/mer2023/test1/sample_00002981.avi",
+        "length": 2.3248979591836734,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000636": {
+        "wav": "downloads/mer2023/test1/sample_00000636.avi",
+        "length": 6.765714285714286,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000994": {
+        "wav": "downloads/mer2023/test1/sample_00000994.avi",
+        "length": 1.9853061224489796,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003425": {
+        "wav": "downloads/mer2023/test1/sample_00003425.avi",
+        "length": 1.5412244897959184,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003443": {
+        "wav": "downloads/mer2023/test1/sample_00003443.avi",
+        "length": 2.5338775510204083,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002650": {
+        "wav": "downloads/mer2023/test1/sample_00002650.avi",
+        "length": 1.9853061224489796,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005158": {
+        "wav": "downloads/mer2023/test1/sample_00005158.avi",
+        "length": 8.202448979591837,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000257": {
+        "wav": "downloads/mer2023/test1/sample_00000257.avi",
+        "length": 3.1085714285714285,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005982": {
+        "wav": "downloads/mer2023/test1/sample_00005982.avi",
+        "length": 1.9591836734693877,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006886": {
+        "wav": "downloads/mer2023/test1/sample_00006886.avi",
+        "length": 2.089795918367347,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005104": {
+        "wav": "downloads/mer2023/test1/sample_00005104.avi",
+        "length": 3.0040816326530613,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000516": {
+        "wav": "downloads/mer2023/test1/sample_00000516.avi",
+        "length": 2.742857142857143,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006873": {
+        "wav": "downloads/mer2023/test1/sample_00006873.avi",
+        "length": 6.191020408163265,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001857": {
+        "wav": "downloads/mer2023/test1/sample_00001857.avi",
+        "length": 3.474285714285714,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003387": {
+        "wav": "downloads/mer2023/test1/sample_00003387.avi",
+        "length": 4.571428571428571,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002883": {
+        "wav": "downloads/mer2023/test1/sample_00002883.avi",
+        "length": 2.2987755102040817,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004363": {
+        "wav": "downloads/mer2023/test1/sample_00004363.avi",
+        "length": 3.239183673469388,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002745": {
+        "wav": "downloads/mer2023/test1/sample_00002745.avi",
+        "length": 4.989387755102041,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000317": {
+        "wav": "downloads/mer2023/test1/sample_00000317.avi",
+        "length": 1.92,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002884": {
+        "wav": "downloads/mer2023/test1/sample_00002884.avi",
+        "length": 3.7877551020408164,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002289": {
+        "wav": "downloads/mer2023/test1/sample_00002289.avi",
+        "length": 5.7208163265306125,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005757": {
+        "wav": "downloads/mer2023/test1/sample_00005757.avi",
+        "length": 3.648,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002744": {
+        "wav": "downloads/mer2023/test1/sample_00002744.avi",
+        "length": 4.884897959183673,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000929": {
+        "wav": "downloads/mer2023/test1/sample_00000929.avi",
+        "length": 2.455510204081633,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003176": {
+        "wav": "downloads/mer2023/test1/sample_00003176.avi",
+        "length": 3.2653061224489797,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003093": {
+        "wav": "downloads/mer2023/test1/sample_00003093.avi",
+        "length": 1.272,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006116": {
+        "wav": "downloads/mer2023/test1/sample_00006116.avi",
+        "length": 2.5338775510204083,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006716": {
+        "wav": "downloads/mer2023/test1/sample_00006716.avi",
+        "length": 3.500408163265306,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006878": {
+        "wav": "downloads/mer2023/test1/sample_00006878.avi",
+        "length": 2.3771428571428572,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002580": {
+        "wav": "downloads/mer2023/test1/sample_00002580.avi",
+        "length": 3.500408163265306,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004752": {
+        "wav": "downloads/mer2023/test1/sample_00004752.avi",
+        "length": 1.2016326530612245,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006581": {
+        "wav": "downloads/mer2023/test1/sample_00006581.avi",
+        "length": 1.56,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002790": {
+        "wav": "downloads/mer2023/test1/sample_00002790.avi",
+        "length": 1.253877551020408,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000637": {
+        "wav": "downloads/mer2023/test1/sample_00000637.avi",
+        "length": 1.6457142857142857,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004653": {
+        "wav": "downloads/mer2023/test1/sample_00004653.avi",
+        "length": 13.165714285714285,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002609": {
+        "wav": "downloads/mer2023/test1/sample_00002609.avi",
+        "length": 2.1942857142857144,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005762": {
+        "wav": "downloads/mer2023/test1/sample_00005762.avi",
+        "length": 10.553469387755102,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006875": {
+        "wav": "downloads/mer2023/test1/sample_00006875.avi",
+        "length": 1.6718367346938776,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000310": {
+        "wav": "downloads/mer2023/test1/sample_00000310.avi",
+        "length": 5.1722448979591835,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006663": {
+        "wav": "downloads/mer2023/test1/sample_00006663.avi",
+        "length": 11.023673469387756,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006516": {
+        "wav": "downloads/mer2023/test1/sample_00006516.avi",
+        "length": 2.9518367346938774,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000724": {
+        "wav": "downloads/mer2023/test1/sample_00000724.avi",
+        "length": 5.5902040816326535,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000311": {
+        "wav": "downloads/mer2023/test1/sample_00000311.avi",
+        "length": 1.619591836734694,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005847": {
+        "wav": "downloads/mer2023/test1/sample_00005847.avi",
+        "length": 8.150204081632653,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002762": {
+        "wav": "downloads/mer2023/test1/sample_00002762.avi",
+        "length": 2.6122448979591835,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003570": {
+        "wav": "downloads/mer2023/test1/sample_00003570.avi",
+        "length": 4.310204081632653,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000532": {
+        "wav": "downloads/mer2023/test1/sample_00000532.avi",
+        "length": 5.511836734693878,
+        "emo": "surprise",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003833": {
+        "wav": "downloads/mer2023/test1/sample_00003833.avi",
+        "length": 6.478367346938776,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003992": {
+        "wav": "downloads/mer2023/test1/sample_00003992.avi",
+        "length": 3.1085714285714285,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003221": {
+        "wav": "downloads/mer2023/test1/sample_00003221.avi",
+        "length": 4.858775510204081,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006531": {
+        "wav": "downloads/mer2023/test1/sample_00006531.avi",
+        "length": 1.9853061224489796,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002834": {
+        "wav": "downloads/mer2023/test1/sample_00002834.avi",
+        "length": 4.0751020408163265,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002188": {
+        "wav": "downloads/mer2023/test1/sample_00002188.avi",
+        "length": 2.873469387755102,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002619": {
+        "wav": "downloads/mer2023/test1/sample_00002619.avi",
+        "length": 1.2016326530612245,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003314": {
+        "wav": "downloads/mer2023/test1/sample_00003314.avi",
+        "length": 1.8546938775510204,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004856": {
+        "wav": "downloads/mer2023/test1/sample_00004856.avi",
+        "length": 6.086530612244898,
+        "emo": "surprise",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004153": {
+        "wav": "downloads/mer2023/test1/sample_00004153.avi",
+        "length": 4.2057142857142855,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001815": {
+        "wav": "downloads/mer2023/test1/sample_00001815.avi",
+        "length": 4.440816326530612,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003755": {
+        "wav": "downloads/mer2023/test1/sample_00003755.avi",
+        "length": 3.0040816326530613,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006971": {
+        "wav": "downloads/mer2023/test1/sample_00006971.avi",
+        "length": 4.2057142857142855,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003856": {
+        "wav": "downloads/mer2023/test1/sample_00003856.avi",
+        "length": 2.1681632653061222,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003020": {
+        "wav": "downloads/mer2023/test1/sample_00003020.avi",
+        "length": 2.7951020408163267,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001898": {
+        "wav": "downloads/mer2023/test1/sample_00001898.avi",
+        "length": 2.7689795918367346,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002831": {
+        "wav": "downloads/mer2023/test1/sample_00002831.avi",
+        "length": 4.656,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005666": {
+        "wav": "downloads/mer2023/test1/sample_00005666.avi",
+        "length": 3.369795918367347,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002066": {
+        "wav": "downloads/mer2023/test1/sample_00002066.avi",
+        "length": 3.3436734693877552,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006142": {
+        "wav": "downloads/mer2023/test1/sample_00006142.avi",
+        "length": 1.0187755102040816,
+        "emo": "surprise",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005998": {
+        "wav": "downloads/mer2023/test1/sample_00005998.avi",
+        "length": 6.373877551020408,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006049": {
+        "wav": "downloads/mer2023/test1/sample_00006049.avi",
+        "length": 6.112653061224489,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002900": {
+        "wav": "downloads/mer2023/test1/sample_00002900.avi",
+        "length": 5.537959183673469,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003175": {
+        "wav": "downloads/mer2023/test1/sample_00003175.avi",
+        "length": 0.9404081632653061,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005306": {
+        "wav": "downloads/mer2023/test1/sample_00005306.avi",
+        "length": 4.911020408163266,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006567": {
+        "wav": "downloads/mer2023/test1/sample_00006567.avi",
+        "length": 2.690612244897959,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003535": {
+        "wav": "downloads/mer2023/test1/sample_00003535.avi",
+        "length": 9.586938775510204,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006138": {
+        "wav": "downloads/mer2023/test1/sample_00006138.avi",
+        "length": 2.0375510204081633,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003455": {
+        "wav": "downloads/mer2023/test1/sample_00003455.avi",
+        "length": 4.440816326530612,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006316": {
+        "wav": "downloads/mer2023/test1/sample_00006316.avi",
+        "length": 3.4481632653061225,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001047": {
+        "wav": "downloads/mer2023/test1/sample_00001047.avi",
+        "length": 1.3061224489795917,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005147": {
+        "wav": "downloads/mer2023/test1/sample_00005147.avi",
+        "length": 1.9591836734693877,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005405": {
+        "wav": "downloads/mer2023/test1/sample_00005405.avi",
+        "length": 3.709387755102041,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003094": {
+        "wav": "downloads/mer2023/test1/sample_00003094.avi",
+        "length": 2.7951020408163267,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004032": {
+        "wav": "downloads/mer2023/test1/sample_00004032.avi",
+        "length": 2.27265306122449,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000766": {
+        "wav": "downloads/mer2023/test1/sample_00000766.avi",
+        "length": 1.968,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003532": {
+        "wav": "downloads/mer2023/test1/sample_00003532.avi",
+        "length": 2.716734693877551,
+        "emo": "surprise",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002543": {
+        "wav": "downloads/mer2023/test1/sample_00002543.avi",
+        "length": 5.799183673469388,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004548": {
+        "wav": "downloads/mer2023/test1/sample_00004548.avi",
+        "length": 6.432,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006419": {
+        "wav": "downloads/mer2023/test1/sample_00006419.avi",
+        "length": 2.6122448979591835,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003279": {
+        "wav": "downloads/mer2023/test1/sample_00003279.avi",
+        "length": 5.3028571428571425,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006757": {
+        "wav": "downloads/mer2023/test1/sample_00006757.avi",
+        "length": 3.2914285714285714,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004937": {
+        "wav": "downloads/mer2023/test1/sample_00004937.avi",
+        "length": 2.5338775510204083,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005421": {
+        "wav": "downloads/mer2023/test1/sample_00005421.avi",
+        "length": 5.250612244897959,
+        "emo": "surprise",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001772": {
+        "wav": "downloads/mer2023/test1/sample_00001772.avi",
+        "length": 4.884897959183673,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003369": {
+        "wav": "downloads/mer2023/test1/sample_00003369.avi",
+        "length": 3.422040816326531,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000849": {
+        "wav": "downloads/mer2023/test1/sample_00000849.avi",
+        "length": 3.996734693877551,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001638": {
+        "wav": "downloads/mer2023/test1/sample_00001638.avi",
+        "length": 2.8212244897959184,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000452": {
+        "wav": "downloads/mer2023/test1/sample_00000452.avi",
+        "length": 9.717551020408163,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005063": {
+        "wav": "downloads/mer2023/test1/sample_00005063.avi",
+        "length": 3.683265306122449,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003381": {
+        "wav": "downloads/mer2023/test1/sample_00003381.avi",
+        "length": 1.253877551020408,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000825": {
+        "wav": "downloads/mer2023/test1/sample_00000825.avi",
+        "length": 2.112,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006900": {
+        "wav": "downloads/mer2023/test1/sample_00006900.avi",
+        "length": 3.030204081632653,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003584": {
+        "wav": "downloads/mer2023/test1/sample_00003584.avi",
+        "length": 7.2359183673469385,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006826": {
+        "wav": "downloads/mer2023/test1/sample_00006826.avi",
+        "length": 2.4293877551020406,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001099": {
+        "wav": "downloads/mer2023/test1/sample_00001099.avi",
+        "length": 1.7240816326530612,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003346": {
+        "wav": "downloads/mer2023/test1/sample_00003346.avi",
+        "length": 4.362448979591837,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003452": {
+        "wav": "downloads/mer2023/test1/sample_00003452.avi",
+        "length": 1.123265306122449,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001901": {
+        "wav": "downloads/mer2023/test1/sample_00001901.avi",
+        "length": 3.84,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002127": {
+        "wav": "downloads/mer2023/test1/sample_00002127.avi",
+        "length": 3.317551020408163,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003522": {
+        "wav": "downloads/mer2023/test1/sample_00003522.avi",
+        "length": 4.806530612244898,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001227": {
+        "wav": "downloads/mer2023/test1/sample_00001227.avi",
+        "length": 1.0448979591836736,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006574": {
+        "wav": "downloads/mer2023/test1/sample_00006574.avi",
+        "length": 2.507755102040816,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003516": {
+        "wav": "downloads/mer2023/test1/sample_00003516.avi",
+        "length": 5.642448979591837,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005275": {
+        "wav": "downloads/mer2023/test1/sample_00005275.avi",
+        "length": 2.0375510204081633,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000422": {
+        "wav": "downloads/mer2023/test1/sample_00000422.avi",
+        "length": 4.806530612244898,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002524": {
+        "wav": "downloads/mer2023/test1/sample_00002524.avi",
+        "length": 3.657142857142857,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001291": {
+        "wav": "downloads/mer2023/test1/sample_00001291.avi",
+        "length": 0.6530612244897959,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006190": {
+        "wav": "downloads/mer2023/test1/sample_00006190.avi",
+        "length": 1.8808163265306121,
+        "emo": "surprise",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004914": {
+        "wav": "downloads/mer2023/test1/sample_00004914.avi",
+        "length": 1.1493877551020408,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003198": {
+        "wav": "downloads/mer2023/test1/sample_00003198.avi",
+        "length": 4.0751020408163265,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000026": {
+        "wav": "downloads/mer2023/test1/sample_00000026.avi",
+        "length": 1.0971428571428572,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002919": {
+        "wav": "downloads/mer2023/test1/sample_00002919.avi",
+        "length": 3.683265306122449,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003222": {
+        "wav": "downloads/mer2023/test1/sample_00003222.avi",
+        "length": 16.61387755102041,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000236": {
+        "wav": "downloads/mer2023/test1/sample_00000236.avi",
+        "length": 2.9257142857142857,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004880": {
+        "wav": "downloads/mer2023/test1/sample_00004880.avi",
+        "length": 3.030204081632653,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005577": {
+        "wav": "downloads/mer2023/test1/sample_00005577.avi",
+        "length": 4.7542857142857144,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004394": {
+        "wav": "downloads/mer2023/test1/sample_00004394.avi",
+        "length": 14.210612244897959,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005715": {
+        "wav": "downloads/mer2023/test1/sample_00005715.avi",
+        "length": 2.873469387755102,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00007022": {
+        "wav": "downloads/mer2023/test1/sample_00007022.avi",
+        "length": 4.571428571428571,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001376": {
+        "wav": "downloads/mer2023/test1/sample_00001376.avi",
+        "length": 1.619591836734694,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005348": {
+        "wav": "downloads/mer2023/test1/sample_00005348.avi",
+        "length": 2.832,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006820": {
+        "wav": "downloads/mer2023/test1/sample_00006820.avi",
+        "length": 1.3061224489795917,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001991": {
+        "wav": "downloads/mer2023/test1/sample_00001991.avi",
+        "length": 1.4628571428571429,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004030": {
+        "wav": "downloads/mer2023/test1/sample_00004030.avi",
+        "length": 0.8881632653061224,
+        "emo": "surprise",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003069": {
+        "wav": "downloads/mer2023/test1/sample_00003069.avi",
+        "length": 2.7951020408163267,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000618": {
+        "wav": "downloads/mer2023/test1/sample_00000618.avi",
+        "length": 12.486530612244898,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003181": {
+        "wav": "downloads/mer2023/test1/sample_00003181.avi",
+        "length": 6.034285714285715,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005045": {
+        "wav": "downloads/mer2023/test1/sample_00005045.avi",
+        "length": 0.6791836734693878,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001568": {
+        "wav": "downloads/mer2023/test1/sample_00001568.avi",
+        "length": 1.68,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004455": {
+        "wav": "downloads/mer2023/test1/sample_00004455.avi",
+        "length": 2.64,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002629": {
+        "wav": "downloads/mer2023/test1/sample_00002629.avi",
+        "length": 8.045714285714286,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005539": {
+        "wav": "downloads/mer2023/test1/sample_00005539.avi",
+        "length": 3.3959183673469386,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005075": {
+        "wav": "downloads/mer2023/test1/sample_00005075.avi",
+        "length": 2.220408163265306,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005094": {
+        "wav": "downloads/mer2023/test1/sample_00005094.avi",
+        "length": 1.1493877551020408,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006309": {
+        "wav": "downloads/mer2023/test1/sample_00006309.avi",
+        "length": 3.7877551020408164,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006253": {
+        "wav": "downloads/mer2023/test1/sample_00006253.avi",
+        "length": 2.089795918367347,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002843": {
+        "wav": "downloads/mer2023/test1/sample_00002843.avi",
+        "length": 5.537959183673469,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000408": {
+        "wav": "downloads/mer2023/test1/sample_00000408.avi",
+        "length": 3.2914285714285714,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005600": {
+        "wav": "downloads/mer2023/test1/sample_00005600.avi",
+        "length": 1.8024489795918368,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003873": {
+        "wav": "downloads/mer2023/test1/sample_00003873.avi",
+        "length": 6.844081632653062,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004224": {
+        "wav": "downloads/mer2023/test1/sample_00004224.avi",
+        "length": 2.063673469387755,
+        "emo": "surprise",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003463": {
+        "wav": "downloads/mer2023/test1/sample_00003463.avi",
+        "length": 3.996734693877551,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000470": {
+        "wav": "downloads/mer2023/test1/sample_00000470.avi",
+        "length": 6.556734693877551,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002161": {
+        "wav": "downloads/mer2023/test1/sample_00002161.avi",
+        "length": 3.030204081632653,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003517": {
+        "wav": "downloads/mer2023/test1/sample_00003517.avi",
+        "length": 2.3510204081632655,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002540": {
+        "wav": "downloads/mer2023/test1/sample_00002540.avi",
+        "length": 1.3844897959183673,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000386": {
+        "wav": "downloads/mer2023/test1/sample_00000386.avi",
+        "length": 2.0375510204081633,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000148": {
+        "wav": "downloads/mer2023/test1/sample_00000148.avi",
+        "length": 1.0710204081632653,
+        "emo": "surprise",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000649": {
+        "wav": "downloads/mer2023/test1/sample_00000649.avi",
+        "length": 5.511836734693878,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005263": {
+        "wav": "downloads/mer2023/test1/sample_00005263.avi",
+        "length": 2.9518367346938774,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006961": {
+        "wav": "downloads/mer2023/test1/sample_00006961.avi",
+        "length": 3.500408163265306,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002769": {
+        "wav": "downloads/mer2023/test1/sample_00002769.avi",
+        "length": 6.217142857142857,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005401": {
+        "wav": "downloads/mer2023/test1/sample_00005401.avi",
+        "length": 5.12,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002634": {
+        "wav": "downloads/mer2023/test1/sample_00002634.avi",
+        "length": 3.1608163265306124,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005112": {
+        "wav": "downloads/mer2023/test1/sample_00005112.avi",
+        "length": 4.6236734693877555,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004295": {
+        "wav": "downloads/mer2023/test1/sample_00004295.avi",
+        "length": 5.276734693877551,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001006": {
+        "wav": "downloads/mer2023/test1/sample_00001006.avi",
+        "length": 8.881632653061224,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000402": {
+        "wav": "downloads/mer2023/test1/sample_00000402.avi",
+        "length": 7.444897959183673,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002761": {
+        "wav": "downloads/mer2023/test1/sample_00002761.avi",
+        "length": 12.747755102040816,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000008": {
+        "wav": "downloads/mer2023/test1/sample_00000008.avi",
+        "length": 7.601632653061224,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001498": {
+        "wav": "downloads/mer2023/test1/sample_00001498.avi",
+        "length": 3.422040816326531,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003150": {
+        "wav": "downloads/mer2023/test1/sample_00003150.avi",
+        "length": 7.575510204081633,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001237": {
+        "wav": "downloads/mer2023/test1/sample_00001237.avi",
+        "length": 3.526530612244898,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003594": {
+        "wav": "downloads/mer2023/test1/sample_00003594.avi",
+        "length": 5.564081632653061,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000947": {
+        "wav": "downloads/mer2023/test1/sample_00000947.avi",
+        "length": 5.616326530612245,
+        "emo": "sad",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00006954": {
+        "wav": "downloads/mer2023/test1/sample_00006954.avi",
+        "length": 5.929795918367347,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003601": {
+        "wav": "downloads/mer2023/test1/sample_00003601.avi",
+        "length": 1.933061224489796,
+        "emo": "surprise",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00002346": {
+        "wav": "downloads/mer2023/test1/sample_00002346.avi",
+        "length": 2.403265306122449,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005426": {
+        "wav": "downloads/mer2023/test1/sample_00005426.avi",
+        "length": 4.728163265306122,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004672": {
+        "wav": "downloads/mer2023/test1/sample_00004672.avi",
+        "length": 1.5673469387755101,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005208": {
+        "wav": "downloads/mer2023/test1/sample_00005208.avi",
+        "length": 3.944489795918367,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000895": {
+        "wav": "downloads/mer2023/test1/sample_00000895.avi",
+        "length": 0.8620408163265306,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005476": {
+        "wav": "downloads/mer2023/test1/sample_00005476.avi",
+        "length": 2.9257142857142857,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004135": {
+        "wav": "downloads/mer2023/test1/sample_00004135.avi",
+        "length": 7.464,
+        "emo": "worried",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00003074": {
+        "wav": "downloads/mer2023/test1/sample_00003074.avi",
+        "length": 4.310204081632653,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005224": {
+        "wav": "downloads/mer2023/test1/sample_00005224.avi",
+        "length": 4.3363265306122445,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000778": {
+        "wav": "downloads/mer2023/test1/sample_00000778.avi",
+        "length": 2.6122448979591835,
+        "emo": "neutral",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00001969": {
+        "wav": "downloads/mer2023/test1/sample_00001969.avi",
+        "length": 3.657142857142857,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00005453": {
+        "wav": "downloads/mer2023/test1/sample_00005453.avi",
+        "length": 1.8285714285714285,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00000959": {
+        "wav": "downloads/mer2023/test1/sample_00000959.avi",
+        "length": 2.403265306122449,
+        "emo": "angry",
+        "dataset": "mer2023",
+        "channel": 1
+    },
+    "mer2023-sample_00004071": {
+        "wav": "downloads/mer2023/test1/sample_00004071.avi",
+        "length": 3.5526530612244898,
+        "emo": "happy",
+        "dataset": "mer2023",
+        "channel": 1
+    }
+}

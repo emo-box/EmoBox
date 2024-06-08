@@ -1,0 +1,4538 @@
+{
+    "mesd-Anger_F_A_tarde": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_A_tarde.wav",
+        "length": 0.7190625,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_B_ira": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_B_ira.wav",
+        "length": 0.31295833333333334,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_A_si": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_A_si.wav",
+        "length": 0.35654166666666665,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_A_hoy": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_A_hoy.wav",
+        "length": 0.3829166666666667,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_B_ansiedad": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_B_ansiedad.wav",
+        "length": 0.56725,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_A_izquierda": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_A_izquierda.wav",
+        "length": 0.5081666666666667,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_B_huracan": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_B_huracan.wav",
+        "length": 0.46195833333333336,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_A_detras": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_A_detras.wav",
+        "length": 0.4628333333333333,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_A_basta_ya": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_A_basta_ya.wav",
+        "length": 0.9548333333333333,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_A_por_favor": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_A_por_favor.wav",
+        "length": 0.568125,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_A_lento": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_A_lento.wav",
+        "length": 0.9565,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_A_derecha": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_A_derecha.wav",
+        "length": 0.9657083333333333,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_A_antes": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_A_antes.wav",
+        "length": 1.2931458333333334,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_B_estafa": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_B_estafa.wav",
+        "length": 0.5231041666666667,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_A_rapido": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_A_rapido.wav",
+        "length": 1.0100625,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_B_odioso": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_B_odioso.wav",
+        "length": 0.7576875,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_A_adios": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_A_adios.wav",
+        "length": 0.3745,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_B_conflicto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_B_conflicto.wav",
+        "length": 0.5913541666666666,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_A_detras": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_A_detras.wav",
+        "length": 1.1271458333333333,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_A_arriba": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_A_arriba.wav",
+        "length": 0.7669791666666667,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_A_dentro": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_A_dentro.wav",
+        "length": 0.7329791666666666,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_A_ayer": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_A_ayer.wav",
+        "length": 0.38383333333333336,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_A_hola": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_A_hola.wav",
+        "length": 0.3975625,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_A_hola": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_A_hola.wav",
+        "length": 0.6187916666666666,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_A_detras": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_A_detras.wav",
+        "length": 0.7680416666666666,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_A_pronto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_A_pronto.wav",
+        "length": 0.7481875,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_B_amenazador": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_B_amenazador.wav",
+        "length": 0.8801458333333333,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_A_derecha": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_A_derecha.wav",
+        "length": 0.8022291666666667,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_B_condena": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_B_condena.wav",
+        "length": 0.665375,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_B_hambre": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_B_hambre.wav",
+        "length": 0.4556875,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_B_malevolo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_B_malevolo.wav",
+        "length": 0.5233541666666667,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_B_dificultad": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_B_dificultad.wav",
+        "length": 0.8815,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_A_gracias": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_A_gracias.wav",
+        "length": 1.2779583333333333,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_A_nunca": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_A_nunca.wav",
+        "length": 0.7634166666666666,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_A_no": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_A_no.wav",
+        "length": 0.7413541666666666,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_A_hola": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_A_hola.wav",
+        "length": 0.4073541666666667,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_B_impaciencia": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_B_impaciencia.wav",
+        "length": 0.97375,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_B_ira": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_B_ira.wav",
+        "length": 0.35210416666666666,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_A_basta_ya": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_A_basta_ya.wav",
+        "length": 1.0371875,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_B_injusticia": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_B_injusticia.wav",
+        "length": 1.0132708333333333,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_A_dentro": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_A_dentro.wav",
+        "length": 0.426125,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_A_delante": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_A_delante.wav",
+        "length": 0.50275,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_A_por_favor": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_A_por_favor.wav",
+        "length": 0.9799375,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_A_lento": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_A_lento.wav",
+        "length": 0.7554583333333333,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_B_abuso": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_B_abuso.wav",
+        "length": 0.679875,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_A_adios": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_A_adios.wav",
+        "length": 1.0121041666666666,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_B_delincuencia": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_B_delincuencia.wav",
+        "length": 1.1522916666666667,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_B_enganado": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_B_enganado.wav",
+        "length": 0.8413541666666666,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_B_explosion": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_B_explosion.wav",
+        "length": 0.8570416666666667,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_B_ataque": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_B_ataque.wav",
+        "length": 0.6650625,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_B_atasco": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_B_atasco.wav",
+        "length": 0.7268958333333333,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_B_estricto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_B_estricto.wav",
+        "length": 0.8359166666666666,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_A_gracias": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_A_gracias.wav",
+        "length": 0.7089583333333334,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_A_si": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_A_si.wav",
+        "length": 0.6553333333333333,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_B_amenazador": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_B_amenazador.wav",
+        "length": 0.8758125,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_A_de_nada": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_A_de_nada.wav",
+        "length": 0.9071875,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_B_enojo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_B_enojo.wav",
+        "length": 0.4698333333333333,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_B_encadenado": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_B_encadenado.wav",
+        "length": 0.6949166666666666,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_B_amenazado": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_B_amenazado.wav",
+        "length": 0.7189791666666666,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_B_atasco": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_B_atasco.wav",
+        "length": 0.5756458333333333,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_A_abajo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_A_abajo.wav",
+        "length": 0.9775833333333334,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_B_explosivo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_B_explosivo.wav",
+        "length": 0.9712083333333333,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_B_torturado": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_B_torturado.wav",
+        "length": 0.8177291666666666,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_A_dentro": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_A_dentro.wav",
+        "length": 0.8883333333333333,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_B_estafa": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_B_estafa.wav",
+        "length": 0.7719375,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_A_arriba": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_A_arriba.wav",
+        "length": 0.8300833333333333,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_A_abajo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_A_abajo.wav",
+        "length": 0.6680625,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_B_amenazador": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_B_amenazador.wav",
+        "length": 0.6817708333333333,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_B_injusticia": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_B_injusticia.wav",
+        "length": 0.9174166666666667,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_A_pronto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_A_pronto.wav",
+        "length": 0.7166875,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_A_derecha": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_A_derecha.wav",
+        "length": 0.4027291666666667,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_A_de_nada": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_A_de_nada.wav",
+        "length": 0.7775,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_A_delante": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_A_delante.wav",
+        "length": 0.9317291666666667,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_A_rapido": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_A_rapido.wav",
+        "length": 0.4425208333333333,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_A_izquierda": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_A_izquierda.wav",
+        "length": 0.75175,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_B_danino": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_B_danino.wav",
+        "length": 0.7635416666666667,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_B_injusticia": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_B_injusticia.wav",
+        "length": 0.69625,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_B_conflicto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_B_conflicto.wav",
+        "length": 0.9095,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_B_dificultad": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_B_dificultad.wav",
+        "length": 0.5605625,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_B_relajacion": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_B_relajacion.wav",
+        "length": 0.7871666666666667,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_B_disputa": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_B_disputa.wav",
+        "length": 0.516125,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_A_por_favor": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_A_por_favor.wav",
+        "length": 1.0476666666666667,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_B_pesadilla": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_B_pesadilla.wav",
+        "length": 0.7986041666666667,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_A_tarde": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_A_tarde.wav",
+        "length": 0.9018125,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_B_explosion": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_B_explosion.wav",
+        "length": 0.9250625,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_A_rapido": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_A_rapido.wav",
+        "length": 0.8541041666666667,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_A_fuera": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_A_fuera.wav",
+        "length": 0.46158333333333335,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_A_delante": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_A_delante.wav",
+        "length": 1.0082916666666666,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_B_humillacion": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_B_humillacion.wav",
+        "length": 0.8905,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_B_alterado": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_B_alterado.wav",
+        "length": 0.7813541666666667,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_B_aguijon": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_B_aguijon.wav",
+        "length": 0.5499166666666667,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_B_estricto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_B_estricto.wav",
+        "length": 0.9113958333333333,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_B_atasco": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_B_atasco.wav",
+        "length": 0.8217291666666666,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_B_abandono": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_B_abandono.wav",
+        "length": 0.8307916666666667,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_B_ataque": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_B_ataque.wav",
+        "length": 0.45477083333333335,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_A_adios": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_A_adios.wav",
+        "length": 0.4980625,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_A_nunca": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_A_nunca.wav",
+        "length": 0.6314583333333333,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_A_tarde": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_A_tarde.wav",
+        "length": 0.47339583333333335,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_B_furia": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_B_furia.wav",
+        "length": 0.6065833333333334,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_B_amenazado": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_B_amenazado.wav",
+        "length": 0.7793125,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_A_pronto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_A_pronto.wav",
+        "length": 0.42622916666666666,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_C_B_enojo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_C_B_enojo.wav",
+        "length": 0.6654583333333334,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_A_ayer": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_A_ayer.wav",
+        "length": 0.7198333333333333,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_A_antes": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_A_antes.wav",
+        "length": 0.8147916666666667,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_F_B_furia": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_F_B_furia.wav",
+        "length": 0.7679375,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_A_antes": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_A_antes.wav",
+        "length": 0.5778125,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_A_fuera": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_A_fuera.wav",
+        "length": 0.3000625,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Anger_M_B_impaciencia": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Anger_M_B_impaciencia.wav",
+        "length": 0.6081666666666666,
+        "emo": "Anger",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_B_furia": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_B_furia.wav",
+        "length": 0.6477291666666667,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_A_si": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_A_si.wav",
+        "length": 0.7389791666666666,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_A_lento": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_A_lento.wav",
+        "length": 0.6586458333333334,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_B_relajacion": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_B_relajacion.wav",
+        "length": 0.8390833333333333,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_A_arriba": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_A_arriba.wav",
+        "length": 0.597625,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_B_nausea": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_B_nausea.wav",
+        "length": 0.5818125,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_A_abajo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_A_abajo.wav",
+        "length": 0.6001666666666666,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_A_tarde": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_A_tarde.wav",
+        "length": 0.6122916666666667,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_A_detras": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_A_detras.wav",
+        "length": 0.5013958333333334,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_A_izquierda": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_A_izquierda.wav",
+        "length": 0.8310833333333333,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_B_huracan": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_B_huracan.wav",
+        "length": 0.7243333333333334,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_A_si": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_A_si.wav",
+        "length": 0.4481041666666667,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_B_fracasado": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_B_fracasado.wav",
+        "length": 0.6605833333333333,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_B_hambre": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_B_hambre.wav",
+        "length": 0.4609375,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_A_rapido": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_A_rapido.wav",
+        "length": 0.5405,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_A_fuera": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_A_fuera.wav",
+        "length": 0.5059583333333333,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_A_fuera": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_A_fuera.wav",
+        "length": 0.5685416666666666,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_A_por_favor": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_A_por_favor.wav",
+        "length": 0.5823541666666666,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_A_izquierda": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_A_izquierda.wav",
+        "length": 0.9101875,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_B_robo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_B_robo.wav",
+        "length": 0.5543958333333333,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_B_ira": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_B_ira.wav",
+        "length": 0.3821875,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_A_tarde": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_A_tarde.wav",
+        "length": 0.5528958333333334,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_A_abajo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_A_abajo.wav",
+        "length": 0.6258333333333334,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_A_afuera": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_A_afuera.wav",
+        "length": 0.6665625,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_B_danino": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_B_danino.wav",
+        "length": 0.7434791666666667,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_A_dentro": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_A_dentro.wav",
+        "length": 0.4456875,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_B_abuso": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_B_abuso.wav",
+        "length": 0.6743125,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_A_antes": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_A_antes.wav",
+        "length": 0.549,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_A_por_favor": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_A_por_favor.wav",
+        "length": 0.7866041666666667,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_A_tarde": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_A_tarde.wav",
+        "length": 0.3965416666666667,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_B_funeraria": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_B_funeraria.wav",
+        "length": 0.7413333333333333,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_A_izquierda": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_A_izquierda.wav",
+        "length": 0.6139166666666667,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_A_hola": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_A_hola.wav",
+        "length": 0.6191875,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_A_de_nada": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_A_de_nada.wav",
+        "length": 0.7850833333333334,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_A_delante": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_A_delante.wav",
+        "length": 1.01525,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_A_derecha": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_A_derecha.wav",
+        "length": 0.7107708333333334,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_A_adios": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_A_adios.wav",
+        "length": 0.7079375,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_A_si": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_A_si.wav",
+        "length": 0.3195,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_A_no": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_A_no.wav",
+        "length": 0.6479791666666667,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_A_derecha": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_A_derecha.wav",
+        "length": 0.516875,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_A_derecha": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_A_derecha.wav",
+        "length": 0.7309375,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_B_explosion": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_B_explosion.wav",
+        "length": 0.9660833333333333,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_A_detras": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_A_detras.wav",
+        "length": 0.7673333333333333,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_A_antes": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_A_antes.wav",
+        "length": 1.0597291666666666,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_B_abandono": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_B_abandono.wav",
+        "length": 0.7645625,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_B_hambre": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_B_hambre.wav",
+        "length": 0.6296458333333333,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_B_disputa": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_B_disputa.wav",
+        "length": 0.8639166666666667,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_B_delincuencia": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_B_delincuencia.wav",
+        "length": 0.9471041666666666,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_B_delincuencia": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_B_delincuencia.wav",
+        "length": 1.1061041666666667,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_B_tristeza": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_B_tristeza.wav",
+        "length": 0.7189375,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_A_detras": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_A_detras.wav",
+        "length": 0.5877291666666666,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_A_basta_ya": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_A_basta_ya.wav",
+        "length": 0.8185208333333334,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_B_explosivo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_B_explosivo.wav",
+        "length": 0.8207708333333333,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_B_encadenado": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_B_encadenado.wav",
+        "length": 0.979125,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_A_hola": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_A_hola.wav",
+        "length": 0.44247916666666665,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_A_gracias": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_A_gracias.wav",
+        "length": 0.8235208333333334,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_A_lento": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_A_lento.wav",
+        "length": 0.687375,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_B_ceguera": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_B_ceguera.wav",
+        "length": 0.7895208333333333,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_B_ofensa": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_B_ofensa.wav",
+        "length": 0.6786666666666666,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_A_por_favor": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_A_por_favor.wav",
+        "length": 0.789,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_A_no": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_A_no.wav",
+        "length": 0.27708333333333335,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_A_dentro": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_A_dentro.wav",
+        "length": 0.7433958333333334,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_A_nunca": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_A_nunca.wav",
+        "length": 0.8689791666666666,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_A_pronto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_A_pronto.wav",
+        "length": 0.6791875,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_A_pronto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_A_pronto.wav",
+        "length": 0.44797916666666665,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_B_furia": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_B_furia.wav",
+        "length": 0.5775416666666666,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_A_abajo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_A_abajo.wav",
+        "length": 0.5018333333333334,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_B_enojo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_B_enojo.wav",
+        "length": 0.6456875,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_B_enojo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_B_enojo.wav",
+        "length": 0.6868958333333334,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_B_delincuencia": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_B_delincuencia.wav",
+        "length": 1.0041875,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_A_arriba": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_A_arriba.wav",
+        "length": 0.43554166666666666,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_B_injusticia": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_B_injusticia.wav",
+        "length": 1.0042291666666667,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_B_desmayo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_B_desmayo.wav",
+        "length": 0.7316666666666667,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_A_rapido": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_A_rapido.wav",
+        "length": 0.9359583333333333,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_A_antes": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_A_antes.wav",
+        "length": 0.7268541666666667,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_A_hoy": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_A_hoy.wav",
+        "length": 0.24695833333333334,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_B_conflicto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_B_conflicto.wav",
+        "length": 0.83225,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_B_ansiedad": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_B_ansiedad.wav",
+        "length": 0.7832916666666667,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_A_gracias": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_A_gracias.wav",
+        "length": 0.6041875,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_B_humillacion": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_B_humillacion.wav",
+        "length": 0.8660416666666667,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_B_estafa": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_B_estafa.wav",
+        "length": 0.7539166666666667,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_B_tristeza": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_B_tristeza.wav",
+        "length": 0.7553125,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_B_celda": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_B_celda.wav",
+        "length": 0.5732708333333333,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_B_enfriamiento": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_B_enfriamiento.wav",
+        "length": 0.9255833333333333,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_A_no": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_A_no.wav",
+        "length": 0.275625,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_A_rapido": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_A_rapido.wav",
+        "length": 0.7276875,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_A_basta_ya": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_A_basta_ya.wav",
+        "length": 0.7984375,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_B_odioso": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_B_odioso.wav",
+        "length": 0.6451875,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_B_infarto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_B_infarto.wav",
+        "length": 0.7385,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_B_insultado": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_B_insultado.wav",
+        "length": 0.8616666666666667,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_B_mortal": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_B_mortal.wav",
+        "length": 0.51025,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_B_antiguo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_B_antiguo.wav",
+        "length": 0.6206041666666666,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_A_gracias": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_A_gracias.wav",
+        "length": 0.6598125,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_A_nunca": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_A_nunca.wav",
+        "length": 0.3856875,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_B_estafa": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_B_estafa.wav",
+        "length": 0.7637083333333333,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_B_conflicto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_B_conflicto.wav",
+        "length": 0.8672291666666667,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_B_ataque": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_B_ataque.wav",
+        "length": 0.6608125,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_A_arriba": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_A_arriba.wav",
+        "length": 0.6376666666666667,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_A_basta_ya": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_A_basta_ya.wav",
+        "length": 0.5350416666666666,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_B_explosivo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_B_explosivo.wav",
+        "length": 0.9081875,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_A_delante": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_A_delante.wav",
+        "length": 0.7286041666666667,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_B_injusticia": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_B_injusticia.wav",
+        "length": 1.156875,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_B_danza": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_B_danza.wav",
+        "length": 0.61975,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_B_abuso": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_B_abuso.wav",
+        "length": 0.6030833333333333,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_M_B_dificultad": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_M_B_dificultad.wav",
+        "length": 0.8784166666666666,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_B_monstruoso": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_B_monstruoso.wav",
+        "length": 0.8525833333333334,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_C_B_tristeza": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_C_B_tristeza.wav",
+        "length": 0.7899166666666667,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Sadness_F_B_llanto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Sadness_F_B_llanto.wav",
+        "length": 0.5261875,
+        "emo": "Sadness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_A_rapido": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_A_rapido.wav",
+        "length": 0.883125,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_B_enganado": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_B_enganado.wav",
+        "length": 0.7350208333333333,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_A_tarde": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_A_tarde.wav",
+        "length": 0.5267708333333333,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_B_punalada": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_B_punalada.wav",
+        "length": 0.8794166666666666,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_A_derecha": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_A_derecha.wav",
+        "length": 0.9512083333333333,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_A_delante": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_A_delante.wav",
+        "length": 0.6983541666666667,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_B_furia": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_B_furia.wav",
+        "length": 0.648625,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_A_de_nada": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_A_de_nada.wav",
+        "length": 0.7617291666666667,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_A_dentro": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_A_dentro.wav",
+        "length": 0.5410416666666666,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_A_antes": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_A_antes.wav",
+        "length": 0.8252916666666666,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_B_monstruo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_B_monstruo.wav",
+        "length": 0.788125,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_B_abuso": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_B_abuso.wav",
+        "length": 0.7008125,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_B_eructo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_B_eructo.wav",
+        "length": 1.0126875,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_B_monstruo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_B_monstruo.wav",
+        "length": 1.03225,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_B_mutilado": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_B_mutilado.wav",
+        "length": 1.1984375,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_B_punalada": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_B_punalada.wav",
+        "length": 1.0963125,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_B_atasco": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_B_atasco.wav",
+        "length": 0.8830416666666666,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_B_injusticia": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_B_injusticia.wav",
+        "length": 1.1440625,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_B_monstruoso": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_B_monstruoso.wav",
+        "length": 0.8491875,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_A_no": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_A_no.wav",
+        "length": 0.7681041666666667,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_B_conflicto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_B_conflicto.wav",
+        "length": 0.7779375,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_A_gracias": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_A_gracias.wav",
+        "length": 0.9699375,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_A_pronto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_A_pronto.wav",
+        "length": 0.4549375,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_A_derecha": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_A_derecha.wav",
+        "length": 0.9752291666666667,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_B_relajacion": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_B_relajacion.wav",
+        "length": 0.8213541666666667,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_B_irrespetuoso": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_B_irrespetuoso.wav",
+        "length": 1.3581666666666667,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_A_lento": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_A_lento.wav",
+        "length": 0.8612083333333334,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_A_gracias": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_A_gracias.wav",
+        "length": 1.1805416666666666,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_A_por_favor": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_A_por_favor.wav",
+        "length": 1.0793958333333333,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_A_adios": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_A_adios.wav",
+        "length": 0.7100625,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_A_si": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_A_si.wav",
+        "length": 0.50375,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_B_torturado": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_B_torturado.wav",
+        "length": 1.0260208333333334,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_A_rapido": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_A_rapido.wav",
+        "length": 0.9118125,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_B_robo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_B_robo.wav",
+        "length": 0.66175,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_A_izquierda": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_A_izquierda.wav",
+        "length": 0.894375,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_A_delante": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_A_delante.wav",
+        "length": 0.795125,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_B_operacion": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_B_operacion.wav",
+        "length": 1.08875,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_A_izquierda": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_A_izquierda.wav",
+        "length": 1.2000416666666667,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_B_amenazado": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_B_amenazado.wav",
+        "length": 1.0740416666666666,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_B_monstruoso": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_B_monstruoso.wav",
+        "length": 1.0681666666666667,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_A_ayer": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_A_ayer.wav",
+        "length": 0.7129166666666666,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_A_tarde": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_A_tarde.wav",
+        "length": 0.6758333333333333,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_B_nausea": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_B_nausea.wav",
+        "length": 0.9566875,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_B_cucaracha": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_B_cucaracha.wav",
+        "length": 0.8474791666666667,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_A_fuera": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_A_fuera.wav",
+        "length": 0.6589375,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_B_oruga": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_B_oruga.wav",
+        "length": 0.5783125,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_B_metralleta": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_B_metralleta.wav",
+        "length": 1.2296458333333333,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_B_creido": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_B_creido.wav",
+        "length": 0.63975,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_B_celda": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_B_celda.wav",
+        "length": 0.8538958333333333,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_B_arana": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_B_arana.wav",
+        "length": 0.5635,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_A_nunca": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_A_nunca.wav",
+        "length": 0.771625,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_B_insultado": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_B_insultado.wav",
+        "length": 1.0267916666666668,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_A_abajo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_A_abajo.wav",
+        "length": 0.6115833333333334,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_B_delincuencia": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_B_delincuencia.wav",
+        "length": 1.1733125,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_A_por_favor": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_A_por_favor.wav",
+        "length": 0.8590625,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_A_detras": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_A_detras.wav",
+        "length": 1.07075,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_B_cucaracha": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_B_cucaracha.wav",
+        "length": 1.2748541666666666,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_A_nunca": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_A_nunca.wav",
+        "length": 0.5494375,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_B_nausea": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_B_nausea.wav",
+        "length": 0.8716875,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_B_mutilado": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_B_mutilado.wav",
+        "length": 1.2844166666666668,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_B_estafa": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_B_estafa.wav",
+        "length": 1.037375,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_A_arriba": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_A_arriba.wav",
+        "length": 0.6670208333333333,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_A_hola": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_A_hola.wav",
+        "length": 0.4362916666666667,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_A_pronto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_A_pronto.wav",
+        "length": 0.6972083333333333,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_A_dentro": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_A_dentro.wav",
+        "length": 0.63675,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_A_ayer": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_A_ayer.wav",
+        "length": 0.7779375,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_B_aguijon": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_B_aguijon.wav",
+        "length": 0.7903125,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_B_encadenado": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_B_encadenado.wav",
+        "length": 1.2719583333333333,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_B_monstruoso": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_B_monstruoso.wav",
+        "length": 1.3246666666666667,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_A_adios": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_A_adios.wav",
+        "length": 0.962375,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_A_rapido": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_A_rapido.wav",
+        "length": 0.607875,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_B_punalada": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_B_punalada.wav",
+        "length": 0.879625,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_B_desorden": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_B_desorden.wav",
+        "length": 1.0246875,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_B_arana": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_B_arana.wav",
+        "length": 0.6971041666666666,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_B_arana": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_B_arana.wav",
+        "length": 0.7051458333333334,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_A_lento": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_A_lento.wav",
+        "length": 0.7637916666666666,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_A_lento": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_A_lento.wav",
+        "length": 0.5380833333333334,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_B_torturado": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_B_torturado.wav",
+        "length": 0.6937291666666666,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_B_caprichoso": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_B_caprichoso.wav",
+        "length": 1.2815416666666666,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_A_dentro": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_A_dentro.wav",
+        "length": 0.7185833333333334,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_B_abandono": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_B_abandono.wav",
+        "length": 0.8504166666666667,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_B_delincuencia": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_B_delincuencia.wav",
+        "length": 1.0312916666666667,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_A_hola": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_A_hola.wav",
+        "length": 0.6549583333333333,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_A_si": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_A_si.wav",
+        "length": 0.5530833333333334,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_A_detras": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_A_detras.wav",
+        "length": 0.8046666666666666,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_B_amenazador": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_B_amenazador.wav",
+        "length": 1.1614166666666668,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_B_monstruo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_B_monstruo.wav",
+        "length": 0.6642708333333334,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_A_gracias": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_A_gracias.wav",
+        "length": 0.8544791666666667,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_B_abandono": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_B_abandono.wav",
+        "length": 1.0813333333333333,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_B_insultado": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_B_insultado.wav",
+        "length": 0.771375,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_A_adios": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_A_adios.wav",
+        "length": 0.6610416666666666,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_B_repulsivo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_B_repulsivo.wav",
+        "length": 1.1559583333333334,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_B_abuso": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_B_abuso.wav",
+        "length": 0.7047708333333333,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_A_hoy": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_A_hoy.wav",
+        "length": 0.2784375,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_A_basta_ya": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_A_basta_ya.wav",
+        "length": 0.6511875,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_B_suspenso": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_B_suspenso.wav",
+        "length": 0.9578125,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_A_no": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_A_no.wav",
+        "length": 0.75125,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_A_hoy": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_A_hoy.wav",
+        "length": 0.34622916666666664,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_A_hoy": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_A_hoy.wav",
+        "length": 0.6667083333333333,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_A_abajo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_A_abajo.wav",
+        "length": 0.595375,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_M_A_nunca": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_M_A_nunca.wav",
+        "length": 0.8177708333333333,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_B_abandono": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_B_abandono.wav",
+        "length": 0.964125,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_B_jeringuilla": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_B_jeringuilla.wav",
+        "length": 0.8449791666666666,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_A_derecha": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_A_derecha.wav",
+        "length": 0.7129166666666666,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_A_detras": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_A_detras.wav",
+        "length": 0.7845208333333333,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_B_amenazador": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_B_amenazador.wav",
+        "length": 0.8888541666666666,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_F_A_fuera": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_F_A_fuera.wav",
+        "length": 0.6499166666666667,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Disgust_C_A_antes": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Disgust_C_A_antes.wav",
+        "length": 0.7592708333333333,
+        "emo": "Disgust",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_A_de_nada": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_A_de_nada.wav",
+        "length": 0.646625,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_A_adios": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_A_adios.wav",
+        "length": 2.2422916666666666,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_A_no": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_A_no.wav",
+        "length": 1.7352708333333333,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_B_aventurero": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_B_aventurero.wav",
+        "length": 0.8722916666666667,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_B_masaje": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_B_masaje.wav",
+        "length": 0.8885208333333333,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_B_atractivo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_B_atractivo.wav",
+        "length": 0.739625,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_B_celebracion": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_B_celebracion.wav",
+        "length": 1.24275,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_B_fresco": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_B_fresco.wav",
+        "length": 0.75525,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_B_bebe": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_B_bebe.wav",
+        "length": 0.6303125,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_A_izquierda": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_A_izquierda.wav",
+        "length": 0.7988541666666666,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_A_derecha": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_A_derecha.wav",
+        "length": 0.6159166666666667,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_A_nunca": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_A_nunca.wav",
+        "length": 0.6765,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_B_calma": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_B_calma.wav",
+        "length": 0.497875,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_A_fuera": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_A_fuera.wav",
+        "length": 2.1897291666666665,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_B_creativo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_B_creativo.wav",
+        "length": 1.1419375,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_A_antes": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_A_antes.wav",
+        "length": 1.8560416666666666,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_B_aglomeracion": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_B_aglomeracion.wav",
+        "length": 0.9331041666666666,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_A_fuera": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_A_fuera.wav",
+        "length": 0.8146666666666667,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_A_dentro": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_A_dentro.wav",
+        "length": 0.5975833333333334,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_A_rapido": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_A_rapido.wav",
+        "length": 2.3317083333333333,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_A_detras": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_A_detras.wav",
+        "length": 0.6275625,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_B_esplendido": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_B_esplendido.wav",
+        "length": 0.8508958333333333,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_A_abajo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_A_abajo.wav",
+        "length": 1.7650833333333333,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_A_gracias": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_A_gracias.wav",
+        "length": 0.7731666666666667,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_A_antes": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_A_antes.wav",
+        "length": 0.6082291666666667,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_B_coordinacion": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_B_coordinacion.wav",
+        "length": 1.303625,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_A_gracias": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_A_gracias.wav",
+        "length": 2.0235833333333333,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_A_rapido": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_A_rapido.wav",
+        "length": 0.5861666666666666,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_A_si": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_A_si.wav",
+        "length": 0.6640416666666666,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_A_derecha": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_A_derecha.wav",
+        "length": 1.7823958333333334,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_B_oasis": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_B_oasis.wav",
+        "length": 0.8212083333333333,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_B_carcajada": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_B_carcajada.wav",
+        "length": 1.0300833333333332,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_A_adios": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_A_adios.wav",
+        "length": 0.7580416666666666,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_B_delicadeza": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_B_delicadeza.wav",
+        "length": 0.9655625,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_A_ayer": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_A_ayer.wav",
+        "length": 0.5569583333333333,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_B_aficion": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_B_aficion.wav",
+        "length": 0.7837291666666667,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_A_por_favor": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_A_por_favor.wav",
+        "length": 0.7651458333333333,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_A_delante": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_A_delante.wav",
+        "length": 1.6676041666666668,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_A_derecha": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_A_derecha.wav",
+        "length": 0.5632708333333334,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_A_basta_ya": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_A_basta_ya.wav",
+        "length": 0.761875,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_A_si": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_A_si.wav",
+        "length": 0.6687708333333333,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_B_tranquilidad": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_B_tranquilidad.wav",
+        "length": 0.7575625,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_B_oasis": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_B_oasis.wav",
+        "length": 1.3150625,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_B_calma": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_B_calma.wav",
+        "length": 0.40689583333333335,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_B_fresco": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_B_fresco.wav",
+        "length": 0.99275,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_B_calmado": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_B_calmado.wav",
+        "length": 1.3421458333333334,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_B_baile": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_B_baile.wav",
+        "length": 0.766375,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_B_ensueno": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_B_ensueno.wav",
+        "length": 0.6406875,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_A_tarde": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_A_tarde.wav",
+        "length": 2.0451041666666665,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_A_ayer": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_A_ayer.wav",
+        "length": 0.7630208333333334,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_A_izquierda": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_A_izquierda.wav",
+        "length": 2.1485416666666666,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_B_baile": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_B_baile.wav",
+        "length": 0.479875,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_B_relax": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_B_relax.wav",
+        "length": 0.8867708333333333,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_B_clavel": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_B_clavel.wav",
+        "length": 0.5438958333333334,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_A_arriba": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_A_arriba.wav",
+        "length": 0.6805,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_B_pelirrojo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_B_pelirrojo.wav",
+        "length": 0.7229791666666666,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_A_hoy": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_A_hoy.wav",
+        "length": 0.385375,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_A_basta_ya": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_A_basta_ya.wav",
+        "length": 1.8509166666666668,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_B_alegria": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_B_alegria.wav",
+        "length": 0.5666666666666667,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_B_fresco": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_B_fresco.wav",
+        "length": 0.46129166666666666,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_A_adios": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_A_adios.wav",
+        "length": 0.7159166666666666,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_B_aficion": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_B_aficion.wav",
+        "length": 0.6285416666666667,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_A_hola": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_A_hola.wav",
+        "length": 1.8430416666666667,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_B_fantastico": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_B_fantastico.wav",
+        "length": 0.9900625,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_B_atractivo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_B_atractivo.wav",
+        "length": 0.91175,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_B_calmado": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_B_calmado.wav",
+        "length": 0.6048958333333333,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_B_siesta": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_B_siesta.wav",
+        "length": 0.744,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_A_arriba": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_A_arriba.wav",
+        "length": 2.181979166666667,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_A_por_favor": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_A_por_favor.wav",
+        "length": 0.7517708333333334,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_B_chistoso": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_B_chistoso.wav",
+        "length": 0.8538125,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_B_danza": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_B_danza.wav",
+        "length": 0.8966666666666666,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_B_satisfaccion": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_B_satisfaccion.wav",
+        "length": 1.2157083333333334,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_B_masaje": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_B_masaje.wav",
+        "length": 0.8053541666666667,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_A_abajo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_A_abajo.wav",
+        "length": 0.62475,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_B_rosa": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_B_rosa.wav",
+        "length": 0.5099583333333333,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_A_no": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_A_no.wav",
+        "length": 0.53675,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_A_pronto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_A_pronto.wav",
+        "length": 0.49164583333333334,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_B_estudioso": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_B_estudioso.wav",
+        "length": 0.9265625,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_B_relajacion": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_B_relajacion.wav",
+        "length": 1.0760625,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_B_atractivo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_B_atractivo.wav",
+        "length": 0.7783125,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_B_bello": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_B_bello.wav",
+        "length": 0.4956041666666667,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_A_nunca": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_A_nunca.wav",
+        "length": 0.53975,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_B_astuto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_B_astuto.wav",
+        "length": 0.5873958333333333,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_A_tarde": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_A_tarde.wav",
+        "length": 0.5692083333333333,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_B_rosa": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_B_rosa.wav",
+        "length": 0.9745,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_A_rapido": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_A_rapido.wav",
+        "length": 0.44997916666666665,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_B_delicioso": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_B_delicioso.wav",
+        "length": 1.1993333333333334,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_B_aficion": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_B_aficion.wav",
+        "length": 0.5967916666666667,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_A_no": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_A_no.wav",
+        "length": 0.6148541666666667,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_A_pronto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_A_pronto.wav",
+        "length": 0.6537291666666667,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_B_bebe": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_B_bebe.wav",
+        "length": 0.4366875,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_B_comico": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_B_comico.wav",
+        "length": 0.5578125,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_B_aventurero": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_B_aventurero.wav",
+        "length": 1.3078541666666668,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_B_bello": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_B_bello.wav",
+        "length": 1.3149166666666667,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_A_lento_dentro": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_A_lento_dentro.wav",
+        "length": 1.8560416666666666,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_A_hoy": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_A_hoy.wav",
+        "length": 0.40347916666666667,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_A_dentro": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_A_dentro.wav",
+        "length": 0.5582708333333334,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_A_gracias": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_A_gracias.wav",
+        "length": 1.0323333333333333,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_A_ayer": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_A_ayer.wav",
+        "length": 2.010291666666667,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_B_fantastico": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_B_fantastico.wav",
+        "length": 1.1846666666666668,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_B_refrescante": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_B_refrescante.wav",
+        "length": 1.2060833333333334,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_A_hola": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_A_hola.wav",
+        "length": 0.4051666666666667,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_B_clavel": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_B_clavel.wav",
+        "length": 0.590125,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_A_pronto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_A_pronto.wav",
+        "length": 1.9757916666666666,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_A_lento": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_A_lento.wav",
+        "length": 0.5320833333333334,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_F_A_delante": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_F_A_delante.wav",
+        "length": 0.6755833333333333,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_M_A_fuera": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_M_A_fuera.wav",
+        "length": 0.45289583333333333,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Happiness_C_A_detras": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Happiness_C_A_detras.wav",
+        "length": 1.9708125,
+        "emo": "Happiness",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_B_desmayo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_B_desmayo.wav",
+        "length": 0.8745625,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_A_nunca": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_A_nunca.wav",
+        "length": 0.5626041666666667,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_B_arana": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_B_arana.wav",
+        "length": 0.7768958333333333,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_B_amenazador": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_B_amenazador.wav",
+        "length": 0.9131458333333333,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_B_alterado": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_B_alterado.wav",
+        "length": 0.9209166666666667,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_A_delante": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_A_delante.wav",
+        "length": 0.5068541666666667,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_A_pronto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_A_pronto.wav",
+        "length": 0.5129166666666667,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_B_aguijon": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_B_aguijon.wav",
+        "length": 0.7709166666666667,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_A_nunca": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_A_nunca.wav",
+        "length": 0.6235,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_A_si": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_A_si.wav",
+        "length": 0.6379166666666667,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_B_injusticia": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_B_injusticia.wav",
+        "length": 1.0890416666666667,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_A_rapido": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_A_rapido.wav",
+        "length": 0.5088541666666667,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_B_cirugia": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_B_cirugia.wav",
+        "length": 0.6388125,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_B_cirugia": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_B_cirugia.wav",
+        "length": 0.6595,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_A_ayer": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_A_ayer.wav",
+        "length": 0.42791666666666667,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_A_antes": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_A_antes.wav",
+        "length": 0.7352291666666667,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_A_arriba": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_A_arriba.wav",
+        "length": 0.5781041666666666,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_B_delincuencia": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_B_delincuencia.wav",
+        "length": 1.0591041666666667,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_B_cucaracha": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_B_cucaracha.wav",
+        "length": 0.6226041666666666,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_B_alarma": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_B_alarma.wav",
+        "length": 0.5207291666666667,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_A_lento": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_A_lento.wav",
+        "length": 0.6175625,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_B_danza": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_B_danza.wav",
+        "length": 0.5900625,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_B_inconciente": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_B_inconciente.wav",
+        "length": 0.7527083333333333,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_A_no": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_A_no.wav",
+        "length": 0.2759375,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_A_hoy": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_A_hoy.wav",
+        "length": 0.4174791666666667,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_A_no": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_A_no.wav",
+        "length": 0.412875,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_A_fuera": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_A_fuera.wav",
+        "length": 0.474375,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_A_arriba": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_A_arriba.wav",
+        "length": 0.5858958333333333,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_B_furia": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_B_furia.wav",
+        "length": 0.5055833333333334,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_A_abajo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_A_abajo.wav",
+        "length": 0.47110416666666666,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_A_hola": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_A_hola.wav",
+        "length": 0.38408333333333333,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_A_detras": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_A_detras.wav",
+        "length": 0.5322291666666666,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_A_basta_ya": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_A_basta_ya.wav",
+        "length": 0.6622708333333334,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_B_aguijon": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_B_aguijon.wav",
+        "length": 0.60275,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_A_si": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_A_si.wav",
+        "length": 0.4377083333333333,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_A_nunca": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_A_nunca.wav",
+        "length": 0.5119791666666667,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_A_antes": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_A_antes.wav",
+        "length": 0.7139583333333334,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_B_humillacion": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_B_humillacion.wav",
+        "length": 1.0302708333333332,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_B_estafa": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_B_estafa.wav",
+        "length": 0.866,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_A_izquierda": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_A_izquierda.wav",
+        "length": 0.7090833333333333,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_B_dificultad": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_B_dificultad.wav",
+        "length": 0.7106666666666667,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_A_por_favor": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_A_por_favor.wav",
+        "length": 0.7183958333333333,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_B_conflicto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_B_conflicto.wav",
+        "length": 0.6869791666666667,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_B_amenazador": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_B_amenazador.wav",
+        "length": 0.847375,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_A_detras": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_A_detras.wav",
+        "length": 0.5380833333333334,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_B_delincuencia": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_B_delincuencia.wav",
+        "length": 0.8061666666666667,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_A_adios": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_A_adios.wav",
+        "length": 0.84125,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_B_danino": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_B_danino.wav",
+        "length": 0.7961458333333333,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_A_gracias": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_A_gracias.wav",
+        "length": 0.5545625,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_B_catastrofe": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_B_catastrofe.wav",
+        "length": 1.0327916666666668,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_B_explosion": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_B_explosion.wav",
+        "length": 0.7543333333333333,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_B_cucaracha": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_B_cucaracha.wav",
+        "length": 0.57075,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_B_fantasma": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_B_fantasma.wav",
+        "length": 0.657125,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_B_amenazador": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_B_amenazador.wav",
+        "length": 0.8363333333333334,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_A_gracias": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_A_gracias.wav",
+        "length": 0.6135208333333333,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_A_derecha": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_A_derecha.wav",
+        "length": 0.4835833333333333,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_B_aguijon": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_B_aguijon.wav",
+        "length": 0.707875,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_A_pronto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_A_pronto.wav",
+        "length": 0.43672916666666667,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_A_ayer": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_A_ayer.wav",
+        "length": 0.5756666666666667,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_A_derecha": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_A_derecha.wav",
+        "length": 0.47970833333333335,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_B_estricto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_B_estricto.wav",
+        "length": 1.0185,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_B_cucaracha": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_B_cucaracha.wav",
+        "length": 0.8808125,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_A_de_nada": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_A_de_nada.wav",
+        "length": 0.49020833333333336,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_B_explosion": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_B_explosion.wav",
+        "length": 0.9796458333333333,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_A_abajo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_A_abajo.wav",
+        "length": 0.5467291666666667,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_B_condena": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_B_condena.wav",
+        "length": 0.7070833333333333,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_A_arriba": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_A_arriba.wav",
+        "length": 0.5930416666666667,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_A_basta_ya": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_A_basta_ya.wav",
+        "length": 0.6872916666666666,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_B_conflicto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_B_conflicto.wav",
+        "length": 0.60475,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_A_tarde": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_A_tarde.wav",
+        "length": 0.5146666666666667,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_A_lento": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_A_lento.wav",
+        "length": 0.5598541666666667,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_A_hola": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_A_hola.wav",
+        "length": 0.3339375,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_B_arana": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_B_arana.wav",
+        "length": 0.4249791666666667,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_A_de_nada": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_A_de_nada.wav",
+        "length": 0.6225208333333333,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_B_estafa": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_B_estafa.wav",
+        "length": 0.5139791666666667,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_B_cirugia": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_B_cirugia.wav",
+        "length": 0.9055,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_B_infarto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_B_infarto.wav",
+        "length": 0.6190625,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_B_imprudente": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_B_imprudente.wav",
+        "length": 0.9429791666666667,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_A_hola": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_A_hola.wav",
+        "length": 0.469125,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_B_furia": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_B_furia.wav",
+        "length": 0.4981041666666667,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_B_relajacion": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_B_relajacion.wav",
+        "length": 0.7349375,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_B_ceguera": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_B_ceguera.wav",
+        "length": 0.7343333333333333,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_A_izquierda": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_A_izquierda.wav",
+        "length": 0.583375,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_B_huracan": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_B_huracan.wav",
+        "length": 0.6466041666666666,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_B_alarma": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_B_alarma.wav",
+        "length": 0.6344791666666667,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_A_lento": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_A_lento.wav",
+        "length": 0.5058125,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_B_disputa": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_B_disputa.wav",
+        "length": 0.9611041666666666,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_A_adios": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_A_adios.wav",
+        "length": 0.7197916666666667,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_A_tarde": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_A_tarde.wav",
+        "length": 0.5285833333333333,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_A_delante": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_A_delante.wav",
+        "length": 0.6214375,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_A_fuera": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_A_fuera.wav",
+        "length": 0.41754166666666664,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_B_infarto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_B_infarto.wav",
+        "length": 0.7077083333333334,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_A_dentro": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_A_dentro.wav",
+        "length": 0.3948125,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_B_horroroso": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_B_horroroso.wav",
+        "length": 0.6147708333333334,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_A_no": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_A_no.wav",
+        "length": 0.40777083333333336,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_B_celda": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_B_celda.wav",
+        "length": 0.68625,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_A_izquierda": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_A_izquierda.wav",
+        "length": 0.6321458333333333,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_B_dificultad": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_B_dificultad.wav",
+        "length": 0.6771666666666667,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_A_hoy": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_A_hoy.wav",
+        "length": 0.3013958333333333,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_A_pronto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_A_pronto.wav",
+        "length": 0.35702083333333334,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_B_ataque": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_B_ataque.wav",
+        "length": 0.5282083333333333,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_B_ira": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_B_ira.wav",
+        "length": 0.4282708333333333,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_B_explosion": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_B_explosion.wav",
+        "length": 0.6995416666666666,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_A_delante": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_A_delante.wav",
+        "length": 0.6138125,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_A_ayer": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_A_ayer.wav",
+        "length": 0.46095833333333336,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_F_B_huracan": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_F_B_huracan.wav",
+        "length": 0.48689583333333336,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_M_A_rapido": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_M_A_rapido.wav",
+        "length": 0.616,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Fear_C_A_por_favor": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Fear_C_A_por_favor.wav",
+        "length": 0.5703333333333334,
+        "emo": "Fear",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_A_si": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_A_si.wav",
+        "length": 0.2711875,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_A_hola": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_A_hola.wav",
+        "length": 0.28979166666666667,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_A_hola": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_A_hola.wav",
+        "length": 0.3405625,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_B_extenso": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_B_extenso.wav",
+        "length": 0.6360208333333334,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_B_boton": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_B_boton.wav",
+        "length": 0.5388541666666666,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_A_dentro": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_A_dentro.wav",
+        "length": 0.526375,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_B_extenso": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_B_extenso.wav",
+        "length": 0.5695625,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_B_conciente": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_B_conciente.wav",
+        "length": 0.5838958333333333,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_B_ferrocarril": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_B_ferrocarril.wav",
+        "length": 0.849875,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_B_mojado": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_B_mojado.wav",
+        "length": 0.7653958333333334,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_A_hoy": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_A_hoy.wav",
+        "length": 0.3406875,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_B_conciente": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_B_conciente.wav",
+        "length": 0.586375,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_A_no": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_A_no.wav",
+        "length": 0.3140625,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_B_arroz": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_B_arroz.wav",
+        "length": 0.4359166666666667,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_A_gracias": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_A_gracias.wav",
+        "length": 0.7193125,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_A_adios": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_A_adios.wav",
+        "length": 0.39877083333333335,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_B_bola": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_B_bola.wav",
+        "length": 0.35333333333333333,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_A_delante": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_A_delante.wav",
+        "length": 0.61125,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_B_hondo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_B_hondo.wav",
+        "length": 0.288875,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_A_hoy": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_A_hoy.wav",
+        "length": 0.27891666666666665,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_B_atomo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_B_atomo.wav",
+        "length": 0.34370833333333334,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_B_espacial": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_B_espacial.wav",
+        "length": 0.7288333333333333,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_B_delgado": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_B_delgado.wav",
+        "length": 0.6205208333333333,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_B_mimado": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_B_mimado.wav",
+        "length": 0.6449583333333333,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_A_hoy": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_A_hoy.wav",
+        "length": 0.19904166666666667,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_B_despistado": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_B_despistado.wav",
+        "length": 0.721375,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_B_mecanico": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_B_mecanico.wav",
+        "length": 0.8788958333333333,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_A_fuera": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_A_fuera.wav",
+        "length": 0.412,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_A_izquierda": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_A_izquierda.wav",
+        "length": 0.6171458333333333,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_A_dentro": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_A_dentro.wav",
+        "length": 0.5435833333333333,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_A_por_favor": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_A_por_favor.wav",
+        "length": 0.6316458333333334,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_B_desierto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_B_desierto.wav",
+        "length": 0.7256041666666667,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_B_boton": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_B_boton.wav",
+        "length": 0.35060416666666666,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_B_mentiroso": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_B_mentiroso.wav",
+        "length": 0.677875,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_B_articulo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_B_articulo.wav",
+        "length": 0.6162083333333334,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_A_nunca": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_A_nunca.wav",
+        "length": 0.4913958333333333,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_A_derecha": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_A_derecha.wav",
+        "length": 0.6307083333333333,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_A_nunca": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_A_nunca.wav",
+        "length": 0.4221875,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_A_lento": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_A_lento.wav",
+        "length": 0.36625,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_B_vapor": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_B_vapor.wav",
+        "length": 0.5858541666666667,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_A_abajo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_A_abajo.wav",
+        "length": 0.4574375,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_B_seco": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_B_seco.wav",
+        "length": 0.6620416666666666,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_A_dentro": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_A_dentro.wav",
+        "length": 0.4388958333333333,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_A_derecha": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_A_derecha.wav",
+        "length": 0.5491875,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_A_de_nada": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_A_de_nada.wav",
+        "length": 0.56625,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_A_adios": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_A_adios.wav",
+        "length": 0.43516666666666665,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_B_escalera": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_B_escalera.wav",
+        "length": 0.5998333333333333,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_A_si": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_A_si.wav",
+        "length": 0.3531666666666667,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_B_chulo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_B_chulo.wav",
+        "length": 0.3747083333333333,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_A_fuera": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_A_fuera.wav",
+        "length": 0.3584375,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_B_mojado": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_B_mojado.wav",
+        "length": 0.4989375,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_A_abajo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_A_abajo.wav",
+        "length": 0.37775,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_B_babosa": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_B_babosa.wav",
+        "length": 0.5846041666666667,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_A_ayer": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_A_ayer.wav",
+        "length": 0.4028125,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_A_no": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_A_no.wav",
+        "length": 0.2789583333333333,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_A_delante": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_A_delante.wav",
+        "length": 0.5212708333333333,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_B_religioso": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_B_religioso.wav",
+        "length": 0.6356041666666666,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_A_de_nada": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_A_de_nada.wav",
+        "length": 0.5611041666666666,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_A_izquierda": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_A_izquierda.wav",
+        "length": 0.589375,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_A_lento": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_A_lento.wav",
+        "length": 0.5384791666666666,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_B_presumido": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_B_presumido.wav",
+        "length": 0.4812916666666667,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_B_fecha": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_B_fecha.wav",
+        "length": 0.41489583333333335,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_A_hola": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_A_hola.wav",
+        "length": 0.34610416666666666,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_B_congelado": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_B_congelado.wav",
+        "length": 0.7490208333333334,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_B_estrecho": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_B_estrecho.wav",
+        "length": 0.8494791666666667,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_B_escurridizo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_B_escurridizo.wav",
+        "length": 1.0301666666666667,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_A_rapido": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_A_rapido.wav",
+        "length": 0.4810833333333333,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_A_fuera": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_A_fuera.wav",
+        "length": 0.3735,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_B_paella": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_B_paella.wav",
+        "length": 0.4421041666666667,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_B_temporal": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_B_temporal.wav",
+        "length": 0.6847083333333334,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_A_por_favor": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_A_por_favor.wav",
+        "length": 0.6112916666666667,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_B_barba": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_B_barba.wav",
+        "length": 0.28958333333333336,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_A_detras": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_A_detras.wav",
+        "length": 0.6647291666666667,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_B_estrecho": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_B_estrecho.wav",
+        "length": 0.5557708333333333,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_B_contrario": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_B_contrario.wav",
+        "length": 0.5923541666666666,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_A_antes": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_A_antes.wav",
+        "length": 0.45747916666666666,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_B_labrador": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_B_labrador.wav",
+        "length": 0.7145625,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_A_ayer": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_A_ayer.wav",
+        "length": 0.38914583333333336,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_B_acuatico": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_B_acuatico.wav",
+        "length": 0.5295208333333333,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_A_detras": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_A_detras.wav",
+        "length": 0.581375,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_B_estacion": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_B_estacion.wav",
+        "length": 0.5197083333333333,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_A_detras": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_A_detras.wav",
+        "length": 0.5511041666666666,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_A_por_favor": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_A_por_favor.wav",
+        "length": 0.7016458333333333,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_B_azulejo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_B_azulejo.wav",
+        "length": 0.527375,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_B_garganta": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_B_garganta.wav",
+        "length": 0.606625,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_A_antes": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_A_antes.wav",
+        "length": 0.50725,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_A_delante": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_A_delante.wav",
+        "length": 0.47810416666666666,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_B_rizado": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_B_rizado.wav",
+        "length": 0.7760416666666666,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_A_izquierda": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_A_izquierda.wav",
+        "length": 0.6241875,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_B_escurridizo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_B_escurridizo.wav",
+        "length": 0.6829583333333333,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_B_delgado": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_B_delgado.wav",
+        "length": 0.5791458333333334,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_B_colorado": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_B_colorado.wav",
+        "length": 0.7173125,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_B_pelirrojo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_B_pelirrojo.wav",
+        "length": 0.5840625,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_B_pelirrojo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_B_pelirrojo.wav",
+        "length": 0.7596875,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_B_extenso": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_B_extenso.wav",
+        "length": 0.7863333333333333,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_B_metro": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_B_metro.wav",
+        "length": 0.46295833333333336,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_A_si": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_A_si.wav",
+        "length": 0.27825,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_B_agencia": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_B_agencia.wav",
+        "length": 0.5034583333333333,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_A_pronto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_A_pronto.wav",
+        "length": 0.36170833333333335,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_B_desierto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_B_desierto.wav",
+        "length": 0.6660208333333333,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_B_robusto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_B_robusto.wav",
+        "length": 0.740375,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_A_arriba": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_A_arriba.wav",
+        "length": 0.48689583333333336,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_A_pronto": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_A_pronto.wav",
+        "length": 0.4481041666666667,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_B_fecha": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_B_fecha.wav",
+        "length": 0.3985208333333333,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_F_B_mecanico": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_F_B_mecanico.wav",
+        "length": 0.6438125,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_M_A_gracias": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_M_A_gracias.wav",
+        "length": 0.6526041666666667,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_B_hondo": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_B_hondo.wav",
+        "length": 0.4376875,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    },
+    "mesd-Neutral_C_B_bola": {
+        "wav": "downloads/mesd/Mexican Emotional Speech Database (MESD)/Neutral_C_B_bola.wav",
+        "length": 0.5242708333333334,
+        "emo": "Neutral",
+        "dataset": "mesd",
+        "channel": 1
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "U": "Surprise",
+    "F": "Fear",
+    "D": "Disgust",
+    "A": "Angry",
+    "S": "Sad",
+    "X": "No-agreement",
+    "C": "Contempt",
+    "N": "Neutral",
+    "O": "Other",
+    "H": "Happy"
+}

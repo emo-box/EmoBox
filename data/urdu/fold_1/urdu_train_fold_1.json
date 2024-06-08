@@ -1,0 +1,2102 @@
+{
+    "urdu-SM20_F8_N012": {
+        "wav": "downloads/urdu/Neutral/SM20_F8_N012.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F61_N089": {
+        "wav": "downloads/urdu/Neutral/SM5_F61_N089.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F33_N061": {
+        "wav": "downloads/urdu/Neutral/SM5_F33_N061.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F57_N085": {
+        "wav": "downloads/urdu/Neutral/SM5_F57_N085.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F69_N097": {
+        "wav": "downloads/urdu/Neutral/SM5_F69_N097.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F35_N063": {
+        "wav": "downloads/urdu/Neutral/SM5_F35_N063.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM3_F6_N026": {
+        "wav": "downloads/urdu/Neutral/SM3_F6_N026.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM20_F7_N011": {
+        "wav": "downloads/urdu/Neutral/SM20_F7_N011.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F19_N047": {
+        "wav": "downloads/urdu/Neutral/SM5_F19_N047.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF9_F1_N01": {
+        "wav": "downloads/urdu/Neutral/SF9_F1_N01.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F46_N074": {
+        "wav": "downloads/urdu/Neutral/SM5_F46_N074.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F67_N095": {
+        "wav": "downloads/urdu/Neutral/SM5_F67_N095.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F5_N033": {
+        "wav": "downloads/urdu/Neutral/SM5_F5_N033.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM20_F10_N014": {
+        "wav": "downloads/urdu/Neutral/SM20_F10_N014.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F65_N093": {
+        "wav": "downloads/urdu/Neutral/SM5_F65_N093.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM21_F1_N015": {
+        "wav": "downloads/urdu/Neutral/SM21_F1_N015.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F30_N058": {
+        "wav": "downloads/urdu/Neutral/SM5_F30_N058.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F71_N099": {
+        "wav": "downloads/urdu/Neutral/SM5_F71_N099.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F60_N088": {
+        "wav": "downloads/urdu/Neutral/SM5_F60_N088.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM21_F2_N016": {
+        "wav": "downloads/urdu/Neutral/SM21_F2_N016.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F21_N049": {
+        "wav": "downloads/urdu/Neutral/SM5_F21_N049.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F11_N039": {
+        "wav": "downloads/urdu/Neutral/SM5_F11_N039.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM20_F3_N07": {
+        "wav": "downloads/urdu/Neutral/SM20_F3_N07.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM22_F1_N019": {
+        "wav": "downloads/urdu/Neutral/SM22_F1_N019.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F38_N066": {
+        "wav": "downloads/urdu/Neutral/SM5_F38_N066.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F18_N046": {
+        "wav": "downloads/urdu/Neutral/SM5_F18_N046.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F64_N092": {
+        "wav": "downloads/urdu/Neutral/SM5_F64_N092.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F20_N048": {
+        "wav": "downloads/urdu/Neutral/SM5_F20_N048.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F9_N037": {
+        "wav": "downloads/urdu/Neutral/SM5_F9_N037.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM21_F3_N017": {
+        "wav": "downloads/urdu/Neutral/SM21_F3_N017.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F41_N069": {
+        "wav": "downloads/urdu/Neutral/SM5_F41_N069.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F40_N068": {
+        "wav": "downloads/urdu/Neutral/SM5_F40_N068.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F2_N030": {
+        "wav": "downloads/urdu/Neutral/SM5_F2_N030.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM20_F9_N013": {
+        "wav": "downloads/urdu/Neutral/SM20_F9_N013.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F55_N083": {
+        "wav": "downloads/urdu/Neutral/SM5_F55_N083.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F10_N038": {
+        "wav": "downloads/urdu/Neutral/SM5_F10_N038.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM20_F6_N010": {
+        "wav": "downloads/urdu/Neutral/SM20_F6_N010.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F22_N050": {
+        "wav": "downloads/urdu/Neutral/SM5_F22_N050.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM21_F4_N018": {
+        "wav": "downloads/urdu/Neutral/SM21_F4_N018.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F6_N034": {
+        "wav": "downloads/urdu/Neutral/SM5_F6_N034.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F43_N071": {
+        "wav": "downloads/urdu/Neutral/SM5_F43_N071.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM3_F8_N028": {
+        "wav": "downloads/urdu/Neutral/SM3_F8_N028.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM20_F5_N09": {
+        "wav": "downloads/urdu/Neutral/SM20_F5_N09.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F31_N059": {
+        "wav": "downloads/urdu/Neutral/SM5_F31_N059.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F72_N0100": {
+        "wav": "downloads/urdu/Neutral/SM5_F72_N0100.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F26_N054": {
+        "wav": "downloads/urdu/Neutral/SM5_F26_N054.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F56_N084": {
+        "wav": "downloads/urdu/Neutral/SM5_F56_N084.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM20_F2_N06": {
+        "wav": "downloads/urdu/Neutral/SM20_F2_N06.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F8_N036": {
+        "wav": "downloads/urdu/Neutral/SM5_F8_N036.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F28_N056": {
+        "wav": "downloads/urdu/Neutral/SM5_F28_N056.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F39_N067": {
+        "wav": "downloads/urdu/Neutral/SM5_F39_N067.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM3_F7_N027": {
+        "wav": "downloads/urdu/Neutral/SM3_F7_N027.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM20_F4_N08": {
+        "wav": "downloads/urdu/Neutral/SM20_F4_N08.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM22_F2_N020": {
+        "wav": "downloads/urdu/Neutral/SM22_F2_N020.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF9_F2_N02": {
+        "wav": "downloads/urdu/Neutral/SF9_F2_N02.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F70_N098": {
+        "wav": "downloads/urdu/Neutral/SM5_F70_N098.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F29_N057": {
+        "wav": "downloads/urdu/Neutral/SM5_F29_N057.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF9_F3_N03": {
+        "wav": "downloads/urdu/Neutral/SF9_F3_N03.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F3_N031": {
+        "wav": "downloads/urdu/Neutral/SM5_F3_N031.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F45_N073": {
+        "wav": "downloads/urdu/Neutral/SM5_F45_N073.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F48_N076": {
+        "wav": "downloads/urdu/Neutral/SM5_F48_N076.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F4_N032": {
+        "wav": "downloads/urdu/Neutral/SM5_F4_N032.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F66_N094": {
+        "wav": "downloads/urdu/Neutral/SM5_F66_N094.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F36_N064": {
+        "wav": "downloads/urdu/Neutral/SM5_F36_N064.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F44_N072": {
+        "wav": "downloads/urdu/Neutral/SM5_F44_N072.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F50_N078": {
+        "wav": "downloads/urdu/Neutral/SM5_F50_N078.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F53_N081": {
+        "wav": "downloads/urdu/Neutral/SM5_F53_N081.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F1_N029": {
+        "wav": "downloads/urdu/Neutral/SM5_F1_N029.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM3_F3_N023": {
+        "wav": "downloads/urdu/Neutral/SM3_F3_N023.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F25_N053": {
+        "wav": "downloads/urdu/Neutral/SM5_F25_N053.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F62_N090": {
+        "wav": "downloads/urdu/Neutral/SM5_F62_N090.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F59_N087": {
+        "wav": "downloads/urdu/Neutral/SM5_F59_N087.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F7_N035": {
+        "wav": "downloads/urdu/Neutral/SM5_F7_N035.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F49_N077": {
+        "wav": "downloads/urdu/Neutral/SM5_F49_N077.wav",
+        "length": 2.0,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F34_N062": {
+        "wav": "downloads/urdu/Neutral/SM5_F34_N062.wav",
+        "length": 3.0035374149659866,
+        "emo": "N",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM7_F7_H079": {
+        "wav": "downloads/urdu/Happy/SM7_F7_H079.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM7_F25_H097": {
+        "wav": "downloads/urdu/Happy/SM7_F25_H097.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF4_F3_H019": {
+        "wav": "downloads/urdu/Happy/SF4_F3_H019.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F6_H060": {
+        "wav": "downloads/urdu/Happy/SM5_F6_H060.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM6_F10_H072": {
+        "wav": "downloads/urdu/Happy/SM6_F10_H072.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM7_F24_H096": {
+        "wav": "downloads/urdu/Happy/SM7_F24_H096.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM7_F4_H076": {
+        "wav": "downloads/urdu/Happy/SM7_F4_H076.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF8_F1_H045": {
+        "wav": "downloads/urdu/Happy/SF8_F1_H045.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F1_H055": {
+        "wav": "downloads/urdu/Happy/SM5_F1_H055.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM7_F8_H080": {
+        "wav": "downloads/urdu/Happy/SM7_F8_H080.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF8_F2_H046": {
+        "wav": "downloads/urdu/Happy/SF8_F2_H046.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF6_F10_H034": {
+        "wav": "downloads/urdu/Happy/SF6_F10_H034.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF1_F3_H03": {
+        "wav": "downloads/urdu/Happy/SF1_F3_H03.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF6_F5_H029": {
+        "wav": "downloads/urdu/Happy/SF6_F5_H029.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM7_F17_H089": {
+        "wav": "downloads/urdu/Happy/SM7_F17_H089.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM3_F2_H054": {
+        "wav": "downloads/urdu/Happy/SM3_F2_H054.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF1_F4_H04": {
+        "wav": "downloads/urdu/Happy/SF1_F4_H04.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM6_F8_H070": {
+        "wav": "downloads/urdu/Happy/SM6_F8_H070.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF3_F1_H015": {
+        "wav": "downloads/urdu/Happy/SF3_F1_H015.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF1_F7_H07": {
+        "wav": "downloads/urdu/Happy/SF1_F7_H07.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM3_F1_H053": {
+        "wav": "downloads/urdu/Happy/SM3_F1_H053.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM6_F3_H065": {
+        "wav": "downloads/urdu/Happy/SM6_F3_H065.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF7_F1_H039": {
+        "wav": "downloads/urdu/Happy/SF7_F1_H039.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF6_F6_H030": {
+        "wav": "downloads/urdu/Happy/SF6_F6_H030.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF5_F3_H023": {
+        "wav": "downloads/urdu/Happy/SF5_F3_H023.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF7_F4_H042": {
+        "wav": "downloads/urdu/Happy/SF7_F4_H042.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF5_F4_H024": {
+        "wav": "downloads/urdu/Happy/SF5_F4_H024.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM7_F27_H099": {
+        "wav": "downloads/urdu/Happy/SM7_F27_H099.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF4_F4_H020": {
+        "wav": "downloads/urdu/Happy/SF4_F4_H020.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM7_F18_H090": {
+        "wav": "downloads/urdu/Happy/SM7_F18_H090.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM7_F11_H083": {
+        "wav": "downloads/urdu/Happy/SM7_F11_H083.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM6_F7_H069": {
+        "wav": "downloads/urdu/Happy/SM6_F7_H069.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF6_F12_H036": {
+        "wav": "downloads/urdu/Happy/SF6_F12_H036.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM19_F2_H052": {
+        "wav": "downloads/urdu/Happy/SM19_F2_H052.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF7_F5_H043": {
+        "wav": "downloads/urdu/Happy/SF7_F5_H043.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF1_F2_H02": {
+        "wav": "downloads/urdu/Happy/SF1_F2_H02.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM7_F21_H093": {
+        "wav": "downloads/urdu/Happy/SM7_F21_H093.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F4_H058": {
+        "wav": "downloads/urdu/Happy/SM5_F4_H058.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM7_F10_H082": {
+        "wav": "downloads/urdu/Happy/SM7_F10_H082.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF7_F3_H041": {
+        "wav": "downloads/urdu/Happy/SF7_F3_H041.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF1_F6_H06": {
+        "wav": "downloads/urdu/Happy/SF1_F6_H06.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM6_F1_H063": {
+        "wav": "downloads/urdu/Happy/SM6_F1_H063.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF1_F10_H010": {
+        "wav": "downloads/urdu/Happy/SF1_F10_H010.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM7_F3_H075": {
+        "wav": "downloads/urdu/Happy/SM7_F3_H075.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM17_F1_H047": {
+        "wav": "downloads/urdu/Happy/SM17_F1_H047.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM19_F1_H051": {
+        "wav": "downloads/urdu/Happy/SM19_F1_H051.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF5_F2_H022": {
+        "wav": "downloads/urdu/Happy/SF5_F2_H022.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM6_F9_H071": {
+        "wav": "downloads/urdu/Happy/SM6_F9_H071.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F7_H061": {
+        "wav": "downloads/urdu/Happy/SM5_F7_H061.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF6_F3_H027": {
+        "wav": "downloads/urdu/Happy/SF6_F3_H027.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF1_F8_H08": {
+        "wav": "downloads/urdu/Happy/SF1_F8_H08.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF5_F1_H021": {
+        "wav": "downloads/urdu/Happy/SF5_F1_H021.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF2_F2_H014": {
+        "wav": "downloads/urdu/Happy/SF2_F2_H014.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM7_F28_H0100": {
+        "wav": "downloads/urdu/Happy/SM7_F28_H0100.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM7_F6_H078": {
+        "wav": "downloads/urdu/Happy/SM7_F6_H078.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM6_F2_H064": {
+        "wav": "downloads/urdu/Happy/SM6_F2_H064.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM7_F22_H094": {
+        "wav": "downloads/urdu/Happy/SM7_F22_H094.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF7_F2_H040": {
+        "wav": "downloads/urdu/Happy/SF7_F2_H040.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF6_F14_H038": {
+        "wav": "downloads/urdu/Happy/SF6_F14_H038.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF6_F9_H033": {
+        "wav": "downloads/urdu/Happy/SF6_F9_H033.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF4_F1_H017": {
+        "wav": "downloads/urdu/Happy/SF4_F1_H017.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF6_F11_H035": {
+        "wav": "downloads/urdu/Happy/SF6_F11_H035.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF1_F1_H01": {
+        "wav": "downloads/urdu/Happy/SF1_F1_H01.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM18_F2_H050": {
+        "wav": "downloads/urdu/Happy/SM18_F2_H050.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F5_H059": {
+        "wav": "downloads/urdu/Happy/SM5_F5_H059.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM7_F19_H091": {
+        "wav": "downloads/urdu/Happy/SM7_F19_H091.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM6_F4_H066": {
+        "wav": "downloads/urdu/Happy/SM6_F4_H066.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF7_F6_H044": {
+        "wav": "downloads/urdu/Happy/SF7_F6_H044.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF6_F7_H031": {
+        "wav": "downloads/urdu/Happy/SF6_F7_H031.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM18_F1_H049": {
+        "wav": "downloads/urdu/Happy/SM18_F1_H049.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM7_F1_H073": {
+        "wav": "downloads/urdu/Happy/SM7_F1_H073.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF1_F12_H012": {
+        "wav": "downloads/urdu/Happy/SF1_F12_H012.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF2_F1_H013": {
+        "wav": "downloads/urdu/Happy/SF2_F1_H013.wav",
+        "length": 2.0,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM5_F2_H056": {
+        "wav": "downloads/urdu/Happy/SM5_F2_H056.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF4_F2_H018": {
+        "wav": "downloads/urdu/Happy/SF4_F2_H018.wav",
+        "length": 3.0035374149659866,
+        "emo": "H",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F29_S079": {
+        "wav": "downloads/urdu/Sad/SM25_F29_S079.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM23_F5_S011": {
+        "wav": "downloads/urdu/Sad/SM23_F5_S011.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM27_F3_S095": {
+        "wav": "downloads/urdu/Sad/SM27_F3_S095.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F4_S054": {
+        "wav": "downloads/urdu/Sad/SM25_F4_S054.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F18_S068": {
+        "wav": "downloads/urdu/Sad/SM25_F18_S068.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM24_F34_S046": {
+        "wav": "downloads/urdu/Sad/SM24_F34_S046.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F40_S090": {
+        "wav": "downloads/urdu/Sad/SM25_F40_S090.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM24_F14_S026": {
+        "wav": "downloads/urdu/Sad/SM24_F14_S026.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F33_S083": {
+        "wav": "downloads/urdu/Sad/SM25_F33_S083.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM24_F16_S028": {
+        "wav": "downloads/urdu/Sad/SM24_F16_S028.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF11_F2_S04": {
+        "wav": "downloads/urdu/Sad/SF11_F2_S04.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM23_F6_S012": {
+        "wav": "downloads/urdu/Sad/SM23_F6_S012.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F31_S081": {
+        "wav": "downloads/urdu/Sad/SM25_F31_S081.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM6_F2_S098": {
+        "wav": "downloads/urdu/Sad/SM6_F2_S098.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F3_S053": {
+        "wav": "downloads/urdu/Sad/SM25_F3_S053.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM27_F1_S093": {
+        "wav": "downloads/urdu/Sad/SM27_F1_S093.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM24_F32_S044": {
+        "wav": "downloads/urdu/Sad/SM24_F32_S044.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM24_F28_S040": {
+        "wav": "downloads/urdu/Sad/SM24_F28_S040.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM24_F26_S038": {
+        "wav": "downloads/urdu/Sad/SM24_F26_S038.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F32_S082": {
+        "wav": "downloads/urdu/Sad/SM25_F32_S082.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM24_F7_S019": {
+        "wav": "downloads/urdu/Sad/SM24_F7_S019.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM24_F21_S033": {
+        "wav": "downloads/urdu/Sad/SM24_F21_S033.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM24_F13_S025": {
+        "wav": "downloads/urdu/Sad/SM24_F13_S025.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM24_F9_S021": {
+        "wav": "downloads/urdu/Sad/SM24_F9_S021.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F6_S056": {
+        "wav": "downloads/urdu/Sad/SM25_F6_S056.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM6_F4_S0100": {
+        "wav": "downloads/urdu/Sad/SM6_F4_S0100.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F17_S067": {
+        "wav": "downloads/urdu/Sad/SM25_F17_S067.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM24_F38_S050": {
+        "wav": "downloads/urdu/Sad/SM24_F38_S050.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM24_F3_S015": {
+        "wav": "downloads/urdu/Sad/SM24_F3_S015.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM24_F29_S041": {
+        "wav": "downloads/urdu/Sad/SM24_F29_S041.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F25_S075": {
+        "wav": "downloads/urdu/Sad/SM25_F25_S075.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F11_S061": {
+        "wav": "downloads/urdu/Sad/SM25_F11_S061.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM24_F33_S045": {
+        "wav": "downloads/urdu/Sad/SM24_F33_S045.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F36_S086": {
+        "wav": "downloads/urdu/Sad/SM25_F36_S086.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SF11_F4_S06": {
+        "wav": "downloads/urdu/Sad/SF11_F4_S06.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM24_F24_S036": {
+        "wav": "downloads/urdu/Sad/SM24_F24_S036.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F23_S073": {
+        "wav": "downloads/urdu/Sad/SM25_F23_S073.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F27_S077": {
+        "wav": "downloads/urdu/Sad/SM25_F27_S077.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F39_S089": {
+        "wav": "downloads/urdu/Sad/SM25_F39_S089.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F30_S080": {
+        "wav": "downloads/urdu/Sad/SM25_F30_S080.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM24_F18_S030": {
+        "wav": "downloads/urdu/Sad/SM24_F18_S030.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM24_F17_S029": {
+        "wav": "downloads/urdu/Sad/SM24_F17_S029.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F9_S059": {
+        "wav": "downloads/urdu/Sad/SM25_F9_S059.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM24_F12_S024": {
+        "wav": "downloads/urdu/Sad/SM24_F12_S024.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F28_S078": {
+        "wav": "downloads/urdu/Sad/SM25_F28_S078.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM24_F30_S042": {
+        "wav": "downloads/urdu/Sad/SM24_F30_S042.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM26_F1_S091": {
+        "wav": "downloads/urdu/Sad/SM26_F1_S091.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM24_F37_S049": {
+        "wav": "downloads/urdu/Sad/SM24_F37_S049.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM24_F6_S018": {
+        "wav": "downloads/urdu/Sad/SM24_F6_S018.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F7_S057": {
+        "wav": "downloads/urdu/Sad/SM25_F7_S057.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F15_S065": {
+        "wav": "downloads/urdu/Sad/SM25_F15_S065.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM24_F23_S035": {
+        "wav": "downloads/urdu/Sad/SM24_F23_S035.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F5_S055": {
+        "wav": "downloads/urdu/Sad/SM25_F5_S055.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM26_F2_S092": {
+        "wav": "downloads/urdu/Sad/SM26_F2_S092.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F37_S087": {
+        "wav": "downloads/urdu/Sad/SM25_F37_S087.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM24_F36_S048": {
+        "wav": "downloads/urdu/Sad/SM24_F36_S048.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM27_F4_S096": {
+        "wav": "downloads/urdu/Sad/SM27_F4_S096.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F19_S069": {
+        "wav": "downloads/urdu/Sad/SM25_F19_S069.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM24_F2_S014": {
+        "wav": "downloads/urdu/Sad/SM24_F2_S014.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM24_F35_S047": {
+        "wav": "downloads/urdu/Sad/SM24_F35_S047.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM24_F20_S032": {
+        "wav": "downloads/urdu/Sad/SM24_F20_S032.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F34_S084": {
+        "wav": "downloads/urdu/Sad/SM25_F34_S084.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F12_S062": {
+        "wav": "downloads/urdu/Sad/SM25_F12_S062.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F10_S060": {
+        "wav": "downloads/urdu/Sad/SM25_F10_S060.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F13_S063": {
+        "wav": "downloads/urdu/Sad/SM25_F13_S063.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F2_S052": {
+        "wav": "downloads/urdu/Sad/SM25_F2_S052.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F8_S058": {
+        "wav": "downloads/urdu/Sad/SM25_F8_S058.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM24_F15_S027": {
+        "wav": "downloads/urdu/Sad/SM24_F15_S027.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM24_F10_S022": {
+        "wav": "downloads/urdu/Sad/SM24_F10_S022.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F20_S070": {
+        "wav": "downloads/urdu/Sad/SM25_F20_S070.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM24_F11_S023": {
+        "wav": "downloads/urdu/Sad/SM24_F11_S023.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM6_F1_S097": {
+        "wav": "downloads/urdu/Sad/SM6_F1_S097.wav",
+        "length": 2.0,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM23_F2_S08": {
+        "wav": "downloads/urdu/Sad/SM23_F2_S08.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM24_F22_S034": {
+        "wav": "downloads/urdu/Sad/SM24_F22_S034.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM25_F26_S076": {
+        "wav": "downloads/urdu/Sad/SM25_F26_S076.wav",
+        "length": 3.0035374149659866,
+        "emo": "S",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM2_F2_A024": {
+        "wav": "downloads/urdu/Angry/SM2_F2_A024.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM2_F4_A026": {
+        "wav": "downloads/urdu/Angry/SM2_F4_A026.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM2_F19_A041": {
+        "wav": "downloads/urdu/Angry/SM2_F19_A041.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F14_A066": {
+        "wav": "downloads/urdu/Angry/SM4_F14_A066.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F38_A090": {
+        "wav": "downloads/urdu/Angry/SM4_F38_A090.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F12_A064": {
+        "wav": "downloads/urdu/Angry/SM4_F12_A064.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM2_F18_A040": {
+        "wav": "downloads/urdu/Angry/SM2_F18_A040.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM1_F16_A016": {
+        "wav": "downloads/urdu/Angry/SM1_F16_A016.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F30_A082": {
+        "wav": "downloads/urdu/Angry/SM4_F30_A082.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM1_F2_A02": {
+        "wav": "downloads/urdu/Angry/SM1_F2_A02.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM1_F20_A020": {
+        "wav": "downloads/urdu/Angry/SM1_F20_A020.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM1_F22_A022": {
+        "wav": "downloads/urdu/Angry/SM1_F22_A022.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F2_A054": {
+        "wav": "downloads/urdu/Angry/SM4_F2_A054.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F42_A094": {
+        "wav": "downloads/urdu/Angry/SM4_F42_A094.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM1_F9_A09": {
+        "wav": "downloads/urdu/Angry/SM1_F9_A09.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F26_A078": {
+        "wav": "downloads/urdu/Angry/SM4_F26_A078.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM1_F5_A05": {
+        "wav": "downloads/urdu/Angry/SM1_F5_A05.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM2_F22_A044": {
+        "wav": "downloads/urdu/Angry/SM2_F22_A044.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM3_F1_A051": {
+        "wav": "downloads/urdu/Angry/SM3_F1_A051.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM1_F3_A03": {
+        "wav": "downloads/urdu/Angry/SM1_F3_A03.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F5_A057": {
+        "wav": "downloads/urdu/Angry/SM4_F5_A057.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F36_A088": {
+        "wav": "downloads/urdu/Angry/SM4_F36_A088.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM2_F13_A035": {
+        "wav": "downloads/urdu/Angry/SM2_F13_A035.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM2_F8_A030": {
+        "wav": "downloads/urdu/Angry/SM2_F8_A030.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM1_F13_A013": {
+        "wav": "downloads/urdu/Angry/SM1_F13_A013.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM2_F5_A027": {
+        "wav": "downloads/urdu/Angry/SM2_F5_A027.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM2_F6_A028": {
+        "wav": "downloads/urdu/Angry/SM2_F6_A028.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F8_A060": {
+        "wav": "downloads/urdu/Angry/SM4_F8_A060.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F44_A096": {
+        "wav": "downloads/urdu/Angry/SM4_F44_A096.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM2_F9_A031": {
+        "wav": "downloads/urdu/Angry/SM2_F9_A031.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F20_A072": {
+        "wav": "downloads/urdu/Angry/SM4_F20_A072.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F35_A087": {
+        "wav": "downloads/urdu/Angry/SM4_F35_A087.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F3_A055": {
+        "wav": "downloads/urdu/Angry/SM4_F3_A055.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F21_A073": {
+        "wav": "downloads/urdu/Angry/SM4_F21_A073.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM3_F2_A052": {
+        "wav": "downloads/urdu/Angry/SM3_F2_A052.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F11_A063": {
+        "wav": "downloads/urdu/Angry/SM4_F11_A063.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM2_F27_A049": {
+        "wav": "downloads/urdu/Angry/SM2_F27_A049.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM1_F11_A011": {
+        "wav": "downloads/urdu/Angry/SM1_F11_A011.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM2_F24_A046": {
+        "wav": "downloads/urdu/Angry/SM2_F24_A046.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F6_A058": {
+        "wav": "downloads/urdu/Angry/SM4_F6_A058.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM1_F1_A01": {
+        "wav": "downloads/urdu/Angry/SM1_F1_A01.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM2_F26_A048": {
+        "wav": "downloads/urdu/Angry/SM2_F26_A048.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F7_A059": {
+        "wav": "downloads/urdu/Angry/SM4_F7_A059.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM2_F15_A037": {
+        "wav": "downloads/urdu/Angry/SM2_F15_A037.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM2_F3_A025": {
+        "wav": "downloads/urdu/Angry/SM2_F3_A025.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F22_A074": {
+        "wav": "downloads/urdu/Angry/SM4_F22_A074.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F32_A084": {
+        "wav": "downloads/urdu/Angry/SM4_F32_A084.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F29_A081": {
+        "wav": "downloads/urdu/Angry/SM4_F29_A081.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM2_F11_A033": {
+        "wav": "downloads/urdu/Angry/SM2_F11_A033.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM1_F12_A012": {
+        "wav": "downloads/urdu/Angry/SM1_F12_A012.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F45_A097": {
+        "wav": "downloads/urdu/Angry/SM4_F45_A097.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F4_A056": {
+        "wav": "downloads/urdu/Angry/SM4_F4_A056.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM2_F17_A039": {
+        "wav": "downloads/urdu/Angry/SM2_F17_A039.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM2_F25_A047": {
+        "wav": "downloads/urdu/Angry/SM2_F25_A047.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM2_F23_A045": {
+        "wav": "downloads/urdu/Angry/SM2_F23_A045.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM2_F21_A043": {
+        "wav": "downloads/urdu/Angry/SM2_F21_A043.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F17_A069": {
+        "wav": "downloads/urdu/Angry/SM4_F17_A069.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F41_A093": {
+        "wav": "downloads/urdu/Angry/SM4_F41_A093.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F24_A076": {
+        "wav": "downloads/urdu/Angry/SM4_F24_A076.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F48_A0100": {
+        "wav": "downloads/urdu/Angry/SM4_F48_A0100.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F9_A061": {
+        "wav": "downloads/urdu/Angry/SM4_F9_A061.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F25_A077": {
+        "wav": "downloads/urdu/Angry/SM4_F25_A077.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM1_F6_A06": {
+        "wav": "downloads/urdu/Angry/SM1_F6_A06.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM1_F10_A010": {
+        "wav": "downloads/urdu/Angry/SM1_F10_A010.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F16_A068": {
+        "wav": "downloads/urdu/Angry/SM4_F16_A068.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM2_F20_A042": {
+        "wav": "downloads/urdu/Angry/SM2_F20_A042.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM2_F7_A029": {
+        "wav": "downloads/urdu/Angry/SM2_F7_A029.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F46_A098": {
+        "wav": "downloads/urdu/Angry/SM4_F46_A098.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F43_A095": {
+        "wav": "downloads/urdu/Angry/SM4_F43_A095.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM2_F28_A050": {
+        "wav": "downloads/urdu/Angry/SM2_F28_A050.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F28_A080": {
+        "wav": "downloads/urdu/Angry/SM4_F28_A080.wav",
+        "length": 3.0035374149659866,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM2_F1_A023": {
+        "wav": "downloads/urdu/Angry/SM2_F1_A023.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM4_F23_A075": {
+        "wav": "downloads/urdu/Angry/SM4_F23_A075.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM1_F15_A015": {
+        "wav": "downloads/urdu/Angry/SM1_F15_A015.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    },
+    "urdu-SM1_F19_A019": {
+        "wav": "downloads/urdu/Angry/SM1_F19_A019.wav",
+        "length": 2.0,
+        "emo": "A",
+        "dataset": "urdu",
+        "channel": 1
+    }
+}
