@@ -45,8 +45,8 @@ def replace_label(data, label_map, logger):
     return new_data    
 
 def prepare_data(
-    data_dir,
     dataset,
+    data_dir,
     meta_data_dir,
     label_map,
     meta_format='jsonl',
@@ -150,11 +150,11 @@ class EmoDataset(Dataset):
         super().__init__()
         self.data_dir = data_dir
         train_data, valid_data, test_data = prepare_data(dataset, data_dir, meta_data_dir, meta_format = meta_format, fold = fold)
-        if split = 'train':
+        if split == 'train':
             self.data_list = train_data
-        elif split = 'valid':
+        elif split == 'valid':
             self.data_list = valid_data
-        elif split = 'test':
+        elif split == 'test':
             self.data_list = test_data
         else:
             raise Exception(f'does not support split {split}')        
@@ -173,7 +173,7 @@ class EmoDataset(Dataset):
             
             audio = read_wav(data)
         elif data["type"] == "feature":
-            audio = torch.tensor(np.load(audio))
+            audio = np.load(audio)
         else:
             raise ValueError(f"Unknown data type: {data['type']}")
         label = data['emo']        
