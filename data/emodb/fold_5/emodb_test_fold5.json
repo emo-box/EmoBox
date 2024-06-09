@@ -1,0 +1,751 @@
+{
+    "emodb-03a01Wa": {
+        "wav": "downloads/emodb/wav/03a01Wa.wav",
+        "length": 1.8778125,
+        "emo": "anger",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-03a04Wc": {
+        "wav": "downloads/emodb/wav/03a04Wc.wav",
+        "length": 2.044125,
+        "emo": "anger",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-03a05Wa": {
+        "wav": "downloads/emodb/wav/03a05Wa.wav",
+        "length": 3.44075,
+        "emo": "anger",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-03b01Wa": {
+        "wav": "downloads/emodb/wav/03b01Wa.wav",
+        "length": 2.1798125,
+        "emo": "anger",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-03b09Wa": {
+        "wav": "downloads/emodb/wav/03b09Wa.wav",
+        "length": 2.89375,
+        "emo": "anger",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-03b10Wb": {
+        "wav": "downloads/emodb/wav/03b10Wb.wav",
+        "length": 2.1664375,
+        "emo": "anger",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-08a01Wc": {
+        "wav": "downloads/emodb/wav/08a01Wc.wav",
+        "length": 1.691,
+        "emo": "anger",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-09a02Wb": {
+        "wav": "downloads/emodb/wav/09a02Wb.wav",
+        "length": 1.6553125,
+        "emo": "anger",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-09a04Wa": {
+        "wav": "downloads/emodb/wav/09a04Wa.wav",
+        "length": 1.8368125,
+        "emo": "anger",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-09a05Wb": {
+        "wav": "downloads/emodb/wav/09a05Wb.wav",
+        "length": 3.4001875,
+        "emo": "anger",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-09a07Wb": {
+        "wav": "downloads/emodb/wav/09a07Wb.wav",
+        "length": 1.987625,
+        "emo": "anger",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-10a05Wb": {
+        "wav": "downloads/emodb/wav/10a05Wb.wav",
+        "length": 3.7520625,
+        "emo": "anger",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-11a04Wc": {
+        "wav": "downloads/emodb/wav/11a04Wc.wav",
+        "length": 2.6789375,
+        "emo": "anger",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-11a05Wd": {
+        "wav": "downloads/emodb/wav/11a05Wd.wav",
+        "length": 4.03825,
+        "emo": "anger",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-11b03Wb": {
+        "wav": "downloads/emodb/wav/11b03Wb.wav",
+        "length": 5.2135,
+        "emo": "anger",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-11b10Wa": {
+        "wav": "downloads/emodb/wav/11b10Wa.wav",
+        "length": 2.8858125,
+        "emo": "anger",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-13a01Wb": {
+        "wav": "downloads/emodb/wav/13a01Wb.wav",
+        "length": 2.36225,
+        "emo": "anger",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-13a04Wc": {
+        "wav": "downloads/emodb/wav/13a04Wc.wav",
+        "length": 1.9954375,
+        "emo": "anger",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-14a04Wb": {
+        "wav": "downloads/emodb/wav/14a04Wb.wav",
+        "length": 1.7368125,
+        "emo": "anger",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-14a04Wc": {
+        "wav": "downloads/emodb/wav/14a04Wc.wav",
+        "length": 2.5100625,
+        "emo": "anger",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-14b10Wc": {
+        "wav": "downloads/emodb/wav/14b10Wc.wav",
+        "length": 2.6553125,
+        "emo": "anger",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-15a04Wb": {
+        "wav": "downloads/emodb/wav/15a04Wb.wav",
+        "length": 1.8111875,
+        "emo": "anger",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-15a05Wa": {
+        "wav": "downloads/emodb/wav/15a05Wa.wav",
+        "length": 3.0985,
+        "emo": "anger",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-15b03Wa": {
+        "wav": "downloads/emodb/wav/15b03Wa.wav",
+        "length": 3.3629375,
+        "emo": "anger",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-16a04Wb": {
+        "wav": "downloads/emodb/wav/16a04Wb.wav",
+        "length": 2.5619375,
+        "emo": "anger",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-16a05Wb": {
+        "wav": "downloads/emodb/wav/16a05Wb.wav",
+        "length": 3.7410625,
+        "emo": "anger",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-03a04Lc": {
+        "wav": "downloads/emodb/wav/03a04Lc.wav",
+        "length": 1.931,
+        "emo": "boredem",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-03a07La": {
+        "wav": "downloads/emodb/wav/03a07La.wav",
+        "length": 2.4015625,
+        "emo": "boredem",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-03b02La": {
+        "wav": "downloads/emodb/wav/03b02La.wav",
+        "length": 3.4648125,
+        "emo": "boredem",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-08b02La": {
+        "wav": "downloads/emodb/wav/08b02La.wav",
+        "length": 3.45775,
+        "emo": "boredem",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-09a05Lc": {
+        "wav": "downloads/emodb/wav/09a05Lc.wav",
+        "length": 3.367375,
+        "emo": "boredem",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-10a02Lb": {
+        "wav": "downloads/emodb/wav/10a02Lb.wav",
+        "length": 1.5925,
+        "emo": "boredem",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-10a05Ld": {
+        "wav": "downloads/emodb/wav/10a05Ld.wav",
+        "length": 3.29575,
+        "emo": "boredem",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-10b02La": {
+        "wav": "downloads/emodb/wav/10b02La.wav",
+        "length": 2.6905625,
+        "emo": "boredem",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-11a02Ld": {
+        "wav": "downloads/emodb/wav/11a02Ld.wav",
+        "length": 1.6055,
+        "emo": "boredem",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-12a01Lb": {
+        "wav": "downloads/emodb/wav/12a01Lb.wav",
+        "length": 1.8865625,
+        "emo": "boredem",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-13b09La": {
+        "wav": "downloads/emodb/wav/13b09La.wav",
+        "length": 2.5901875,
+        "emo": "boredem",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-14a05Lb": {
+        "wav": "downloads/emodb/wav/14a05Lb.wav",
+        "length": 3.51925,
+        "emo": "boredem",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-14a07Lc": {
+        "wav": "downloads/emodb/wav/14a07Lc.wav",
+        "length": 2.99475,
+        "emo": "boredem",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-14b03Lb": {
+        "wav": "downloads/emodb/wav/14b03Lb.wav",
+        "length": 3.580125,
+        "emo": "boredem",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-15b01Lb": {
+        "wav": "downloads/emodb/wav/15b01Lb.wav",
+        "length": 2.326625,
+        "emo": "boredem",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-15b02Lb": {
+        "wav": "downloads/emodb/wav/15b02Lb.wav",
+        "length": 2.955625,
+        "emo": "boredem",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-15b10Lc": {
+        "wav": "downloads/emodb/wav/15b10Lc.wav",
+        "length": 2.467625,
+        "emo": "boredem",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-16b01La": {
+        "wav": "downloads/emodb/wav/16b01La.wav",
+        "length": 2.9439375,
+        "emo": "boredem",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-16b02Lb": {
+        "wav": "downloads/emodb/wav/16b02Lb.wav",
+        "length": 3.39875,
+        "emo": "boredem",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-16b03La": {
+        "wav": "downloads/emodb/wav/16b03La.wav",
+        "length": 4.035625,
+        "emo": "boredem",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-16b10Lb": {
+        "wav": "downloads/emodb/wav/16b10Lb.wav",
+        "length": 3.4426875,
+        "emo": "boredem",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-09a07Eb": {
+        "wav": "downloads/emodb/wav/09a07Eb.wav",
+        "length": 3.3458125,
+        "emo": "disgust",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-09b01Ea": {
+        "wav": "downloads/emodb/wav/09b01Ea.wav",
+        "length": 3.731625,
+        "emo": "disgust",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-13a01Ec": {
+        "wav": "downloads/emodb/wav/13a01Ec.wav",
+        "length": 2.3276875,
+        "emo": "disgust",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-14a01Ea": {
+        "wav": "downloads/emodb/wav/14a01Ea.wav",
+        "length": 3.1425,
+        "emo": "disgust",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-14b01Eb": {
+        "wav": "downloads/emodb/wav/14b01Eb.wav",
+        "length": 3.29175,
+        "emo": "disgust",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-15a07Eb": {
+        "wav": "downloads/emodb/wav/15a07Eb.wav",
+        "length": 2.397125,
+        "emo": "disgust",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-16a05Ea": {
+        "wav": "downloads/emodb/wav/16a05Ea.wav",
+        "length": 5.48875,
+        "emo": "disgust",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-03b10Ab": {
+        "wav": "downloads/emodb/wav/03b10Ab.wav",
+        "length": 2.82825,
+        "emo": "fear",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-08a02Ab": {
+        "wav": "downloads/emodb/wav/08a02Ab.wav",
+        "length": 1.584,
+        "emo": "fear",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-08a02Ac": {
+        "wav": "downloads/emodb/wav/08a02Ac.wav",
+        "length": 1.6863125,
+        "emo": "fear",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-08b01Aa": {
+        "wav": "downloads/emodb/wav/08b01Aa.wav",
+        "length": 2.676875,
+        "emo": "fear",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-10a07Ad": {
+        "wav": "downloads/emodb/wav/10a07Ad.wav",
+        "length": 1.603375,
+        "emo": "fear",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-10b01Aa": {
+        "wav": "downloads/emodb/wav/10b01Aa.wav",
+        "length": 2.0875625,
+        "emo": "fear",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-11a01Aa": {
+        "wav": "downloads/emodb/wav/11a01Aa.wav",
+        "length": 1.5573125,
+        "emo": "fear",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-11a01Ab": {
+        "wav": "downloads/emodb/wav/11a01Ab.wav",
+        "length": 1.50425,
+        "emo": "fear",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-13a04Ac": {
+        "wav": "downloads/emodb/wav/13a04Ac.wav",
+        "length": 1.531375,
+        "emo": "fear",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-13b09Ab": {
+        "wav": "downloads/emodb/wav/13b09Ab.wav",
+        "length": 2.71175,
+        "emo": "fear",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-14b03Ad": {
+        "wav": "downloads/emodb/wav/14b03Ad.wav",
+        "length": 3.5028125,
+        "emo": "fear",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-16b10Aa": {
+        "wav": "downloads/emodb/wav/16b10Aa.wav",
+        "length": 2.5826875,
+        "emo": "fear",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-03a01Fa": {
+        "wav": "downloads/emodb/wav/03a01Fa.wav",
+        "length": 1.89825,
+        "emo": "happy",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-03a02Fc": {
+        "wav": "downloads/emodb/wav/03a02Fc.wav",
+        "length": 2.00625,
+        "emo": "happy",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-03a07Fb": {
+        "wav": "downloads/emodb/wav/03a07Fb.wav",
+        "length": 2.449875,
+        "emo": "happy",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-03b01Fa": {
+        "wav": "downloads/emodb/wav/03b01Fa.wav",
+        "length": 2.3621875,
+        "emo": "happy",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-08b02Ff": {
+        "wav": "downloads/emodb/wav/08b02Ff.wav",
+        "length": 2.771125,
+        "emo": "happy",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-11a02Fb": {
+        "wav": "downloads/emodb/wav/11a02Fb.wav",
+        "length": 1.7853125,
+        "emo": "happy",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-11b03Fc": {
+        "wav": "downloads/emodb/wav/11b03Fc.wav",
+        "length": 3.8298125,
+        "emo": "happy",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-11b09Fd": {
+        "wav": "downloads/emodb/wav/11b09Fd.wav",
+        "length": 3.0365625,
+        "emo": "happy",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-14a05Fa": {
+        "wav": "downloads/emodb/wav/14a05Fa.wav",
+        "length": 3.2461875,
+        "emo": "happy",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-14a05Fb": {
+        "wav": "downloads/emodb/wav/14a05Fb.wav",
+        "length": 3.1286875,
+        "emo": "happy",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-14a07Fd": {
+        "wav": "downloads/emodb/wav/14a07Fd.wav",
+        "length": 2.0806875,
+        "emo": "happy",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-14b01Fa": {
+        "wav": "downloads/emodb/wav/14b01Fa.wav",
+        "length": 2.56025,
+        "emo": "happy",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-16a01Fc": {
+        "wav": "downloads/emodb/wav/16a01Fc.wav",
+        "length": 2.096375,
+        "emo": "happy",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-16b03Fa": {
+        "wav": "downloads/emodb/wav/16b03Fa.wav",
+        "length": 3.8655,
+        "emo": "happy",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-03a05Nd": {
+        "wav": "downloads/emodb/wav/03a05Nd.wav",
+        "length": 3.168,
+        "emo": "neutral",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-03a07Nc": {
+        "wav": "downloads/emodb/wav/03a07Nc.wav",
+        "length": 1.788125,
+        "emo": "neutral",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-08b02Nb": {
+        "wav": "downloads/emodb/wav/08b02Nb.wav",
+        "length": 3.0555,
+        "emo": "neutral",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-08b03Nb": {
+        "wav": "downloads/emodb/wav/08b03Nb.wav",
+        "length": 3.7216875,
+        "emo": "neutral",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-09a05Nb": {
+        "wav": "downloads/emodb/wav/09a05Nb.wav",
+        "length": 3.0775,
+        "emo": "neutral",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-11a05Na": {
+        "wav": "downloads/emodb/wav/11a05Na.wav",
+        "length": 3.3205,
+        "emo": "neutral",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-11b09Na": {
+        "wav": "downloads/emodb/wav/11b09Na.wav",
+        "length": 2.41925,
+        "emo": "neutral",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-13b01Nc": {
+        "wav": "downloads/emodb/wav/13b01Nc.wav",
+        "length": 2.431,
+        "emo": "neutral",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-13b02Nb": {
+        "wav": "downloads/emodb/wav/13b02Nb.wav",
+        "length": 2.78625,
+        "emo": "neutral",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-13b03Na": {
+        "wav": "downloads/emodb/wav/13b03Na.wav",
+        "length": 3.567,
+        "emo": "neutral",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-15a07Nc": {
+        "wav": "downloads/emodb/wav/15a07Nc.wav",
+        "length": 1.8811875,
+        "emo": "neutral",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-15b03Nb": {
+        "wav": "downloads/emodb/wav/15b03Nb.wav",
+        "length": 3.2004375,
+        "emo": "neutral",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-15b10Nb": {
+        "wav": "downloads/emodb/wav/15b10Nb.wav",
+        "length": 2.21325,
+        "emo": "neutral",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-16a02Nb": {
+        "wav": "downloads/emodb/wav/16a02Nb.wav",
+        "length": 1.6604375,
+        "emo": "neutral",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-03b01Td": {
+        "wav": "downloads/emodb/wav/03b01Td.wav",
+        "length": 3.3906875,
+        "emo": "sad",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-03b02Tb": {
+        "wav": "downloads/emodb/wav/03b02Tb.wav",
+        "length": 5.126875,
+        "emo": "sad",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-08a05Ta": {
+        "wav": "downloads/emodb/wav/08a05Ta.wav",
+        "length": 5.6214375,
+        "emo": "sad",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-08b03Tc": {
+        "wav": "downloads/emodb/wav/08b03Tc.wav",
+        "length": 8.97825,
+        "emo": "sad",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-08b09Tb": {
+        "wav": "downloads/emodb/wav/08b09Tb.wav",
+        "length": 6.7514375,
+        "emo": "sad",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-09b02Tb": {
+        "wav": "downloads/emodb/wav/09b02Tb.wav",
+        "length": 3.6546875,
+        "emo": "sad",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-10a05Tb": {
+        "wav": "downloads/emodb/wav/10a05Tb.wav",
+        "length": 3.3339375,
+        "emo": "sad",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-11a07Ta": {
+        "wav": "downloads/emodb/wav/11a07Ta.wav",
+        "length": 2.167375,
+        "emo": "sad",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-13a07Tc": {
+        "wav": "downloads/emodb/wav/13a07Tc.wav",
+        "length": 2.3416875,
+        "emo": "sad",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-14a04Tc": {
+        "wav": "downloads/emodb/wav/14a04Tc.wav",
+        "length": 2.93475,
+        "emo": "sad",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-16a01Tb": {
+        "wav": "downloads/emodb/wav/16a01Tb.wav",
+        "length": 2.6075625,
+        "emo": "sad",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-16a04Tc": {
+        "wav": "downloads/emodb/wav/16a04Tc.wav",
+        "length": 3.1656875,
+        "emo": "sad",
+        "dataset": "emodb",
+        "channel": 1
+    },
+    "emodb-16a07Td": {
+        "wav": "downloads/emodb/wav/16a07Td.wav",
+        "length": 3.7295,
+        "emo": "sad",
+        "dataset": "emodb",
+        "channel": 1
+    }
+}

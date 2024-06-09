@@ -1,0 +1,2522 @@
+{
+    "savee-JE-n23": {
+        "wav": "downloads/savee/JE_n23.wav",
+        "length": 3.3752607709750566,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-f12": {
+        "wav": "downloads/savee/JE_f12.wav",
+        "length": 5.128185941043084,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-sa08": {
+        "wav": "downloads/savee/JE_sa08.wav",
+        "length": 4.133265306122449,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-n22": {
+        "wav": "downloads/savee/JE_n22.wav",
+        "length": 3.0377551020408164,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-f10": {
+        "wav": "downloads/savee/JE_f10.wav",
+        "length": 3.0597732426303854,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-h12": {
+        "wav": "downloads/savee/JE_h12.wav",
+        "length": 5.61718820861678,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-a12": {
+        "wav": "downloads/savee/JE_a12.wav",
+        "length": 3.8397278911564627,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-n01": {
+        "wav": "downloads/savee/JE_n01.wav",
+        "length": 3.6979591836734693,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-f01": {
+        "wav": "downloads/savee/JE_f01.wav",
+        "length": 4.2,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-f11": {
+        "wav": "downloads/savee/JE_f11.wav",
+        "length": 4.522789115646258,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-h14": {
+        "wav": "downloads/savee/JE_h14.wav",
+        "length": 5.32,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-n27": {
+        "wav": "downloads/savee/JE_n27.wav",
+        "length": 5.269274376417234,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-n03": {
+        "wav": "downloads/savee/JE_n03.wav",
+        "length": 2.0963038548752833,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-sa04": {
+        "wav": "downloads/savee/JE_sa04.wav",
+        "length": 5.031451247165533,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-sa13": {
+        "wav": "downloads/savee/JE_sa13.wav",
+        "length": 6.00578231292517,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-su11": {
+        "wav": "downloads/savee/JE_su11.wav",
+        "length": 3.636394557823129,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-sa05": {
+        "wav": "downloads/savee/JE_sa05.wav",
+        "length": 4.832290249433107,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-d12": {
+        "wav": "downloads/savee/JE_d12.wav",
+        "length": 3.0103174603174603,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-f15": {
+        "wav": "downloads/savee/JE_f15.wav",
+        "length": 5.6624036281179135,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-su01": {
+        "wav": "downloads/savee/JE_su01.wav",
+        "length": 4.259750566893424,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-a06": {
+        "wav": "downloads/savee/JE_a06.wav",
+        "length": 4.139546485260771,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-n25": {
+        "wav": "downloads/savee/JE_n25.wav",
+        "length": 3.6404761904761904,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-d14": {
+        "wav": "downloads/savee/JE_d14.wav",
+        "length": 5.622312925170068,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-sa09": {
+        "wav": "downloads/savee/JE_sa09.wav",
+        "length": 3.694965986394558,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-n15": {
+        "wav": "downloads/savee/JE_n15.wav",
+        "length": 5.458390022675737,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-h01": {
+        "wav": "downloads/savee/JE_h01.wav",
+        "length": 4.608820861678004,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-h11": {
+        "wav": "downloads/savee/JE_h11.wav",
+        "length": 5.412857142857143,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-n08": {
+        "wav": "downloads/savee/JE_n08.wav",
+        "length": 3.1761224489795916,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-n17": {
+        "wav": "downloads/savee/JE_n17.wav",
+        "length": 3.0028117913832197,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-d05": {
+        "wav": "downloads/savee/JE_d05.wav",
+        "length": 3.530861678004535,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-d03": {
+        "wav": "downloads/savee/JE_d03.wav",
+        "length": 2.505011337868481,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-d01": {
+        "wav": "downloads/savee/JE_d01.wav",
+        "length": 4.410544217687074,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-su14": {
+        "wav": "downloads/savee/JE_su14.wav",
+        "length": 5.352517006802721,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-d15": {
+        "wav": "downloads/savee/JE_d15.wav",
+        "length": 6.032743764172336,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-su03": {
+        "wav": "downloads/savee/JE_su03.wav",
+        "length": 2.909092970521542,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-h15": {
+        "wav": "downloads/savee/JE_h15.wav",
+        "length": 5.021292517006803,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-su08": {
+        "wav": "downloads/savee/JE_su08.wav",
+        "length": 4.8415192743764175,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-su15": {
+        "wav": "downloads/savee/JE_su15.wav",
+        "length": 6.129501133786848,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-d09": {
+        "wav": "downloads/savee/JE_d09.wav",
+        "length": 4.098798185941043,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-d04": {
+        "wav": "downloads/savee/JE_d04.wav",
+        "length": 4.117845804988662,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-n10": {
+        "wav": "downloads/savee/JE_n10.wav",
+        "length": 3.8209750566893423,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-a13": {
+        "wav": "downloads/savee/JE_a13.wav",
+        "length": 5.330907029478458,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-n09": {
+        "wav": "downloads/savee/JE_n09.wav",
+        "length": 3.647777777777778,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-f06": {
+        "wav": "downloads/savee/JE_f06.wav",
+        "length": 3.6105668934240365,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-sa12": {
+        "wav": "downloads/savee/JE_sa12.wav",
+        "length": 5.3907482993197275,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-d02": {
+        "wav": "downloads/savee/JE_d02.wav",
+        "length": 3.542108843537415,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-su02": {
+        "wav": "downloads/savee/JE_su02.wav",
+        "length": 3.8095238095238093,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-h10": {
+        "wav": "downloads/savee/JE_h10.wav",
+        "length": 3.664761904761905,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-h05": {
+        "wav": "downloads/savee/JE_h05.wav",
+        "length": 4.305351473922903,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-sa11": {
+        "wav": "downloads/savee/JE_sa11.wav",
+        "length": 5.933424036281179,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-d11": {
+        "wav": "downloads/savee/JE_d11.wav",
+        "length": 3.6465532879818596,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-n11": {
+        "wav": "downloads/savee/JE_n11.wav",
+        "length": 5.3321768707483,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-sa01": {
+        "wav": "downloads/savee/JE_sa01.wav",
+        "length": 4.570226757369615,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-su06": {
+        "wav": "downloads/savee/JE_su06.wav",
+        "length": 3.414988662131519,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-f08": {
+        "wav": "downloads/savee/JE_f08.wav",
+        "length": 4.81312925170068,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-h09": {
+        "wav": "downloads/savee/JE_h09.wav",
+        "length": 4.048299319727891,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-h07": {
+        "wav": "downloads/savee/JE_h07.wav",
+        "length": 4.048299319727891,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-f09": {
+        "wav": "downloads/savee/JE_f09.wav",
+        "length": 4.194285714285714,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-a01": {
+        "wav": "downloads/savee/JE_a01.wav",
+        "length": 3.5593197278911566,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-a15": {
+        "wav": "downloads/savee/JE_a15.wav",
+        "length": 6.106916099773243,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-n21": {
+        "wav": "downloads/savee/JE_n21.wav",
+        "length": 3.8333333333333335,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-n19": {
+        "wav": "downloads/savee/JE_n19.wav",
+        "length": 3.4748299319727893,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-n05": {
+        "wav": "downloads/savee/JE_n05.wav",
+        "length": 4.362607709750567,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-sa07": {
+        "wav": "downloads/savee/JE_sa07.wav",
+        "length": 3.4401133786848073,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-n30": {
+        "wav": "downloads/savee/JE_n30.wav",
+        "length": 3.6878684807256237,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-a09": {
+        "wav": "downloads/savee/JE_a09.wav",
+        "length": 4.869024943310658,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-sa06": {
+        "wav": "downloads/savee/JE_sa06.wav",
+        "length": 4.4025170068027215,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-n12": {
+        "wav": "downloads/savee/JE_n12.wav",
+        "length": 3.2813378684807257,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-a14": {
+        "wav": "downloads/savee/JE_a14.wav",
+        "length": 7.024829931972789,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-a08": {
+        "wav": "downloads/savee/JE_a08.wav",
+        "length": 4.223786848072562,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-n29": {
+        "wav": "downloads/savee/JE_n29.wav",
+        "length": 3.3479138321995463,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-sa15": {
+        "wav": "downloads/savee/JE_sa15.wav",
+        "length": 6.242766439909297,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-f05": {
+        "wav": "downloads/savee/JE_f05.wav",
+        "length": 3.9771655328798188,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-n18": {
+        "wav": "downloads/savee/JE_n18.wav",
+        "length": 2.0776643990929706,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-sa10": {
+        "wav": "downloads/savee/JE_sa10.wav",
+        "length": 5.319705215419501,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-a10": {
+        "wav": "downloads/savee/JE_a10.wav",
+        "length": 5.1539002267573695,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-a05": {
+        "wav": "downloads/savee/JE_a05.wav",
+        "length": 3.203764172335601,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-n02": {
+        "wav": "downloads/savee/JE_n02.wav",
+        "length": 3.3865986394557823,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-d10": {
+        "wav": "downloads/savee/JE_d10.wav",
+        "length": 3.577959183673469,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-h02": {
+        "wav": "downloads/savee/JE_h02.wav",
+        "length": 3.482222222222222,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-f13": {
+        "wav": "downloads/savee/JE_f13.wav",
+        "length": 3.1695238095238096,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-a11": {
+        "wav": "downloads/savee/JE_a11.wav",
+        "length": 3.240453514739229,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-su13": {
+        "wav": "downloads/savee/JE_su13.wav",
+        "length": 4.924875283446712,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-h06": {
+        "wav": "downloads/savee/JE_h06.wav",
+        "length": 4.517052154195011,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-f02": {
+        "wav": "downloads/savee/JE_f02.wav",
+        "length": 3.9085714285714284,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-su05": {
+        "wav": "downloads/savee/JE_su05.wav",
+        "length": 3.740249433106576,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-f03": {
+        "wav": "downloads/savee/JE_f03.wav",
+        "length": 2.9314285714285715,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-n14": {
+        "wav": "downloads/savee/JE_n14.wav",
+        "length": 5.458390022675737,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-h03": {
+        "wav": "downloads/savee/JE_h03.wav",
+        "length": 2.560453514739229,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-n13": {
+        "wav": "downloads/savee/JE_n13.wav",
+        "length": 2.7449659863945577,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-sa02": {
+        "wav": "downloads/savee/JE_sa02.wav",
+        "length": 3.710702947845805,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-d07": {
+        "wav": "downloads/savee/JE_d07.wav",
+        "length": 2.881768707482993,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-a04": {
+        "wav": "downloads/savee/JE_a04.wav",
+        "length": 3.2797732426303856,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-sa03": {
+        "wav": "downloads/savee/JE_sa03.wav",
+        "length": 2.5366666666666666,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-n20": {
+        "wav": "downloads/savee/JE_n20.wav",
+        "length": 3.6792517006802723,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-d08": {
+        "wav": "downloads/savee/JE_d08.wav",
+        "length": 4.288662131519274,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-a02": {
+        "wav": "downloads/savee/JE_a02.wav",
+        "length": 3.0939002267573694,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-d13": {
+        "wav": "downloads/savee/JE_d13.wav",
+        "length": 5.59249433106576,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-su12": {
+        "wav": "downloads/savee/JE_su12.wav",
+        "length": 5.669365079365079,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-f07": {
+        "wav": "downloads/savee/JE_f07.wav",
+        "length": 4.159909297052154,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-n24": {
+        "wav": "downloads/savee/JE_n24.wav",
+        "length": 3.833310657596372,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-n06": {
+        "wav": "downloads/savee/JE_n06.wav",
+        "length": 3.975873015873016,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-su09": {
+        "wav": "downloads/savee/JE_su09.wav",
+        "length": 3.933718820861678,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-h04": {
+        "wav": "downloads/savee/JE_h04.wav",
+        "length": 3.6187755102040815,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-sa14": {
+        "wav": "downloads/savee/JE_sa14.wav",
+        "length": 7.138730158730159,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-h08": {
+        "wav": "downloads/savee/JE_h08.wav",
+        "length": 3.4943083900226757,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-n04": {
+        "wav": "downloads/savee/JE_n04.wav",
+        "length": 3.4560997732426304,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-h13": {
+        "wav": "downloads/savee/JE_h13.wav",
+        "length": 2.868888888888889,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-a03": {
+        "wav": "downloads/savee/JE_a03.wav",
+        "length": 2.201111111111111,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-su04": {
+        "wav": "downloads/savee/JE_su04.wav",
+        "length": 4.190476190476191,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-d06": {
+        "wav": "downloads/savee/JE_d06.wav",
+        "length": 3.140952380952381,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-su10": {
+        "wav": "downloads/savee/JE_su10.wav",
+        "length": 4.193083900226758,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-a07": {
+        "wav": "downloads/savee/JE_a07.wav",
+        "length": 3.0869614512471655,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-n28": {
+        "wav": "downloads/savee/JE_n28.wav",
+        "length": 4.939863945578232,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-f04": {
+        "wav": "downloads/savee/JE_f04.wav",
+        "length": 3.3942630385487527,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-n07": {
+        "wav": "downloads/savee/JE_n07.wav",
+        "length": 4.105873015873016,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-n16": {
+        "wav": "downloads/savee/JE_n16.wav",
+        "length": 3.4460544217687077,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-f14": {
+        "wav": "downloads/savee/JE_f14.wav",
+        "length": 4.843310657596372,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-n26": {
+        "wav": "downloads/savee/JE_n26.wav",
+        "length": 2.4985034013605443,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JE-su07": {
+        "wav": "downloads/savee/JE_su07.wav",
+        "length": 4.409206349206349,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-su02": {
+        "wav": "downloads/savee/KL_su02.wav",
+        "length": 2.713265306122449,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-h12": {
+        "wav": "downloads/savee/KL_h12.wav",
+        "length": 4.850204081632653,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-h02": {
+        "wav": "downloads/savee/KL_h02.wav",
+        "length": 2.403424036281179,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-sa14": {
+        "wav": "downloads/savee/KL_sa14.wav",
+        "length": 5.106394557823129,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-su14": {
+        "wav": "downloads/savee/KL_su14.wav",
+        "length": 5.267619047619047,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-sa09": {
+        "wav": "downloads/savee/KL_sa09.wav",
+        "length": 2.588888888888889,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-d02": {
+        "wav": "downloads/savee/KL_d02.wav",
+        "length": 2.803469387755102,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-n18": {
+        "wav": "downloads/savee/KL_n18.wav",
+        "length": 1.855079365079365,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-sa06": {
+        "wav": "downloads/savee/KL_sa06.wav",
+        "length": 3.499297052154195,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-n08": {
+        "wav": "downloads/savee/KL_n08.wav",
+        "length": 3.2307709750566893,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-f14": {
+        "wav": "downloads/savee/KL_f14.wav",
+        "length": 3.9713378684807257,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-sa12": {
+        "wav": "downloads/savee/KL_sa12.wav",
+        "length": 4.503537414965987,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-su01": {
+        "wav": "downloads/savee/KL_su01.wav",
+        "length": 3.5296598639455783,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-d12": {
+        "wav": "downloads/savee/KL_d12.wav",
+        "length": 2.3141269841269843,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-n06": {
+        "wav": "downloads/savee/KL_n06.wav",
+        "length": 3.292312925170068,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-n30": {
+        "wav": "downloads/savee/KL_n30.wav",
+        "length": 3.554920634920635,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-h03": {
+        "wav": "downloads/savee/KL_h03.wav",
+        "length": 1.630907029478458,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-su15": {
+        "wav": "downloads/savee/KL_su15.wav",
+        "length": 5.856326530612245,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-d08": {
+        "wav": "downloads/savee/KL_d08.wav",
+        "length": 3.290045351473923,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-n29": {
+        "wav": "downloads/savee/KL_n29.wav",
+        "length": 2.774580498866213,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-d10": {
+        "wav": "downloads/savee/KL_d10.wav",
+        "length": 3.434331065759637,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-sa04": {
+        "wav": "downloads/savee/KL_sa04.wav",
+        "length": 4.7293424036281175,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-sa15": {
+        "wav": "downloads/savee/KL_sa15.wav",
+        "length": 5.23952380952381,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-n10": {
+        "wav": "downloads/savee/KL_n10.wav",
+        "length": 3.446145124716553,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-n25": {
+        "wav": "downloads/savee/KL_n25.wav",
+        "length": 3.1548526077097505,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-sa11": {
+        "wav": "downloads/savee/KL_sa11.wav",
+        "length": 5.531927437641723,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-su04": {
+        "wav": "downloads/savee/KL_su04.wav",
+        "length": 2.862154195011338,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-d03": {
+        "wav": "downloads/savee/KL_d03.wav",
+        "length": 1.8497278911564625,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-h07": {
+        "wav": "downloads/savee/KL_h07.wav",
+        "length": 2.9428798185941045,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-sa10": {
+        "wav": "downloads/savee/KL_sa10.wav",
+        "length": 4.153628117913832,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-d13": {
+        "wav": "downloads/savee/KL_d13.wav",
+        "length": 4.374625850340136,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-h13": {
+        "wav": "downloads/savee/KL_h13.wav",
+        "length": 2.3181179138321997,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-n14": {
+        "wav": "downloads/savee/KL_n14.wav",
+        "length": 5.031451247165533,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-n02": {
+        "wav": "downloads/savee/KL_n02.wav",
+        "length": 2.520997732426304,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-f03": {
+        "wav": "downloads/savee/KL_f03.wav",
+        "length": 1.8103401360544218,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-h06": {
+        "wav": "downloads/savee/KL_h06.wav",
+        "length": 3.0856916099773244,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-sa05": {
+        "wav": "downloads/savee/KL_sa05.wav",
+        "length": 4.301995464852608,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-h11": {
+        "wav": "downloads/savee/KL_h11.wav",
+        "length": 5.527823129251701,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-n21": {
+        "wav": "downloads/savee/KL_n21.wav",
+        "length": 3.2995691609977325,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-su03": {
+        "wav": "downloads/savee/KL_su03.wav",
+        "length": 1.7048072562358276,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-a06": {
+        "wav": "downloads/savee/KL_a06.wav",
+        "length": 3.0455102040816326,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-a07": {
+        "wav": "downloads/savee/KL_a07.wav",
+        "length": 1.8773696145124716,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-h05": {
+        "wav": "downloads/savee/KL_h05.wav",
+        "length": 3.376235827664399,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-su11": {
+        "wav": "downloads/savee/KL_su11.wav",
+        "length": 2.0140589569160996,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-n15": {
+        "wav": "downloads/savee/KL_n15.wav",
+        "length": 4.234807256235828,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-su09": {
+        "wav": "downloads/savee/KL_su09.wav",
+        "length": 2.708027210884354,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-su13": {
+        "wav": "downloads/savee/KL_su13.wav",
+        "length": 3.532380952380952,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-n05": {
+        "wav": "downloads/savee/KL_n05.wav",
+        "length": 2.605034013605442,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-h14": {
+        "wav": "downloads/savee/KL_h14.wav",
+        "length": 4.63625850340136,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-n09": {
+        "wav": "downloads/savee/KL_n09.wav",
+        "length": 3.3538548752834467,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-d15": {
+        "wav": "downloads/savee/KL_d15.wav",
+        "length": 5.334444444444444,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-a01": {
+        "wav": "downloads/savee/KL_a01.wav",
+        "length": 3.962267573696145,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-sa13": {
+        "wav": "downloads/savee/KL_sa13.wav",
+        "length": 5.0,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-f13": {
+        "wav": "downloads/savee/KL_f13.wav",
+        "length": 2.5214739229024943,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-n27": {
+        "wav": "downloads/savee/KL_n27.wav",
+        "length": 4.109002267573696,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-n19": {
+        "wav": "downloads/savee/KL_n19.wav",
+        "length": 2.8115873015873016,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-f09": {
+        "wav": "downloads/savee/KL_f09.wav",
+        "length": 3.357233560090703,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-a03": {
+        "wav": "downloads/savee/KL_a03.wav",
+        "length": 1.7610204081632652,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-d04": {
+        "wav": "downloads/savee/KL_d04.wav",
+        "length": 3.410408163265306,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-n24": {
+        "wav": "downloads/savee/KL_n24.wav",
+        "length": 3.0101360544217686,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-n03": {
+        "wav": "downloads/savee/KL_n03.wav",
+        "length": 1.6526530612244898,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-sa01": {
+        "wav": "downloads/savee/KL_sa01.wav",
+        "length": 3.7891609977324263,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-d09": {
+        "wav": "downloads/savee/KL_d09.wav",
+        "length": 3.8672562358276643,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-sa08": {
+        "wav": "downloads/savee/KL_sa08.wav",
+        "length": 2.702721088435374,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-a14": {
+        "wav": "downloads/savee/KL_a14.wav",
+        "length": 4.845918367346939,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-su08": {
+        "wav": "downloads/savee/KL_su08.wav",
+        "length": 3.497891156462585,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-n20": {
+        "wav": "downloads/savee/KL_n20.wav",
+        "length": 2.811609977324263,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-a11": {
+        "wav": "downloads/savee/KL_a11.wav",
+        "length": 2.410884353741497,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-d11": {
+        "wav": "downloads/savee/KL_d11.wav",
+        "length": 3.1700226757369614,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-f01": {
+        "wav": "downloads/savee/KL_f01.wav",
+        "length": 3.936780045351474,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-d07": {
+        "wav": "downloads/savee/KL_d07.wav",
+        "length": 1.9047619047619047,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-f05": {
+        "wav": "downloads/savee/KL_f05.wav",
+        "length": 3.275873015873016,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-f07": {
+        "wav": "downloads/savee/KL_f07.wav",
+        "length": 3.185079365079365,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-n28": {
+        "wav": "downloads/savee/KL_n28.wav",
+        "length": 3.857437641723356,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-d01": {
+        "wav": "downloads/savee/KL_d01.wav",
+        "length": 3.786122448979592,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-su10": {
+        "wav": "downloads/savee/KL_su10.wav",
+        "length": 3.0183219954648526,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-d05": {
+        "wav": "downloads/savee/KL_d05.wav",
+        "length": 2.9190702947845804,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-h09": {
+        "wav": "downloads/savee/KL_h09.wav",
+        "length": 3.057142857142857,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-h15": {
+        "wav": "downloads/savee/KL_h15.wav",
+        "length": 5.349478458049886,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-a05": {
+        "wav": "downloads/savee/KL_a05.wav",
+        "length": 2.9979138321995467,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-f12": {
+        "wav": "downloads/savee/KL_f12.wav",
+        "length": 4.633242630385488,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-n13": {
+        "wav": "downloads/savee/KL_n13.wav",
+        "length": 2.431859410430839,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-a13": {
+        "wav": "downloads/savee/KL_a13.wav",
+        "length": 4.580702947845805,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-a02": {
+        "wav": "downloads/savee/KL_a02.wav",
+        "length": 2.4737868480725624,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-d06": {
+        "wav": "downloads/savee/KL_d06.wav",
+        "length": 2.799410430839002,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-a15": {
+        "wav": "downloads/savee/KL_a15.wav",
+        "length": 4.002086167800454,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-f11": {
+        "wav": "downloads/savee/KL_f11.wav",
+        "length": 4.412607709750567,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-n07": {
+        "wav": "downloads/savee/KL_n07.wav",
+        "length": 3.815374149659864,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-n11": {
+        "wav": "downloads/savee/KL_n11.wav",
+        "length": 5.450725623582766,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-a08": {
+        "wav": "downloads/savee/KL_a08.wav",
+        "length": 3.128934240362812,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-f02": {
+        "wav": "downloads/savee/KL_f02.wav",
+        "length": 2.6724263038548752,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-a04": {
+        "wav": "downloads/savee/KL_a04.wav",
+        "length": 2.7672789115646257,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-su12": {
+        "wav": "downloads/savee/KL_su12.wav",
+        "length": 3.9042403628117914,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-h10": {
+        "wav": "downloads/savee/KL_h10.wav",
+        "length": 2.7714285714285714,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-f04": {
+        "wav": "downloads/savee/KL_f04.wav",
+        "length": 2.8735600907029477,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-n22": {
+        "wav": "downloads/savee/KL_n22.wav",
+        "length": 2.460204081632653,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-f08": {
+        "wav": "downloads/savee/KL_f08.wav",
+        "length": 3.9311337868480725,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-n04": {
+        "wav": "downloads/savee/KL_n04.wav",
+        "length": 3.0252154195011336,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-su05": {
+        "wav": "downloads/savee/KL_su05.wav",
+        "length": 2.3771201814058958,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-sa02": {
+        "wav": "downloads/savee/KL_sa02.wav",
+        "length": 2.7065759637188207,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-n17": {
+        "wav": "downloads/savee/KL_n17.wav",
+        "length": 2.608684807256236,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-sa07": {
+        "wav": "downloads/savee/KL_sa07.wav",
+        "length": 2.219047619047619,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-h01": {
+        "wav": "downloads/savee/KL_h01.wav",
+        "length": 3.6051700680272107,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-n26": {
+        "wav": "downloads/savee/KL_n26.wav",
+        "length": 2.431859410430839,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-a09": {
+        "wav": "downloads/savee/KL_a09.wav",
+        "length": 3.316666666666667,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-h08": {
+        "wav": "downloads/savee/KL_h08.wav",
+        "length": 2.1142857142857143,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-a10": {
+        "wav": "downloads/savee/KL_a10.wav",
+        "length": 3.8173015873015874,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-su06": {
+        "wav": "downloads/savee/KL_su06.wav",
+        "length": 2.4259410430839004,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-sa03": {
+        "wav": "downloads/savee/KL_sa03.wav",
+        "length": 1.7663718820861678,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-f10": {
+        "wav": "downloads/savee/KL_f10.wav",
+        "length": 2.381655328798186,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-n01": {
+        "wav": "downloads/savee/KL_n01.wav",
+        "length": 3.5854421768707483,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-su07": {
+        "wav": "downloads/savee/KL_su07.wav",
+        "length": 2.849092970521542,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-h04": {
+        "wav": "downloads/savee/KL_h04.wav",
+        "length": 2.6895691609977326,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-a12": {
+        "wav": "downloads/savee/KL_a12.wav",
+        "length": 3.0859637188208615,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-d14": {
+        "wav": "downloads/savee/KL_d14.wav",
+        "length": 4.5331519274376415,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-n16": {
+        "wav": "downloads/savee/KL_n16.wav",
+        "length": 3.8260997732426305,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-f06": {
+        "wav": "downloads/savee/KL_f06.wav",
+        "length": 2.553809523809524,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-n12": {
+        "wav": "downloads/savee/KL_n12.wav",
+        "length": 2.5995918367346937,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-f15": {
+        "wav": "downloads/savee/KL_f15.wav",
+        "length": 4.790839002267574,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-KL-n23": {
+        "wav": "downloads/savee/KL_n23.wav",
+        "length": 2.6338548752834465,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-n25": {
+        "wav": "downloads/savee/JK_n25.wav",
+        "length": 3.482176870748299,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-a15": {
+        "wav": "downloads/savee/JK_a15.wav",
+        "length": 5.177845804988662,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-h13": {
+        "wav": "downloads/savee/JK_h13.wav",
+        "length": 2.620544217687075,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-n13": {
+        "wav": "downloads/savee/JK_n13.wav",
+        "length": 2.830181405895692,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-n20": {
+        "wav": "downloads/savee/JK_n20.wav",
+        "length": 3.3289115646258503,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-h12": {
+        "wav": "downloads/savee/JK_h12.wav",
+        "length": 4.952834467120182,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-sa04": {
+        "wav": "downloads/savee/JK_sa04.wav",
+        "length": 5.647709750566894,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-n14": {
+        "wav": "downloads/savee/JK_n14.wav",
+        "length": 4.952834467120182,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-su09": {
+        "wav": "downloads/savee/JK_su09.wav",
+        "length": 3.4129931972789116,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-sa01": {
+        "wav": "downloads/savee/JK_sa01.wav",
+        "length": 4.511836734693878,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-h01": {
+        "wav": "downloads/savee/JK_h01.wav",
+        "length": 3.920340136054422,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-d02": {
+        "wav": "downloads/savee/JK_d02.wav",
+        "length": 3.983219954648526,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-n15": {
+        "wav": "downloads/savee/JK_n15.wav",
+        "length": 5.031451247165533,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-f10": {
+        "wav": "downloads/savee/JK_f10.wav",
+        "length": 1.8962358276643991,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-n02": {
+        "wav": "downloads/savee/JK_n02.wav",
+        "length": 3.9622902494331065,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-n26": {
+        "wav": "downloads/savee/JK_n26.wav",
+        "length": 2.9088208616780045,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-sa12": {
+        "wav": "downloads/savee/JK_sa12.wav",
+        "length": 5.408798185941043,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-n18": {
+        "wav": "downloads/savee/JK_n18.wav",
+        "length": 2.2543990929705213,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-n24": {
+        "wav": "downloads/savee/JK_n24.wav",
+        "length": 3.5303854875283447,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-sa11": {
+        "wav": "downloads/savee/JK_sa11.wav",
+        "length": 6.242131519274376,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-su03": {
+        "wav": "downloads/savee/JK_su03.wav",
+        "length": 2.6415192743764173,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-f06": {
+        "wav": "downloads/savee/JK_f06.wav",
+        "length": 3.5606802721088435,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-h07": {
+        "wav": "downloads/savee/JK_h07.wav",
+        "length": 3.459092970521542,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-f02": {
+        "wav": "downloads/savee/JK_f02.wav",
+        "length": 3.5901360544217686,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-a04": {
+        "wav": "downloads/savee/JK_a04.wav",
+        "length": 3.522018140589569,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-n08": {
+        "wav": "downloads/savee/JK_n08.wav",
+        "length": 3.544331065759637,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-f04": {
+        "wav": "downloads/savee/JK_f04.wav",
+        "length": 3.144671201814059,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-a03": {
+        "wav": "downloads/savee/JK_a03.wav",
+        "length": 2.515736961451247,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-su02": {
+        "wav": "downloads/savee/JK_su02.wav",
+        "length": 3.878390022675737,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-n03": {
+        "wav": "downloads/savee/JK_n03.wav",
+        "length": 2.494761904761905,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-sa02": {
+        "wav": "downloads/savee/JK_sa02.wav",
+        "length": 4.290997732426304,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-d01": {
+        "wav": "downloads/savee/JK_d01.wav",
+        "length": 5.136281179138322,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-a02": {
+        "wav": "downloads/savee/JK_a02.wav",
+        "length": 3.6478004535147392,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-f01": {
+        "wav": "downloads/savee/JK_f01.wav",
+        "length": 4.140453514739229,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-n29": {
+        "wav": "downloads/savee/JK_n29.wav",
+        "length": 3.0136281179138322,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-d14": {
+        "wav": "downloads/savee/JK_d14.wav",
+        "length": 6.289297052154195,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-a12": {
+        "wav": "downloads/savee/JK_a12.wav",
+        "length": 3.2424489795918365,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-sa09": {
+        "wav": "downloads/savee/JK_sa09.wav",
+        "length": 3.41718820861678,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-a14": {
+        "wav": "downloads/savee/JK_a14.wav",
+        "length": 5.9570748299319725,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-su10": {
+        "wav": "downloads/savee/JK_su10.wav",
+        "length": 3.851156462585034,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-d15": {
+        "wav": "downloads/savee/JK_d15.wav",
+        "length": 7.012585034013606,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-su07": {
+        "wav": "downloads/savee/JK_su07.wav",
+        "length": 3.574421768707483,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-f15": {
+        "wav": "downloads/savee/JK_f15.wav",
+        "length": 5.911950113378685,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-d10": {
+        "wav": "downloads/savee/JK_d10.wav",
+        "length": 4.221337868480726,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-h10": {
+        "wav": "downloads/savee/JK_h10.wav",
+        "length": 3.4129931972789116,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-h03": {
+        "wav": "downloads/savee/JK_h03.wav",
+        "length": 2.58281179138322,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-n21": {
+        "wav": "downloads/savee/JK_n21.wav",
+        "length": 3.8742176870748297,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-d09": {
+        "wav": "downloads/savee/JK_d09.wav",
+        "length": 4.444444444444445,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-su06": {
+        "wav": "downloads/savee/JK_su06.wav",
+        "length": 2.882607709750567,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-n05": {
+        "wav": "downloads/savee/JK_n05.wav",
+        "length": 3.3543083900226756,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-su15": {
+        "wav": "downloads/savee/JK_su15.wav",
+        "length": 6.289297052154195,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-d06": {
+        "wav": "downloads/savee/JK_d06.wav",
+        "length": 3.731655328798186,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-n16": {
+        "wav": "downloads/savee/JK_n16.wav",
+        "length": 4.1506349206349205,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-f11": {
+        "wav": "downloads/savee/JK_f11.wav",
+        "length": 4.528299319727891,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-h08": {
+        "wav": "downloads/savee/JK_h08.wav",
+        "length": 2.58281179138322,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-sa15": {
+        "wav": "downloads/savee/JK_sa15.wav",
+        "length": 6.0587074829931975,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-f09": {
+        "wav": "downloads/savee/JK_f09.wav",
+        "length": 3.9308163265306124,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-f07": {
+        "wav": "downloads/savee/JK_f07.wav",
+        "length": 4.213832199546485,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-a08": {
+        "wav": "downloads/savee/JK_a08.wav",
+        "length": 3.5848979591836736,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-sa10": {
+        "wav": "downloads/savee/JK_sa10.wav",
+        "length": 4.620544217687075,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-su01": {
+        "wav": "downloads/savee/JK_su01.wav",
+        "length": 4.612176870748299,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-h06": {
+        "wav": "downloads/savee/JK_h06.wav",
+        "length": 3.666689342403628,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-h14": {
+        "wav": "downloads/savee/JK_h14.wav",
+        "length": 5.005238095238095,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-n01": {
+        "wav": "downloads/savee/JK_n01.wav",
+        "length": 4.40249433106576,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-n10": {
+        "wav": "downloads/savee/JK_n10.wav",
+        "length": 3.914988662131519,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-su08": {
+        "wav": "downloads/savee/JK_su08.wav",
+        "length": 3.805034013605442,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-sa14": {
+        "wav": "downloads/savee/JK_sa14.wav",
+        "length": 6.07968253968254,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-a10": {
+        "wav": "downloads/savee/JK_a10.wav",
+        "length": 4.276734693877551,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-h02": {
+        "wav": "downloads/savee/JK_h02.wav",
+        "length": 3.2515873015873016,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-n07": {
+        "wav": "downloads/savee/JK_n07.wav",
+        "length": 3.9381632653061223,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-n11": {
+        "wav": "downloads/savee/JK_n11.wav",
+        "length": 5.686575963718821,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-sa03": {
+        "wav": "downloads/savee/JK_sa03.wav",
+        "length": 3.218231292517007,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-a05": {
+        "wav": "downloads/savee/JK_a05.wav",
+        "length": 3.5219954648526075,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-d03": {
+        "wav": "downloads/savee/JK_d03.wav",
+        "length": 2.5995691609977323,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-f14": {
+        "wav": "downloads/savee/JK_f14.wav",
+        "length": 4.8113378684807255,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-d05": {
+        "wav": "downloads/savee/JK_d05.wav",
+        "length": 3.356938775510204,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-f05": {
+        "wav": "downloads/savee/JK_f05.wav",
+        "length": 3.7997732426303856,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-d08": {
+        "wav": "downloads/savee/JK_d08.wav",
+        "length": 4.444444444444445,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-n19": {
+        "wav": "downloads/savee/JK_n19.wav",
+        "length": 3.434285714285714,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-n09": {
+        "wav": "downloads/savee/JK_n09.wav",
+        "length": 3.6370068027210882,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-a13": {
+        "wav": "downloads/savee/JK_a13.wav",
+        "length": 4.976780045351474,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-n30": {
+        "wav": "downloads/savee/JK_n30.wav",
+        "length": 4.114240362811791,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-a01": {
+        "wav": "downloads/savee/JK_a01.wav",
+        "length": 4.129977324263039,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-n17": {
+        "wav": "downloads/savee/JK_n17.wav",
+        "length": 3.6239002267573697,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-n04": {
+        "wav": "downloads/savee/JK_n04.wav",
+        "length": 4.004172335600907,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-n22": {
+        "wav": "downloads/savee/JK_n22.wav",
+        "length": 3.113219954648526,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-su14": {
+        "wav": "downloads/savee/JK_su14.wav",
+        "length": 5.2201360544217685,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-h11": {
+        "wav": "downloads/savee/JK_h11.wav",
+        "length": 4.87421768707483,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-h04": {
+        "wav": "downloads/savee/JK_h04.wav",
+        "length": 3.505238095238095,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-su12": {
+        "wav": "downloads/savee/JK_su12.wav",
+        "length": 4.842766439909297,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-sa08": {
+        "wav": "downloads/savee/JK_sa08.wav",
+        "length": 3.3123809523809524,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-d11": {
+        "wav": "downloads/savee/JK_d11.wav",
+        "length": 3.9308163265306124,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-su05": {
+        "wav": "downloads/savee/JK_su05.wav",
+        "length": 2.9537868480725624,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-sa13": {
+        "wav": "downloads/savee/JK_sa13.wav",
+        "length": 6.0167573696145125,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-su13": {
+        "wav": "downloads/savee/JK_su13.wav",
+        "length": 4.308163265306122,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-a06": {
+        "wav": "downloads/savee/JK_a06.wav",
+        "length": 3.7945578231292516,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-n28": {
+        "wav": "downloads/savee/JK_n28.wav",
+        "length": 4.585963718820862,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-a07": {
+        "wav": "downloads/savee/JK_a07.wav",
+        "length": 2.788253968253968,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-d04": {
+        "wav": "downloads/savee/JK_d04.wav",
+        "length": 4.444444444444445,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-d13": {
+        "wav": "downloads/savee/JK_d13.wav",
+        "length": 5.503151927437642,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-h05": {
+        "wav": "downloads/savee/JK_h05.wav",
+        "length": 4.173990929705216,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-su11": {
+        "wav": "downloads/savee/JK_su11.wav",
+        "length": 3.0817687074829934,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-f12": {
+        "wav": "downloads/savee/JK_f12.wav",
+        "length": 5.503151927437642,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-f13": {
+        "wav": "downloads/savee/JK_f13.wav",
+        "length": 3.1131972789115645,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-d12": {
+        "wav": "downloads/savee/JK_d12.wav",
+        "length": 3.0188662131519273,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-d07": {
+        "wav": "downloads/savee/JK_d07.wav",
+        "length": 3.03984126984127,
+        "emo": "d",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-f03": {
+        "wav": "downloads/savee/JK_f03.wav",
+        "length": 2.3846938775510202,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-sa07": {
+        "wav": "downloads/savee/JK_sa07.wav",
+        "length": 3.102721088435374,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-n06": {
+        "wav": "downloads/savee/JK_n06.wav",
+        "length": 4.007641723356009,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-a09": {
+        "wav": "downloads/savee/JK_a09.wav",
+        "length": 4.004195011337869,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-sa06": {
+        "wav": "downloads/savee/JK_sa06.wav",
+        "length": 3.941292517006803,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-su04": {
+        "wav": "downloads/savee/JK_su04.wav",
+        "length": 3.8960090702947845,
+        "emo": "su",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-h15": {
+        "wav": "downloads/savee/JK_h15.wav",
+        "length": 5.083854875283447,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-f08": {
+        "wav": "downloads/savee/JK_f08.wav",
+        "length": 4.845918367346939,
+        "emo": "f",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-sa05": {
+        "wav": "downloads/savee/JK_sa05.wav",
+        "length": 5.868548752834467,
+        "emo": "sa",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-a11": {
+        "wav": "downloads/savee/JK_a11.wav",
+        "length": 2.890544217687075,
+        "emo": "a",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-n23": {
+        "wav": "downloads/savee/JK_n23.wav",
+        "length": 3.1131972789115645,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-h09": {
+        "wav": "downloads/savee/JK_h09.wav",
+        "length": 3.2746485260770974,
+        "emo": "h",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-n27": {
+        "wav": "downloads/savee/JK_n27.wav",
+        "length": 4.612154195011338,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    },
+    "savee-JK-n12": {
+        "wav": "downloads/savee/JK_n12.wav",
+        "length": 3.2756916099773243,
+        "emo": "n",
+        "dataset": "savee",
+        "channel": 1
+    }
+}

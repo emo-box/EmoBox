@@ -1,0 +1,16 @@
+{
+    "01": "Boredom",
+    "02": "Neutral", 
+    "03": "Happy",
+    "04": "Sad", 
+    "05": "Angry", 
+    "06": "Fear",
+    "07": "Disgust", 
+    "08": "Surprise",
+    "09": "excited", 
+    "10": "pleasure", 
+    "11": "pain, groan",
+    "12": "disappointment, disapproval", 
+    "13": "breath",
+    "17": "UnKnown"
+}

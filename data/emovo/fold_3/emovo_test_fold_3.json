@@ -1,0 +1,688 @@
+{
+    "emovo-tri-m2-n4": {
+        "wav": "downloads/emovo/m2/tri-m2-n4.wav",
+        "length": 3.6693333333333333,
+        "emo": "tri",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-neu-m2-l1": {
+        "wav": "downloads/emovo/m2/neu-m2-l1.wav",
+        "length": 5.376,
+        "emo": "neu",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-neu-m2-b3": {
+        "wav": "downloads/emovo/m2/neu-m2-b3.wav",
+        "length": 2.816,
+        "emo": "neu",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-dis-m2-n1": {
+        "wav": "downloads/emovo/m2/dis-m2-n1.wav",
+        "length": 2.6453333333333333,
+        "emo": "dis",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-rab-m2-l3": {
+        "wav": "downloads/emovo/m2/rab-m2-l3.wav",
+        "length": 4.010666666666666,
+        "emo": "rab",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-dis-m2-l4": {
+        "wav": "downloads/emovo/m2/dis-m2-l4.wav",
+        "length": 3.541333333333333,
+        "emo": "dis",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-tri-m2-l4": {
+        "wav": "downloads/emovo/m2/tri-m2-l4.wav",
+        "length": 2.6453333333333333,
+        "emo": "tri",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-sor-m2-n4": {
+        "wav": "downloads/emovo/m2/sor-m2-n4.wav",
+        "length": 3.6266666666666665,
+        "emo": "sor",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-sor-m2-d2": {
+        "wav": "downloads/emovo/m2/sor-m2-d2.wav",
+        "length": 2.3253333333333335,
+        "emo": "sor",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-gio-m2-n2": {
+        "wav": "downloads/emovo/m2/gio-m2-n2.wav",
+        "length": 2.56,
+        "emo": "gio",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-tri-m2-b3": {
+        "wav": "downloads/emovo/m2/tri-m2-b3.wav",
+        "length": 2.112,
+        "emo": "tri",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-neu-m2-n5": {
+        "wav": "downloads/emovo/m2/neu-m2-n5.wav",
+        "length": 5.717333333333333,
+        "emo": "neu",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-gio-m2-n3": {
+        "wav": "downloads/emovo/m2/gio-m2-n3.wav",
+        "length": 2.2186666666666666,
+        "emo": "gio",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-sor-m2-n2": {
+        "wav": "downloads/emovo/m2/sor-m2-n2.wav",
+        "length": 2.9013333333333335,
+        "emo": "sor",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-rab-m2-b3": {
+        "wav": "downloads/emovo/m2/rab-m2-b3.wav",
+        "length": 2.7306666666666666,
+        "emo": "rab",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-sor-m2-n5": {
+        "wav": "downloads/emovo/m2/sor-m2-n5.wav",
+        "length": 3.541333333333333,
+        "emo": "sor",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-tri-m2-b1": {
+        "wav": "downloads/emovo/m2/tri-m2-b1.wav",
+        "length": 2.1546666666666665,
+        "emo": "tri",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-rab-m2-b1": {
+        "wav": "downloads/emovo/m2/rab-m2-b1.wav",
+        "length": 3.4133333333333336,
+        "emo": "rab",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-tri-m2-l1": {
+        "wav": "downloads/emovo/m2/tri-m2-l1.wav",
+        "length": 4.714666666666667,
+        "emo": "tri",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-pau-m2-n4": {
+        "wav": "downloads/emovo/m2/pau-m2-n4.wav",
+        "length": 3.584,
+        "emo": "pau",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-rab-m2-l4": {
+        "wav": "downloads/emovo/m2/rab-m2-l4.wav",
+        "length": 4.181333333333333,
+        "emo": "rab",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-rab-m2-n4": {
+        "wav": "downloads/emovo/m2/rab-m2-n4.wav",
+        "length": 4.010666666666666,
+        "emo": "rab",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-tri-m2-d1": {
+        "wav": "downloads/emovo/m2/tri-m2-d1.wav",
+        "length": 1.664,
+        "emo": "tri",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-pau-m2-b3": {
+        "wav": "downloads/emovo/m2/pau-m2-b3.wav",
+        "length": 1.9626666666666666,
+        "emo": "pau",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-dis-m2-b3": {
+        "wav": "downloads/emovo/m2/dis-m2-b3.wav",
+        "length": 2.474666666666667,
+        "emo": "dis",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-neu-m2-d1": {
+        "wav": "downloads/emovo/m2/neu-m2-d1.wav",
+        "length": 2.7306666666666666,
+        "emo": "neu",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-tri-m2-b2": {
+        "wav": "downloads/emovo/m2/tri-m2-b2.wav",
+        "length": 2.0906666666666665,
+        "emo": "tri",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-pau-m2-n1": {
+        "wav": "downloads/emovo/m2/pau-m2-n1.wav",
+        "length": 2.2613333333333334,
+        "emo": "pau",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-sor-m2-b2": {
+        "wav": "downloads/emovo/m2/sor-m2-b2.wav",
+        "length": 2.112,
+        "emo": "sor",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-dis-m2-b2": {
+        "wav": "downloads/emovo/m2/dis-m2-b2.wav",
+        "length": 2.7306666666666666,
+        "emo": "dis",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-gio-m2-l2": {
+        "wav": "downloads/emovo/m2/gio-m2-l2.wav",
+        "length": 3.498666666666667,
+        "emo": "gio",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-dis-m2-l3": {
+        "wav": "downloads/emovo/m2/dis-m2-l3.wav",
+        "length": 4.48,
+        "emo": "dis",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-rab-m2-n5": {
+        "wav": "downloads/emovo/m2/rab-m2-n5.wav",
+        "length": 5.034666666666666,
+        "emo": "rab",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-tri-m2-n5": {
+        "wav": "downloads/emovo/m2/tri-m2-n5.wav",
+        "length": 4.224,
+        "emo": "tri",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-rab-m2-n3": {
+        "wav": "downloads/emovo/m2/rab-m2-n3.wav",
+        "length": 3.584,
+        "emo": "rab",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-pau-m2-l4": {
+        "wav": "downloads/emovo/m2/pau-m2-l4.wav",
+        "length": 2.6453333333333333,
+        "emo": "pau",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-pau-m2-n3": {
+        "wav": "downloads/emovo/m2/pau-m2-n3.wav",
+        "length": 2.688,
+        "emo": "pau",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-rab-m2-n1": {
+        "wav": "downloads/emovo/m2/rab-m2-n1.wav",
+        "length": 2.986666666666667,
+        "emo": "rab",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-sor-m2-b1": {
+        "wav": "downloads/emovo/m2/sor-m2-b1.wav",
+        "length": 1.8773333333333333,
+        "emo": "sor",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-pau-m2-n2": {
+        "wav": "downloads/emovo/m2/pau-m2-n2.wav",
+        "length": 2.9013333333333335,
+        "emo": "pau",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-gio-m2-b2": {
+        "wav": "downloads/emovo/m2/gio-m2-b2.wav",
+        "length": 2.3466666666666667,
+        "emo": "gio",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-gio-m2-b1": {
+        "wav": "downloads/emovo/m2/gio-m2-b1.wav",
+        "length": 2.176,
+        "emo": "gio",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-dis-m2-n5": {
+        "wav": "downloads/emovo/m2/dis-m2-n5.wav",
+        "length": 4.565333333333333,
+        "emo": "dis",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-pau-m2-b1": {
+        "wav": "downloads/emovo/m2/pau-m2-b1.wav",
+        "length": 1.8773333333333333,
+        "emo": "pau",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-sor-m2-n1": {
+        "wav": "downloads/emovo/m2/sor-m2-n1.wav",
+        "length": 1.8346666666666667,
+        "emo": "sor",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-rab-m2-b2": {
+        "wav": "downloads/emovo/m2/rab-m2-b2.wav",
+        "length": 3.1573333333333333,
+        "emo": "rab",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-sor-m2-l2": {
+        "wav": "downloads/emovo/m2/sor-m2-l2.wav",
+        "length": 3.2,
+        "emo": "sor",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-tri-m2-d2": {
+        "wav": "downloads/emovo/m2/tri-m2-d2.wav",
+        "length": 1.5786666666666667,
+        "emo": "tri",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-pau-m2-l3": {
+        "wav": "downloads/emovo/m2/pau-m2-l3.wav",
+        "length": 3.2426666666666666,
+        "emo": "pau",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-gio-m2-n1": {
+        "wav": "downloads/emovo/m2/gio-m2-n1.wav",
+        "length": 2.2613333333333334,
+        "emo": "gio",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-neu-m2-l4": {
+        "wav": "downloads/emovo/m2/neu-m2-l4.wav",
+        "length": 3.328,
+        "emo": "neu",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-sor-m2-l4": {
+        "wav": "downloads/emovo/m2/sor-m2-l4.wav",
+        "length": 3.029333333333333,
+        "emo": "sor",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-rab-m2-d2": {
+        "wav": "downloads/emovo/m2/rab-m2-d2.wav",
+        "length": 2.986666666666667,
+        "emo": "rab",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-neu-m2-l3": {
+        "wav": "downloads/emovo/m2/neu-m2-l3.wav",
+        "length": 4.181333333333333,
+        "emo": "neu",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-rab-m2-d1": {
+        "wav": "downloads/emovo/m2/rab-m2-d1.wav",
+        "length": 2.3306666666666667,
+        "emo": "rab",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-gio-m2-d1": {
+        "wav": "downloads/emovo/m2/gio-m2-d1.wav",
+        "length": 2.0906666666666665,
+        "emo": "gio",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-gio-m2-n4": {
+        "wav": "downloads/emovo/m2/gio-m2-n4.wav",
+        "length": 3.7546666666666666,
+        "emo": "gio",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-tri-m2-n1": {
+        "wav": "downloads/emovo/m2/tri-m2-n1.wav",
+        "length": 1.8133333333333332,
+        "emo": "tri",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-pau-m2-n5": {
+        "wav": "downloads/emovo/m2/pau-m2-n5.wav",
+        "length": 4.1386666666666665,
+        "emo": "pau",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-neu-m2-b2": {
+        "wav": "downloads/emovo/m2/neu-m2-b2.wav",
+        "length": 3.2426666666666666,
+        "emo": "neu",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-tri-m2-n3": {
+        "wav": "downloads/emovo/m2/tri-m2-n3.wav",
+        "length": 2.1973333333333334,
+        "emo": "tri",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-rab-m2-l1": {
+        "wav": "downloads/emovo/m2/rab-m2-l1.wav",
+        "length": 5.461333333333333,
+        "emo": "rab",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-pau-m2-d1": {
+        "wav": "downloads/emovo/m2/pau-m2-d1.wav",
+        "length": 1.5786666666666667,
+        "emo": "pau",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-tri-m2-l3": {
+        "wav": "downloads/emovo/m2/tri-m2-l3.wav",
+        "length": 3.4133333333333336,
+        "emo": "tri",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-gio-m2-b3": {
+        "wav": "downloads/emovo/m2/gio-m2-b3.wav",
+        "length": 2.2186666666666666,
+        "emo": "gio",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-neu-m2-d2": {
+        "wav": "downloads/emovo/m2/neu-m2-d2.wav",
+        "length": 2.7306666666666666,
+        "emo": "neu",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-rab-m2-l2": {
+        "wav": "downloads/emovo/m2/rab-m2-l2.wav",
+        "length": 4.608,
+        "emo": "rab",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-dis-m2-b1": {
+        "wav": "downloads/emovo/m2/dis-m2-b1.wav",
+        "length": 2.816,
+        "emo": "dis",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-gio-m2-n5": {
+        "wav": "downloads/emovo/m2/gio-m2-n5.wav",
+        "length": 4.565333333333333,
+        "emo": "gio",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-gio-m2-l3": {
+        "wav": "downloads/emovo/m2/gio-m2-l3.wav",
+        "length": 3.2,
+        "emo": "gio",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-pau-m2-l1": {
+        "wav": "downloads/emovo/m2/pau-m2-l1.wav",
+        "length": 4.394666666666667,
+        "emo": "pau",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-dis-m2-l2": {
+        "wav": "downloads/emovo/m2/dis-m2-l2.wav",
+        "length": 3.925333333333333,
+        "emo": "dis",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-gio-m2-l4": {
+        "wav": "downloads/emovo/m2/gio-m2-l4.wav",
+        "length": 2.688,
+        "emo": "gio",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-sor-m2-b3": {
+        "wav": "downloads/emovo/m2/sor-m2-b3.wav",
+        "length": 2.2186666666666666,
+        "emo": "sor",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-neu-m2-n1": {
+        "wav": "downloads/emovo/m2/neu-m2-n1.wav",
+        "length": 3.84,
+        "emo": "neu",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-pau-m2-b2": {
+        "wav": "downloads/emovo/m2/pau-m2-b2.wav",
+        "length": 2.432,
+        "emo": "pau",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-neu-m2-l2": {
+        "wav": "downloads/emovo/m2/neu-m2-l2.wav",
+        "length": 4.608,
+        "emo": "neu",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-dis-m2-l1": {
+        "wav": "downloads/emovo/m2/dis-m2-l1.wav",
+        "length": 6.144,
+        "emo": "dis",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-neu-m2-b1": {
+        "wav": "downloads/emovo/m2/neu-m2-b1.wav",
+        "length": 3.2426666666666666,
+        "emo": "neu",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-gio-m2-d2": {
+        "wav": "downloads/emovo/m2/gio-m2-d2.wav",
+        "length": 2.0906666666666665,
+        "emo": "gio",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-neu-m2-n3": {
+        "wav": "downloads/emovo/m2/neu-m2-n3.wav",
+        "length": 3.2426666666666666,
+        "emo": "neu",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-sor-m2-d1": {
+        "wav": "downloads/emovo/m2/sor-m2-d1.wav",
+        "length": 2.0906666666666665,
+        "emo": "sor",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-dis-m2-d1": {
+        "wav": "downloads/emovo/m2/dis-m2-d1.wav",
+        "length": 2.432,
+        "emo": "dis",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-sor-m2-l3": {
+        "wav": "downloads/emovo/m2/sor-m2-l3.wav",
+        "length": 3.6266666666666665,
+        "emo": "sor",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-tri-m2-l2": {
+        "wav": "downloads/emovo/m2/tri-m2-l2.wav",
+        "length": 2.986666666666667,
+        "emo": "tri",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-gio-m2-l1": {
+        "wav": "downloads/emovo/m2/gio-m2-l1.wav",
+        "length": 4.8213333333333335,
+        "emo": "gio",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-dis-m2-d2": {
+        "wav": "downloads/emovo/m2/dis-m2-d2.wav",
+        "length": 2.6026666666666665,
+        "emo": "dis",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-dis-m2-n2": {
+        "wav": "downloads/emovo/m2/dis-m2-n2.wav",
+        "length": 3.2,
+        "emo": "dis",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-rab-m2-n2": {
+        "wav": "downloads/emovo/m2/rab-m2-n2.wav",
+        "length": 3.328,
+        "emo": "rab",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-dis-m2-n4": {
+        "wav": "downloads/emovo/m2/dis-m2-n4.wav",
+        "length": 4.864,
+        "emo": "dis",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-sor-m2-n3": {
+        "wav": "downloads/emovo/m2/sor-m2-n3.wav",
+        "length": 2.453333333333333,
+        "emo": "sor",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-tri-m2-n2": {
+        "wav": "downloads/emovo/m2/tri-m2-n2.wav",
+        "length": 2.368,
+        "emo": "tri",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-sor-m2-l1": {
+        "wav": "downloads/emovo/m2/sor-m2-l1.wav",
+        "length": 4.266666666666667,
+        "emo": "sor",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-pau-m2-l2": {
+        "wav": "downloads/emovo/m2/pau-m2-l2.wav",
+        "length": 3.029333333333333,
+        "emo": "pau",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-pau-m2-d2": {
+        "wav": "downloads/emovo/m2/pau-m2-d2.wav",
+        "length": 1.664,
+        "emo": "pau",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-neu-m2-n2": {
+        "wav": "downloads/emovo/m2/neu-m2-n2.wav",
+        "length": 3.7546666666666666,
+        "emo": "neu",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-dis-m2-n3": {
+        "wav": "downloads/emovo/m2/dis-m2-n3.wav",
+        "length": 2.7733333333333334,
+        "emo": "dis",
+        "dataset": "emovo",
+        "channel": 1
+    },
+    "emovo-neu-m2-n4": {
+        "wav": "downloads/emovo/m2/neu-m2-n4.wav",
+        "length": 4.437333333333333,
+        "emo": "neu",
+        "dataset": "emovo",
+        "channel": 1
+    }
+}

@@ -1,0 +1,4902 @@
+{
+    "tess-OAF-should-fear": {
+        "wav": "downloads/tess/OAF_should_fear.wav",
+        "length": 1.4877529286474973,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-raid-fear": {
+        "wav": "downloads/tess/YAF_raid_fear.wav",
+        "length": 1.6802244613746211,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-vine-fear": {
+        "wav": "downloads/tess/YAF_vine_fear.wav",
+        "length": 1.6822724666175146,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-bath-fear": {
+        "wav": "downloads/tess/OAF_bath_fear.wav",
+        "length": 1.77516998443516,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-dog-fear": {
+        "wav": "downloads/tess/YAF_dog_fear.wav",
+        "length": 1.7287212255263373,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-void-fear": {
+        "wav": "downloads/tess/OAF_void_fear.wav",
+        "length": 1.7212664864422054,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-wag-fear": {
+        "wav": "downloads/tess/YAF_wag_fear.wav",
+        "length": 2.0384615384615383,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-mood-fear": {
+        "wav": "downloads/tess/OAF_mood_fear.wav",
+        "length": 1.3869091504874254,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-doll-fear": {
+        "wav": "downloads/tess/YAF_doll_fear.wav",
+        "length": 1.845293683951831,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-hall-fear": {
+        "wav": "downloads/tess/OAF_hall_fear.wav",
+        "length": 1.391291881707217,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-tough-fear": {
+        "wav": "downloads/tess/YAF_tough_fear.wav",
+        "length": 1.639469157041042,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-met-fear": {
+        "wav": "downloads/tess/OAF_met_fear.wav",
+        "length": 1.4827557958548374,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-cool-fear": {
+        "wav": "downloads/tess/OAF_cool_fear.wav",
+        "length": 1.6046940280167117,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-road-fear": {
+        "wav": "downloads/tess/OAF_road_fear.wav",
+        "length": 1.671172278201032,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-check-fear": {
+        "wav": "downloads/tess/OAF_check_fear.wav",
+        "length": 1.4512574752191365,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-perch-fear": {
+        "wav": "downloads/tess/YAF_perch_fear.wav",
+        "length": 1.6685917915949864,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-bone-fear": {
+        "wav": "downloads/tess/YAF_bone_fear.wav",
+        "length": 1.7735725403457032,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-white-fear": {
+        "wav": "downloads/tess/YAF_white_fear.wav",
+        "length": 1.7430572622265914,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-match-fear": {
+        "wav": "downloads/tess/YAF_match_fear.wav",
+        "length": 1.9392152043909232,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-sub-fear": {
+        "wav": "downloads/tess/OAF_sub_fear.wav",
+        "length": 1.6069058736790367,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-dime-fear": {
+        "wav": "downloads/tess/YAF_dime_fear.wav",
+        "length": 1.3124027197509625,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-hate-fear": {
+        "wav": "downloads/tess/YAF_hate_fear.wav",
+        "length": 1.8417711149340543,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-chief-fear": {
+        "wav": "downloads/tess/OAF_chief_fear.wav",
+        "length": 1.7299500286720735,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-date-fear": {
+        "wav": "downloads/tess/OAF_date_fear.wav",
+        "length": 1.5777422790202342,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-dodge-fear": {
+        "wav": "downloads/tess/OAF_dodge_fear.wav",
+        "length": 1.8363643810928156,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-dab-fear": {
+        "wav": "downloads/tess/OAF_dab_fear.wav",
+        "length": 1.4963955107725075,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-mood-fear": {
+        "wav": "downloads/tess/YAF_mood_fear.wav",
+        "length": 1.6816580650446464,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-moon-fear": {
+        "wav": "downloads/tess/OAF_moon_fear.wav",
+        "length": 1.5371508151060866,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-wife-fear": {
+        "wav": "downloads/tess/YAF_wife_fear.wav",
+        "length": 1.6778897353977227,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-third-fear": {
+        "wav": "downloads/tess/YAF_third_fear.wav",
+        "length": 1.6288195297779962,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-mill-fear": {
+        "wav": "downloads/tess/YAF_mill_fear.wav",
+        "length": 1.525190464487589,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-king-fear": {
+        "wav": "downloads/tess/OAF_king_fear.wav",
+        "length": 1.6085852379782093,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-have-fear": {
+        "wav": "downloads/tess/YAF_have_fear.wav",
+        "length": 1.9510526746948471,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-hash-fear": {
+        "wav": "downloads/tess/YAF_hash_fear.wav",
+        "length": 1.5822888506594577,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-good-fear": {
+        "wav": "downloads/tess/YAF_good_fear.wav",
+        "length": 1.703285000409601,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-fit-fear": {
+        "wav": "downloads/tess/YAF_fit_fear.wav",
+        "length": 1.8071188662242976,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-nice-fear": {
+        "wav": "downloads/tess/YAF_nice_fear.wav",
+        "length": 1.7164741541738346,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-deep-fear": {
+        "wav": "downloads/tess/YAF_deep_fear.wav",
+        "length": 1.770541492586221,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-tape-fear": {
+        "wav": "downloads/tess/YAF_tape_fear.wav",
+        "length": 1.8812566560170394,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-thin-fear": {
+        "wav": "downloads/tess/OAF_thin_fear.wav",
+        "length": 1.6094454001802245,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-hash-fear": {
+        "wav": "downloads/tess/OAF_hash_fear.wav",
+        "length": 1.8289096420086834,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-shout-fear": {
+        "wav": "downloads/tess/OAF_shout_fear.wav",
+        "length": 1.6393053166216105,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-rose-fear": {
+        "wav": "downloads/tess/OAF_rose_fear.wav",
+        "length": 1.570983861718686,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-lose-fear": {
+        "wav": "downloads/tess/OAF_lose_fear.wav",
+        "length": 1.4464241828459081,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-bath-fear": {
+        "wav": "downloads/tess/YAF_bath_fear.wav",
+        "length": 1.6716228393544688,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-bar-fear": {
+        "wav": "downloads/tess/YAF_bar_fear.wav",
+        "length": 1.6644138608994838,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-rain-fear": {
+        "wav": "downloads/tess/OAF_rain_fear.wav",
+        "length": 1.6148111739166053,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-tire-fear": {
+        "wav": "downloads/tess/OAF_tire_fear.wav",
+        "length": 1.547964282788564,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-mob-fear": {
+        "wav": "downloads/tess/OAF_mob_fear.wav",
+        "length": 1.5682804947980666,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-base-fear": {
+        "wav": "downloads/tess/OAF_base_fear.wav",
+        "length": 1.8691324649791103,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-join-fear": {
+        "wav": "downloads/tess/OAF_join_fear.wav",
+        "length": 1.5158515605799951,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-lid-fear": {
+        "wav": "downloads/tess/OAF_lid_fear.wav",
+        "length": 1.5826165314983207,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-merge-fear": {
+        "wav": "downloads/tess/YAF_merge_fear.wav",
+        "length": 1.8846153846153846,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-name-fear": {
+        "wav": "downloads/tess/OAF_name_fear.wav",
+        "length": 1.5325223232571474,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-rat-fear": {
+        "wav": "downloads/tess/OAF_rat_fear.wav",
+        "length": 1.6504874252478086,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-hate-fear": {
+        "wav": "downloads/tess/OAF_hate_fear.wav",
+        "length": 1.4971327926599491,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-walk-fear": {
+        "wav": "downloads/tess/YAF_walk_fear.wav",
+        "length": 1.835299418366511,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-fat-fear": {
+        "wav": "downloads/tess/OAF_fat_fear.wav",
+        "length": 1.60088473826493,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-wheat-fear": {
+        "wav": "downloads/tess/YAF_wheat_fear.wav",
+        "length": 1.8714671909560088,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-jug-fear": {
+        "wav": "downloads/tess/YAF_jug_fear.wav",
+        "length": 1.6655607438355042,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-judge-fear": {
+        "wav": "downloads/tess/OAF_judge_fear.wav",
+        "length": 1.423117883181781,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-said-fear": {
+        "wav": "downloads/tess/OAF_said_fear.wav",
+        "length": 1.587122143032686,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-mode-fear": {
+        "wav": "downloads/tess/OAF_mode_fear.wav",
+        "length": 1.5643483247317114,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-hall-fear": {
+        "wav": "downloads/tess/YAF_hall_fear.wav",
+        "length": 1.6731793233390677,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-met-fear": {
+        "wav": "downloads/tess/YAF_met_fear.wav",
+        "length": 1.4245105267469484,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-food-fear": {
+        "wav": "downloads/tess/OAF_food_fear.wav",
+        "length": 1.5122083333333334,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-death-fear": {
+        "wav": "downloads/tess/YAF_death_fear.wav",
+        "length": 1.3119111984926681,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-bite-fear": {
+        "wav": "downloads/tess/OAF_bite_fear.wav",
+        "length": 1.3083067092651757,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-bite-fear": {
+        "wav": "downloads/tess/YAF_bite_fear.wav",
+        "length": 1.5183091668714672,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-home-fear": {
+        "wav": "downloads/tess/OAF_home_fear.wav",
+        "length": 1.560702875399361,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-turn-fear": {
+        "wav": "downloads/tess/YAF_turn_fear.wav",
+        "length": 1.946137462111903,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-such-fear": {
+        "wav": "downloads/tess/YAF_such_fear.wav",
+        "length": 1.7130335053657737,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-peg-fear": {
+        "wav": "downloads/tess/OAF_peg_fear.wav",
+        "length": 1.5119603506184975,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-rough-fear": {
+        "wav": "downloads/tess/YAF_rough_fear.wav",
+        "length": 1.8978454984844761,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-witch-fear": {
+        "wav": "downloads/tess/OAF_witch_fear.wav",
+        "length": 1.7816007208978455,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-fall-fear": {
+        "wav": "downloads/tess/YAF_fall_fear.wav",
+        "length": 1.3597116408618006,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-goose-fear": {
+        "wav": "downloads/tess/YAF_goose_fear.wav",
+        "length": 1.479765708200213,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-gap-fear": {
+        "wav": "downloads/tess/YAF_gap_fear.wav",
+        "length": 1.4866879659211927,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-pain-fear": {
+        "wav": "downloads/tess/YAF_pain_fear.wav",
+        "length": 1.6368477103301384,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-laud-fear": {
+        "wav": "downloads/tess/YAF_laud_fear.wav",
+        "length": 1.5135577947079544,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-pick-fear": {
+        "wav": "downloads/tess/OAF_pick_fear.wav",
+        "length": 1.5410420250675843,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-rat-fear": {
+        "wav": "downloads/tess/YAF_rat_fear.wav",
+        "length": 1.7797165560743835,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-sheep-fear": {
+        "wav": "downloads/tess/OAF_sheep_fear.wav",
+        "length": 1.7700499713279265,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-south-fear": {
+        "wav": "downloads/tess/YAF_south_fear.wav",
+        "length": 1.815679528139592,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-phone-fear": {
+        "wav": "downloads/tess/YAF_phone_fear.wav",
+        "length": 1.8257966740394855,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-cause-fear": {
+        "wav": "downloads/tess/YAF_cause_fear.wav",
+        "length": 1.80822478905546,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-chain-fear": {
+        "wav": "downloads/tess/OAF_chain_fear.wav",
+        "length": 1.423732284754649,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-cool-fear": {
+        "wav": "downloads/tess/YAF_cool_fear.wav",
+        "length": 1.8796592119275826,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-shall-fear": {
+        "wav": "downloads/tess/YAF_shall_fear.wav",
+        "length": 1.8084295895797493,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-late-fear": {
+        "wav": "downloads/tess/OAF_late_fear.wav",
+        "length": 1.8246088309986073,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-rot-fear": {
+        "wav": "downloads/tess/OAF_rot_fear.wav",
+        "length": 1.729786188252642,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-road-fear": {
+        "wav": "downloads/tess/YAF_road_fear.wav",
+        "length": 1.8429179978700745,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-bar-fear": {
+        "wav": "downloads/tess/OAF_bar_fear.wav",
+        "length": 1.6896862455967887,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-turn-fear": {
+        "wav": "downloads/tess/OAF_turn_fear.wav",
+        "length": 1.771770295731957,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-keen-fear": {
+        "wav": "downloads/tess/YAF_keen_fear.wav",
+        "length": 1.5375194560498076,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-such-fear": {
+        "wav": "downloads/tess/OAF_such_fear.wav",
+        "length": 1.4682149586302942,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-sure-fear": {
+        "wav": "downloads/tess/OAF_sure_fear.wav",
+        "length": 1.5403866633898582,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-wire-fear": {
+        "wav": "downloads/tess/YAF_wire_fear.wav",
+        "length": 1.7044728434504792,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-half-fear": {
+        "wav": "downloads/tess/YAF_half_fear.wav",
+        "length": 1.659048087163103,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-food-fear": {
+        "wav": "downloads/tess/YAF_food_fear.wav",
+        "length": 1.7591545834357336,
+        "emo": "fear",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-lean-disgust": {
+        "wav": "downloads/tess/YAF_lean_disgust.wav",
+        "length": 2.6630212173343164,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-rose-disgust": {
+        "wav": "downloads/tess/YAF_rose_disgust.wav",
+        "length": 2.6707217170475954,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-soup-disgust": {
+        "wav": "downloads/tess/YAF_soup_disgust.wav",
+        "length": 2.354304907020562,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-luck-disgust": {
+        "wav": "downloads/tess/YAF_luck_disgust.wav",
+        "length": 2.487875808962071,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-pick-disgust": {
+        "wav": "downloads/tess/YAF_pick_disgust.wav",
+        "length": 2.4615794216433193,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-thin-disgust": {
+        "wav": "downloads/tess/YAF_thin_disgust.wav",
+        "length": 2.5212582944212336,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-dime-disgust": {
+        "wav": "downloads/tess/YAF_dime_disgust.wav",
+        "length": 2.5816334889817316,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-wheat-disgust": {
+        "wav": "downloads/tess/YAF_wheat_disgust.wav",
+        "length": 2.496231670353076,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-home-disgust": {
+        "wav": "downloads/tess/OAF_home_disgust.wav",
+        "length": 2.3674940607847956,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-good-disgust": {
+        "wav": "downloads/tess/YAF_good_disgust.wav",
+        "length": 2.454902924551487,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-read-disgust": {
+        "wav": "downloads/tess/OAF_read_disgust.wav",
+        "length": 2.1751454083722455,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-dip-disgust": {
+        "wav": "downloads/tess/YAF_dip_disgust.wav",
+        "length": 2.6278364872614075,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-lose-disgust": {
+        "wav": "downloads/tess/OAF_lose_disgust.wav",
+        "length": 2.372327353158024,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-keg-disgust": {
+        "wav": "downloads/tess/OAF_keg_disgust.wav",
+        "length": 2.4267223724092735,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-tire-disgust": {
+        "wav": "downloads/tess/YAF_tire_disgust.wav",
+        "length": 2.508069140657,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-half-disgust": {
+        "wav": "downloads/tess/OAF_half_disgust.wav",
+        "length": 2.2121733431637587,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-date-disgust": {
+        "wav": "downloads/tess/YAF_date_disgust.wav",
+        "length": 2.380765134758745,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-bean-disgust": {
+        "wav": "downloads/tess/YAF_bean_disgust.wav",
+        "length": 2.2826247235192922,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-cheek-disgust": {
+        "wav": "downloads/tess/OAF_cheek_disgust.wav",
+        "length": 2.5592692717293355,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-bar-disgust": {
+        "wav": "downloads/tess/YAF_bar_disgust.wav",
+        "length": 2.70176947652986,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-hire-disgust": {
+        "wav": "downloads/tess/OAF_hire_disgust.wav",
+        "length": 2.077414598181371,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-wheat-disgust": {
+        "wav": "downloads/tess/OAF_wheat_disgust.wav",
+        "length": 2.017653805193741,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-room-disgust": {
+        "wav": "downloads/tess/OAF_room_disgust.wav",
+        "length": 2.316539690341607,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-rat-disgust": {
+        "wav": "downloads/tess/OAF_rat_disgust.wav",
+        "length": 2.2342508396821494,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-turn-disgust": {
+        "wav": "downloads/tess/OAF_turn_disgust.wav",
+        "length": 2.325673793724912,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-void-disgust": {
+        "wav": "downloads/tess/OAF_void_disgust.wav",
+        "length": 2.2358073236667484,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-read-disgust": {
+        "wav": "downloads/tess/YAF_read_disgust.wav",
+        "length": 2.364217252396166,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-fall-disgust": {
+        "wav": "downloads/tess/OAF_fall_disgust.wav",
+        "length": 2.3926435651675266,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-wire-disgust": {
+        "wav": "downloads/tess/OAF_wire_disgust.wav",
+        "length": 2.2598509052183173,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-good-disgust": {
+        "wav": "downloads/tess/OAF_good_disgust.wav",
+        "length": 2.4325387072990905,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-ripe-disgust": {
+        "wav": "downloads/tess/OAF_ripe_disgust.wav",
+        "length": 2.2669370033587284,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-check-disgust": {
+        "wav": "downloads/tess/YAF_check_disgust.wav",
+        "length": 2.7022200376832965,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-fall-disgust": {
+        "wav": "downloads/tess/YAF_fall_disgust.wav",
+        "length": 2.4767346604407305,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-sell-disgust": {
+        "wav": "downloads/tess/YAF_sell_disgust.wav",
+        "length": 2.4037437535840094,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-food-disgust": {
+        "wav": "downloads/tess/YAF_food_disgust.wav",
+        "length": 2.492258540181863,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-dog-disgust": {
+        "wav": "downloads/tess/YAF_dog_disgust.wav",
+        "length": 2.601540099942656,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-limb-disgust": {
+        "wav": "downloads/tess/OAF_limb_disgust.wav",
+        "length": 2.4811583517653806,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-wife-disgust": {
+        "wav": "downloads/tess/YAF_wife_disgust.wav",
+        "length": 2.675514049315966,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-love-disgust": {
+        "wav": "downloads/tess/OAF_love_disgust.wav",
+        "length": 2.3737609568280496,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-germ-disgust": {
+        "wav": "downloads/tess/YAF_germ_disgust.wav",
+        "length": 2.6238633570901944,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-moon-disgust": {
+        "wav": "downloads/tess/OAF_moon_disgust.wav",
+        "length": 2.333128532809044,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-pain-disgust": {
+        "wav": "downloads/tess/YAF_pain_disgust.wav",
+        "length": 2.5972392889325797,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-door-disgust": {
+        "wav": "downloads/tess/YAF_door_disgust.wav",
+        "length": 2.4487589088228066,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-whip-disgust": {
+        "wav": "downloads/tess/OAF_whip_disgust.wav",
+        "length": 2.400016384041943,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-hush-disgust": {
+        "wav": "downloads/tess/YAF_hush_disgust.wav",
+        "length": 2.387277791431146,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-learn-disgust": {
+        "wav": "downloads/tess/YAF_learn_disgust.wav",
+        "length": 2.4454001802244614,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-numb-disgust": {
+        "wav": "downloads/tess/OAF_numb_disgust.wav",
+        "length": 2.275497665274023,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-book-disgust": {
+        "wav": "downloads/tess/OAF_book_disgust.wav",
+        "length": 2.13393954288523,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-hit-disgust": {
+        "wav": "downloads/tess/YAF_hit_disgust.wav",
+        "length": 2.454902924551487,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-germ-disgust": {
+        "wav": "downloads/tess/OAF_germ_disgust.wav",
+        "length": 2.570615220774965,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-pad-disgust": {
+        "wav": "downloads/tess/OAF_pad_disgust.wav",
+        "length": 2.141312361759646,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-sheep-disgust": {
+        "wav": "downloads/tess/OAF_sheep_disgust.wav",
+        "length": 2.2068075694273777,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-reach-disgust": {
+        "wav": "downloads/tess/YAF_reach_disgust.wav",
+        "length": 2.502416646186614,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-ditch-disgust": {
+        "wav": "downloads/tess/OAF_ditch_disgust.wav",
+        "length": 2.6940689768165806,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-deep-disgust": {
+        "wav": "downloads/tess/YAF_deep_disgust.wav",
+        "length": 2.4490456295568115,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-numb-disgust": {
+        "wav": "downloads/tess/YAF_numb_disgust.wav",
+        "length": 2.358933398869501,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-seize-disgust": {
+        "wav": "downloads/tess/OAF_seize_disgust.wav",
+        "length": 2.5242074219710005,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-pike-disgust": {
+        "wav": "downloads/tess/YAF_pike_disgust.wav",
+        "length": 2.595600884738265,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-talk-disgust": {
+        "wav": "downloads/tess/OAF_talk_disgust.wav",
+        "length": 2.189645285491931,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-bite-disgust": {
+        "wav": "downloads/tess/YAF_bite_disgust.wav",
+        "length": 2.3522569017776687,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-hole-disgust": {
+        "wav": "downloads/tess/YAF_hole_disgust.wav",
+        "length": 2.5431309904153356,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-dodge-disgust": {
+        "wav": "downloads/tess/YAF_dodge_disgust.wav",
+        "length": 2.6125993282542805,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-gap-disgust": {
+        "wav": "downloads/tess/OAF_gap_disgust.wav",
+        "length": 2.3654870156467602,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-pole-disgust": {
+        "wav": "downloads/tess/OAF_pole_disgust.wav",
+        "length": 2.277791431146064,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-late-disgust": {
+        "wav": "downloads/tess/YAF_late_disgust.wav",
+        "length": 2.541984107479315,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-sure-disgust": {
+        "wav": "downloads/tess/OAF_sure_disgust.wav",
+        "length": 2.270541492586221,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-whip-disgust": {
+        "wav": "downloads/tess/YAF_whip_disgust.wav",
+        "length": 2.341730154829196,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-sell-disgust": {
+        "wav": "downloads/tess/OAF_sell_disgust.wav",
+        "length": 2.508028180552142,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-jail-disgust": {
+        "wav": "downloads/tess/OAF_jail_disgust.wav",
+        "length": 2.542066027689031,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-goal-disgust": {
+        "wav": "downloads/tess/YAF_goal_disgust.wav",
+        "length": 2.372040632424019,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-gun-disgust": {
+        "wav": "downloads/tess/OAF_gun_disgust.wav",
+        "length": 2.4765298599164414,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-neat-disgust": {
+        "wav": "downloads/tess/OAF_neat_disgust.wav",
+        "length": 2.3856393872368313,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-luck-disgust": {
+        "wav": "downloads/tess/OAF_luck_disgust.wav",
+        "length": 2.221348406651921,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-learn-disgust": {
+        "wav": "downloads/tess/OAF_learn_disgust.wav",
+        "length": 2.305111821086262,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-mode-disgust": {
+        "wav": "downloads/tess/YAF_mode_disgust.wav",
+        "length": 2.4787417055787664,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-witch-disgust": {
+        "wav": "downloads/tess/YAF_witch_disgust.wav",
+        "length": 2.7523142459244694,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-pass-disgust": {
+        "wav": "downloads/tess/YAF_pass_disgust.wav",
+        "length": 2.7818464815269928,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-when-disgust": {
+        "wav": "downloads/tess/YAF_when_disgust.wav",
+        "length": 2.5539444580978126,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-rush-disgust": {
+        "wav": "downloads/tess/OAF_rush_disgust.wav",
+        "length": 2.311051036290653,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-pool-disgust": {
+        "wav": "downloads/tess/YAF_pool_disgust.wav",
+        "length": 2.417506348816253,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-tip-disgust": {
+        "wav": "downloads/tess/YAF_tip_disgust.wav",
+        "length": 2.353977226181699,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-white-disgust": {
+        "wav": "downloads/tess/OAF_white_disgust.wav",
+        "length": 2.403866633898583,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-hall-disgust": {
+        "wav": "downloads/tess/YAF_hall_disgust.wav",
+        "length": 2.4855410829851725,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-five-disgust": {
+        "wav": "downloads/tess/YAF_five_disgust.wav",
+        "length": 2.542598509052183,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-yearn-disgust": {
+        "wav": "downloads/tess/OAF_yearn_disgust.wav",
+        "length": 2.38854755468174,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-hurl-disgust": {
+        "wav": "downloads/tess/YAF_hurl_disgust.wav",
+        "length": 2.2734906201359877,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-choice-disgust": {
+        "wav": "downloads/tess/YAF_choice_disgust.wav",
+        "length": 2.530392397804538,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-hash-disgust": {
+        "wav": "downloads/tess/YAF_hash_disgust.wav",
+        "length": 2.4231998033914968,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-ripe-disgust": {
+        "wav": "downloads/tess/YAF_ripe_disgust.wav",
+        "length": 2.5508724502334728,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-shall-disgust": {
+        "wav": "downloads/tess/YAF_shall_disgust.wav",
+        "length": 2.585033177684935,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-yes-disgust": {
+        "wav": "downloads/tess/OAF_yes_disgust.wav",
+        "length": 2.5808142868845745,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-lease-disgust": {
+        "wav": "downloads/tess/OAF_lease_disgust.wav",
+        "length": 2.3075284672728764,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-cheek-disgust": {
+        "wav": "downloads/tess/YAF_cheek_disgust.wav",
+        "length": 2.5804866060457115,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-calm-disgust": {
+        "wav": "downloads/tess/YAF_calm_disgust.wav",
+        "length": 2.3093716719914803,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-burn-disgust": {
+        "wav": "downloads/tess/YAF_burn_disgust.wav",
+        "length": 2.241910379290571,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-said-disgust": {
+        "wav": "downloads/tess/YAF_said_disgust.wav",
+        "length": 2.4955763086753504,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-wash-disgust": {
+        "wav": "downloads/tess/OAF_wash_disgust.wav",
+        "length": 2.4151306627344966,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-check-disgust": {
+        "wav": "downloads/tess/OAF_check_disgust.wav",
+        "length": 2.434013271073974,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-death-disgust": {
+        "wav": "downloads/tess/OAF_death_disgust.wav",
+        "length": 2.4007946260342425,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-third-disgust": {
+        "wav": "downloads/tess/YAF_third_disgust.wav",
+        "length": 2.4815269927091013,
+        "emo": "disgust",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-juice-angry": {
+        "wav": "downloads/tess/YAF_juice_angry.wav",
+        "length": 2.2075038912099614,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-late-angry": {
+        "wav": "downloads/tess/OAF_late_angry.wav",
+        "length": 1.6733022036536414,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-cause-angry": {
+        "wav": "downloads/tess/OAF_cause_angry.wav",
+        "length": 1.695830261325469,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-read-angry": {
+        "wav": "downloads/tess/YAF_read_angry.wav",
+        "length": 2.24846399606783,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-south-angry": {
+        "wav": "downloads/tess/OAF_south_angry.wav",
+        "length": 1.5181453264520357,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-when-angry": {
+        "wav": "downloads/tess/YAF_when_angry.wav",
+        "length": 2.022773818300975,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-pain-angry": {
+        "wav": "downloads/tess/OAF_pain_angry.wav",
+        "length": 1.5461620381748178,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-neat-angry": {
+        "wav": "downloads/tess/OAF_neat_angry.wav",
+        "length": 1.6773982141394281,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-mop-angry": {
+        "wav": "downloads/tess/OAF_mop_angry.wav",
+        "length": 1.3901859588760548,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-choice-angry": {
+        "wav": "downloads/tess/YAF_choice_angry.wav",
+        "length": 1.8671254198410747,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-rain-angry": {
+        "wav": "downloads/tess/YAF_rain_angry.wav",
+        "length": 2.3128123207995412,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-shawl-angry": {
+        "wav": "downloads/tess/OAF_shawl_angry.wav",
+        "length": 1.527402310149914,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-choice-angry": {
+        "wav": "downloads/tess/OAF_choice_angry.wav",
+        "length": 1.5256819857458834,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-such-angry": {
+        "wav": "downloads/tess/OAF_such_angry.wav",
+        "length": 1.672483001556484,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-seize-angry": {
+        "wav": "downloads/tess/YAF_seize_angry.wav",
+        "length": 2.369828786761694,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-page-angry": {
+        "wav": "downloads/tess/OAF_page_angry.wav",
+        "length": 1.5063078561481118,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-hit-angry": {
+        "wav": "downloads/tess/OAF_hit_angry.wav",
+        "length": 1.3566396329974604,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-live-angry": {
+        "wav": "downloads/tess/YAF_live_angry.wav",
+        "length": 2.00692225772098,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-wife-angry": {
+        "wav": "downloads/tess/YAF_wife_angry.wav",
+        "length": 2.192143851888261,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-laud-angry": {
+        "wav": "downloads/tess/YAF_laud_angry.wav",
+        "length": 1.7810682395346933,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-fit-angry": {
+        "wav": "downloads/tess/OAF_fit_angry.wav",
+        "length": 1.6016220201523717,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-beg-angry": {
+        "wav": "downloads/tess/OAF_beg_angry.wav",
+        "length": 1.5461620381748178,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-hit-angry": {
+        "wav": "downloads/tess/YAF_hit_angry.wav",
+        "length": 2.1169410993692144,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-tire-angry": {
+        "wav": "downloads/tess/OAF_tire_angry.wav",
+        "length": 1.6540099942655853,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-germ-angry": {
+        "wav": "downloads/tess/OAF_germ_angry.wav",
+        "length": 1.4823052347014007,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-pool-angry": {
+        "wav": "downloads/tess/YAF_pool_angry.wav",
+        "length": 2.0232243794544114,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-bite-angry": {
+        "wav": "downloads/tess/YAF_bite_angry.wav",
+        "length": 1.9776767428524618,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-cab-angry": {
+        "wav": "downloads/tess/OAF_cab_angry.wav",
+        "length": 1.457032850004096,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-cheek-angry": {
+        "wav": "downloads/tess/YAF_cheek_angry.wav",
+        "length": 2.2183173588924388,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-road-angry": {
+        "wav": "downloads/tess/YAF_road_angry.wav",
+        "length": 2.2514131236175965,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-kick-angry": {
+        "wav": "downloads/tess/OAF_kick_angry.wav",
+        "length": 1.6513885475546817,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-puff-angry": {
+        "wav": "downloads/tess/YAF_puff_angry.wav",
+        "length": 1.921807159826329,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-met-angry": {
+        "wav": "downloads/tess/OAF_met_angry.wav",
+        "length": 1.5086425821250102,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-near-angry": {
+        "wav": "downloads/tess/YAF_near_angry.wav",
+        "length": 2.0360039321700665,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-half-angry": {
+        "wav": "downloads/tess/YAF_half_angry.wav",
+        "length": 2.2221266486442204,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-far-angry": {
+        "wav": "downloads/tess/OAF_far_angry.wav",
+        "length": 1.509297943802736,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-have-angry": {
+        "wav": "downloads/tess/OAF_have_angry.wav",
+        "length": 1.652535430490702,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-gaze-angry": {
+        "wav": "downloads/tess/YAF_gaze_angry.wav",
+        "length": 2.3170312115999017,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-get-angry": {
+        "wav": "downloads/tess/YAF_get_angry.wav",
+        "length": 2.3339067748013433,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-goal-angry": {
+        "wav": "downloads/tess/OAF_goal_angry.wav",
+        "length": 1.519906610960924,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-long-angry": {
+        "wav": "downloads/tess/OAF_long_angry.wav",
+        "length": 1.7242565740968296,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-soap-angry": {
+        "wav": "downloads/tess/YAF_soap_angry.wav",
+        "length": 2.225731137871713,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-haze-angry": {
+        "wav": "downloads/tess/YAF_haze_angry.wav",
+        "length": 2.239125092160236,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-loaf-angry": {
+        "wav": "downloads/tess/OAF_loaf_angry.wav",
+        "length": 1.679651019906611,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-pain-angry": {
+        "wav": "downloads/tess/YAF_pain_angry.wav",
+        "length": 2.184402392070124,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-love-angry": {
+        "wav": "downloads/tess/YAF_love_angry.wav",
+        "length": 1.9859097239288932,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-rough-angry": {
+        "wav": "downloads/tess/OAF_rough_angry.wav",
+        "length": 1.7206520848693372,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-sub-angry": {
+        "wav": "downloads/tess/OAF_sub_angry.wav",
+        "length": 1.3749078397640697,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-search-angry": {
+        "wav": "downloads/tess/OAF_search_angry.wav",
+        "length": 1.6961169820594741,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-food-angry": {
+        "wav": "downloads/tess/OAF_food_angry.wav",
+        "length": 1.5340378471368887,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-jail-angry": {
+        "wav": "downloads/tess/YAF_jail_angry.wav",
+        "length": 1.970754485131482,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-sheep-angry": {
+        "wav": "downloads/tess/YAF_sheep_angry.wav",
+        "length": 2.0926927172933563,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-yes-angry": {
+        "wav": "downloads/tess/YAF_yes_angry.wav",
+        "length": 1.9948390267879086,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-soup-angry": {
+        "wav": "downloads/tess/OAF_soup_angry.wav",
+        "length": 1.5933071188662242,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-doll-angry": {
+        "wav": "downloads/tess/YAF_doll_angry.wav",
+        "length": 2.047022200376833,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-kill-angry": {
+        "wav": "downloads/tess/OAF_kill_angry.wav",
+        "length": 1.5000819202097158,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-deep-angry": {
+        "wav": "downloads/tess/YAF_deep_angry.wav",
+        "length": 1.9632997460473498,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-room-angry": {
+        "wav": "downloads/tess/OAF_room_angry.wav",
+        "length": 1.5399361022364217,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-home-angry": {
+        "wav": "downloads/tess/YAF_home_angry.wav",
+        "length": 1.7657082002129925,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-voice-angry": {
+        "wav": "downloads/tess/YAF_voice_angry.wav",
+        "length": 2.4436388957155732,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-luck-angry": {
+        "wav": "downloads/tess/YAF_luck_angry.wav",
+        "length": 2.0381748177275334,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-bath-angry": {
+        "wav": "downloads/tess/OAF_bath_angry.wav",
+        "length": 1.6068649135741788,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-take-angry": {
+        "wav": "downloads/tess/OAF_take_angry.wav",
+        "length": 1.459777177029573,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-rot-angry": {
+        "wav": "downloads/tess/YAF_rot_angry.wav",
+        "length": 2.0399361022364215,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-keep-angry": {
+        "wav": "downloads/tess/YAF_keep_angry.wav",
+        "length": 2.2215122470713524,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-hall-angry": {
+        "wav": "downloads/tess/YAF_hall_angry.wav",
+        "length": 2.101744900466945,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-home-angry": {
+        "wav": "downloads/tess/OAF_home_angry.wav",
+        "length": 1.4447857786515934,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-keep-angry": {
+        "wav": "downloads/tess/OAF_keep_angry.wav",
+        "length": 1.555378061767838,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-pearl-angry": {
+        "wav": "downloads/tess/YAF_pearl_angry.wav",
+        "length": 2.0613991971819448,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-kill-angry": {
+        "wav": "downloads/tess/YAF_kill_angry.wav",
+        "length": 2.0119603506184975,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-came-angry": {
+        "wav": "downloads/tess/OAF_came_angry.wav",
+        "length": 1.6347177848775294,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-make-angry": {
+        "wav": "downloads/tess/YAF_make_angry.wav",
+        "length": 2.172278201032195,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-raid-angry": {
+        "wav": "downloads/tess/OAF_raid_angry.wav",
+        "length": 1.5679937740640617,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-came-angry": {
+        "wav": "downloads/tess/YAF_came_angry.wav",
+        "length": 2.215532071762104,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-keen-angry": {
+        "wav": "downloads/tess/YAF_keen_angry.wav",
+        "length": 1.9488817891373802,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-fail-angry": {
+        "wav": "downloads/tess/YAF_fail_angry.wav",
+        "length": 1.8734332759891865,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-fit-angry": {
+        "wav": "downloads/tess/YAF_fit_angry.wav",
+        "length": 2.1477021381174737,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-yearn-angry": {
+        "wav": "downloads/tess/YAF_yearn_angry.wav",
+        "length": 2.073236667485869,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-deep-angry": {
+        "wav": "downloads/tess/OAF_deep_angry.wav",
+        "length": 1.6120668468911281,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-pole-angry": {
+        "wav": "downloads/tess/YAF_pole_angry.wav",
+        "length": 2.177398214139428,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-lot-angry": {
+        "wav": "downloads/tess/YAF_lot_angry.wav",
+        "length": 1.992217580077005,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-page-angry": {
+        "wav": "downloads/tess/YAF_page_angry.wav",
+        "length": 1.9562546080117964,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-cheek-angry": {
+        "wav": "downloads/tess/OAF_cheek_angry.wav",
+        "length": 1.681821905464078,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-mill-angry": {
+        "wav": "downloads/tess/YAF_mill_angry.wav",
+        "length": 2.089129188170722,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-kite-angry": {
+        "wav": "downloads/tess/YAF_kite_angry.wav",
+        "length": 1.9968051118210863,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-mood-angry": {
+        "wav": "downloads/tess/YAF_mood_angry.wav",
+        "length": 2.009093143278447,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-bought-angry": {
+        "wav": "downloads/tess/OAF_bought_angry.wav",
+        "length": 1.4338084705496845,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-when-angry": {
+        "wav": "downloads/tess/OAF_when_angry.wav",
+        "length": 1.6378717129515852,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-chain-angry": {
+        "wav": "downloads/tess/YAF_chain_angry.wav",
+        "length": 2.172769722290489,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-mob-angry": {
+        "wav": "downloads/tess/YAF_mob_angry.wav",
+        "length": 2.129474891455722,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-time-angry": {
+        "wav": "downloads/tess/YAF_time_angry.wav",
+        "length": 2.17621037109855,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-hate-angry": {
+        "wav": "downloads/tess/YAF_hate_angry.wav",
+        "length": 2.1010485786843613,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-yearn-angry": {
+        "wav": "downloads/tess/OAF_yearn_angry.wav",
+        "length": 1.627672646841976,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-raise-angry": {
+        "wav": "downloads/tess/YAF_raise_angry.wav",
+        "length": 2.050749569918899,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-cab-angry": {
+        "wav": "downloads/tess/YAF_cab_angry.wav",
+        "length": 2.164331940689768,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-beg-angry": {
+        "wav": "downloads/tess/YAF_beg_angry.wav",
+        "length": 2.131400016384042,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-late-angry": {
+        "wav": "downloads/tess/YAF_late_angry.wav",
+        "length": 2.104612107806996,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-dab-angry": {
+        "wav": "downloads/tess/OAF_dab_angry.wav",
+        "length": 1.5671745719669041,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-jar-angry": {
+        "wav": "downloads/tess/OAF_jar_angry.wav",
+        "length": 1.5581633488981732,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-hurl-angry": {
+        "wav": "downloads/tess/OAF_hurl_angry.wav",
+        "length": 1.6019497009912345,
+        "emo": "angry",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-hash-sad": {
+        "wav": "downloads/tess/YAF_hash_sad.wav",
+        "length": 2.1948062587040225,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-tape-sad": {
+        "wav": "downloads/tess/YAF_tape_sad.wav",
+        "length": 2.322601785860572,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-learn-sad": {
+        "wav": "downloads/tess/OAF_learn_sad.wav",
+        "length": 2.432088146145654,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-shout-sad": {
+        "wav": "downloads/tess/YAF_shout_sad.wav",
+        "length": 2.2794707954452362,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-thought-sad": {
+        "wav": "downloads/tess/YAF_thought_sad.wav",
+        "length": 2.19427377734087,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-merge-sad": {
+        "wav": "downloads/tess/YAF_merge_sad.wav",
+        "length": 2.403170312115999,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-sub-sad": {
+        "wav": "downloads/tess/YAF_sub_sad.wav",
+        "length": 2.282706643729008,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-gaze-sad": {
+        "wav": "downloads/tess/OAF_gaze_sad.wav",
+        "length": 2.9758335381338576,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-raise-sad": {
+        "wav": "downloads/tess/OAF_raise_sad.wav",
+        "length": 2.9139018595887607,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-rose-sad": {
+        "wav": "downloads/tess/YAF_rose_sad.wav",
+        "length": 2.301056770705333,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-gap-sad": {
+        "wav": "downloads/tess/YAF_gap_sad.wav",
+        "length": 2.233390677480134,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-nice-sad": {
+        "wav": "downloads/tess/YAF_nice_sad.wav",
+        "length": 2.252478086343901,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-bath-sad": {
+        "wav": "downloads/tess/OAF_bath_sad.wav",
+        "length": 2.5841730154829197,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-bought-sad": {
+        "wav": "downloads/tess/OAF_bought_sad.wav",
+        "length": 2.528713033505366,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-hash-sad": {
+        "wav": "downloads/tess/OAF_hash_sad.wav",
+        "length": 2.358441877611207,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-mess-sad": {
+        "wav": "downloads/tess/YAF_mess_sad.wav",
+        "length": 2.468665519783731,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-rag-sad": {
+        "wav": "downloads/tess/OAF_rag_sad.wav",
+        "length": 2.8538953059719834,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-book-sad": {
+        "wav": "downloads/tess/OAF_book_sad.wav",
+        "length": 2.5153190792168427,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-neat-sad": {
+        "wav": "downloads/tess/OAF_neat_sad.wav",
+        "length": 2.694642418284591,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-numb-sad": {
+        "wav": "downloads/tess/YAF_numb_sad.wav",
+        "length": 2.2066027689030885,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-pool-sad": {
+        "wav": "downloads/tess/YAF_pool_sad.wav",
+        "length": 2.116162857376915,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-turn-sad": {
+        "wav": "downloads/tess/OAF_turn_sad.wav",
+        "length": 2.5292045547636604,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-reach-sad": {
+        "wav": "downloads/tess/YAF_reach_sad.wav",
+        "length": 2.2641926763332516,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-pike-sad": {
+        "wav": "downloads/tess/YAF_pike_sad.wav",
+        "length": 2.218849840255591,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-wheat-sad": {
+        "wav": "downloads/tess/OAF_wheat_sad.wav",
+        "length": 2.45465716392234,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-ton-sad": {
+        "wav": "downloads/tess/OAF_ton_sad.wav",
+        "length": 2.6536823134267222,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-perch-sad": {
+        "wav": "downloads/tess/YAF_perch_sad.wav",
+        "length": 2.5567707053330055,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-thumb-sad": {
+        "wav": "downloads/tess/YAF_thumb_sad.wav",
+        "length": 2.1585565659048087,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-choice-sad": {
+        "wav": "downloads/tess/OAF_choice_sad.wav",
+        "length": 2.876095682804948,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-moon-sad": {
+        "wav": "downloads/tess/OAF_moon_sad.wav",
+        "length": 2.602768903088392,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-road-sad": {
+        "wav": "downloads/tess/YAF_road_sad.wav",
+        "length": 2.3567215532071764,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-mill-sad": {
+        "wav": "downloads/tess/OAF_mill_sad.wav",
+        "length": 2.742197100024576,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-time-sad": {
+        "wav": "downloads/tess/YAF_time_sad.wav",
+        "length": 2.18427951175555,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-check-sad": {
+        "wav": "downloads/tess/YAF_check_sad.wav",
+        "length": 2.3482428115015974,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-lose-sad": {
+        "wav": "downloads/tess/YAF_lose_sad.wav",
+        "length": 2.36798558204309,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-rush-sad": {
+        "wav": "downloads/tess/OAF_rush_sad.wav",
+        "length": 2.440525927746375,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-note-sad": {
+        "wav": "downloads/tess/YAF_note_sad.wav",
+        "length": 2.4231588432866387,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-kite-sad": {
+        "wav": "downloads/tess/YAF_kite_sad.wav",
+        "length": 2.2691078889161957,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-late-sad": {
+        "wav": "downloads/tess/YAF_late_sad.wav",
+        "length": 2.266199721471287,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-should-sad": {
+        "wav": "downloads/tess/OAF_should_sad.wav",
+        "length": 2.635823707708692,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-hurl-sad": {
+        "wav": "downloads/tess/OAF_hurl_sad.wav",
+        "length": 2.4717375276480706,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-wife-sad": {
+        "wav": "downloads/tess/YAF_wife_sad.wav",
+        "length": 2.2968378799049725,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-have-sad": {
+        "wav": "downloads/tess/YAF_have_sad.wav",
+        "length": 2.200172032440403,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-goose-sad": {
+        "wav": "downloads/tess/YAF_goose_sad.wav",
+        "length": 2.384492504300811,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-when-sad": {
+        "wav": "downloads/tess/OAF_when_sad.wav",
+        "length": 2.346112886048988,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-tell-sad": {
+        "wav": "downloads/tess/OAF_tell_sad.wav",
+        "length": 2.333742934381912,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-cause-sad": {
+        "wav": "downloads/tess/YAF_cause_sad.wav",
+        "length": 2.5203162120095026,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-chalk-sad": {
+        "wav": "downloads/tess/YAF_chalk_sad.wav",
+        "length": 2.1878840009830425,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-door-sad": {
+        "wav": "downloads/tess/YAF_door_sad.wav",
+        "length": 2.2476857540755306,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-jug-sad": {
+        "wav": "downloads/tess/OAF_jug_sad.wav",
+        "length": 2.4119767346604406,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-have-sad": {
+        "wav": "downloads/tess/OAF_have_sad.wav",
+        "length": 2.4180388301794054,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-base-sad": {
+        "wav": "downloads/tess/OAF_base_sad.wav",
+        "length": 2.5695912181535183,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-met-sad": {
+        "wav": "downloads/tess/OAF_met_sad.wav",
+        "length": 2.4444990579175885,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-fail-sad": {
+        "wav": "downloads/tess/OAF_fail_sad.wav",
+        "length": 2.746907512083231,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-name-sad": {
+        "wav": "downloads/tess/OAF_name_sad.wav",
+        "length": 2.6080937167199147,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-soap-sad": {
+        "wav": "downloads/tess/OAF_soap_sad.wav",
+        "length": 2.7514131236175965,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-knock-sad": {
+        "wav": "downloads/tess/YAF_knock_sad.wav",
+        "length": 2.107192594413042,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-pool-sad": {
+        "wav": "downloads/tess/OAF_pool_sad.wav",
+        "length": 2.5368231342672236,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-get-sad": {
+        "wav": "downloads/tess/YAF_get_sad.wav",
+        "length": 2.3140001638404195,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-page-sad": {
+        "wav": "downloads/tess/YAF_page_sad.wav",
+        "length": 2.345252723846973,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-hit-sad": {
+        "wav": "downloads/tess/YAF_hit_sad.wav",
+        "length": 2.3821168182190546,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-mop-sad": {
+        "wav": "downloads/tess/YAF_mop_sad.wav",
+        "length": 2.31322192184812,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-vine-sad": {
+        "wav": "downloads/tess/YAF_vine_sad.wav",
+        "length": 2.1872286393053164,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-dab-sad": {
+        "wav": "downloads/tess/YAF_dab_sad.wav",
+        "length": 2.212050462849185,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-kite-sad": {
+        "wav": "downloads/tess/OAF_kite_sad.wav",
+        "length": 2.6806750225280576,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-join-sad": {
+        "wav": "downloads/tess/YAF_join_sad.wav",
+        "length": 2.235889243876464,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-sell-sad": {
+        "wav": "downloads/tess/YAF_sell_sad.wav",
+        "length": 2.1859179159498647,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-time-sad": {
+        "wav": "downloads/tess/OAF_time_sad.wav",
+        "length": 2.4835749979519948,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-pick-sad": {
+        "wav": "downloads/tess/YAF_pick_sad.wav",
+        "length": 2.459818137134431,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-gun-sad": {
+        "wav": "downloads/tess/YAF_gun_sad.wav",
+        "length": 2.288973539772262,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-south-sad": {
+        "wav": "downloads/tess/OAF_south_sad.wav",
+        "length": 2.7208978454984845,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-bone-sad": {
+        "wav": "downloads/tess/YAF_bone_sad.wav",
+        "length": 2.1940689768165806,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-fit-sad": {
+        "wav": "downloads/tess/YAF_fit_sad.wav",
+        "length": 2.421315638568035,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-dodge-sad": {
+        "wav": "downloads/tess/OAF_dodge_sad.wav",
+        "length": 2.4882854100106497,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-live-sad": {
+        "wav": "downloads/tess/YAF_live_sad.wav",
+        "length": 2.207708691734251,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-said-sad": {
+        "wav": "downloads/tess/OAF_said_sad.wav",
+        "length": 2.3937085278938315,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-nag-sad": {
+        "wav": "downloads/tess/YAF_nag_sad.wav",
+        "length": 2.311542557548947,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-shack-sad": {
+        "wav": "downloads/tess/YAF_shack_sad.wav",
+        "length": 2.250102400262145,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-bean-sad": {
+        "wav": "downloads/tess/OAF_bean_sad.wav",
+        "length": 2.428729417547309,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-goal-sad": {
+        "wav": "downloads/tess/OAF_goal_sad.wav",
+        "length": 2.6311542557548946,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-dab-sad": {
+        "wav": "downloads/tess/OAF_dab_sad.wav",
+        "length": 2.87683296469239,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-pearl-sad": {
+        "wav": "downloads/tess/OAF_pearl_sad.wav",
+        "length": 2.39719013680675,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-doll-sad": {
+        "wav": "downloads/tess/OAF_doll_sad.wav",
+        "length": 2.27267141803883,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-chair-sad": {
+        "wav": "downloads/tess/OAF_chair_sad.wav",
+        "length": 2.5885967068075693,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-read-sad": {
+        "wav": "downloads/tess/YAF_read_sad.wav",
+        "length": 2.2616531498320636,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-youth-sad": {
+        "wav": "downloads/tess/YAF_youth_sad.wav",
+        "length": 2.375358400917506,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-tire-sad": {
+        "wav": "downloads/tess/OAF_tire_sad.wav",
+        "length": 2.607069714098468,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-jug-sad": {
+        "wav": "downloads/tess/YAF_jug_sad.wav",
+        "length": 2.4311051036290654,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-lore-sad": {
+        "wav": "downloads/tess/OAF_lore_sad.wav",
+        "length": 2.4348734332759894,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-thin-sad": {
+        "wav": "downloads/tess/YAF_thin_sad.wav",
+        "length": 2.2924551486851805,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-goose-sad": {
+        "wav": "downloads/tess/OAF_goose_sad.wav",
+        "length": 2.515851560579995,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-puff-sad": {
+        "wav": "downloads/tess/OAF_puff_sad.wav",
+        "length": 2.347177848775293,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-voice-sad": {
+        "wav": "downloads/tess/YAF_voice_sad.wav",
+        "length": 2.231383632342099,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-thumb-sad": {
+        "wav": "downloads/tess/OAF_thumb_sad.wav",
+        "length": 2.537683296469239,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-thought-sad": {
+        "wav": "downloads/tess/OAF_thought_sad.wav",
+        "length": 2.2744327025477187,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-match-sad": {
+        "wav": "downloads/tess/YAF_match_sad.wav",
+        "length": 2.2569427377734086,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-mode-sad": {
+        "wav": "downloads/tess/OAF_mode_sad.wav",
+        "length": 2.594945523060539,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-fall-sad": {
+        "wav": "downloads/tess/YAF_fall_sad.wav",
+        "length": 2.0561563037601376,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-raid-sad": {
+        "wav": "downloads/tess/OAF_raid_sad.wav",
+        "length": 2.511182108626198,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-near-sad": {
+        "wav": "downloads/tess/YAF_near_sad.wav",
+        "length": 2.236339805029901,
+        "emo": "sad",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-check-ps": {
+        "wav": "downloads/tess/YAF_check_ps.wav",
+        "length": 1.9487179487179487,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-kill-ps": {
+        "wav": "downloads/tess/YAF_kill_ps.wav",
+        "length": 1.7965921192758254,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-lean-ps": {
+        "wav": "downloads/tess/OAF_lean_ps.wav",
+        "length": 2.0688948963709346,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-bite-ps": {
+        "wav": "downloads/tess/YAF_bite_ps.wav",
+        "length": 1.8200212992545262,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-limb-ps": {
+        "wav": "downloads/tess/OAF_limb_ps.wav",
+        "length": 1.8961661341853036,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-match-ps": {
+        "wav": "downloads/tess/YAF_match_ps.wav",
+        "length": 1.8724092733677398,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-tire-ps": {
+        "wav": "downloads/tess/YAF_tire_ps.wav",
+        "length": 1.9102154501515525,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-goal-ps": {
+        "wav": "downloads/tess/YAF_goal_ps.wav",
+        "length": 1.770828213320226,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-loaf-ps": {
+        "wav": "downloads/tess/OAF_loaf_ps.wav",
+        "length": 2.054231178831818,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-rain-ps": {
+        "wav": "downloads/tess/OAF_rain_ps.wav",
+        "length": 1.9168100270336692,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-wag-ps": {
+        "wav": "downloads/tess/OAF_wag_ps.wav",
+        "length": 1.927131973457852,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-home-ps": {
+        "wav": "downloads/tess/OAF_home_ps.wav",
+        "length": 1.8525026624068157,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-moon-ps": {
+        "wav": "downloads/tess/OAF_moon_ps.wav",
+        "length": 2.137298271483575,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-puff-ps": {
+        "wav": "downloads/tess/OAF_puff_ps.wav",
+        "length": 2.0000819202097158,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-gap-ps": {
+        "wav": "downloads/tess/YAF_gap_ps.wav",
+        "length": 2.342672237240927,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-learn-ps": {
+        "wav": "downloads/tess/OAF_learn_ps.wav",
+        "length": 2.06590480871631,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-rag-ps": {
+        "wav": "downloads/tess/OAF_rag_ps.wav",
+        "length": 1.9357745555828623,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-loaf-ps": {
+        "wav": "downloads/tess/YAF_loaf_ps.wav",
+        "length": 1.839968870320308,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-chain-ps": {
+        "wav": "downloads/tess/OAF_chain_ps.wav",
+        "length": 1.9531826001474564,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-whip-ps": {
+        "wav": "downloads/tess/OAF_whip_ps.wav",
+        "length": 1.6800606209551896,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-doll-ps": {
+        "wav": "downloads/tess/OAF_doll_ps.wav",
+        "length": 2.1966494634226263,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-shack-ps": {
+        "wav": "downloads/tess/YAF_shack_ps.wav",
+        "length": 1.8062587040222824,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-choice-ps": {
+        "wav": "downloads/tess/YAF_choice_ps.wav",
+        "length": 2.4191037929057098,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-calm-ps": {
+        "wav": "downloads/tess/YAF_calm_ps.wav",
+        "length": 1.702097157368723,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-mode-ps": {
+        "wav": "downloads/tess/YAF_mode_ps.wav",
+        "length": 2.1538461538461537,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-mode-ps": {
+        "wav": "downloads/tess/OAF_mode_ps.wav",
+        "length": 2.196526583108053,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-late-ps": {
+        "wav": "downloads/tess/YAF_late_ps.wav",
+        "length": 1.9270500532481363,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-mop-ps": {
+        "wav": "downloads/tess/YAF_mop_ps.wav",
+        "length": 1.9074711231260753,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-gin-ps": {
+        "wav": "downloads/tess/OAF_gin_ps.wav",
+        "length": 2.0552961415581223,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-choice-ps": {
+        "wav": "downloads/tess/OAF_choice_ps.wav",
+        "length": 1.8778979274186942,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-numb-ps": {
+        "wav": "downloads/tess/OAF_numb_ps.wav",
+        "length": 2.004300811010076,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-sail-ps": {
+        "wav": "downloads/tess/YAF_sail_ps.wav",
+        "length": 1.9855001228803146,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-ton-ps": {
+        "wav": "downloads/tess/OAF_ton_ps.wav",
+        "length": 2.0475137216351276,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-walk-ps": {
+        "wav": "downloads/tess/OAF_walk_ps.wav",
+        "length": 2.285123289915622,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-wife-ps": {
+        "wav": "downloads/tess/YAF_wife_ps.wav",
+        "length": 1.944908658966167,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-king-ps": {
+        "wav": "downloads/tess/YAF_king_ps.wav",
+        "length": 2.3217006635536985,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-gun-ps": {
+        "wav": "downloads/tess/YAF_gun_ps.wav",
+        "length": 1.8106004751372164,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-live-ps": {
+        "wav": "downloads/tess/OAF_live_ps.wav",
+        "length": 2.0151961989022693,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-keep-ps": {
+        "wav": "downloads/tess/YAF_keep_ps.wav",
+        "length": 1.909723928893258,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-near-ps": {
+        "wav": "downloads/tess/OAF_near_ps.wav",
+        "length": 2.212664864422053,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-tape-ps": {
+        "wav": "downloads/tess/OAF_tape_ps.wav",
+        "length": 2.1654378635209306,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-whip-ps": {
+        "wav": "downloads/tess/YAF_whip_ps.wav",
+        "length": 2.0377652166789546,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-witch-ps": {
+        "wav": "downloads/tess/YAF_witch_ps.wav",
+        "length": 1.8416482346194807,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-cab-ps": {
+        "wav": "downloads/tess/OAF_cab_ps.wav",
+        "length": 1.8940771688375522,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-tell-ps": {
+        "wav": "downloads/tess/OAF_tell_ps.wav",
+        "length": 2.2190956008847382,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-soap-ps": {
+        "wav": "downloads/tess/YAF_soap_ps.wav",
+        "length": 1.9541656426640452,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-seize-ps": {
+        "wav": "downloads/tess/YAF_seize_ps.wav",
+        "length": 1.9861145244531826,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-nag-ps": {
+        "wav": "downloads/tess/OAF_nag_ps.wav",
+        "length": 2.1458998935037275,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-hit-ps": {
+        "wav": "downloads/tess/OAF_hit_ps.wav",
+        "length": 1.8310395674612927,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-talk-ps": {
+        "wav": "downloads/tess/YAF_talk_ps.wav",
+        "length": 1.9873023674940609,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-goose-ps": {
+        "wav": "downloads/tess/OAF_goose_ps.wav",
+        "length": 2.127344966003113,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-germ-ps": {
+        "wav": "downloads/tess/YAF_germ_ps.wav",
+        "length": 1.815966248873597,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-dip-ps": {
+        "wav": "downloads/tess/YAF_dip_ps.wav",
+        "length": 1.9603915786024413,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-should-ps": {
+        "wav": "downloads/tess/OAF_should_ps.wav",
+        "length": 2.0505857294994674,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-fit-ps": {
+        "wav": "downloads/tess/OAF_fit_ps.wav",
+        "length": 1.866797739002212,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-have-ps": {
+        "wav": "downloads/tess/OAF_have_ps.wav",
+        "length": 2.159007127058245,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-juice-ps": {
+        "wav": "downloads/tess/YAF_juice_ps.wav",
+        "length": 2.029900876546244,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-sour-ps": {
+        "wav": "downloads/tess/YAF_sour_ps.wav",
+        "length": 1.9075940034406489,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-kill-ps": {
+        "wav": "downloads/tess/OAF_kill_ps.wav",
+        "length": 2.234414680101581,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-puff-ps": {
+        "wav": "downloads/tess/YAF_puff_ps.wav",
+        "length": 2.211722782010322,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-pike-ps": {
+        "wav": "downloads/tess/OAF_pike_ps.wav",
+        "length": 1.8316130089293028,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-hash-ps": {
+        "wav": "downloads/tess/OAF_hash_ps.wav",
+        "length": 1.9261079708364053,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-lease-ps": {
+        "wav": "downloads/tess/OAF_lease_ps.wav",
+        "length": 2.171540919144753,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-said-ps": {
+        "wav": "downloads/tess/OAF_said_ps.wav",
+        "length": 1.8966576554435979,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-thumb-ps": {
+        "wav": "downloads/tess/YAF_thumb_ps.wav",
+        "length": 1.8785123289915622,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-reach-ps": {
+        "wav": "downloads/tess/OAF_reach_ps.wav",
+        "length": 2.1835422298681086,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-pass-ps": {
+        "wav": "downloads/tess/OAF_pass_ps.wav",
+        "length": 2.29880396493815,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-shout-ps": {
+        "wav": "downloads/tess/YAF_shout_ps.wav",
+        "length": 2.3742934381912018,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-take-ps": {
+        "wav": "downloads/tess/OAF_take_ps.wav",
+        "length": 2.056320144179569,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-love-ps": {
+        "wav": "downloads/tess/OAF_love_ps.wav",
+        "length": 1.9350372736954207,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-tough-ps": {
+        "wav": "downloads/tess/YAF_tough_ps.wav",
+        "length": 2.2893831408208407,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-thought-ps": {
+        "wav": "downloads/tess/YAF_thought_ps.wav",
+        "length": 1.908126484803801,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-sheep-ps": {
+        "wav": "downloads/tess/OAF_sheep_ps.wav",
+        "length": 2.1038338658146967,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-note-ps": {
+        "wav": "downloads/tess/OAF_note_ps.wav",
+        "length": 2.039813221921848,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-fat-ps": {
+        "wav": "downloads/tess/OAF_fat_ps.wav",
+        "length": 1.9830425165888426,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-join-ps": {
+        "wav": "downloads/tess/YAF_join_ps.wav",
+        "length": 1.8896534775129024,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-raise-ps": {
+        "wav": "downloads/tess/OAF_raise_ps.wav",
+        "length": 2.102195461620382,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-shall-ps": {
+        "wav": "downloads/tess/YAF_shall_ps.wav",
+        "length": 1.814450724993856,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-cool-ps": {
+        "wav": "downloads/tess/OAF_cool_ps.wav",
+        "length": 1.7358073236667486,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-wire-ps": {
+        "wav": "downloads/tess/OAF_wire_ps.wav",
+        "length": 1.9285246170230195,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-sell-ps": {
+        "wav": "downloads/tess/YAF_sell_ps.wav",
+        "length": 2.066846891128041,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-chat-ps": {
+        "wav": "downloads/tess/OAF_chat_ps.wav",
+        "length": 1.8442287212255264,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-burn-ps": {
+        "wav": "downloads/tess/YAF_burn_ps.wav",
+        "length": 2.209142295404276,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-pole-ps": {
+        "wav": "downloads/tess/OAF_pole_ps.wav",
+        "length": 1.9416318505775374,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-void-ps": {
+        "wav": "downloads/tess/YAF_void_ps.wav",
+        "length": 1.8280494798066682,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-gin-ps": {
+        "wav": "downloads/tess/YAF_gin_ps.wav",
+        "length": 1.8151060866715818,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-deep-ps": {
+        "wav": "downloads/tess/YAF_deep_ps.wav",
+        "length": 1.9275415745064308,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-ripe-ps": {
+        "wav": "downloads/tess/OAF_ripe_ps.wav",
+        "length": 2.1491357417874988,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-wheat-ps": {
+        "wav": "downloads/tess/OAF_wheat_ps.wav",
+        "length": 2.1262390431719504,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-food-ps": {
+        "wav": "downloads/tess/OAF_food_ps.wav",
+        "length": 2.113336610141722,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-read-ps": {
+        "wav": "downloads/tess/OAF_read_ps.wav",
+        "length": 2.005324813631523,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-mess-ps": {
+        "wav": "downloads/tess/YAF_mess_ps.wav",
+        "length": 1.9049315966248874,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-hire-ps": {
+        "wav": "downloads/tess/OAF_hire_ps.wav",
+        "length": 2.0814696485623,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-south-ps": {
+        "wav": "downloads/tess/YAF_south_ps.wav",
+        "length": 1.959203735561563,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-mood-ps": {
+        "wav": "downloads/tess/OAF_mood_ps.wav",
+        "length": 2.1239862374047678,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-sour-ps": {
+        "wav": "downloads/tess/OAF_sour_ps.wav",
+        "length": 2.1470877365446057,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-mood-ps": {
+        "wav": "downloads/tess/YAF_mood_ps.wav",
+        "length": 1.8262881952977799,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-shirt-ps": {
+        "wav": "downloads/tess/YAF_shirt_ps.wav",
+        "length": 2.0276480707790614,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-sheep-ps": {
+        "wav": "downloads/tess/YAF_sheep_ps.wav",
+        "length": 1.9236094044400753,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-burn-ps": {
+        "wav": "downloads/tess/OAF_burn_ps.wav",
+        "length": 1.783321045301876,
+        "emo": "ps",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-bar-neutral": {
+        "wav": "downloads/tess/YAF_bar_neutral.wav",
+        "length": 1.9894732530515278,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-rose-neutral": {
+        "wav": "downloads/tess/YAF_rose_neutral.wav",
+        "length": 2.187720160563611,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-youth-neutral": {
+        "wav": "downloads/tess/YAF_youth_neutral.wav",
+        "length": 2.153805193741296,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-thin-neutral": {
+        "wav": "downloads/tess/OAF_thin_neutral.wav",
+        "length": 1.9311051036290654,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-ripe-neutral": {
+        "wav": "downloads/tess/YAF_ripe_neutral.wav",
+        "length": 1.8981322192184813,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-gas-neutral": {
+        "wav": "downloads/tess/YAF_gas_neutral.wav",
+        "length": 2.2482591955435405,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-long-neutral": {
+        "wav": "downloads/tess/OAF_long_neutral.wav",
+        "length": 1.9700991234537562,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-pool-neutral": {
+        "wav": "downloads/tess/YAF_pool_neutral.wav",
+        "length": 1.8790857704595725,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-read-neutral": {
+        "wav": "downloads/tess/OAF_read_neutral.wav",
+        "length": 2.0083149012861474,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-learn-neutral": {
+        "wav": "downloads/tess/OAF_learn_neutral.wav",
+        "length": 2.08724502334726,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-base-neutral": {
+        "wav": "downloads/tess/YAF_base_neutral.wav",
+        "length": 2.115794216433194,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-should-neutral": {
+        "wav": "downloads/tess/YAF_should_neutral.wav",
+        "length": 1.9563365282215122,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-thumb-neutral": {
+        "wav": "downloads/tess/OAF_thumb_neutral.wav",
+        "length": 1.9353239944294258,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-red-neutral": {
+        "wav": "downloads/tess/YAF_red_neutral.wav",
+        "length": 1.943679855820431,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-said-neutral": {
+        "wav": "downloads/tess/YAF_said_neutral.wav",
+        "length": 2.0533710166298027,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-jar-neutral": {
+        "wav": "downloads/tess/OAF_jar_neutral.wav",
+        "length": 2.0562791840747114,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-reach-neutral": {
+        "wav": "downloads/tess/YAF_reach_neutral.wav",
+        "length": 2.0047513721635126,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-make-neutral": {
+        "wav": "downloads/tess/YAF_make_neutral.wav",
+        "length": 2.110428442696813,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-base-neutral": {
+        "wav": "downloads/tess/OAF_base_neutral.wav",
+        "length": 2.149832063570083,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-check-neutral": {
+        "wav": "downloads/tess/OAF_check_neutral.wav",
+        "length": 1.8372245432948309,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-far-neutral": {
+        "wav": "downloads/tess/YAF_far_neutral.wav",
+        "length": 2.1567952813959206,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-wash-neutral": {
+        "wav": "downloads/tess/YAF_wash_neutral.wav",
+        "length": 2.082452691078889,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-jug-neutral": {
+        "wav": "downloads/tess/YAF_jug_neutral.wav",
+        "length": 2.0002457606291473,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-vote-neutral": {
+        "wav": "downloads/tess/OAF_vote_neutral.wav",
+        "length": 1.7238060129433932,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-seize-neutral": {
+        "wav": "downloads/tess/OAF_seize_neutral.wav",
+        "length": 2.1355779470795446,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-raise-neutral": {
+        "wav": "downloads/tess/OAF_raise_neutral.wav",
+        "length": 2.326902596870648,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-far-neutral": {
+        "wav": "downloads/tess/OAF_far_neutral.wav",
+        "length": 1.9820594740722537,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-dog-neutral": {
+        "wav": "downloads/tess/OAF_dog_neutral.wav",
+        "length": 2.0285901531907924,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-gun-neutral": {
+        "wav": "downloads/tess/OAF_gun_neutral.wav",
+        "length": 1.9701810436634717,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-lean-neutral": {
+        "wav": "downloads/tess/OAF_lean_neutral.wav",
+        "length": 1.8520111411485214,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-life-neutral": {
+        "wav": "downloads/tess/YAF_life_neutral.wav",
+        "length": 2.1684689112804127,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-when-neutral": {
+        "wav": "downloads/tess/OAF_when_neutral.wav",
+        "length": 2.1570410420250674,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-third-neutral": {
+        "wav": "downloads/tess/OAF_third_neutral.wav",
+        "length": 1.919718194478578,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-knock-neutral": {
+        "wav": "downloads/tess/YAF_knock_neutral.wav",
+        "length": 1.9506840337511264,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-sour-neutral": {
+        "wav": "downloads/tess/OAF_sour_neutral.wav",
+        "length": 2.1001064962726304,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-keen-neutral": {
+        "wav": "downloads/tess/YAF_keen_neutral.wav",
+        "length": 2.0029900876546245,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-talk-neutral": {
+        "wav": "downloads/tess/YAF_talk_neutral.wav",
+        "length": 2.151060866715819,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-rag-neutral": {
+        "wav": "downloads/tess/YAF_rag_neutral.wav",
+        "length": 1.8107233554517899,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-fit-neutral": {
+        "wav": "downloads/tess/OAF_fit_neutral.wav",
+        "length": 1.8615958056852626,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-south-neutral": {
+        "wav": "downloads/tess/OAF_south_neutral.wav",
+        "length": 2.3109691160809374,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-pad-neutral": {
+        "wav": "downloads/tess/YAF_pad_neutral.wav",
+        "length": 2.2118456623248957,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-gaze-neutral": {
+        "wav": "downloads/tess/OAF_gaze_neutral.wav",
+        "length": 2.2142213484066517,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-near-neutral": {
+        "wav": "downloads/tess/YAF_near_neutral.wav",
+        "length": 2.205087245023347,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-hall-neutral": {
+        "wav": "downloads/tess/OAF_hall_neutral.wav",
+        "length": 1.944253297288441,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-fall-neutral": {
+        "wav": "downloads/tess/YAF_fall_neutral.wav",
+        "length": 2.00942082411731,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-wife-neutral": {
+        "wav": "downloads/tess/OAF_wife_neutral.wav",
+        "length": 1.9833292373228475,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-tire-neutral": {
+        "wav": "downloads/tess/YAF_tire_neutral.wav",
+        "length": 2.0197018104366347,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-sure-neutral": {
+        "wav": "downloads/tess/OAF_sure_neutral.wav",
+        "length": 1.928688457442451,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-met-neutral": {
+        "wav": "downloads/tess/OAF_met_neutral.wav",
+        "length": 1.9990169574834111,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-wire-neutral": {
+        "wav": "downloads/tess/YAF_wire_neutral.wav",
+        "length": 2.228516425002048,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-book-neutral": {
+        "wav": "downloads/tess/YAF_book_neutral.wav",
+        "length": 2.0275661505693456,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-jail-neutral": {
+        "wav": "downloads/tess/YAF_jail_neutral.wav",
+        "length": 2.1244777586630623,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-pole-neutral": {
+        "wav": "downloads/tess/OAF_pole_neutral.wav",
+        "length": 1.8811337757024658,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-kite-neutral": {
+        "wav": "downloads/tess/OAF_kite_neutral.wav",
+        "length": 1.922790202342918,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-mob-neutral": {
+        "wav": "downloads/tess/YAF_mob_neutral.wav",
+        "length": 2.145408372245433,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-room-neutral": {
+        "wav": "downloads/tess/OAF_room_neutral.wav",
+        "length": 1.9762431391824362,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-white-neutral": {
+        "wav": "downloads/tess/OAF_white_neutral.wav",
+        "length": 2.017981486032604,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-lid-neutral": {
+        "wav": "downloads/tess/OAF_lid_neutral.wav",
+        "length": 1.9784959449496191,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-which-neutral": {
+        "wav": "downloads/tess/YAF_which_neutral.wav",
+        "length": 2.0209715736872287,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-neat-neutral": {
+        "wav": "downloads/tess/OAF_neat_neutral.wav",
+        "length": 1.953633161300893,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-kill-neutral": {
+        "wav": "downloads/tess/YAF_kill_neutral.wav",
+        "length": 2.000942082411731,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-near-neutral": {
+        "wav": "downloads/tess/OAF_near_neutral.wav",
+        "length": 1.901286147292537,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-bought-neutral": {
+        "wav": "downloads/tess/OAF_bought_neutral.wav",
+        "length": 1.9521585975260096,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-calm-neutral": {
+        "wav": "downloads/tess/OAF_calm_neutral.wav",
+        "length": 1.8497583353813385,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-raise-neutral": {
+        "wav": "downloads/tess/YAF_raise_neutral.wav",
+        "length": 2.084091095273204,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-whip-neutral": {
+        "wav": "downloads/tess/YAF_whip_neutral.wav",
+        "length": 2.0670516916523307,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-deep-neutral": {
+        "wav": "downloads/tess/YAF_deep_neutral.wav",
+        "length": 1.7826656836241501,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-doll-neutral": {
+        "wav": "downloads/tess/OAF_doll_neutral.wav",
+        "length": 2.2308921110838043,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-south-neutral": {
+        "wav": "downloads/tess/YAF_south_neutral.wav",
+        "length": 2.206152207749652,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-sail-neutral": {
+        "wav": "downloads/tess/OAF_sail_neutral.wav",
+        "length": 2.0631195215859752,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-chalk-neutral": {
+        "wav": "downloads/tess/OAF_chalk_neutral.wav",
+        "length": 2.0568935856475794,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-moon-neutral": {
+        "wav": "downloads/tess/OAF_moon_neutral.wav",
+        "length": 2.079626443843696,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-thin-neutral": {
+        "wav": "downloads/tess/YAF_thin_neutral.wav",
+        "length": 2.206725649217662,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-beg-neutral": {
+        "wav": "downloads/tess/YAF_beg_neutral.wav",
+        "length": 2.0540673384123864,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-hate-neutral": {
+        "wav": "downloads/tess/YAF_hate_neutral.wav",
+        "length": 2.1701482755795856,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-nag-neutral": {
+        "wav": "downloads/tess/YAF_nag_neutral.wav",
+        "length": 1.9522814778405833,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-whip-neutral": {
+        "wav": "downloads/tess/OAF_whip_neutral.wav",
+        "length": 1.8092487916769067,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-keg-neutral": {
+        "wav": "downloads/tess/OAF_keg_neutral.wav",
+        "length": 1.8676169410993693,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-pick-neutral": {
+        "wav": "downloads/tess/YAF_pick_neutral.wav",
+        "length": 2.197427705414926,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-such-neutral": {
+        "wav": "downloads/tess/YAF_such_neutral.wav",
+        "length": 2.058900630785615,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-bar-neutral": {
+        "wav": "downloads/tess/OAF_bar_neutral.wav",
+        "length": 2.0019660850331777,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-luck-neutral": {
+        "wav": "downloads/tess/YAF_luck_neutral.wav",
+        "length": 2.094658802326534,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-when-neutral": {
+        "wav": "downloads/tess/YAF_when_neutral.wav",
+        "length": 2.2287212255263373,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-perch-neutral": {
+        "wav": "downloads/tess/YAF_perch_neutral.wav",
+        "length": 2.20791349225854,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-team-neutral": {
+        "wav": "downloads/tess/OAF_team_neutral.wav",
+        "length": 2.1535184730072907,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-yearn-neutral": {
+        "wav": "downloads/tess/YAF_yearn_neutral.wav",
+        "length": 1.8989923814204965,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-bath-neutral": {
+        "wav": "downloads/tess/YAF_bath_neutral.wav",
+        "length": 1.9854591627754568,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-size-neutral": {
+        "wav": "downloads/tess/OAF_size_neutral.wav",
+        "length": 2.2386745310067995,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-juice-neutral": {
+        "wav": "downloads/tess/YAF_juice_neutral.wav",
+        "length": 2.2969607602195463,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-lease-neutral": {
+        "wav": "downloads/tess/OAF_lease_neutral.wav",
+        "length": 2.1026050626689603,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-dodge-neutral": {
+        "wav": "downloads/tess/YAF_dodge_neutral.wav",
+        "length": 2.176579012042271,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-phone-neutral": {
+        "wav": "downloads/tess/OAF_phone_neutral.wav",
+        "length": 2.1495863029409357,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-moon-neutral": {
+        "wav": "downloads/tess/YAF_moon_neutral.wav",
+        "length": 1.9478987466207913,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-live-neutral": {
+        "wav": "downloads/tess/OAF_live_neutral.wav",
+        "length": 2.0131072335545177,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-keen-neutral": {
+        "wav": "downloads/tess/OAF_keen_neutral.wav",
+        "length": 2.1448758908822807,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-keep-neutral": {
+        "wav": "downloads/tess/YAF_keep_neutral.wav",
+        "length": 2.162488735971164,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-mess-neutral": {
+        "wav": "downloads/tess/YAF_mess_neutral.wav",
+        "length": 2.2019742770541493,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-sail-neutral": {
+        "wav": "downloads/tess/YAF_sail_neutral.wav",
+        "length": 2.017449004669452,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-red-neutral": {
+        "wav": "downloads/tess/OAF_red_neutral.wav",
+        "length": 1.9397476857540756,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-chalk-neutral": {
+        "wav": "downloads/tess/YAF_chalk_neutral.wav",
+        "length": 2.0353895305971985,
+        "emo": "neutral",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-tough-happy": {
+        "wav": "downloads/tess/OAF_tough_happy.wav",
+        "length": 1.9647333497173753,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-shall-happy": {
+        "wav": "downloads/tess/YAF_shall_happy.wav",
+        "length": 1.9536741214057507,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-limb-happy": {
+        "wav": "downloads/tess/OAF_limb_happy.wav",
+        "length": 1.863971491767019,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-mob-happy": {
+        "wav": "downloads/tess/OAF_mob_happy.wav",
+        "length": 1.7904071434422872,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-shout-happy": {
+        "wav": "downloads/tess/YAF_shout_happy.wav",
+        "length": 1.9539608421397558,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-sell-happy": {
+        "wav": "downloads/tess/YAF_sell_happy.wav",
+        "length": 1.855533710166298,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-thumb-happy": {
+        "wav": "downloads/tess/OAF_thumb_happy.wav",
+        "length": 1.992791021545015,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-neat-happy": {
+        "wav": "downloads/tess/YAF_neat_happy.wav",
+        "length": 1.9542885229786189,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-keep-happy": {
+        "wav": "downloads/tess/YAF_keep_happy.wav",
+        "length": 1.9680511182108626,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-kite-happy": {
+        "wav": "downloads/tess/YAF_kite_happy.wav",
+        "length": 1.7749651839108709,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-goal-happy": {
+        "wav": "downloads/tess/OAF_goal_happy.wav",
+        "length": 1.9736216924715326,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-rat-happy": {
+        "wav": "downloads/tess/OAF_rat_happy.wav",
+        "length": 2.1632260178586056,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-goose-happy": {
+        "wav": "downloads/tess/YAF_goose_happy.wav",
+        "length": 1.9628491848939134,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-red-happy": {
+        "wav": "downloads/tess/OAF_red_happy.wav",
+        "length": 1.9202506758417301,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-ton-happy": {
+        "wav": "downloads/tess/YAF_ton_happy.wav",
+        "length": 1.8212091422954042,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-hit-happy": {
+        "wav": "downloads/tess/YAF_hit_happy.wav",
+        "length": 1.8452527238469731,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-rough-happy": {
+        "wav": "downloads/tess/YAF_rough_happy.wav",
+        "length": 1.8748668796592118,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-wag-happy": {
+        "wav": "downloads/tess/OAF_wag_happy.wav",
+        "length": 1.894773490620136,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-said-happy": {
+        "wav": "downloads/tess/YAF_said_happy.wav",
+        "length": 1.8884656344720243,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-beg-happy": {
+        "wav": "downloads/tess/OAF_beg_happy.wav",
+        "length": 2.0116326697796345,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-week-happy": {
+        "wav": "downloads/tess/OAF_week_happy.wav",
+        "length": 1.9871385270746293,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-pearl-happy": {
+        "wav": "downloads/tess/YAF_pearl_happy.wav",
+        "length": 1.8749897599737855,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-peg-happy": {
+        "wav": "downloads/tess/YAF_peg_happy.wav",
+        "length": 1.9086999262718112,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-pike-happy": {
+        "wav": "downloads/tess/OAF_pike_happy.wav",
+        "length": 2.0525927746375032,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-jail-happy": {
+        "wav": "downloads/tess/OAF_jail_happy.wav",
+        "length": 1.7905300237568609,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-chat-happy": {
+        "wav": "downloads/tess/YAF_chat_happy.wav",
+        "length": 1.9344228721225527,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-gap-happy": {
+        "wav": "downloads/tess/YAF_gap_happy.wav",
+        "length": 1.755017612845089,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-dab-happy": {
+        "wav": "downloads/tess/OAF_dab_happy.wav",
+        "length": 1.890390759400344,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-hash-happy": {
+        "wav": "downloads/tess/YAF_hash_happy.wav",
+        "length": 1.9775129024330302,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-chalk-happy": {
+        "wav": "downloads/tess/OAF_chalk_happy.wav",
+        "length": 1.8414843942000492,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-dime-happy": {
+        "wav": "downloads/tess/YAF_dime_happy.wav",
+        "length": 1.8379618251822725,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-shall-happy": {
+        "wav": "downloads/tess/OAF_shall_happy.wav",
+        "length": 2.069140657000082,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-young-happy": {
+        "wav": "downloads/tess/OAF_young_happy.wav",
+        "length": 1.9768575407553044,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-youth-happy": {
+        "wav": "downloads/tess/OAF_youth_happy.wav",
+        "length": 2.065044646514295,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-knock-happy": {
+        "wav": "downloads/tess/OAF_knock_happy.wav",
+        "length": 1.9778405832718933,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-cheek-happy": {
+        "wav": "downloads/tess/YAF_cheek_happy.wav",
+        "length": 1.9770623412795936,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-moon-happy": {
+        "wav": "downloads/tess/OAF_moon_happy.wav",
+        "length": 1.8572949946751864,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-pearl-happy": {
+        "wav": "downloads/tess/OAF_pearl_happy.wav",
+        "length": 2.03727369542066,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-neat-happy": {
+        "wav": "downloads/tess/OAF_neat_happy.wav",
+        "length": 1.9525681985745884,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-bean-happy": {
+        "wav": "downloads/tess/YAF_bean_happy.wav",
+        "length": 1.8878102727942982,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-long-happy": {
+        "wav": "downloads/tess/YAF_long_happy.wav",
+        "length": 2.025190464487589,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-pool-happy": {
+        "wav": "downloads/tess/YAF_pool_happy.wav",
+        "length": 1.7663226017858606,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-far-happy": {
+        "wav": "downloads/tess/YAF_far_happy.wav",
+        "length": 1.9381502416646186,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-get-happy": {
+        "wav": "downloads/tess/OAF_get_happy.wav",
+        "length": 1.8849021053493897,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-nice-happy": {
+        "wav": "downloads/tess/OAF_nice_happy.wav",
+        "length": 2.1521258294421233,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-date-happy": {
+        "wav": "downloads/tess/OAF_date_happy.wav",
+        "length": 2.1307446547063162,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-pain-happy": {
+        "wav": "downloads/tess/OAF_pain_happy.wav",
+        "length": 2.0994920946997624,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-lose-happy": {
+        "wav": "downloads/tess/YAF_lose_happy.wav",
+        "length": 2.1957483411157535,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-sheep-happy": {
+        "wav": "downloads/tess/OAF_sheep_happy.wav",
+        "length": 2.0250266240681576,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-food-happy": {
+        "wav": "downloads/tess/OAF_food_happy.wav",
+        "length": 2.085237978209224,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-jar-happy": {
+        "wav": "downloads/tess/YAF_jar_happy.wav",
+        "length": 1.8385352666502826,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-check-happy": {
+        "wav": "downloads/tess/OAF_check_happy.wav",
+        "length": 2.039485541082985,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-sail-happy": {
+        "wav": "downloads/tess/YAF_sail_happy.wav",
+        "length": 1.9211108380437454,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-talk-happy": {
+        "wav": "downloads/tess/OAF_talk_happy.wav",
+        "length": 2.2249119357745557,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-name-happy": {
+        "wav": "downloads/tess/YAF_name_happy.wav",
+        "length": 2.036986974686655,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-vote-happy": {
+        "wav": "downloads/tess/YAF_vote_happy.wav",
+        "length": 2.002416646186614,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-rag-happy": {
+        "wav": "downloads/tess/YAF_rag_happy.wav",
+        "length": 1.7775866306217745,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-wheat-happy": {
+        "wav": "downloads/tess/OAF_wheat_happy.wav",
+        "length": 2.010936347997051,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-lot-happy": {
+        "wav": "downloads/tess/YAF_lot_happy.wav",
+        "length": 1.8707299090685672,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-should-happy": {
+        "wav": "downloads/tess/YAF_should_happy.wav",
+        "length": 1.9759154583435734,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-note-happy": {
+        "wav": "downloads/tess/YAF_note_happy.wav",
+        "length": 2.09203735561563,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-search-happy": {
+        "wav": "downloads/tess/OAF_search_happy.wav",
+        "length": 2.068731055951503,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-dead-happy": {
+        "wav": "downloads/tess/OAF_dead_happy.wav",
+        "length": 1.9306545424756287,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-red-happy": {
+        "wav": "downloads/tess/YAF_red_happy.wav",
+        "length": 1.960719259441304,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-have-happy": {
+        "wav": "downloads/tess/OAF_have_happy.wav",
+        "length": 2.0801589252068484,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-long-happy": {
+        "wav": "downloads/tess/OAF_long_happy.wav",
+        "length": 1.9826329155402638,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-join-happy": {
+        "wav": "downloads/tess/YAF_join_happy.wav",
+        "length": 2.0879003850249855,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-hall-happy": {
+        "wav": "downloads/tess/OAF_hall_happy.wav",
+        "length": 2.0359629720652084,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-sail-happy": {
+        "wav": "downloads/tess/OAF_sail_happy.wav",
+        "length": 1.9777586630621775,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-came-happy": {
+        "wav": "downloads/tess/YAF_came_happy.wav",
+        "length": 2.217825837634144,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-shirt-happy": {
+        "wav": "downloads/tess/OAF_shirt_happy.wav",
+        "length": 1.808880150733186,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-sour-happy": {
+        "wav": "downloads/tess/YAF_sour_happy.wav",
+        "length": 2.0175718849840254,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-soap-happy": {
+        "wav": "downloads/tess/YAF_soap_happy.wav",
+        "length": 2.0832718931760463,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-pain-happy": {
+        "wav": "downloads/tess/YAF_pain_happy.wav",
+        "length": 1.8968214958630294,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-good-happy": {
+        "wav": "downloads/tess/YAF_good_happy.wav",
+        "length": 1.7989678053575817,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-lose-happy": {
+        "wav": "downloads/tess/OAF_lose_happy.wav",
+        "length": 2.1078889161956256,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-merge-happy": {
+        "wav": "downloads/tess/OAF_merge_happy.wav",
+        "length": 1.984107479315147,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-food-happy": {
+        "wav": "downloads/tess/YAF_food_happy.wav",
+        "length": 1.9477758663062177,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-road-happy": {
+        "wav": "downloads/tess/OAF_road_happy.wav",
+        "length": 2.0786434013271076,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-came-happy": {
+        "wav": "downloads/tess/OAF_came_happy.wav",
+        "length": 2.0493569263537315,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-such-happy": {
+        "wav": "downloads/tess/YAF_such_happy.wav",
+        "length": 2.0949045629556813,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-judge-happy": {
+        "wav": "downloads/tess/OAF_judge_happy.wav",
+        "length": 2.1079708364053413,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-chair-happy": {
+        "wav": "downloads/tess/OAF_chair_happy.wav",
+        "length": 2.0848283771606457,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-life-happy": {
+        "wav": "downloads/tess/YAF_life_happy.wav",
+        "length": 2.0040140902760712,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-vine-happy": {
+        "wav": "downloads/tess/YAF_vine_happy.wav",
+        "length": 1.9334807897108217,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-chief-happy": {
+        "wav": "downloads/tess/OAF_chief_happy.wav",
+        "length": 1.997542393708528,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-merge-happy": {
+        "wav": "downloads/tess/YAF_merge_happy.wav",
+        "length": 2.0044236913246496,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-phone-happy": {
+        "wav": "downloads/tess/YAF_phone_happy.wav",
+        "length": 1.9827557958548374,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-rose-happy": {
+        "wav": "downloads/tess/YAF_rose_happy.wav",
+        "length": 2.0279347915130663,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-bar-happy": {
+        "wav": "downloads/tess/OAF_bar_happy.wav",
+        "length": 2.000327680838863,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-dog-happy": {
+        "wav": "downloads/tess/OAF_dog_happy.wav",
+        "length": 2.053289096420087,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-peg-happy": {
+        "wav": "downloads/tess/OAF_peg_happy.wav",
+        "length": 2.1637584992217582,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-dime-happy": {
+        "wav": "downloads/tess/OAF_dime_happy.wav",
+        "length": 1.8940771688375522,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-wire-happy": {
+        "wav": "downloads/tess/YAF_wire_happy.wav",
+        "length": 2.0755713934627673,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-mess-happy": {
+        "wav": "downloads/tess/YAF_mess_happy.wav",
+        "length": 2.2355206029327435,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-turn-happy": {
+        "wav": "downloads/tess/OAF_turn_happy.wav",
+        "length": 2.009953305480462,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-YAF-thought-happy": {
+        "wav": "downloads/tess/YAF_thought_happy.wav",
+        "length": 1.907553043335791,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-rag-happy": {
+        "wav": "downloads/tess/OAF_rag_happy.wav",
+        "length": 2.0692635373146557,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-tip-happy": {
+        "wav": "downloads/tess/OAF_tip_happy.wav",
+        "length": 1.6922667322028344,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    },
+    "tess-OAF-said-happy": {
+        "wav": "downloads/tess/OAF_said_happy.wav",
+        "length": 1.9779225034816088,
+        "emo": "happy",
+        "dataset": "tess",
+        "channel": 1
+    }
+}

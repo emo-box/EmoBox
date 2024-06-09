@@ -1,0 +1,1962 @@
+{
+    "resd-27_neutral_fear_n_100.wav": {
+        "wav": "downloads/resd/test/neutral_fear_27/27_neutral_fear_n_100.wav",
+        "length": 11.2,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-08_sadness_anger a_010.wav": {
+        "wav": "downloads/resd/test/08_sadness_anger/08_sadness_anger a_010.wav",
+        "length": 2.6165,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-26_enthusiasm_happiness_e_120.wav": {
+        "wav": "downloads/resd/test/enthusiasm_happiness_26/26_enthusiasm_happiness_e_120.wav",
+        "length": 3.12,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-42_anger_fear_a_190.wav": {
+        "wav": "downloads/resd/test/anger_fear_42/42_anger_fear_a_190.wav",
+        "length": 2.1661451247165533,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-04_fear_enthusiasm f_090.wav": {
+        "wav": "downloads/resd/test/04_fear_enthusiasm/04_fear_enthusiasm f_090.wav",
+        "length": 10.752125,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-15_enthusiasm_sadness_e_020.wav": {
+        "wav": "downloads/resd/test/enthusiasm_sadness_15/15_enthusiasm_sadness_e_020.wav",
+        "length": 5.1095625,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-41_fear_disgust_f_050.wav": {
+        "wav": "downloads/resd/test/fear_disgust_41/41_fear_disgust_f_050.wav",
+        "length": 13.000408163265305,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-44_neutral_anger_a_040.wav": {
+        "wav": "downloads/resd/test/neutral_anger_44/44_neutral_anger_a_040.wav",
+        "length": 1.6014739229024944,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-38_happiness_neutral_n_080.wav": {
+        "wav": "downloads/resd/test/happiness_neutral_38/38_happiness_neutral_n_080.wav",
+        "length": 13.17825,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-27_neutral_fear_n_020.wav": {
+        "wav": "downloads/resd/test/neutral_fear_27/27_neutral_fear_n_020.wav",
+        "length": 9.460022675736962,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-31_fear_enthusiasm_f_080.wav": {
+        "wav": "downloads/resd/test/fear_enthusiasm_31/31_fear_enthusiasm_f_080.wav",
+        "length": 9.88725,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-49_sadness_happiness_s_090.wav": {
+        "wav": "downloads/resd/test/sadness_happiness_49/49_sadness_happiness_s_090.wav",
+        "length": 3.2193197278911563,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-19_anger_disgust_a_030.wav": {
+        "wav": "downloads/resd/test/anger_disgust_19/19_anger_disgust_a_030.wav",
+        "length": 6.0200226757369615,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-21_happiness_anger_a_150.wav": {
+        "wav": "downloads/resd/test/happiness_anger_21/21_happiness_anger_a_150.wav",
+        "length": 2.02,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-43_enthusiasm_neutral_e_150.wav": {
+        "wav": "downloads/resd/test/enthusiasm_neutral_43/43_enthusiasm_neutral_e_150.wav",
+        "length": 3.1607256235827665,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-11_anger_disgust a_040.wav": {
+        "wav": "downloads/resd/test/11_disgust_anger/11_anger_disgust a_040.wav",
+        "length": 0.6401875,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-37_enthusiasm_neutral_n_050.wav": {
+        "wav": "downloads/resd/test/enthusiasm_neutral_37/37_enthusiasm_neutral_n_050.wav",
+        "length": 7.9356875,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-39_sadness_anger_a_100.wav": {
+        "wav": "downloads/resd/test/sadness_anger_39/39_sadness_anger_a_100.wav",
+        "length": 7.1904375,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-23_happiness_neutral_h_130.wav": {
+        "wav": "downloads/resd/test/happiness_neutral_23/23_happiness_neutral_h_130.wav",
+        "length": 4.580680272108843,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-28_disgust_enthusiasm_d_130.wav": {
+        "wav": "downloads/resd/test/disgust_enthusiasm_28/28_disgust_enthusiasm_d_130.wav",
+        "length": 13.731125,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-42_anger_fear_a_140.wav": {
+        "wav": "downloads/resd/test/anger_fear_42/42_anger_fear_a_140.wav",
+        "length": 5.993990929705215,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-47_enthusiasm_sadness_s_010.wav": {
+        "wav": "downloads/resd/test/enthusiasm_sadness_47/47_enthusiasm_sadness_s_010.wav",
+        "length": 8.024897959183674,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-24_sadness_enthusiasm_e_110.wav": {
+        "wav": "downloads/resd/test/sadness_enthusiasm_24/24_sadness_enthusiasm_e_110.wav",
+        "length": 5.010022675736962,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-36_disgust_happiness_d_120.wav": {
+        "wav": "downloads/resd/test/disgust_happiness_36/36_disgust_happiness_d_120.wav",
+        "length": 5.051,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-10_happiness_anger a_110.wav": {
+        "wav": "downloads/resd/test/10_happiness_anger/10_happiness_anger a_110.wav",
+        "length": 1.9700625,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-22_fear_anger_f_140.wav": {
+        "wav": "downloads/resd/test/fear_anger_22/22_fear_anger_f_140.wav",
+        "length": 1.04,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-11_anger_disgust d_190.wav": {
+        "wav": "downloads/resd/test/11_disgust_anger/11_anger_disgust d_190.wav",
+        "length": 1.892,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-23_happiness_neutral_h_180.wav": {
+        "wav": "downloads/resd/test/happiness_neutral_23/23_happiness_neutral_h_180.wav",
+        "length": 7.177052154195011,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-08_sadness_anger a_020.wav": {
+        "wav": "downloads/resd/test/08_sadness_anger/08_sadness_anger a_020.wav",
+        "length": 8.222875,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-22_fear_anger_a_020.wav": {
+        "wav": "downloads/resd/test/fear_anger_22/22_fear_anger_a_020.wav",
+        "length": 4.94,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-44_neutral_anger_n_170.wav": {
+        "wav": "downloads/resd/test/neutral_anger_44/44_neutral_anger_n_170.wav",
+        "length": 1.7424943310657597,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-06_happiness_enthusiasm e_010.wav": {
+        "wav": "downloads/resd/test/06_happiness_enthusiasm/06_happiness_enthusiasm e_010.wav",
+        "length": 0.8379375,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-20_disgust_enthusiasm_e_160.wav": {
+        "wav": "downloads/resd/test/disgust_enthusiasm_20/20_disgust_enthusiasm_e_160.wav",
+        "length": 1.6,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-31_fear_enthusiasm_f_130.wav": {
+        "wav": "downloads/resd/test/fear_enthusiasm_31/31_fear_enthusiasm_f_130.wav",
+        "length": 1.64125,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-24_sadness_enthusiasm_e_080.wav": {
+        "wav": "downloads/resd/test/sadness_enthusiasm_24/24_sadness_enthusiasm_e_080.wav",
+        "length": 1.1800226757369614,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-29_happiness_fear_h_030.wav": {
+        "wav": "downloads/resd/test/happiness_fear_29/29_happiness_fear_h_030.wav",
+        "length": 9.1814375,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-31_fear_enthusiasm_e_110.wav": {
+        "wav": "downloads/resd/test/fear_enthusiasm_31/31_fear_enthusiasm_e_110.wav",
+        "length": 1.240875,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-44_neutral_anger_a_060.wav": {
+        "wav": "downloads/resd/test/neutral_anger_44/44_neutral_anger_a_060.wav",
+        "length": 10.340816326530613,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-04_fear_enthusiasm e_150.wav": {
+        "wav": "downloads/resd/test/04_fear_enthusiasm/04_fear_enthusiasm e_150.wav",
+        "length": 4.108375,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-13_neutral_enthusiasm_n_070.wav": {
+        "wav": "downloads/resd/test/neutral_enthusiasm_13/13_neutral_enthusiasm_n_070.wav",
+        "length": 7.032125,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-10_happiness_anger h_090.wav": {
+        "wav": "downloads/resd/test/10_happiness_anger/10_happiness_anger h_090.wav",
+        "length": 5.3249375,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-13_neutral_enthusiasm_e_052.wav": {
+        "wav": "downloads/resd/test/neutral_enthusiasm_13/13_neutral_enthusiasm_e_052.wav",
+        "length": 7.7575,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-31_fear_enthusiasm_e_060.wav": {
+        "wav": "downloads/resd/test/fear_enthusiasm_31/31_fear_enthusiasm_e_060.wav",
+        "length": 5.6070625,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-09_neutral_happiness n_080.wav": {
+        "wav": "downloads/resd/test/09_neutral_happiness/09_neutral_happiness n_080.wav",
+        "length": 13.0420625,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-03_disgust_neutral d_100.wav": {
+        "wav": "downloads/resd/test/03_disgust_neutral/03_disgust_neutral d_100.wav",
+        "length": 8.44675,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-27_neutral_fear_f_090.wav": {
+        "wav": "downloads/resd/test/neutral_fear_27/27_neutral_fear_f_090.wav",
+        "length": 6.760022675736962,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-32_happiness_enthusiasm_h_110.wav": {
+        "wav": "downloads/resd/test/happiness_enthusiasm_32/32_happiness_enthusiasm_h_110.wav",
+        "length": 3.9050625,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-19_anger_disgust_d_100.wav": {
+        "wav": "downloads/resd/test/anger_disgust_19/19_anger_disgust_d_100.wav",
+        "length": 3.41,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-10_happiness_anger h_060.wav": {
+        "wav": "downloads/resd/test/10_happiness_anger/10_happiness_anger h_060.wav",
+        "length": 1.462875,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-44_neutral_anger_a_090.wav": {
+        "wav": "downloads/resd/test/neutral_anger_44/44_neutral_anger_a_090.wav",
+        "length": 11.787891156462585,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-32_happiness_enthusiasm_h_100.wav": {
+        "wav": "downloads/resd/test/happiness_enthusiasm_32/32_happiness_enthusiasm_h_100.wav",
+        "length": 6.9645625,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-17_neutral_disgust_d_080.wav": {
+        "wav": "downloads/resd/test/neutral_disgust_17/17_neutral_disgust_d_080.wav",
+        "length": 13.384240362811791,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-46_sadness_disgust_d_062.wav": {
+        "wav": "downloads/resd/test/sadness_disgust_46/46_sadness_disgust_d_062.wav",
+        "length": 14.75827664399093,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-14_anger_fear_a_100.wav": {
+        "wav": "downloads/resd/test/anger_fear_14/14_anger_fear_a_100.wav",
+        "length": 2.238625,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-22_fear_anger_a_100.wav": {
+        "wav": "downloads/resd/test/fear_anger_22/22_fear_anger_a_100.wav",
+        "length": 3.965170068027211,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-26_enthusiasm_happiness_h_040.wav": {
+        "wav": "downloads/resd/test/enthusiasm_happiness_26/26_enthusiasm_happiness_h_040.wav",
+        "length": 3.16,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-42_anger_fear_a_080.wav": {
+        "wav": "downloads/resd/test/anger_fear_42/42_anger_fear_a_080.wav",
+        "length": 1.4791609977324263,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-37_enthusiasm_neutral_e_130.wav": {
+        "wav": "downloads/resd/test/enthusiasm_neutral_37/37_enthusiasm_neutral_e_130.wav",
+        "length": 4.5451875,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-01_happiness_anger a_010.wav": {
+        "wav": "downloads/resd/test/01_happiness_anger/01_happiness_anger a_010.wav",
+        "length": 3.9229375,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-05_neutral_fear f_052.wav": {
+        "wav": "downloads/resd/test/05_neutral_fear/05_neutral_fear f_052.wav",
+        "length": 5.9938125,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-01_happiness_anger h_100.wav": {
+        "wav": "downloads/resd/test/01_happiness_anger/01_happiness_anger h_100.wav",
+        "length": 3.5735,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-07_fear_neutral f_050.wav": {
+        "wav": "downloads/resd/test/07_fear_neutral/07_fear_neutral f_050.wav",
+        "length": 1.59875,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-45_happiness_sadness_h_020.wav": {
+        "wav": "downloads/resd/test/happiness_sadness_45/45_happiness_sadness_h_020.wav",
+        "length": 4.32,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-01_happiness_anger h_010.wav": {
+        "wav": "downloads/resd/test/01_happiness_anger/01_happiness_anger h_010.wav",
+        "length": 5.9584375,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-11_anger_disgust a_030.wav": {
+        "wav": "downloads/resd/test/11_disgust_anger/11_anger_disgust a_030.wav",
+        "length": 5.198125,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-27_neutral_fear_n_072.wav": {
+        "wav": "downloads/resd/test/neutral_fear_27/27_neutral_fear_n_072.wav",
+        "length": 2.24,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-43_enthusiasm_neutral_e_050.wav": {
+        "wav": "downloads/resd/test/enthusiasm_neutral_43/43_enthusiasm_neutral_e_050.wav",
+        "length": 1.5252154195011338,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-46_sadness_disgust_d_020.wav": {
+        "wav": "downloads/resd/test/sadness_disgust_46/46_sadness_disgust_d_020.wav",
+        "length": 6.88,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-30_fear_happiness_h_100.wav": {
+        "wav": "downloads/resd/test/fear_happiness_30/30_fear_happiness_h_100.wav",
+        "length": 1.25175,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-33_sadness_disgust_d_050.wav": {
+        "wav": "downloads/resd/test/sadness_disgust_33/33_sadness_disgust_d_050.wav",
+        "length": 7.1895625,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-43_enthusiasm_neutral_n_120.wav": {
+        "wav": "downloads/resd/test/enthusiasm_neutral_43/43_enthusiasm_neutral_n_120.wav",
+        "length": 14.967528344671202,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-20_disgust_enthusiasm_d_040.wav": {
+        "wav": "downloads/resd/test/disgust_enthusiasm_20/20_disgust_enthusiasm_d_040.wav",
+        "length": 6.880022675736962,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-31_fear_enthusiasm_f_120.wav": {
+        "wav": "downloads/resd/test/fear_enthusiasm_31/31_fear_enthusiasm_f_120.wav",
+        "length": 8.251125,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-45_happiness_sadness_h_120.wav": {
+        "wav": "downloads/resd/test/happiness_sadness_45/45_happiness_sadness_h_120.wav",
+        "length": 2.248730158730159,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-36_disgust_happiness_h_050.wav": {
+        "wav": "downloads/resd/test/disgust_happiness_36/36_disgust_happiness_h_050.wav",
+        "length": 3.08725,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-23_happiness_neutral_n_110.wav": {
+        "wav": "downloads/resd/test/happiness_neutral_23/23_happiness_neutral_n_110.wav",
+        "length": 5.034648526077097,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-40_enthusiasm_fear_e_060.wav": {
+        "wav": "downloads/resd/test/enthusiasm_fear_40/40_enthusiasm_fear_e_060.wav",
+        "length": 4.679297052154195,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-12_sadness_disgust_s_070.wav": {
+        "wav": "downloads/resd/test/sadness_disgust_12/12_sadness_disgust_s_070.wav",
+        "length": 9.3789375,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-14_anger_fear_a_061.wav": {
+        "wav": "downloads/resd/test/anger_fear_14/14_anger_fear_a_061.wav",
+        "length": 7.6146875,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-33_sadness_disgust_s_100.wav": {
+        "wav": "downloads/resd/test/sadness_disgust_33/33_sadness_disgust_s_100.wav",
+        "length": 1.523375,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-18_happiness_neutral_h_160.wav": {
+        "wav": "downloads/resd/test/happiness_neutral_18/18_happiness_neutral_h_160.wav",
+        "length": 8.43002267573696,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-41_fear_disgust_d_100.wav": {
+        "wav": "downloads/resd/test/fear_disgust_41/41_fear_disgust_d_100.wav",
+        "length": 11.538390022675737,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-50_enthusiasm_sadness_e_111.wav": {
+        "wav": "downloads/resd/test/enthusiasm_sadness_50/50_enthusiasm_sadness_e_111.wav",
+        "length": 14.833492063492063,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-43_enthusiasm_neutral_n_040.wav": {
+        "wav": "downloads/resd/test/enthusiasm_neutral_43/43_enthusiasm_neutral_n_040.wav",
+        "length": 12.218639455782313,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-25_anger_disgust_a_050.wav": {
+        "wav": "downloads/resd/test/anger_disgust_25/25_anger_disgust_a_050.wav",
+        "length": 4.86,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-04_fear_enthusiasm f_150.wav": {
+        "wav": "downloads/resd/test/04_fear_enthusiasm/04_fear_enthusiasm f_150.wav",
+        "length": 4.5685,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-19_anger_disgust_d_120.wav": {
+        "wav": "downloads/resd/test/anger_disgust_19/19_anger_disgust_d_120.wav",
+        "length": 3.72,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-22_fear_anger_a_070.wav": {
+        "wav": "downloads/resd/test/fear_anger_22/22_fear_anger_a_070.wav",
+        "length": 10.15,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-30_fear_happiness_f_010.wav": {
+        "wav": "downloads/resd/test/fear_happiness_30/30_fear_happiness_f_010.wav",
+        "length": 3.6073125,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-20_disgust_enthusiasm_d_140.wav": {
+        "wav": "downloads/resd/test/disgust_enthusiasm_20/20_disgust_enthusiasm_d_140.wav",
+        "length": 8.07,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-43_enthusiasm_neutral_n_110.wav": {
+        "wav": "downloads/resd/test/enthusiasm_neutral_43/43_enthusiasm_neutral_n_110.wav",
+        "length": 8.467777777777778,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-45_happiness_sadness_s_060.wav": {
+        "wav": "downloads/resd/test/happiness_sadness_45/45_happiness_sadness_s_060.wav",
+        "length": 3.656281179138322,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-40_enthusiasm_fear_f_010.wav": {
+        "wav": "downloads/resd/test/enthusiasm_fear_40/40_enthusiasm_fear_f_010.wav",
+        "length": 1.7400226757369615,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-40_enthusiasm_fear_f_120.wav": {
+        "wav": "downloads/resd/test/enthusiasm_fear_40/40_enthusiasm_fear_f_120.wav",
+        "length": 2.721541950113379,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-41_fear_disgust_f_100.wav": {
+        "wav": "downloads/resd/test/fear_disgust_41/41_fear_disgust_f_100.wav",
+        "length": 15.000544217687075,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-36_disgust_happiness_h_030.wav": {
+        "wav": "downloads/resd/test/disgust_happiness_36/36_disgust_happiness_h_030.wav",
+        "length": 2.2858125,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-48_fear_disgust_f_080.wav": {
+        "wav": "downloads/resd/test/fear_disgust_48/48_fear_disgust_f_080.wav",
+        "length": 2.4831972789115646,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-48_fear_disgust_d_010.wav": {
+        "wav": "downloads/resd/test/fear_disgust_48/48_fear_disgust_d_010.wav",
+        "length": 1.442108843537415,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-07_fear_neutral f_170.wav": {
+        "wav": "downloads/resd/test/07_fear_neutral/07_fear_neutral f_170.wav",
+        "length": 2.384625,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-49_sadness_happiness_s_110.wav": {
+        "wav": "downloads/resd/test/sadness_happiness_49/49_sadness_happiness_s_110.wav",
+        "length": 5.2372335600907025,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-26_enthusiasm_happiness_e_100.wav": {
+        "wav": "downloads/resd/test/enthusiasm_happiness_26/26_enthusiasm_happiness_e_100.wav",
+        "length": 5.870022675736961,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-48_fear_disgust_d_070.wav": {
+        "wav": "downloads/resd/test/fear_disgust_48/48_fear_disgust_d_070.wav",
+        "length": 4.685941043083901,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-26_enthusiasm_happiness_h_120.wav": {
+        "wav": "downloads/resd/test/enthusiasm_happiness_26/26_enthusiasm_happiness_h_120.wav",
+        "length": 9.37,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-07_fear_neutral f_120.wav": {
+        "wav": "downloads/resd/test/07_fear_neutral/07_fear_neutral f_120.wav",
+        "length": 2.853125,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-42_anger_fear_f_140.wav": {
+        "wav": "downloads/resd/test/anger_fear_42/42_anger_fear_f_140.wav",
+        "length": 2.317596371882086,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-01_happiness_anger h_030.wav": {
+        "wav": "downloads/resd/test/01_happiness_anger/01_happiness_anger h_030.wav",
+        "length": 3.927375,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-21_happiness_anger_a_020.wav": {
+        "wav": "downloads/resd/test/happiness_anger_21/21_happiness_anger_a_020.wav",
+        "length": 1.1400226757369614,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-04_fear_enthusiasm e_130.wav": {
+        "wav": "downloads/resd/test/04_fear_enthusiasm/04_fear_enthusiasm e_130.wav",
+        "length": 2.70275,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-37_enthusiasm_neutral_e_090.wav": {
+        "wav": "downloads/resd/test/enthusiasm_neutral_37/37_enthusiasm_neutral_e_090.wav",
+        "length": 9.262375,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-29_happiness_fear_h_110.wav": {
+        "wav": "downloads/resd/test/happiness_fear_29/29_happiness_fear_h_110.wav",
+        "length": 1.41025,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-05_neutral_fear f_062.wav": {
+        "wav": "downloads/resd/test/05_neutral_fear/05_neutral_fear f_062.wav",
+        "length": 6.5646875,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-15_enthusiasm_sadness_e_032.wav": {
+        "wav": "downloads/resd/test/enthusiasm_sadness_15/15_enthusiasm_sadness_e_032.wav",
+        "length": 11.641375,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-36_disgust_happiness_h_120.wav": {
+        "wav": "downloads/resd/test/disgust_happiness_36/36_disgust_happiness_h_120.wav",
+        "length": 2.4698125,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-46_sadness_disgust_d_043.wav": {
+        "wav": "downloads/resd/test/sadness_disgust_46/46_sadness_disgust_d_043.wav",
+        "length": 14.850997732426304,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-38_happiness_neutral_n_020.wav": {
+        "wav": "downloads/resd/test/happiness_neutral_38/38_happiness_neutral_n_020.wav",
+        "length": 2.166375,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-47_enthusiasm_sadness_s_030.wav": {
+        "wav": "downloads/resd/test/enthusiasm_sadness_47/47_enthusiasm_sadness_s_030.wav",
+        "length": 3.4963945578231295,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-23_happiness_neutral_h_010.wav": {
+        "wav": "downloads/resd/test/happiness_neutral_23/23_happiness_neutral_h_010.wav",
+        "length": 5.361111111111111,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-23_happiness_neutral_h_150.wav": {
+        "wav": "downloads/resd/test/happiness_neutral_23/23_happiness_neutral_h_150.wav",
+        "length": 7.355600907029478,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-42_anger_fear_f_110.wav": {
+        "wav": "downloads/resd/test/anger_fear_42/42_anger_fear_f_110.wav",
+        "length": 3.2934240362811793,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-09_neutral_happiness h_071.wav": {
+        "wav": "downloads/resd/test/09_neutral_happiness/09_neutral_happiness h_071.wav",
+        "length": 12.669,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-03_disgust_neutral n_010.wav": {
+        "wav": "downloads/resd/test/03_disgust_neutral/03_disgust_neutral n_010.wav",
+        "length": 0.7199375,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-38_happiness_neutral_n_010.wav": {
+        "wav": "downloads/resd/test/happiness_neutral_38/38_happiness_neutral_n_010.wav",
+        "length": 10.567375,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-35_neutral_fear_f_041.wav": {
+        "wav": "downloads/resd/test/neutral_fear_35/35_neutral_fear_f_041.wav",
+        "length": 14.4155,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-49_sadness_happiness_h_070.wav": {
+        "wav": "downloads/resd/test/sadness_happiness_49/49_sadness_happiness_h_070.wav",
+        "length": 11.782471655328798,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-30_fear_happiness_h_060.wav": {
+        "wav": "downloads/resd/test/fear_happiness_30/30_fear_happiness_h_060.wav",
+        "length": 3.29075,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-45_happiness_sadness_s_202.wav": {
+        "wav": "downloads/resd/test/happiness_sadness_45/45_happiness_sadness_s_202.wav",
+        "length": 6.01360544217687,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-05_neutral_fear f_061.wav": {
+        "wav": "downloads/resd/test/05_neutral_fear/05_neutral_fear f_061.wav",
+        "length": 10.854625,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-33_sadness_disgust_d_010.wav": {
+        "wav": "downloads/resd/test/sadness_disgust_33/33_sadness_disgust_d_010.wav",
+        "length": 6.140625,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-36_disgust_happiness_h_010.wav": {
+        "wav": "downloads/resd/test/disgust_happiness_36/36_disgust_happiness_h_010.wav",
+        "length": 1.5841875,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-38_happiness_neutral_h_040.wav": {
+        "wav": "downloads/resd/test/happiness_neutral_38/38_happiness_neutral_h_040.wav",
+        "length": 7.3815,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-27_neutral_fear_n_110.wav": {
+        "wav": "downloads/resd/test/neutral_fear_27/27_neutral_fear_n_110.wav",
+        "length": 10.34002267573696,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-45_happiness_sadness_s_030.wav": {
+        "wav": "downloads/resd/test/happiness_sadness_45/45_happiness_sadness_s_030.wav",
+        "length": 4.559047619047619,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-12_sadness_disgust_d_090.wav": {
+        "wav": "downloads/resd/test/sadness_disgust_12/12_sadness_disgust_d_090.wav",
+        "length": 7.1129375,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-42_anger_fear_f_070.wav": {
+        "wav": "downloads/resd/test/anger_fear_42/42_anger_fear_f_070.wav",
+        "length": 3.387732426303855,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-50_enthusiasm_sadness_e_010.wav": {
+        "wav": "downloads/resd/test/enthusiasm_sadness_50/50_enthusiasm_sadness_e_010.wav",
+        "length": 1.38,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-45_happiness_sadness_s_160.wav": {
+        "wav": "downloads/resd/test/happiness_sadness_45/45_happiness_sadness_s_160.wav",
+        "length": 2.8621768707482995,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-25_anger_disgust_d_052.wav": {
+        "wav": "downloads/resd/test/anger_disgust_25/25_anger_disgust_d_052.wav",
+        "length": 12.67,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-07_fear_neutral n_150.wav": {
+        "wav": "downloads/resd/test/07_fear_neutral/07_fear_neutral n_150.wav",
+        "length": 1.4489375,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-07_fear_neutral f_040.wav": {
+        "wav": "downloads/resd/test/07_fear_neutral/07_fear_neutral f_040.wav",
+        "length": 7.295625,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-36_disgust_happiness_d_080.wav": {
+        "wav": "downloads/resd/test/disgust_happiness_36/36_disgust_happiness_d_080.wav",
+        "length": 2.3748125,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-19_anger_disgust_a_040.wav": {
+        "wav": "downloads/resd/test/anger_disgust_19/19_anger_disgust_a_040.wav",
+        "length": 4.050022675736962,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-28_disgust_enthusiasm_e_040.wav": {
+        "wav": "downloads/resd/test/disgust_enthusiasm_28/28_disgust_enthusiasm_e_040.wav",
+        "length": 1.91725,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-28_disgust_enthusiasm_d_040.wav": {
+        "wav": "downloads/resd/test/disgust_enthusiasm_28/28_disgust_enthusiasm_d_040.wav",
+        "length": 15.329375,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-09_neutral_happiness n_020.wav": {
+        "wav": "downloads/resd/test/09_neutral_happiness/09_neutral_happiness n_020.wav",
+        "length": 5.5216875,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-32_happiness_enthusiasm_h_080.wav": {
+        "wav": "downloads/resd/test/happiness_enthusiasm_32/32_happiness_enthusiasm_h_080.wav",
+        "length": 11.7686875,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-08_sadness_anger a_150.wav": {
+        "wav": "downloads/resd/test/08_sadness_anger/08_sadness_anger a_150.wav",
+        "length": 7.3799375,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-35_neutral_fear_n_050.wav": {
+        "wav": "downloads/resd/test/neutral_fear_35/35_neutral_fear_n_050.wav",
+        "length": 2.72175,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-04_fear_enthusiasm e_040.wav": {
+        "wav": "downloads/resd/test/04_fear_enthusiasm/04_fear_enthusiasm e_040.wav",
+        "length": 5.8904375,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-32_happiness_enthusiasm_e_030.wav": {
+        "wav": "downloads/resd/test/happiness_enthusiasm_32/32_happiness_enthusiasm_e_030.wav",
+        "length": 2.3315,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-02_anger_sadness a_031.wav": {
+        "wav": "downloads/resd/test/02_anger_sadness/02_anger_sadness a_031.wav",
+        "length": 11.4005625,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-12_sadness_disgust_s_060.wav": {
+        "wav": "downloads/resd/test/sadness_disgust_12/12_sadness_disgust_s_060.wav",
+        "length": 6.7403125,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-49_sadness_happiness_s_050.wav": {
+        "wav": "downloads/resd/test/sadness_happiness_49/49_sadness_happiness_s_050.wav",
+        "length": 13.228979591836735,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-08_sadness_anger s_150.wav": {
+        "wav": "downloads/resd/test/08_sadness_anger/08_sadness_anger s_150.wav",
+        "length": 6.2825,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-22_fear_anger_a_050.wav": {
+        "wav": "downloads/resd/test/fear_anger_22/22_fear_anger_a_050.wav",
+        "length": 4.45,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-04_fear_enthusiasm f_070.wav": {
+        "wav": "downloads/resd/test/04_fear_enthusiasm/04_fear_enthusiasm f_070.wav",
+        "length": 8.16725,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-35_neutral_fear_f_074.wav": {
+        "wav": "downloads/resd/test/neutral_fear_35/35_neutral_fear_f_074.wav",
+        "length": 5.2626875,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-28_disgust_enthusiasm_e_100.wav": {
+        "wav": "downloads/resd/test/disgust_enthusiasm_28/28_disgust_enthusiasm_e_100.wav",
+        "length": 6.6224375,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-08_sadness_anger a_050.wav": {
+        "wav": "downloads/resd/test/08_sadness_anger/08_sadness_anger a_050.wav",
+        "length": 9.1771875,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-12_sadness_disgust_s_040.wav": {
+        "wav": "downloads/resd/test/sadness_disgust_12/12_sadness_disgust_s_040.wav",
+        "length": 10.1206875,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-27_neutral_fear_f_120.wav": {
+        "wav": "downloads/resd/test/neutral_fear_27/27_neutral_fear_f_120.wav",
+        "length": 10.14,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-47_enthusiasm_sadness_e_130.wav": {
+        "wav": "downloads/resd/test/enthusiasm_sadness_47/47_enthusiasm_sadness_e_130.wav",
+        "length": 4.5180272108843536,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-07_fear_neutral n_170.wav": {
+        "wav": "downloads/resd/test/07_fear_neutral/07_fear_neutral n_170.wav",
+        "length": 4.610125,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-04_fear_enthusiasm f_110.wav": {
+        "wav": "downloads/resd/test/04_fear_enthusiasm/04_fear_enthusiasm f_110.wav",
+        "length": 6.6205,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-47_enthusiasm_sadness_s_020.wav": {
+        "wav": "downloads/resd/test/enthusiasm_sadness_47/47_enthusiasm_sadness_s_020.wav",
+        "length": 9.275986394557822,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-34_anger_fear_a_130.wav": {
+        "wav": "downloads/resd/test/anger_fear_34/34_anger_fear_a_130.wav",
+        "length": 2.08675,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-01_happiness_anger a_090.wav": {
+        "wav": "downloads/resd/test/01_happiness_anger/01_happiness_anger a_090.wav",
+        "length": 4.5579375,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-21_happiness_anger_h_120.wav": {
+        "wav": "downloads/resd/test/happiness_anger_21/21_happiness_anger_h_120.wav",
+        "length": 4.650022675736961,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-18_happiness_neutral_n_160.wav": {
+        "wav": "downloads/resd/test/happiness_neutral_18/18_happiness_neutral_n_160.wav",
+        "length": 1.7000226757369614,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-39_sadness_anger_s_090.wav": {
+        "wav": "downloads/resd/test/sadness_anger_39/39_sadness_anger_s_090.wav",
+        "length": 17.1571875,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-29_happiness_fear_h_150.wav": {
+        "wav": "downloads/resd/test/happiness_fear_29/29_happiness_fear_h_150.wav",
+        "length": 7.241875,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-01_happiness_anger h_040.wav": {
+        "wav": "downloads/resd/test/01_happiness_anger/01_happiness_anger h_040.wav",
+        "length": 3.3428125,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-22_fear_anger_f_100.wav": {
+        "wav": "downloads/resd/test/fear_anger_22/22_fear_anger_f_100.wav",
+        "length": 6.64,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-12_sadness_disgust_s_120.wav": {
+        "wav": "downloads/resd/test/sadness_disgust_12/12_sadness_disgust_s_120.wav",
+        "length": 4.5229375,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-33_sadness_disgust_d_070.wav": {
+        "wav": "downloads/resd/test/sadness_disgust_33/33_sadness_disgust_d_070.wav",
+        "length": 9.2301875,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-07_fear_neutral n_060.wav": {
+        "wav": "downloads/resd/test/07_fear_neutral/07_fear_neutral n_060.wav",
+        "length": 1.2061875,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-42_anger_fear_a_170.wav": {
+        "wav": "downloads/resd/test/anger_fear_42/42_anger_fear_a_170.wav",
+        "length": 5.708639455782313,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-31_fear_enthusiasm_e_090.wav": {
+        "wav": "downloads/resd/test/fear_enthusiasm_31/31_fear_enthusiasm_e_090.wav",
+        "length": 4.282875,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-44_neutral_anger_a_160.wav": {
+        "wav": "downloads/resd/test/neutral_anger_44/44_neutral_anger_a_160.wav",
+        "length": 7.863514739229025,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-25_anger_disgust_d_030.wav": {
+        "wav": "downloads/resd/test/anger_disgust_25/25_anger_disgust_d_030.wav",
+        "length": 14.993401360544217,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-34_anger_fear_f_120.wav": {
+        "wav": "downloads/resd/test/anger_fear_34/34_anger_fear_f_120.wav",
+        "length": 2.141375,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-46_sadness_disgust_d_063.wav": {
+        "wav": "downloads/resd/test/sadness_disgust_46/46_sadness_disgust_d_063.wav",
+        "length": 5.677936507936508,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-23_happiness_neutral_h_162.wav": {
+        "wav": "downloads/resd/test/happiness_neutral_23/23_happiness_neutral_h_162.wav",
+        "length": 5.229909297052155,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-12_sadness_disgust_s_050.wav": {
+        "wav": "downloads/resd/test/sadness_disgust_12/12_sadness_disgust_s_050.wav",
+        "length": 4.1541875,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-26_enthusiasm_happiness_e_030.wav": {
+        "wav": "downloads/resd/test/enthusiasm_happiness_26/26_enthusiasm_happiness_e_030.wav",
+        "length": 2.9600226757369614,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-07_fear_neutral n_160.wav": {
+        "wav": "downloads/resd/test/07_fear_neutral/07_fear_neutral n_160.wav",
+        "length": 1.58975,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-49_sadness_happiness_s_040.wav": {
+        "wav": "downloads/resd/test/sadness_happiness_49/49_sadness_happiness_s_040.wav",
+        "length": 2.1666666666666665,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-40_enthusiasm_fear_e_050.wav": {
+        "wav": "downloads/resd/test/enthusiasm_fear_40/40_enthusiasm_fear_e_050.wav",
+        "length": 2.3840362811791382,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-23_happiness_neutral_n_140.wav": {
+        "wav": "downloads/resd/test/happiness_neutral_23/23_happiness_neutral_n_140.wav",
+        "length": 1.321156462585034,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-42_anger_fear_f_080.wav": {
+        "wav": "downloads/resd/test/anger_fear_42/42_anger_fear_f_080.wav",
+        "length": 3.9992743764172336,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-41_fear_disgust_d_070.wav": {
+        "wav": "downloads/resd/test/fear_disgust_41/41_fear_disgust_d_070.wav",
+        "length": 10.107573696145124,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-42_anger_fear_a_051.wav": {
+        "wav": "downloads/resd/test/anger_fear_42/42_anger_fear_a_051.wav",
+        "length": 14.956031746031746,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-50_enthusiasm_sadness_s_080.wav": {
+        "wav": "downloads/resd/test/enthusiasm_sadness_50/50_enthusiasm_sadness_s_080.wav",
+        "length": 3.6255555555555556,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-30_fear_happiness_f_110.wav": {
+        "wav": "downloads/resd/test/fear_happiness_30/30_fear_happiness_f_110.wav",
+        "length": 3.73125,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-19_anger_disgust_a_150.wav": {
+        "wav": "downloads/resd/test/anger_disgust_19/19_anger_disgust_a_150.wav",
+        "length": 4.240022675736961,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-29_happiness_fear_f_040.wav": {
+        "wav": "downloads/resd/test/happiness_fear_29/29_happiness_fear_f_040.wav",
+        "length": 3.45,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-02_anger_sadness a_042.wav": {
+        "wav": "downloads/resd/test/02_anger_sadness/02_anger_sadness a_042.wav",
+        "length": 8.513875,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-31_fear_enthusiasm_e_100.wav": {
+        "wav": "downloads/resd/test/fear_enthusiasm_31/31_fear_enthusiasm_e_100.wav",
+        "length": 11.392375,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-40_enthusiasm_fear_f_100.wav": {
+        "wav": "downloads/resd/test/enthusiasm_fear_40/40_enthusiasm_fear_f_100.wav",
+        "length": 5.028934240362812,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-09_neutral_happiness n_052.wav": {
+        "wav": "downloads/resd/test/09_neutral_happiness/09_neutral_happiness n_052.wav",
+        "length": 10.547375,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-06_happiness_enthusiasm h_072.wav": {
+        "wav": "downloads/resd/test/06_happiness_enthusiasm/06_happiness_enthusiasm h_072.wav",
+        "length": 10.0305625,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-40_enthusiasm_fear_f_060.wav": {
+        "wav": "downloads/resd/test/enthusiasm_fear_40/40_enthusiasm_fear_f_060.wav",
+        "length": 9.806303854875283,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-22_fear_anger_a_150.wav": {
+        "wav": "downloads/resd/test/fear_anger_22/22_fear_anger_a_150.wav",
+        "length": 3.0007709750566893,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-33_sadness_disgust_d_110.wav": {
+        "wav": "downloads/resd/test/sadness_disgust_33/33_sadness_disgust_d_110.wav",
+        "length": 8.6845625,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-18_happiness_neutral_n_070.wav": {
+        "wav": "downloads/resd/test/happiness_neutral_18/18_happiness_neutral_n_070.wav",
+        "length": 2.55,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-02_anger_sadness a_011.wav": {
+        "wav": "downloads/resd/test/02_anger_sadness/02_anger_sadness a_011.wav",
+        "length": 9.5,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-29_happiness_fear_f_010.wav": {
+        "wav": "downloads/resd/test/happiness_fear_29/29_happiness_fear_f_010.wav",
+        "length": 2.8675,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-44_neutral_anger_n_090.wav": {
+        "wav": "downloads/resd/test/neutral_anger_44/44_neutral_anger_n_090.wav",
+        "length": 1.229342403628118,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-45_happiness_sadness_s_141.wav": {
+        "wav": "downloads/resd/test/happiness_sadness_45/45_happiness_sadness_s_141.wav",
+        "length": 14.96891156462585,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-11_anger_disgust a_020.wav": {
+        "wav": "downloads/resd/test/11_disgust_anger/11_anger_disgust a_020.wav",
+        "length": 4.78725,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-30_fear_happiness_h_170.wav": {
+        "wav": "downloads/resd/test/fear_happiness_30/30_fear_happiness_h_170.wav",
+        "length": 11.17725,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-44_neutral_anger_a_030.wav": {
+        "wav": "downloads/resd/test/neutral_anger_44/44_neutral_anger_a_030.wav",
+        "length": 5.6637414965986395,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-01_happiness_anger h_050.wav": {
+        "wav": "downloads/resd/test/01_happiness_anger/01_happiness_anger h_050.wav",
+        "length": 7.318125,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-32_happiness_enthusiasm_h_090.wav": {
+        "wav": "downloads/resd/test/happiness_enthusiasm_32/32_happiness_enthusiasm_h_090.wav",
+        "length": 14.971875,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-43_enthusiasm_neutral_e_110.wav": {
+        "wav": "downloads/resd/test/enthusiasm_neutral_43/43_enthusiasm_neutral_e_110.wav",
+        "length": 10.240090702947846,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-45_happiness_sadness_h_030.wav": {
+        "wav": "downloads/resd/test/happiness_sadness_45/45_happiness_sadness_h_030.wav",
+        "length": 1.6054421768707483,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-07_fear_neutral f_010.wav": {
+        "wav": "downloads/resd/test/07_fear_neutral/07_fear_neutral f_010.wav",
+        "length": 2.4815625,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-49_sadness_happiness_s_072.wav": {
+        "wav": "downloads/resd/test/sadness_happiness_49/49_sadness_happiness_s_072.wav",
+        "length": 11.074263038548754,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-28_disgust_enthusiasm_d_090.wav": {
+        "wav": "downloads/resd/test/disgust_enthusiasm_28/28_disgust_enthusiasm_d_090.wav",
+        "length": 1.575125,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-50_enthusiasm_sadness_s_060.wav": {
+        "wav": "downloads/resd/test/enthusiasm_sadness_50/50_enthusiasm_sadness_s_060.wav",
+        "length": 4.294149659863946,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-20_disgust_enthusiasm_e_130.wav": {
+        "wav": "downloads/resd/test/disgust_enthusiasm_20/20_disgust_enthusiasm_e_130.wav",
+        "length": 2.11,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-32_happiness_enthusiasm_e_100.wav": {
+        "wav": "downloads/resd/test/happiness_enthusiasm_32/32_happiness_enthusiasm_e_100.wav",
+        "length": 1.817,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-50_enthusiasm_sadness_e_040.wav": {
+        "wav": "downloads/resd/test/enthusiasm_sadness_50/50_enthusiasm_sadness_e_040.wav",
+        "length": 1.32,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-41_fear_disgust_d_080.wav": {
+        "wav": "downloads/resd/test/fear_disgust_41/41_fear_disgust_d_080.wav",
+        "length": 8.165079365079364,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-20_disgust_enthusiasm_d_030.wav": {
+        "wav": "downloads/resd/test/disgust_enthusiasm_20/20_disgust_enthusiasm_d_030.wav",
+        "length": 3.4152607709750566,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-13_neutral_enthusiasm_n_041.wav": {
+        "wav": "downloads/resd/test/neutral_enthusiasm_13/13_neutral_enthusiasm_n_041.wav",
+        "length": 7.043,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-50_enthusiasm_sadness_s_130.wav": {
+        "wav": "downloads/resd/test/enthusiasm_sadness_50/50_enthusiasm_sadness_s_130.wav",
+        "length": 3.56968253968254,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-32_happiness_enthusiasm_h_010.wav": {
+        "wav": "downloads/resd/test/happiness_enthusiasm_32/32_happiness_enthusiasm_h_010.wav",
+        "length": 2.7175625,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-08_sadness_anger s_160.wav": {
+        "wav": "downloads/resd/test/08_sadness_anger/08_sadness_anger s_160.wav",
+        "length": 14.77575,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-08_sadness_anger s_130.wav": {
+        "wav": "downloads/resd/test/08_sadness_anger/08_sadness_anger s_130.wav",
+        "length": 9.7656875,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-12_sadness_disgust_d_060.wav": {
+        "wav": "downloads/resd/test/sadness_disgust_12/12_sadness_disgust_d_060.wav",
+        "length": 6.0478125,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-34_anger_fear_a_160.wav": {
+        "wav": "downloads/resd/test/anger_fear_34/34_anger_fear_a_160.wav",
+        "length": 2.2174375,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-05_neutral_fear f_070.wav": {
+        "wav": "downloads/resd/test/05_neutral_fear/05_neutral_fear f_070.wav",
+        "length": 5.08425,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-15_enthusiasm_sadness_s_040.wav": {
+        "wav": "downloads/resd/test/enthusiasm_sadness_15/15_enthusiasm_sadness_s_040.wav",
+        "length": 2.826,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-16_sadness_disgust_d_040.wav": {
+        "wav": "downloads/resd/test/sadness_disgust_16/16_sadness_disgust_d_040.wav",
+        "length": 3.734671201814059,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-33_sadness_disgust_d_090.wav": {
+        "wav": "downloads/resd/test/sadness_disgust_33/33_sadness_disgust_d_090.wav",
+        "length": 7.49975,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-35_neutral_fear_n_070.wav": {
+        "wav": "downloads/resd/test/neutral_fear_35/35_neutral_fear_n_070.wav",
+        "length": 2.2778125,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-10_happiness_anger h_120.wav": {
+        "wav": "downloads/resd/test/10_happiness_anger/10_happiness_anger h_120.wav",
+        "length": 1.03375,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-46_sadness_disgust_s_030.wav": {
+        "wav": "downloads/resd/test/sadness_disgust_46/46_sadness_disgust_s_030.wav",
+        "length": 7.62,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-20_disgust_enthusiasm_e_050.wav": {
+        "wav": "downloads/resd/test/disgust_enthusiasm_20/20_disgust_enthusiasm_e_050.wav",
+        "length": 1.0900226757369615,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-02_anger_sadness a_032.wav": {
+        "wav": "downloads/resd/test/02_anger_sadness/02_anger_sadness a_032.wav",
+        "length": 4.416,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-23_happiness_neutral_n_050.wav": {
+        "wav": "downloads/resd/test/happiness_neutral_23/23_happiness_neutral_n_050.wav",
+        "length": 2.8973469387755104,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-41_fear_disgust_d_010.wav": {
+        "wav": "downloads/resd/test/fear_disgust_41/41_fear_disgust_d_010.wav",
+        "length": 5.930430839002268,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-30_fear_happiness_h_110.wav": {
+        "wav": "downloads/resd/test/fear_happiness_30/30_fear_happiness_h_110.wav",
+        "length": 3.2846875,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-04_fear_enthusiasm e_010.wav": {
+        "wav": "downloads/resd/test/04_fear_enthusiasm/04_fear_enthusiasm e_010.wav",
+        "length": 5.4234375,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-37_enthusiasm_neutral_n_100.wav": {
+        "wav": "downloads/resd/test/enthusiasm_neutral_37/37_enthusiasm_neutral_n_100.wav",
+        "length": 1.2055,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-16_sadness_disgust_d_050.wav": {
+        "wav": "downloads/resd/test/sadness_disgust_16/16_sadness_disgust_d_050.wav",
+        "length": 6.49204081632653,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-12_sadness_disgust_d_080.wav": {
+        "wav": "downloads/resd/test/sadness_disgust_12/12_sadness_disgust_d_080.wav",
+        "length": 10.074625,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-42_anger_fear_f_170.wav": {
+        "wav": "downloads/resd/test/anger_fear_42/42_anger_fear_f_170.wav",
+        "length": 10.211746031746031,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-37_enthusiasm_neutral_e_030.wav": {
+        "wav": "downloads/resd/test/enthusiasm_neutral_37/37_enthusiasm_neutral_e_030.wav",
+        "length": 2.6391875,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-44_neutral_anger_n_050.wav": {
+        "wav": "downloads/resd/test/neutral_anger_44/44_neutral_anger_n_050.wav",
+        "length": 4.355215419501134,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-24_sadness_enthusiasm_s_122.wav": {
+        "wav": "downloads/resd/test/sadness_enthusiasm_24/24_sadness_enthusiasm_s_122.wav",
+        "length": 2.3500226757369616,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-05_neutral_fear f_051.wav": {
+        "wav": "downloads/resd/test/05_neutral_fear/05_neutral_fear f_051.wav",
+        "length": 12.51575,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-37_enthusiasm_neutral_e_020.wav": {
+        "wav": "downloads/resd/test/enthusiasm_neutral_37/37_enthusiasm_neutral_e_020.wav",
+        "length": 5.3725625,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-01_happiness_anger a_110.wav": {
+        "wav": "downloads/resd/test/01_happiness_anger/01_happiness_anger a_110.wav",
+        "length": 2.4003125,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-15_enthusiasm_sadness_s_020.wav": {
+        "wav": "downloads/resd/test/enthusiasm_sadness_15/15_enthusiasm_sadness_s_020.wav",
+        "length": 6.0239375,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-21_happiness_anger_a_070.wav": {
+        "wav": "downloads/resd/test/happiness_anger_21/21_happiness_anger_a_070.wav",
+        "length": 6.32,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-42_anger_fear_f_020.wav": {
+        "wav": "downloads/resd/test/anger_fear_42/42_anger_fear_f_020.wav",
+        "length": 2.5132426303854873,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-43_enthusiasm_neutral_e_070.wav": {
+        "wav": "downloads/resd/test/enthusiasm_neutral_43/43_enthusiasm_neutral_e_070.wav",
+        "length": 1.9412018140589569,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-34_anger_fear_a_022.wav": {
+        "wav": "downloads/resd/test/anger_fear_34/34_anger_fear_a_022.wav",
+        "length": 9.1295,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-10_happiness_anger a_100.wav": {
+        "wav": "downloads/resd/test/10_happiness_anger/10_happiness_anger a_100.wav",
+        "length": 5.207875,
+        "emo": "anger",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-29_happiness_fear_f_060.wav": {
+        "wav": "downloads/resd/test/happiness_fear_29/29_happiness_fear_f_060.wav",
+        "length": 3.497375,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-10_happiness_anger h_050.wav": {
+        "wav": "downloads/resd/test/10_happiness_anger/10_happiness_anger h_050.wav",
+        "length": 5.8320625,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-23_happiness_neutral_h_030.wav": {
+        "wav": "downloads/resd/test/happiness_neutral_23/23_happiness_neutral_h_030.wav",
+        "length": 2.213832199546485,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-46_sadness_disgust_s_020.wav": {
+        "wav": "downloads/resd/test/sadness_disgust_46/46_sadness_disgust_s_020.wav",
+        "length": 4.36,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-29_happiness_fear_h_060.wav": {
+        "wav": "downloads/resd/test/happiness_fear_29/29_happiness_fear_h_060.wav",
+        "length": 1.3479375,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-37_enthusiasm_neutral_n_020.wav": {
+        "wav": "downloads/resd/test/enthusiasm_neutral_37/37_enthusiasm_neutral_n_020.wav",
+        "length": 3.115125,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-03_disgust_neutral d_090.wav": {
+        "wav": "downloads/resd/test/03_disgust_neutral/03_disgust_neutral d_090.wav",
+        "length": 2.2606875,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-37_enthusiasm_neutral_e_120.wav": {
+        "wav": "downloads/resd/test/enthusiasm_neutral_37/37_enthusiasm_neutral_e_120.wav",
+        "length": 8.4515625,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-28_disgust_enthusiasm_d_052.wav": {
+        "wav": "downloads/resd/test/disgust_enthusiasm_28/28_disgust_enthusiasm_d_052.wav",
+        "length": 2.128125,
+        "emo": "disgust",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-09_neutral_happiness n_060.wav": {
+        "wav": "downloads/resd/test/09_neutral_happiness/09_neutral_happiness n_060.wav",
+        "length": 10.7703125,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-30_fear_happiness_f_150.wav": {
+        "wav": "downloads/resd/test/fear_happiness_30/30_fear_happiness_f_150.wav",
+        "length": 10.27325,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-06_happiness_enthusiasm h_071.wav": {
+        "wav": "downloads/resd/test/06_happiness_enthusiasm/06_happiness_enthusiasm h_071.wav",
+        "length": 13.004,
+        "emo": "happiness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-43_enthusiasm_neutral_n_050.wav": {
+        "wav": "downloads/resd/test/enthusiasm_neutral_43/43_enthusiasm_neutral_n_050.wav",
+        "length": 3.0787301587301585,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-49_sadness_happiness_s_030.wav": {
+        "wav": "downloads/resd/test/sadness_happiness_49/49_sadness_happiness_s_030.wav",
+        "length": 13.303900226757369,
+        "emo": "sadness",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-13_neutral_enthusiasm_n_030.wav": {
+        "wav": "downloads/resd/test/neutral_enthusiasm_13/13_neutral_enthusiasm_n_030.wav",
+        "length": 8.611,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-04_fear_enthusiasm f_030.wav": {
+        "wav": "downloads/resd/test/04_fear_enthusiasm/04_fear_enthusiasm f_030.wav",
+        "length": 5.570375,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-38_happiness_neutral_n_030.wav": {
+        "wav": "downloads/resd/test/happiness_neutral_38/38_happiness_neutral_n_030.wav",
+        "length": 6.3449375,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-23_happiness_neutral_n_100.wav": {
+        "wav": "downloads/resd/test/happiness_neutral_23/23_happiness_neutral_n_100.wav",
+        "length": 1.8363492063492064,
+        "emo": "neutral",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-24_sadness_enthusiasm_e_100.wav": {
+        "wav": "downloads/resd/test/sadness_enthusiasm_24/24_sadness_enthusiasm_e_100.wav",
+        "length": 6.7300226757369614,
+        "emo": "enthusiasm",
+        "dataset": "resd",
+        "channel": 1
+    },
+    "resd-04_fear_enthusiasm f_140.wav": {
+        "wav": "downloads/resd/test/04_fear_enthusiasm/04_fear_enthusiasm f_140.wav",
+        "length": 11.108,
+        "emo": "fear",
+        "dataset": "resd",
+        "channel": 1
+    }
+}

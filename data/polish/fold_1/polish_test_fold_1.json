@@ -1,0 +1,632 @@
+{
+    "polish-m3.s_trzymaj_5": {
+        "wav": "downloads/polish/m3.s_trzymaj_5.wav",
+        "length": 0.8586394557823129,
+        "emo": "s",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.a_nie_3": {
+        "wav": "downloads/polish/m3.a_nie_3.wav",
+        "length": 0.8008616780045351,
+        "emo": "a",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.n_trzymaj_4": {
+        "wav": "downloads/polish/m3.n_trzymaj_4.wav",
+        "length": 0.8450113378684807,
+        "emo": "n",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.n_oddaj_2": {
+        "wav": "downloads/polish/m3.n_oddaj_2.wav",
+        "length": 0.8669160997732426,
+        "emo": "n",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.n_podaj_4": {
+        "wav": "downloads/polish/m3.n_podaj_4.wav",
+        "length": 0.6770748299319728,
+        "emo": "n",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.s_oddaj_4": {
+        "wav": "downloads/polish/m3.s_oddaj_4.wav",
+        "length": 0.8728571428571429,
+        "emo": "s",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.s_nie_1": {
+        "wav": "downloads/polish/m3.s_nie_1.wav",
+        "length": 0.7655555555555555,
+        "emo": "s",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.a_oddaj_4": {
+        "wav": "downloads/polish/m3.a_oddaj_4.wav",
+        "length": 0.8865986394557823,
+        "emo": "a",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.n_stop_1": {
+        "wav": "downloads/polish/m3.n_stop_1.wav",
+        "length": 0.6750566893424036,
+        "emo": "n",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.s_oddaj_5": {
+        "wav": "downloads/polish/m3.s_oddaj_5.wav",
+        "length": 0.9172335600907029,
+        "emo": "s",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.a_stop_2": {
+        "wav": "downloads/polish/m3.a_stop_2.wav",
+        "length": 0.7841950113378685,
+        "emo": "a",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.n_stop_3": {
+        "wav": "downloads/polish/m3.n_stop_3.wav",
+        "length": 0.9379591836734694,
+        "emo": "n",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.s_podaj_1": {
+        "wav": "downloads/polish/m3.s_podaj_1.wav",
+        "length": 0.8946258503401361,
+        "emo": "s",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.n_tak_1": {
+        "wav": "downloads/polish/m3.n_tak_1.wav",
+        "length": 0.6879138321995465,
+        "emo": "n",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.s_nie_2": {
+        "wav": "downloads/polish/m3.s_nie_2.wav",
+        "length": 0.8522222222222222,
+        "emo": "s",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.s_podaj_3": {
+        "wav": "downloads/polish/m3.s_podaj_3.wav",
+        "length": 0.7408616780045352,
+        "emo": "s",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.n_oddaj_3": {
+        "wav": "downloads/polish/m3.n_oddaj_3.wav",
+        "length": 0.7248072562358276,
+        "emo": "n",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.a_podaj_3": {
+        "wav": "downloads/polish/m3.a_podaj_3.wav",
+        "length": 0.8797278911564625,
+        "emo": "a",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.a_trzymaj_5": {
+        "wav": "downloads/polish/m3.a_trzymaj_5.wav",
+        "length": 0.8273015873015873,
+        "emo": "a",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.n_trzymaj_2": {
+        "wav": "downloads/polish/m3.n_trzymaj_2.wav",
+        "length": 0.91,
+        "emo": "n",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.s_nie_3": {
+        "wav": "downloads/polish/m3.s_nie_3.wav",
+        "length": 0.787233560090703,
+        "emo": "s",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.s_tak_4": {
+        "wav": "downloads/polish/m3.s_tak_4.wav",
+        "length": 0.8039909297052155,
+        "emo": "s",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.a_stop_5": {
+        "wav": "downloads/polish/m3.a_stop_5.wav",
+        "length": 0.8792517006802721,
+        "emo": "a",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.s_tak_5": {
+        "wav": "downloads/polish/m3.s_tak_5.wav",
+        "length": 0.7624263038548753,
+        "emo": "s",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.s_trzymaj_3": {
+        "wav": "downloads/polish/m3.s_trzymaj_3.wav",
+        "length": 0.8313605442176871,
+        "emo": "s",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.a_stop_4": {
+        "wav": "downloads/polish/m3.a_stop_4.wav",
+        "length": 0.7366666666666667,
+        "emo": "a",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.a_tak_5": {
+        "wav": "downloads/polish/m3.a_tak_5.wav",
+        "length": 0.6932879818594104,
+        "emo": "a",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.n_nie_3": {
+        "wav": "downloads/polish/m3.n_nie_3.wav",
+        "length": 0.6588662131519274,
+        "emo": "n",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.a_tak_4": {
+        "wav": "downloads/polish/m3.a_tak_4.wav",
+        "length": 0.693265306122449,
+        "emo": "a",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.n_nie_2": {
+        "wav": "downloads/polish/m3.n_nie_2.wav",
+        "length": 0.6523356009070295,
+        "emo": "n",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.a_oddaj_2": {
+        "wav": "downloads/polish/m3.a_oddaj_2.wav",
+        "length": 0.9917687074829932,
+        "emo": "a",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.n_tak_4": {
+        "wav": "downloads/polish/m3.n_tak_4.wav",
+        "length": 0.687936507936508,
+        "emo": "n",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.s_trzymaj_1": {
+        "wav": "downloads/polish/m3.s_trzymaj_1.wav",
+        "length": 0.879092970521542,
+        "emo": "s",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.n_stop_2": {
+        "wav": "downloads/polish/m3.n_stop_2.wav",
+        "length": 0.845578231292517,
+        "emo": "n",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.n_podaj_2": {
+        "wav": "downloads/polish/m3.n_podaj_2.wav",
+        "length": 0.7280498866213152,
+        "emo": "n",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.n_podaj_5": {
+        "wav": "downloads/polish/m3.n_podaj_5.wav",
+        "length": 0.7863038548752834,
+        "emo": "n",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.n_oddaj_1": {
+        "wav": "downloads/polish/m3.n_oddaj_1.wav",
+        "length": 0.7958503401360544,
+        "emo": "n",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.s_oddaj_2": {
+        "wav": "downloads/polish/m3.s_oddaj_2.wav",
+        "length": 0.880249433106576,
+        "emo": "s",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.s_podaj_2": {
+        "wav": "downloads/polish/m3.s_podaj_2.wav",
+        "length": 0.789795918367347,
+        "emo": "s",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.s_stop_2": {
+        "wav": "downloads/polish/m3.s_stop_2.wav",
+        "length": 0.7554875283446713,
+        "emo": "s",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.n_stop_5": {
+        "wav": "downloads/polish/m3.n_stop_5.wav",
+        "length": 0.7887528344671202,
+        "emo": "n",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.a_oddaj_3": {
+        "wav": "downloads/polish/m3.a_oddaj_3.wav",
+        "length": 0.8715646258503401,
+        "emo": "a",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.n_tak_2": {
+        "wav": "downloads/polish/m3.n_tak_2.wav",
+        "length": 0.6731292517006803,
+        "emo": "n",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.s_trzymaj_2": {
+        "wav": "downloads/polish/m3.s_trzymaj_2.wav",
+        "length": 0.8586394557823129,
+        "emo": "s",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.n_oddaj_5": {
+        "wav": "downloads/polish/m3.n_oddaj_5.wav",
+        "length": 0.8526984126984127,
+        "emo": "n",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.s_tak_3": {
+        "wav": "downloads/polish/m3.s_tak_3.wav",
+        "length": 0.6861678004535148,
+        "emo": "s",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.n_oddaj_4": {
+        "wav": "downloads/polish/m3.n_oddaj_4.wav",
+        "length": 0.8668934240362812,
+        "emo": "n",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.a_podaj_1": {
+        "wav": "downloads/polish/m3.a_podaj_1.wav",
+        "length": 0.8797052154195011,
+        "emo": "a",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.n_stop_4": {
+        "wav": "downloads/polish/m3.n_stop_4.wav",
+        "length": 0.767437641723356,
+        "emo": "n",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.s_tak_2": {
+        "wav": "downloads/polish/m3.s_tak_2.wav",
+        "length": 0.7346938775510204,
+        "emo": "s",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.a_oddaj_5": {
+        "wav": "downloads/polish/m3.a_oddaj_5.wav",
+        "length": 0.8415192743764173,
+        "emo": "a",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.n_trzymaj_1": {
+        "wav": "downloads/polish/m3.n_trzymaj_1.wav",
+        "length": 0.7294331065759637,
+        "emo": "n",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.s_tak_1": {
+        "wav": "downloads/polish/m3.s_tak_1.wav",
+        "length": 0.5614285714285714,
+        "emo": "s",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.a_tak_1": {
+        "wav": "downloads/polish/m3.a_tak_1.wav",
+        "length": 0.7180272108843537,
+        "emo": "a",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.s_podaj_4": {
+        "wav": "downloads/polish/m3.s_podaj_4.wav",
+        "length": 0.8177551020408164,
+        "emo": "s",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.s_oddaj_3": {
+        "wav": "downloads/polish/m3.s_oddaj_3.wav",
+        "length": 0.9172108843537415,
+        "emo": "s",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.n_tak_3": {
+        "wav": "downloads/polish/m3.n_tak_3.wav",
+        "length": 0.8136734693877551,
+        "emo": "n",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.n_trzymaj_5": {
+        "wav": "downloads/polish/m3.n_trzymaj_5.wav",
+        "length": 0.8594557823129252,
+        "emo": "n",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.a_oddaj_1": {
+        "wav": "downloads/polish/m3.a_oddaj_1.wav",
+        "length": 0.9316780045351474,
+        "emo": "a",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.s_nie_5": {
+        "wav": "downloads/polish/m3.s_nie_5.wav",
+        "length": 0.8955555555555555,
+        "emo": "s",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.s_stop_3": {
+        "wav": "downloads/polish/m3.s_stop_3.wav",
+        "length": 0.6666213151927438,
+        "emo": "s",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.a_stop_3": {
+        "wav": "downloads/polish/m3.a_stop_3.wav",
+        "length": 0.8000453514739229,
+        "emo": "a",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.n_trzymaj_3": {
+        "wav": "downloads/polish/m3.n_trzymaj_3.wav",
+        "length": 0.8088888888888889,
+        "emo": "n",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.a_trzymaj_3": {
+        "wav": "downloads/polish/m3.a_trzymaj_3.wav",
+        "length": 0.8897278911564626,
+        "emo": "a",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.n_podaj_1": {
+        "wav": "downloads/polish/m3.n_podaj_1.wav",
+        "length": 0.8153968253968253,
+        "emo": "n",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.s_podaj_5": {
+        "wav": "downloads/polish/m3.s_podaj_5.wav",
+        "length": 0.8457142857142858,
+        "emo": "s",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.a_trzymaj_2": {
+        "wav": "downloads/polish/m3.a_trzymaj_2.wav",
+        "length": 0.8975283446712018,
+        "emo": "a",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.a_trzymaj_1": {
+        "wav": "downloads/polish/m3.a_trzymaj_1.wav",
+        "length": 0.8429024943310658,
+        "emo": "a",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.s_oddaj_1": {
+        "wav": "downloads/polish/m3.s_oddaj_1.wav",
+        "length": 0.7618820861678004,
+        "emo": "s",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.a_podaj_5": {
+        "wav": "downloads/polish/m3.a_podaj_5.wav",
+        "length": 0.8648072562358277,
+        "emo": "a",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.a_nie_1": {
+        "wav": "downloads/polish/m3.a_nie_1.wav",
+        "length": 0.6334013605442177,
+        "emo": "a",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.s_stop_4": {
+        "wav": "downloads/polish/m3.s_stop_4.wav",
+        "length": 0.8189795918367347,
+        "emo": "s",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.a_tak_3": {
+        "wav": "downloads/polish/m3.a_tak_3.wav",
+        "length": 0.792312925170068,
+        "emo": "a",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.s_trzymaj_4": {
+        "wav": "downloads/polish/m3.s_trzymaj_4.wav",
+        "length": 0.8518140589569161,
+        "emo": "s",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.a_tak_2": {
+        "wav": "downloads/polish/m3.a_tak_2.wav",
+        "length": 0.7056462585034013,
+        "emo": "a",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.n_nie_5": {
+        "wav": "downloads/polish/m3.n_nie_5.wav",
+        "length": 0.6197052154195012,
+        "emo": "n",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.n_nie_1": {
+        "wav": "downloads/polish/m3.n_nie_1.wav",
+        "length": 0.5414285714285715,
+        "emo": "n",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.a_stop_1": {
+        "wav": "downloads/polish/m3.a_stop_1.wav",
+        "length": 0.7683673469387755,
+        "emo": "a",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.a_podaj_2": {
+        "wav": "downloads/polish/m3.a_podaj_2.wav",
+        "length": 0.8946485260770976,
+        "emo": "a",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.n_tak_5": {
+        "wav": "downloads/polish/m3.n_tak_5.wav",
+        "length": 0.7470975056689343,
+        "emo": "n",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.a_trzymaj_4": {
+        "wav": "downloads/polish/m3.a_trzymaj_4.wav",
+        "length": 0.8975283446712018,
+        "emo": "a",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.s_stop_5": {
+        "wav": "downloads/polish/m3.s_stop_5.wav",
+        "length": 0.7427891156462585,
+        "emo": "s",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.a_nie_2": {
+        "wav": "downloads/polish/m3.a_nie_2.wav",
+        "length": 0.7644444444444445,
+        "emo": "a",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.a_nie_5": {
+        "wav": "downloads/polish/m3.a_nie_5.wav",
+        "length": 0.7571655328798186,
+        "emo": "a",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.s_nie_4": {
+        "wav": "downloads/polish/m3.s_nie_4.wav",
+        "length": 0.7944671201814059,
+        "emo": "s",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.n_podaj_3": {
+        "wav": "downloads/polish/m3.n_podaj_3.wav",
+        "length": 0.7644444444444445,
+        "emo": "n",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.a_podaj_4": {
+        "wav": "downloads/polish/m3.a_podaj_4.wav",
+        "length": 0.8573469387755102,
+        "emo": "a",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.n_nie_4": {
+        "wav": "downloads/polish/m3.n_nie_4.wav",
+        "length": 0.7045351473922903,
+        "emo": "n",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.a_nie_4": {
+        "wav": "downloads/polish/m3.a_nie_4.wav",
+        "length": 0.8445351473922903,
+        "emo": "a",
+        "dataset": "polish",
+        "channel": 1
+    },
+    "polish-m3.s_stop_1": {
+        "wav": "downloads/polish/m3.s_stop_1.wav",
+        "length": 0.7364399092970522,
+        "emo": "s",
+        "dataset": "polish",
+        "channel": 1
+    }
+}
