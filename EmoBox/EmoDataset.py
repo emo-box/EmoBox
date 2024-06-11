@@ -12,18 +12,18 @@ logger = logging.getLogger(__name__)
 
 
 """
-"Ses01M_impro01_F000": {
+[{
 	key: "Ses01M_impro01_F000"
 	dataset: "iemocap"
-	audio: "Session1/sentences/wav/Ses01M_impro01/Ses01M_impro01_F000.wav"
+	wav: "Session1/sentences/wav/Ses01M_impro01/Ses01M_impro01_F000.wav"
     type: "raw" # raw, feature
 	sample_rate: 16000
-	num_frame: 32000
+	length: 3.2
 	task: "category" # category, valence, arousal
-	label: "hap"
-	} 
-"Ses01M_impro01_F001": {...}
-...
+	emo: "hap"
+	}, 
+    {...}
+]
 """
 def check_exists(data, data_dir, logger):
     new_data = []
@@ -44,12 +44,11 @@ def replace_label(data, label_map, logger):
         new_data.append(instance)
     return new_data    
 
-def prepare_data(
+def prepare_data_from_jsonl(
     dataset,
     data_dir,
     meta_data_dir,
     label_map,
-    meta_format='jsonl',
     fold=1,
     split_ratio=[80, 20],
     seed=12,
@@ -59,13 +58,13 @@ def prepare_data(
 
     
     # find train/valid/test metadata files
-    train_data_path = os.path.join(data_dir, dataset, 'fold'+fold, f'{dataset}_train_fold_{fold}.{meta_format}')
-    test_data_path = os.path.join(data_dir, dataset, 'fold'+fold, f'{dataset}_test_fold_{fold}.{meta_format}')
-    valid_data_path = os.path.join(data_dir, dataset, 'fold'+fold, f'{dataset}_valid_fold_{fold}.{meta_format}')
+    train_data_path = os.path.join(data_dir, dataset, 'fold_'+fold, f'{dataset}_train_fold_{fold}.jsonl')
+    test_data_path = os.path.join(data_dir, dataset, 'fold_'+fold, f'{dataset}_test_fold_{fold}.jsonl')
+    valid_data_path = os.path.join(data_dir, dataset, 'fold_'+fold, f'{dataset}_valid_fold_{fold}.jsonl')
     
     # check existance
-    assert os.path.exists(train_data_path)
-    assert os.path.exists(test_data_path)
+    assert os.path.exists(train_data_path), f'train data path {train_data_path} does not exist!'
+    assert os.path.exists(test_data_path), f'test data path {test_data_path} does not exist!'
     official_valid = False
     if os.path.exists(valid_data_path):
         logger.info(f'using official valid data in {valid_data_path}')
@@ -78,14 +77,14 @@ def prepare_data(
     test_data = []
     with open(train_data_path) as f:
         for line in f:
-            train_data.append(json.loads(f).strip())
+            train_data.append(json.loads(line.strip()))
     with open(test_data_path) as f:
         for line in f:
-            test_data.append(json.loads(f).strip())
+            test_data.append(json.loads(line.strip()))
     if official_valid:
         with open(valid_data_path) as f:
             for line in f:
-                valid_data.append(json.loads(f).strip())
+                valid_data.append(json.loads(line.strip()))
             
             
 
@@ -146,10 +145,10 @@ def read_wav(data):
     return wav 
 
 class EmoDataset(Dataset):
-    def __init__(self, dataset, data_dir, meta_data_dir, fold=1, split="train", meta_format = 'jsonl'):
+    def __init__(self, dataset, data_dir, meta_data_dir, fold=1, split="train"):
         super().__init__()
         self.data_dir = data_dir
-        train_data, valid_data, test_data = prepare_data(dataset, data_dir, meta_data_dir, meta_format = meta_format, fold = fold)
+        train_data, valid_data, test_data = prepare_data_from_jsonl(dataset, data_dir, meta_data_dir, fold = fold)
         if split == 'train':
             self.data_list = train_data
         elif split == 'valid':
@@ -164,20 +163,15 @@ class EmoDataset(Dataset):
 
     def __getitem__(self, idx):
         data = self.data_list[idx]
-
+        key = data["key"]
         audio = os.path.join(self.data_dir, data["wav"])
         if not os.path.exists(audio):
-            raise FileNotFoundError(f"{audio} does not exist.")
+            raise FileNotFoundError(f"{audio} does not exist.")    
+        audio = read_wav(data)
         
-        if data["type"] == "raw":
-            
-            audio = read_wav(data)
-        elif data["type"] == "feature":
-            audio = np.load(audio)
-        else:
-            raise ValueError(f"Unknown data type: {data['type']}")
         label = data['emo']        
         return{
+            "key": key,
             "audio": audio,
             "label": label,
             # other meta data can be added here
