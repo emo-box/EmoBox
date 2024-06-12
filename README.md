@@ -99,26 +99,29 @@ We prepare metadata files for each datasets, including several types of formats:
 [  {
 	"key": "Ses01M_impro01_F000",
 	"dataset": "iemocap",
-	"wav": "Session1/sentences/wav/Ses01M_impro01/Ses01M_impro01_F000.wav",
+	"wav": "downloads/iemocap/Session1/sentences/wav/Ses01M_impro01/Ses01M_impro01_F000.wav",
    "type": "raw" # raw, feature
 	"sample_rate": 16000,
 	"length": 3.2,
-	"task": "category" # category, valence, arousal
-	"emo": "hap"
+	"task": "category", # category, valence, arousal
+	"emo": "hap",
+	"channel": 1
 	}
 	,
 	..., 
 	{...}
+]	
 ```
 
-Since datasets may have different labels for the same emotion class, e.g. Hap, hap, Happy, happy. We provide a `label_map.json` file for each dataset which map labels to a standard label set.
-
+Some datasets (e.g. iemocap) require merging labels, so we provide a `label_map.json` file for this purpose.
 
 ### Quick Start
 
-EmoBox provides a torch dataset class, `EmoDataset`, and a evaluation class, `EmoEval`. You may train your own model using any recipe or toolkits. 
+EmoBox provides a torch dataset class `EmoDataset` and a evaluation class `EmoEval`. You may train your own models using any recipes or toolkits. 
 
-We provide an example pipeline code for training and testing using EmoDataset and EmoEval:
+Using `EmoDataset` and `EmoEval`, it is easy to compare results from any model trained by any recipie or toolkit. Results can be submitted to our benchmark.
+
+We provide an example pipeline code using `EmoDataset` and `EmoEval`:
 
 ```python
 from EmoBox import EmoDataset, EmoEval
@@ -127,7 +130,9 @@ dataset = "iemocap"
 folds = 5 # different datasets have different number of folds, which can be find in data/ 
 user_data_dir = "./" # path to EmoBox
 meta_data_dir = "data/" # path to data folder 
-label2idx = {'hap':0, 'sad':1, 'ang':2, 'neu':3} # you may need to define a label to index mapping for your own training
+label2idx = {'hap':0, 'sad':1, 'ang':2, 'neu':3} # you may need to define a label to index mapping for your own training, see `data/iemocap/label_map.json`
+
+
 ## take n-flod cross-validation as an example
 for fold in range(folds):
 	
@@ -217,7 +222,7 @@ python3 train.py \
 
 ## Submit to benchmark
 
-You may trained your own models following the evaluation setup in our benchmark, track1 or track2. You can send test set results to us through email.
+You may trained your own models following the evaluation setup in our benchmarks. You can send test set results to us through email.
 
 
 ## Reference
