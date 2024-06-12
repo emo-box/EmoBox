@@ -11,8 +11,8 @@
     </p>
     <p>
     </p>
-    <a href="https://github.com/emo-box/EmoBox"><img src="https://img.shields.io/badge/Benchmark-link-lightgrey" alt="version"></a>
-    <a href="https://github.com/emo-box/EmoBox"><img src="https://img.shields.io/badge/Paper-link-orange" alt="version"></a>
+    <a href="https://emo-box.github.io/index.html"><img src="https://img.shields.io/badge/Benchmark-link-lightgrey" alt="version"></a>
+    <a href="https://arxiv.org/abs/2406.07162"><img src="https://img.shields.io/badge/Paper-link-orange" alt="version"></a>
     <a href="https://github.com/emo-box/EmoBox"><img src="https://img.shields.io/badge/License-MIT-red.svg" alt="version"></a>
 </div>
 
@@ -68,7 +68,7 @@ We provide data [preparation](EmoBox/preprocess/scripts) and [partitioning](data
 
 ### Intra-corpus Benchmark
 
-Intra-corpus SER results of 10 pre-trained speech models on 32 emotion datasets spanning 14 distinct languages with EmoBox data partitioning. Refer to the [**intra-corpus benchmark**](https://emo-box.github.io/leaderboard1.html) and the paper for more details. 
+Intra-corpus SER results of 10 pre-trained speech models on 32 emotion datasets spanning 14 distinct languages with EmoBox data partitioning. Refer to the [**intra-corpus benchmark**](https://emo-box.github.io/leaderboard1.html) and the [**paper**](https://arxiv.org/abs/2406.07162) for more details. 
 
 ![](./docs/intra-corpus.jpg)
 
@@ -76,7 +76,7 @@ Intra-corpus SER results of 10 pre-trained speech models on 32 emotion datasets 
 
 ### Cross-corpus Benchmark
 
-Cross-corpus SER results of 10 pre-trained speech models on [**4 EmoBox fully balanced test sets**](data/track2). Refer to the [**cross-corpus benckmark**](https://emo-box.github.io/leaderboard2.html) and the paper for more details. 
+Cross-corpus SER results of 10 pre-trained speech models on [**4 EmoBox fully balanced test sets**](data/track2). Refer to the [**cross-corpus benckmark**](https://emo-box.github.io/leaderboard2.html) and the [**paper**](https://arxiv.org/abs/2406.07162) for more details. 
 
 ![](./docs/cross-corpus.jpg)
 
@@ -132,11 +132,11 @@ python3 train.py
 
 ## Reference
 
-Please cite our paper below if you use the EmoBox toolkit and benchmark.
+Please cite our [paper](https://arxiv.org/abs/2406.07162) below if you use the EmoBox toolkit and benchmark.
 ```
 @inproceedings{ma2024emobox,
   title={EmoBox: Multilingual Multi-corpus Speech Emotion Recognition Toolkit and Benchmark},
-  author={Ziyang Ma and Mingjie Chen and Hezhao Zhang and Zhisheng Zheng and Wenxi Chen and Xiquan Li and JiaXin Ye and Xie Chen and Thomas Hain},
+  author={Ziyang Ma and Mingjie Chen and Hezhao Zhang and Zhisheng Zheng and Wenxi Chen and Xiquan Li and Jiaxin Ye and Xie Chen and Thomas Hain},
   booktitle={Proc. INTERSPEECH},
   year={2024}
 }
