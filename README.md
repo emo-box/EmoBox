@@ -99,19 +99,18 @@ We prepare metadata files for each datasets, including several types of formats:
 [  {
 	"key": "Ses01M_impro01_F000",
 	"dataset": "iemocap",
-	"wav": "Session1/sentences/wav/Ses01M_impro01/Ses01M_impro01_F000.wav",
+	"wav": "downloads/iemocap/Session1/sentences/wav/Ses01M_impro01/Ses01M_impro01_F000.wav",
    "type": "raw" # raw, feature
 	"sample_rate": 16000,
 	"length": 3.2,
-	"task": "category" # category, valence, arousal
-	"emo": "hap"
+	"task": "category", # category, valence, arousal
+	"emo": "hap",
+	"channel": 1
 	}
 	,
 	..., 
 	{...}
 ```
-
-Since datasets may have different labels for the same emotion class, e.g. Hap, hap, Happy, happy. We provide a `label_map.json` file for each dataset which map labels to a standard label set.
 
 
 ### Quick Start
