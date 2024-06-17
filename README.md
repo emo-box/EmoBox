@@ -77,7 +77,7 @@ Intra-corpus SER results of 10 pre-trained speech models on 32 emotion datasets 
 
 ### Cross-corpus Benchmark
 
-Cross-corpus SER results of 10 pre-trained speech models on [**4 EmoBox fully balanced test sets**](data/track2). Refer to the [**cross-corpus benckmark**](https://emo-box.github.io/leaderboard2.html) and the [**paper**](https://arxiv.org/abs/2406.07162) for more details. 
+Cross-corpus SER results of 10 pre-trained speech models on [**4 EmoBox fully balanced test sets**](data/track2). Refer to the [**cross-corpus benchmark**](https://emo-box.github.io/leaderboard2.html) and the [**paper**](https://arxiv.org/abs/2406.07162) for more details. 
 
 ![](./docs/cross-corpus.jpg)
 
