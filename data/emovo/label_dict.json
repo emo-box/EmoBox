@@ -1,9 +1,9 @@
 {
     "neu": "Neutral",
     "dis": "Disgust",
-    "gio": "joy",
+    "gio": "Happy",
     "pau": "Fear",
-    "rab": "Anger",
+    "rab": "Angry",
     "sor": "Surprise",
     "tri": "Sad"
 }
