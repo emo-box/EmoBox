@@ -2,9 +2,9 @@
     "neutral": "Neutral",
     "angry": "Angry",
     "contempt": "Contempt",
-    "disgusted": "Disgusted",
+    "disgusted": "Disgust",
     "fear": "Fear",
     "happy": "Happy",
     "sad": "Sad",
-    "surprised": "Surprised"
+    "surprised": "Surprise"
 }
